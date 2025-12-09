@@ -1,0 +1,31 @@
+{
+  "last_document": "",
+  "start_date": "",
+  "end_date": "",
+  "output_dir": "C:/Users/mthompson/OneDrive - Integrity Senior Services/Desktop/In-Office Installation/_bots/Med Rec/Medical Records Billing Log Output/100+ Optum for United Healthcare",
+  "last_user": "Automation Bot",
+  "last_username": "AutomationB",
+  "payer_filters": "",
+  "primary_payers_selected": [
+    "Molina Healthcare of NY (formerly Total Care NY)"
+  ],
+  "login_url": "https://www.therapynotes.com/app/login/IntegritySWS/",
+  "insurance_statuses": [
+    "Forwarded to Secondary",
+    "Paid",
+    "Pending Resubmit",
+    "Pending Secondary",
+    "Submitted",
+    "Submitted Claim",
+    "Submitted External"
+  ],
+  "insurance_status_selected": [
+    "Forwarded to Secondary",
+    "Paid",
+    "Pending Resubmit",
+    "Pending Secondary",
+    "Submitted",
+    "Submitted Claim",
+    "Submitted External"
+  ]
+}

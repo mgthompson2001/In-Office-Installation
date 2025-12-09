@@ -1,0 +1,91 @@
+{
+  "workflow_key": "session_20251107_093408::workflow_538",
+  "session_id": "session_20251107_093408",
+  "workflow_id": "workflow_538",
+  "workflow_type": "interaction",
+  "description": "Click/interact",
+  "goal": "Goal unclear",
+  "confidence": 0.7,
+  "timestamp": "2025-11-08T10:13:31.914983",
+  "summary": [
+    "Workflow captured from session session_20251107_093408 (interaction).",
+    "Contains 5 recorded actions with goal: Goal unclear.",
+    "Top intents detected:",
+    "  • Unknown (4 steps)",
+    "  • Delete (1 steps)",
+    "Primary applications involved:",
+    "  • Excel (5 steps)",
+    "Common screens/pages:",
+    "  • Microsoft Excel (3 steps)",
+    "  • remove_counselor_data_20251105_153518 - Excel (2 steps)",
+    "Suggested interpretation:",
+    "  Mixed activity detected; review simulation output for step-by-step context."
+  ],
+  "steps": [
+    {
+      "step_number": 1,
+      "action_id": "screen_2025-11-07T09:37:17.612758",
+      "intent_category": "delete",
+      "intent_description": "User intends to delete",
+      "intent_confidence": 0.4,
+      "contexts": {
+        "application": "Excel",
+        "page": "remove_counselor_data_20251105_153518 - Excel",
+        "state": "viewing"
+      },
+      "source_session": "session_20251107_093408"
+    },
+    {
+      "step_number": 2,
+      "action_id": "mouse_2025-11-07T09:37:18.662369",
+      "intent_category": "unknown",
+      "intent_description": "Intent unclear",
+      "intent_confidence": 0.0,
+      "contexts": {
+        "application": "Excel",
+        "page": "remove_counselor_data_20251105_153518 - Excel",
+        "state": "interacting"
+      },
+      "source_session": "session_20251107_093408"
+    },
+    {
+      "step_number": 3,
+      "action_id": "screen_2025-11-07T09:37:19.044165",
+      "intent_category": "unknown",
+      "intent_description": "Intent unclear",
+      "intent_confidence": 0.0,
+      "contexts": {
+        "application": "Excel",
+        "page": "Microsoft Excel",
+        "state": "viewing"
+      },
+      "source_session": "session_20251107_093408"
+    },
+    {
+      "step_number": 4,
+      "action_id": "screen_2025-11-07T09:37:20.042191",
+      "intent_category": "unknown",
+      "intent_description": "Intent unclear",
+      "intent_confidence": 0.0,
+      "contexts": {
+        "application": "Excel",
+        "page": "Microsoft Excel",
+        "state": "viewing"
+      },
+      "source_session": "session_20251107_093408"
+    },
+    {
+      "step_number": 5,
+      "action_id": "screen_2025-11-07T09:37:21.133901",
+      "intent_category": "unknown",
+      "intent_description": "Intent unclear",
+      "intent_confidence": 0.0,
+      "contexts": {
+        "application": "Excel",
+        "page": "Microsoft Excel",
+        "state": "viewing"
+      },
+      "source_session": "session_20251107_093408"
+    }
+  ]
+}

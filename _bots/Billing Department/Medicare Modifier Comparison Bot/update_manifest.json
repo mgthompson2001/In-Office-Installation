@@ -1,0 +1,31 @@
+{
+  "created": "2025-12-04T12:14:01.884396",
+  "files": [
+    {
+      "path": "install.bat",
+      "size": 159,
+      "modified": "2025-11-19T09:49:32"
+    },
+    {
+      "path": "medicare_modifier_comparison_bot.bat",
+      "size": 79,
+      "modified": "2025-11-19T09:49:32"
+    },
+    {
+      "path": "medicare_modifier_comparison_bot.py",
+      "size": 160612,
+      "modified": "2025-12-03T14:54:34.024960"
+    },
+    {
+      "path": "README.md",
+      "size": 2124,
+      "modified": "2025-11-19T09:49:32"
+    },
+    {
+      "path": "requirements.txt",
+      "size": 54,
+      "modified": "2025-11-19T11:40:06"
+    }
+  ],
+  "total_files": 5
+}

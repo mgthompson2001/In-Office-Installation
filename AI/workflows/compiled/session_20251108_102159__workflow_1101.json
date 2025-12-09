@@ -1,0 +1,34 @@
+{
+  "workflow_key": "session_20251108_102159::workflow_1101",
+  "session_id": "session_20251108_102159",
+  "workflow_id": "workflow_1101",
+  "workflow_type": "interaction",
+  "description": "",
+  "goal": "Goal unclear",
+  "confidence": 0.7,
+  "timestamp": "2025-11-08T10:39:57.777763",
+  "summary": [
+    "Workflow captured from session session_20251108_102159 (interaction).",
+    "Contains 1 recorded actions with goal: Goal unclear.",
+    "Top intents detected:",
+    "  • Unknown (1 steps)",
+    "Primary applications involved:",
+    "  • explorer.exe (1 steps)",
+    "Suggested interpretation:",
+    "  Mixed activity detected; review simulation output for step-by-step context."
+  ],
+  "steps": [
+    {
+      "step_number": 1,
+      "action_id": "screen_2025-11-08T10:28:40.879592",
+      "intent_category": "unknown",
+      "intent_description": "Intent unclear",
+      "intent_confidence": 0.0,
+      "contexts": {
+        "application": "explorer.exe",
+        "state": "viewing"
+      },
+      "source_session": "session_20251108_102159"
+    }
+  ]
+}

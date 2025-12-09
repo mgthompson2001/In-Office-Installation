@@ -1,0 +1,37 @@
+{
+  "workflow_key": "session_20251107_225826::workflow_2660",
+  "session_id": "session_20251107_225826",
+  "workflow_id": "workflow_2660",
+  "workflow_type": "interaction",
+  "description": "",
+  "goal": "Removing counselor assignments",
+  "confidence": 0.7,
+  "timestamp": "2025-11-08T10:13:20.472220",
+  "summary": [
+    "Workflow captured from session session_20251107_225826 (interaction).",
+    "Contains 1 recorded actions with goal: Removing counselor assignments.",
+    "Top intents detected:",
+    "  • Navigate Page (1 steps)",
+    "Primary applications involved:",
+    "  • TherapyNotes (1 steps)",
+    "Common screens/pages:",
+    "  • Login Page (1 steps)",
+    "Suggested interpretation:",
+    "  Mixed activity detected; review simulation output for step-by-step context."
+  ],
+  "steps": [
+    {
+      "step_number": 1,
+      "action_id": "browser_el_2025-11-07T23:26:38.101149",
+      "intent_category": "navigate_page",
+      "intent_description": "Navigating to web page",
+      "intent_confidence": 0.85,
+      "contexts": {
+        "application": "TherapyNotes",
+        "page": "Login Page",
+        "task": "Medical Records"
+      },
+      "source_session": "session_20251107_225826"
+    }
+  ]
+}

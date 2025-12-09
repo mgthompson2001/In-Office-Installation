@@ -1,0 +1,102 @@
+{
+  "workflow_key": "session_20251107_093408::workflow_617",
+  "session_id": "session_20251107_093408",
+  "workflow_id": "workflow_617",
+  "workflow_type": "interaction",
+  "description": "... and 1 more actions",
+  "goal": "Goal unclear",
+  "confidence": 0.7,
+  "timestamp": "2025-11-08T10:13:31.917029",
+  "summary": [
+    "Workflow captured from session session_20251107_093408 (interaction).",
+    "Contains 6 recorded actions with goal: Goal unclear.",
+    "Top intents detected:",
+    "  • Unknown (6 steps)",
+    "Primary applications involved:",
+    "  • explorer.exe (6 steps)",
+    "Common screens/pages:",
+    "  • Cursor versions - File Explorer (6 steps)",
+    "Suggested interpretation:",
+    "  Mixed activity detected; review simulation output for step-by-step context."
+  ],
+  "steps": [
+    {
+      "step_number": 1,
+      "action_id": "screen_2025-11-07T09:38:22.678015",
+      "intent_category": "unknown",
+      "intent_description": "Intent unclear",
+      "intent_confidence": 0.0,
+      "contexts": {
+        "application": "explorer.exe",
+        "page": "Cursor versions - File Explorer",
+        "state": "viewing"
+      },
+      "source_session": "session_20251107_093408"
+    },
+    {
+      "step_number": 2,
+      "action_id": "screen_2025-11-07T09:38:23.667480",
+      "intent_category": "unknown",
+      "intent_description": "Intent unclear",
+      "intent_confidence": 0.0,
+      "contexts": {
+        "application": "explorer.exe",
+        "page": "Cursor versions - File Explorer",
+        "state": "viewing"
+      },
+      "source_session": "session_20251107_093408"
+    },
+    {
+      "step_number": 3,
+      "action_id": "screen_2025-11-07T09:38:24.663125",
+      "intent_category": "unknown",
+      "intent_description": "Intent unclear",
+      "intent_confidence": 0.0,
+      "contexts": {
+        "application": "explorer.exe",
+        "page": "Cursor versions - File Explorer",
+        "state": "viewing"
+      },
+      "source_session": "session_20251107_093408"
+    },
+    {
+      "step_number": 4,
+      "action_id": "screen_2025-11-07T09:38:25.768624",
+      "intent_category": "unknown",
+      "intent_description": "Intent unclear",
+      "intent_confidence": 0.0,
+      "contexts": {
+        "application": "explorer.exe",
+        "page": "Cursor versions - File Explorer",
+        "state": "viewing"
+      },
+      "source_session": "session_20251107_093408"
+    },
+    {
+      "step_number": 5,
+      "action_id": "screen_2025-11-07T09:38:26.856084",
+      "intent_category": "unknown",
+      "intent_description": "Intent unclear",
+      "intent_confidence": 0.0,
+      "contexts": {
+        "application": "explorer.exe",
+        "page": "Cursor versions - File Explorer",
+        "state": "viewing"
+      },
+      "source_session": "session_20251107_093408"
+    },
+    {
+      "step_number": 6,
+      "action_id": "screen_2025-11-07T09:38:27.959200",
+      "intent_category": "unknown",
+      "intent_description": "Intent unclear",
+      "intent_confidence": 0.0,
+      "contexts": {
+        "application": "explorer.exe",
+        "page": "Cursor versions - File Explorer",
+        "state": "viewing"
+      },
+      "source_session": "session_20251107_093408"
+    }
+  ]
+}

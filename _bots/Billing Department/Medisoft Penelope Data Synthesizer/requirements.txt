@@ -1,0 +1,17 @@
+# Medisoft/Penelope Data Synthesizer - Required Dependencies
+# Install with: pip install -r requirements.txt
+# Or run: install.bat (double-click to install)
+
+# Core dependencies (REQUIRED)
+pandas>=2.0.0  # REQUIRED for reading and writing Excel files
+openpyxl>=3.1.0  # REQUIRED for reading/writing .xlsx Excel files
+pdfplumber>=0.11.0  # REQUIRED for extracting data from PDF files
+
+# Note: pdfplumber automatically installs its dependencies:
+#   - pdfminer.six (core PDF parsing library)
+#   - Pillow (image processing, usually already installed)
+#
+# pdfplumber works with standard text-based PDFs and PDFs with tables.
+# For scanned PDFs (image-based), additional OCR tools may be needed,
+# but most transaction list PDFs are text-based and will work fine.
+

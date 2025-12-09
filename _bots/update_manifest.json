@@ -1,0 +1,2006 @@
+{
+  "created": "2025-11-26T13:55:13.772380",
+  "files": [
+    {
+      "path": "auto_enable_monitoring.py",
+      "size": 904,
+      "modified": "2025-11-05T16:17:37.379279"
+    },
+    {
+      "path": "BOT_CONFIGURATION_GUIDE.md",
+      "size": 5406,
+      "modified": "2025-11-18T12:09:11.892778"
+    },
+    {
+      "path": "INSTALLATION_SUMMARY.md",
+      "size": 5704,
+      "modified": "2025-11-18T12:09:11.892778"
+    },
+    {
+      "path": "status_report.py",
+      "size": 4598,
+      "modified": "2025-11-17T16:38:57.320076"
+    },
+    {
+      "path": "VERIFY_BOT_CONFIGURATION.bat",
+      "size": 2944,
+      "modified": "2025-11-18T12:05:22.756575"
+    },
+    {
+      "path": "__init__.py",
+      "size": 3340,
+      "modified": "2025-11-24T12:28:46.917831"
+    },
+    {
+      "path": "Billing Department/billing_department_launcher.bat",
+      "size": 599,
+      "modified": "2025-10-28T17:07:02.138283"
+    },
+    {
+      "path": "Billing Department/billing_department_launcher.py",
+      "size": 9566,
+      "modified": "2025-11-19T15:42:43.590029"
+    },
+    {
+      "path": "Billing Department/check_cleanup_status.py",
+      "size": 3974,
+      "modified": "2025-11-14T15:11:32.655062"
+    },
+    {
+      "path": "Billing Department/data_cleanup.py",
+      "size": 12480,
+      "modified": "2025-11-14T14:41:25.440500"
+    },
+    {
+      "path": "Billing Department/init_passive_cleanup.py",
+      "size": 1973,
+      "modified": "2025-11-14T14:41:25.440500"
+    },
+    {
+      "path": "Billing Department/PASSIVE_CLEANUP_INTEGRATION.md",
+      "size": 4515,
+      "modified": "2025-11-14T14:41:25.452606"
+    },
+    {
+      "path": "Launcher/bot_launcher.bat",
+      "size": 539,
+      "modified": "2025-10-28T17:01:48.955717"
+    },
+    {
+      "path": "Launcher/bot_launcher.py",
+      "size": 16710,
+      "modified": "2025-11-21T17:21:40.701374"
+    },
+    {
+      "path": "Launcher/intake_referral_launcher.bat",
+      "size": 587,
+      "modified": "2025-10-28T17:01:48.956717"
+    },
+    {
+      "path": "Launcher/intake_referral_launcher.py",
+      "size": 7632,
+      "modified": "2025-11-14T10:51:33.789985"
+    },
+    {
+      "path": "Med Rec/medical_records_department_launcher.py",
+      "size": 5562,
+      "modified": "2025-11-10T15:57:03.592674"
+    },
+    {
+      "path": "Med Rec/requirements.txt",
+      "size": 1683,
+      "modified": "2025-11-20T10:13:57.196824"
+    },
+    {
+      "path": "Med Rec/therapy_notes_records_bot.py",
+      "size": 194645,
+      "modified": "2025-11-20T10:59:08.591736"
+    },
+    {
+      "path": "Miscellaneous/miscellaneous_launcher.py",
+      "size": 8146,
+      "modified": "2025-11-21T17:25:33.620776"
+    },
+    {
+      "path": "Operational Analytics/operational_analytics_launcher.py",
+      "size": 8915,
+      "modified": "2025-11-20T09:44:34.711631"
+    },
+    {
+      "path": "Page Extractor (Working)/isws_welcome_highlight_batch_NAVPATCH_INSPECT_DEEP.bat",
+      "size": 691,
+      "modified": "2025-10-28T17:01:48.958855"
+    },
+    {
+      "path": "Page Extractor (Working)/isws_welcome_highlight_batch_NAVPATCH_INSPECT_DEEP.py",
+      "size": 25596,
+      "modified": "2025-11-14T12:55:01.978539"
+    },
+    {
+      "path": "Penelope Workflow Tool/penelope_workflow_tool.bat",
+      "size": 579,
+      "modified": "2025-10-28T18:01:48"
+    },
+    {
+      "path": "Penelope Workflow Tool/penelope_workflow_tool.py",
+      "size": 72995,
+      "modified": "2025-11-08T11:29:02"
+    },
+    {
+      "path": "Penelope Workflow Tool/README.md",
+      "size": 4025,
+      "modified": "2025-10-17T17:19:46"
+    },
+    {
+      "path": "Referral bot and bridge (final)/counselor_assignment_bot.bat",
+      "size": 587,
+      "modified": "2025-10-28T17:01:48.959854"
+    },
+    {
+      "path": "Referral bot and bridge (final)/counselor_assignment_bot.py",
+      "size": 334154,
+      "modified": "2025-11-20T16:34:51.777136"
+    },
+    {
+      "path": "Referral bot and bridge (final)/counselor_assignment_report_20251120_163133.xlsx",
+      "size": 5170,
+      "modified": "2025-11-20T16:31:34.526926"
+    },
+    {
+      "path": "Referral bot and bridge (final)/COUNSELOR_BUG_FIX_SUMMARY.md",
+      "size": 4842,
+      "modified": "2025-10-08T16:27:20.738706"
+    },
+    {
+      "path": "Referral bot and bridge (final)/COUNSELOR_DROPDOWN_FIX_SUMMARY.md",
+      "size": 4670,
+      "modified": "2025-10-08T16:51:10.774769"
+    },
+    {
+      "path": "Referral bot and bridge (final)/existing_client_referral_form_bot.py",
+      "size": 357062,
+      "modified": "2025-11-17T11:49:15.131615"
+    },
+    {
+      "path": "Referral bot and bridge (final)/existing_client_referral_form_uploader.py",
+      "size": 148529,
+      "modified": "2025-11-17T15:16:34.593337"
+    },
+    {
+      "path": "Referral bot and bridge (final)/FLEXIBLE_MATCHING_TEST.bat",
+      "size": 579,
+      "modified": "2025-10-28T17:01:48.959854"
+    },
+    {
+      "path": "Referral bot and bridge (final)/git_test.bat",
+      "size": 523,
+      "modified": "2025-10-28T17:01:48.960854"
+    },
+    {
+      "path": "Referral bot and bridge (final)/IPS_IA_Referral_Form_Uploader_Dual_Tab.bat",
+      "size": 643,
+      "modified": "2025-10-28T17:01:48.961854"
+    },
+    {
+      "path": "Referral bot and bridge (final)/IPS_IA_Referral_Form_Uploader_Dual_Tab.py",
+      "size": 72889,
+      "modified": "2025-11-20T12:05:20.555895"
+    },
+    {
+      "path": "Referral bot and bridge (final)/IPS_IA_REFERRAL_IMPLEMENTATION_SUMMARY.md",
+      "size": 4559,
+      "modified": "2025-10-08T17:05:54.196653"
+    },
+    {
+      "path": "Referral bot and bridge (final)/isws_Intake_referral_bot_REFERENCE_PLUS_PRINT_ONLY_WITH_LOOPBACK_LOOPONLY_SCROLLING_TINYLOG_NO_BOTTOM_UPLOADER.bat",
+      "size": 931,
+      "modified": "2025-10-28T17:01:48.962855"
+    },
+    {
+      "path": "Referral bot and bridge (final)/isws_Intake_referral_bot_REFERENCE_PLUS_PRINT_ONLY_WITH_LOOPBACK_LOOPONLY_SCROLLING_TINYLOG_NO_BOTTOM_UPLOADER.py",
+      "size": 94460,
+      "modified": "2025-10-29T09:05:46.269751"
+    },
+    {
+      "path": "Referral bot and bridge (final)/isws_Intake_referral_bot_UploaderBridge.bat",
+      "size": 647,
+      "modified": "2025-10-28T17:01:48.962855"
+    },
+    {
+      "path": "Referral bot and bridge (final)/isws_Intake_referral_bot_UploaderBridge.py",
+      "size": 3842,
+      "modified": "2025-08-26T23:42:03.212790"
+    },
+    {
+      "path": "Referral bot and bridge (final)/NAME_PARSING_IMPLEMENTATION_SUMMARY.md",
+      "size": 6718,
+      "modified": "2025-10-08T17:20:57.569698"
+    },
+    {
+      "path": "Referral bot and bridge (final)/new_method.bat",
+      "size": 531,
+      "modified": "2025-10-28T17:01:48.964859"
+    },
+    {
+      "path": "Referral bot and bridge (final)/new_method.py",
+      "size": 27906,
+      "modified": "2025-09-19T15:38:16.655709"
+    },
+    {
+      "path": "Referral bot and bridge (final)/processing_summary_20251006_105511.txt",
+      "size": 208,
+      "modified": "2025-10-06T10:55:12.279089"
+    },
+    {
+      "path": "Referral bot and bridge (final)/processing_summary_20251007_195632.txt",
+      "size": 208,
+      "modified": "2025-10-07T19:56:33.439402"
+    },
+    {
+      "path": "Referral bot and bridge (final)/processing_summary_20251008_165325.txt",
+      "size": 208,
+      "modified": "2025-10-08T16:53:25.750541"
+    },
+    {
+      "path": "Referral bot and bridge (final)/processing_summary_20251009_175122.txt",
+      "size": 397,
+      "modified": "2025-10-09T17:51:23.105177"
+    },
+    {
+      "path": "Referral bot and bridge (final)/processing_summary_20251009_180644.txt",
+      "size": 397,
+      "modified": "2025-10-09T18:06:45.832698"
+    },
+    {
+      "path": "Referral bot and bridge (final)/processing_summary_20251009_190615.txt",
+      "size": 397,
+      "modified": "2025-10-09T19:06:16.297846"
+    },
+    {
+      "path": "Referral bot and bridge (final)/processing_summary_20251009_191018.txt",
+      "size": 397,
+      "modified": "2025-10-09T19:10:18.903411"
+    },
+    {
+      "path": "Referral bot and bridge (final)/processing_summary_20251013_103910.txt",
+      "size": 397,
+      "modified": "2025-10-13T10:39:11.149113"
+    },
+    {
+      "path": "Referral bot and bridge (final)/processing_summary_20251017_113400.txt",
+      "size": 323,
+      "modified": "2025-10-17T11:34:00.933559"
+    },
+    {
+      "path": "Referral bot and bridge (final)/processing_summary_20251120_163133.txt",
+      "size": 208,
+      "modified": "2025-11-20T16:31:34.526926"
+    },
+    {
+      "path": "Referral bot and bridge (final)/test_decimal_fix.bat",
+      "size": 555,
+      "modified": "2025-10-28T17:01:48.965856"
+    },
+    {
+      "path": "Referral bot and bridge (final)/test_dropdown_detection.bat",
+      "size": 583,
+      "modified": "2025-10-28T17:01:48.966859"
+    },
+    {
+      "path": "Referral bot and bridge (final)/test_full_flow.bat",
+      "size": 547,
+      "modified": "2025-10-28T17:01:48.967857"
+    },
+    {
+      "path": "Referral bot and bridge (final)/test_ips_parsing.bat",
+      "size": 555,
+      "modified": "2025-10-28T17:01:48.968855"
+    },
+    {
+      "path": "Referral bot and bridge (final)/TEST_NAME_PARSING.bat",
+      "size": 559,
+      "modified": "2025-10-28T17:01:48.969856"
+    },
+    {
+      "path": "Referral bot and bridge (final)/UPLOADER_BUG_FIX_AND_DUAL_TAB_SUMMARY.md",
+      "size": 6870,
+      "modified": "2025-10-08T17:14:25.325719"
+    },
+    {
+      "path": "The Welcomed One, Exalted Rank/final_fix.py",
+      "size": 766,
+      "modified": "2025-11-04T20:17:28.780971"
+    },
+    {
+      "path": "The Welcomed One, Exalted Rank/fix_all_indent.py",
+      "size": 590,
+      "modified": "2025-11-04T20:14:16.532284"
+    },
+    {
+      "path": "The Welcomed One, Exalted Rank/fix_indent.py",
+      "size": 534,
+      "modified": "2025-11-04T20:11:09.806751"
+    },
+    {
+      "path": "The Welcomed One, Exalted Rank/fix_line76.py",
+      "size": 626,
+      "modified": "2025-11-04T20:11:09.806751"
+    },
+    {
+      "path": "The Welcomed One, Exalted Rank/integrity_consent_bot.bat",
+      "size": 575,
+      "modified": "2025-10-28T17:01:48.970857"
+    },
+    {
+      "path": "The Welcomed One, Exalted Rank/integrity_consent_bot.py",
+      "size": 137109,
+      "modified": "2025-10-17T16:19:46.886110"
+    },
+    {
+      "path": "The Welcomed One, Exalted Rank/integrity_consent_bot_v2.bat",
+      "size": 587,
+      "modified": "2025-10-28T17:01:48.970857"
+    },
+    {
+      "path": "The Welcomed One, Exalted Rank/integrity_consent_bot_v2.py",
+      "size": 243951,
+      "modified": "2025-11-25T13:44:37.075743"
+    },
+    {
+      "path": "The Welcomed One, Exalted Rank/IPS_NewBot_FillAndUpload_MINCHANGE_FIX5.bat",
+      "size": 647,
+      "modified": "2025-10-28T17:01:48.971857"
+    },
+    {
+      "path": "The Welcomed One, Exalted Rank/IPS_NewBot_FillAndUpload_MINCHANGE_FIX5.py",
+      "size": 35551,
+      "modified": "2025-10-17T16:19:46.880598"
+    },
+    {
+      "path": "The Welcomed One, Exalted Rank/isws_welcome_DEEPFIX2_NOTEFORCE_v14.bat",
+      "size": 631,
+      "modified": "2025-10-28T17:01:48.972857"
+    },
+    {
+      "path": "The Welcomed One, Exalted Rank/isws_welcome_DEEPFIX2_NOTEFORCE_v14.py",
+      "size": 149360,
+      "modified": "2025-11-14T15:21:22.741859"
+    },
+    {
+      "path": "The Welcomed One, Exalted Rank/isws_welcome_packet_uploader_v14style_FIXED.bat",
+      "size": 663,
+      "modified": "2025-10-28T17:01:48.972857"
+    },
+    {
+      "path": "The Welcomed One, Exalted Rank/isws_welcome_packet_uploader_v14style_FIXED.py",
+      "size": 56157,
+      "modified": "2025-11-04T20:25:20.157153"
+    },
+    {
+      "path": "The Welcomed One, Exalted Rank/welcome_uploader_bridge.bat",
+      "size": 583,
+      "modified": "2025-10-28T17:01:48.973866"
+    },
+    {
+      "path": "The Welcomed One, Exalted Rank/welcome_uploader_bridge.py",
+      "size": 3279,
+      "modified": "2025-10-17T16:19:46.888109"
+    },
+    {
+      "path": "The Welcomed One, Exalted Rank/Consent Log for Bot/New log for bot run, 11.20.25.xlsx",
+      "size": 19734,
+      "modified": "2025-11-20T17:36:27.304420"
+    },
+    {
+      "path": "The Welcomed One, Exalted Rank/Other/IPS_NewBot_FillAndUpload_MINCHANGE_FIX5_bundle.zip",
+      "size": 763,
+      "modified": "2025-10-17T16:19:46.881598"
+    },
+    {
+      "path": "The Welcomed One, Exalted Rank/Other/misc.xml",
+      "size": 367,
+      "modified": "2025-10-17T16:19:46.884109"
+    },
+    {
+      "path": "The Welcomed One, Exalted Rank/Other/modules.xml",
+      "size": 307,
+      "modified": "2025-10-17T16:19:46.884109"
+    },
+    {
+      "path": "The Welcomed One, Exalted Rank/Other/The Welcomed One, Exalted Rank.iml",
+      "size": 346,
+      "modified": "2025-10-17T16:19:46.883105"
+    },
+    {
+      "path": "The Welcomed One, Exalted Rank/Other/workspace.xml",
+      "size": 2546,
+      "modified": "2025-08-18T18:41:38.109528"
+    },
+    {
+      "path": "The Welcomed One, Exalted Rank/Consent Log for Bot/Previously run/Consent Bot Run 11.05.2025.xlsx",
+      "size": 19106,
+      "modified": "2025-11-05T09:36:57"
+    },
+    {
+      "path": "The Welcomed One, Exalted Rank/Consent Log for Bot/Previously run/Consent List 08.26.2025.xlsx",
+      "size": 19973,
+      "modified": "2025-10-17T16:19:46.839985"
+    },
+    {
+      "path": "The Welcomed One, Exalted Rank/Consent Log for Bot/Previously run/Consent List 08.26.2025_UPDATED.xlsx",
+      "size": 20446,
+      "modified": "2025-10-17T16:19:46.841985"
+    },
+    {
+      "path": "The Welcomed One, Exalted Rank/Consent Log for Bot/Previously run/Consent Log for Bot Run, 10.28.2025.xlsx",
+      "size": 22312,
+      "modified": "2025-10-28T11:54:29.158196"
+    },
+    {
+      "path": "The Welcomed One, Exalted Rank/Consent Log for Bot/Previously run/Consent Log for Bot Upload, 09.11.2025.csv",
+      "size": 4855,
+      "modified": "2025-10-17T16:19:46.845529"
+    },
+    {
+      "path": "The Welcomed One, Exalted Rank/Consent Log for Bot/Previously run/Consent Log for Bot Upload, 09.11.2025.xlsx",
+      "size": 16606,
+      "modified": "2025-10-17T16:19:46.850529"
+    },
+    {
+      "path": "The Welcomed One, Exalted Rank/Consent Log for Bot/Previously run/Consent Log for Bot Upload, 09.11.2025_UPDATED.xlsx",
+      "size": 12485,
+      "modified": "2025-10-17T16:19:46.853038"
+    },
+    {
+      "path": "The Welcomed One, Exalted Rank/Consent Log for Bot/Previously run/Consent Log for Bot Upload, 10.06.25.xlsx",
+      "size": 12962,
+      "modified": "2025-10-17T16:19:46.836981"
+    },
+    {
+      "path": "The Welcomed One, Exalted Rank/Consent Log for Bot/Previously run/Consent Log for Bot Upload, 10.06.25_UPDATED.xlsx",
+      "size": 9638,
+      "modified": "2025-10-17T16:19:46.837980"
+    },
+    {
+      "path": "The Welcomed One, Exalted Rank/Consent Log for Bot/Previously run/Consent Log for Run, 09.17.2025 final.xlsx",
+      "size": 15015,
+      "modified": "2025-10-17T16:19:46.855046"
+    },
+    {
+      "path": "The Welcomed One, Exalted Rank/Consent Log for Bot/Previously run/Consent Log for Run, 09.17.2025 final_UPDATED.xlsx",
+      "size": 12985,
+      "modified": "2025-10-17T16:19:46.856047"
+    },
+    {
+      "path": "The Welcomed One, Exalted Rank/Consent Log for Bot/Previously run/Consent Log for Run, 09.17.2025.csv",
+      "size": 3006,
+      "modified": "2025-10-17T16:19:46.857047"
+    },
+    {
+      "path": "The Welcomed One, Exalted Rank/Consent Log for Bot/Previously run/Consent_Uploader_Log_20251105_101725.xlsx",
+      "size": 9789,
+      "modified": "2025-11-05T10:17:25.339092"
+    },
+    {
+      "path": "The Welcomed One, Exalted Rank/Consent Log for Bot/Previously run/Consent_Uploader_Log_20251105_102337.xlsx",
+      "size": 9745,
+      "modified": "2025-11-05T10:23:37.109224"
+    },
+    {
+      "path": "The Welcomed One, Exalted Rank/Consent Log for Bot/Previously run/Consent_Uploader_Log_20251105_110900.xlsx",
+      "size": 9766,
+      "modified": "2025-11-05T11:09:00.853830"
+    },
+    {
+      "path": "The Welcomed One, Exalted Rank/Consent Log for Bot/Previously run/New Run, 09.30.25.xlsx",
+      "size": 13243,
+      "modified": "2025-10-17T16:19:46.859051"
+    },
+    {
+      "path": "The Welcomed One, Exalted Rank/Consent Log for Bot/Previously run/New Run, 09.30.25_UPDATED (needs review OR rerun, lot missing).xlsx",
+      "size": 9886,
+      "modified": "2025-10-17T16:19:46.860047"
+    },
+    {
+      "path": "The Welcomed One, Exalted Rank/Consent Log for Bot/Previously run/New run.xlsx",
+      "size": 23500,
+      "modified": "2025-10-17T16:19:46.862052"
+    },
+    {
+      "path": "The Welcomed One, Exalted Rank/Consent Log for Bot/Previously run/New run_UPDATED.xlsx",
+      "size": 22079,
+      "modified": "2025-10-17T16:19:46.864552"
+    },
+    {
+      "path": "The Welcomed One, Exalted Rank/Consent Log for Bot/Previously run/New run_Use for Next Bot Run.xlsx",
+      "size": 11497,
+      "modified": "2025-10-17T16:19:46.865542"
+    },
+    {
+      "path": "The Welcomed One, Exalted Rank/Consent Log for Bot/Previously run/New run_Use for Next Bot Run_UPDATED.xlsx",
+      "size": 7597,
+      "modified": "2025-10-17T16:19:46.866541"
+    },
+    {
+      "path": "The Welcomed One, Exalted Rank/Consent Log for Bot/Previously run/New run_Use for Next Bot Run_UPDATED_UPDATED.xlsx",
+      "size": 8657,
+      "modified": "2025-10-17T16:19:46.868541"
+    },
+    {
+      "path": "The Welcomed One, Exalted Rank/Consent Log for Bot/Previously run/TN_Consent_Forms_Outstanding.xlsx",
+      "size": 30348,
+      "modified": "2025-10-17T16:19:46.870553"
+    },
+    {
+      "path": "The Welcomed One, Exalted Rank/Consent Log for Bot/Previously run/TN_Consent_Forms_Outstanding_UPDATED_UPDATED_UPDATED_UPDATED_UPDATED.xlsx",
+      "size": 22912,
+      "modified": "2025-10-17T16:19:46.873112"
+    },
+    {
+      "path": "The Welcomed One, Exalted Rank/Consent Log for Bot/Previously run/TN_Consent_Forms_Outstanding_UPDATED_UPDATED_UPDATED_UPDATED_UPDATED_UPDATED.xlsx",
+      "size": 24224,
+      "modified": "2025-10-17T16:19:46.875582"
+    },
+    {
+      "path": "The Welcomed One, Exalted Rank/Consent Log for Bot/Template/Consent Bot Excel Template.xlsx",
+      "size": 10349,
+      "modified": "2025-11-20T15:56:42.936272"
+    },
+    {
+      "path": "Referral bot and bridge (final)/Log/Doe Log Test for referral flow.csv",
+      "size": 431,
+      "modified": "2025-10-08T17:40:34.430191"
+    },
+    {
+      "path": "Referral bot and bridge (final)/Log/Doe Log Test for referral flow_upload_report_20251008_173533.xlsx",
+      "size": 4964,
+      "modified": "2025-10-08T17:35:33.853131"
+    },
+    {
+      "path": "Referral bot and bridge (final)/Log/Doe Log Test for referral flow_upload_report_20251008_173715.xlsx",
+      "size": 4975,
+      "modified": "2025-10-08T17:37:15.908251"
+    },
+    {
+      "path": "Referral bot and bridge (final)/Past Logs/counselor_assignment_report_20251009_175122.xlsx",
+      "size": 5376,
+      "modified": "2025-10-09T17:51:23.096316"
+    },
+    {
+      "path": "Referral bot and bridge (final)/Past Logs/counselor_assignment_report_20251009_180644.xlsx",
+      "size": 5377,
+      "modified": "2025-10-09T18:06:45.832698"
+    },
+    {
+      "path": "Referral bot and bridge (final)/Past Logs/counselor_assignment_report_20251009_190615.xlsx",
+      "size": 5376,
+      "modified": "2025-10-09T19:06:16.297846"
+    },
+    {
+      "path": "Referral bot and bridge (final)/Past Logs/counselor_assignment_report_20251009_191018.xlsx",
+      "size": 5377,
+      "modified": "2025-10-09T19:10:18.903411"
+    },
+    {
+      "path": "Referral bot and bridge (final)/Past Logs/counselor_assignment_report_20251013_103910.xlsx",
+      "size": 5375,
+      "modified": "2025-10-13T10:39:11.149113"
+    },
+    {
+      "path": "Referral bot and bridge (final)/Past Logs/counselor_assignment_report_20251017_113400.xlsx",
+      "size": 5299,
+      "modified": "2025-10-17T11:34:00.933559"
+    },
+    {
+      "path": "Referral bot and bridge (final)/Referral Form Bot Output/Betty Doe Referral Form.pdf",
+      "size": 121480,
+      "modified": "2025-10-03T10:09:52.475307"
+    },
+    {
+      "path": "Referral bot and bridge (final)/Log/Excel Template for runs/Template Doc.csv",
+      "size": 333,
+      "modified": "2025-09-22T15:36:56.488477"
+    },
+    {
+      "path": "Miscellaneous/Document Translator/document_translator_bot.bat",
+      "size": 253,
+      "modified": "2025-11-21T17:21:40.714550"
+    },
+    {
+      "path": "Miscellaneous/Document Translator/document_translator_bot.py",
+      "size": 91100,
+      "modified": "2025-11-21T19:24:22.875299"
+    },
+    {
+      "path": "Miscellaneous/Document Translator/get_shareable_link.bat",
+      "size": 973,
+      "modified": "2025-11-21T18:16:22.189097"
+    },
+    {
+      "path": "Miscellaneous/Document Translator/install.bat",
+      "size": 1175,
+      "modified": "2025-11-21T17:21:40.715552"
+    },
+    {
+      "path": "Miscellaneous/Document Translator/README.md",
+      "size": 3948,
+      "modified": "2025-11-21T17:21:40.715552"
+    },
+    {
+      "path": "Miscellaneous/Document Translator/requirements.txt",
+      "size": 607,
+      "modified": "2025-11-21T17:31:03.840492"
+    },
+    {
+      "path": "Miscellaneous/Document Translator/requirements_web.txt",
+      "size": 198,
+      "modified": "2025-11-21T18:14:56.147601"
+    },
+    {
+      "path": "Miscellaneous/Document Translator/run_web_server.bat",
+      "size": 343,
+      "modified": "2025-11-21T18:14:56.147601"
+    },
+    {
+      "path": "Miscellaneous/Document Translator/SHARE_INSTRUCTIONS.txt",
+      "size": 1243,
+      "modified": "2025-11-21T18:16:22.189097"
+    },
+    {
+      "path": "Miscellaneous/Document Translator/start_web_server.bat",
+      "size": 833,
+      "modified": "2025-11-21T18:16:22.189097"
+    },
+    {
+      "path": "Miscellaneous/Document Translator/WEB_README.md",
+      "size": 3065,
+      "modified": "2025-11-21T18:14:56.147601"
+    },
+    {
+      "path": "Miscellaneous/Document Translator/web_translator_app.py",
+      "size": 16091,
+      "modified": "2025-11-21T18:56:43.075860"
+    },
+    {
+      "path": "Miscellaneous/Document Translator/templates/index.html",
+      "size": 17022,
+      "modified": "2025-11-21T18:54:22.004723"
+    },
+    {
+      "path": "Med Rec/Example Log/Datavant VNS 24 Clients.xlsx",
+      "size": 14341,
+      "modified": "2025-10-17T16:19:46.823442"
+    },
+    {
+      "path": "Med Rec/Example Log/Test 2.xlsx",
+      "size": 9874,
+      "modified": "2025-10-17T16:19:46.824449"
+    },
+    {
+      "path": "Med Rec/Example Log/Test 3.xlsx",
+      "size": 9238,
+      "modified": "2025-10-17T16:19:46.825459"
+    },
+    {
+      "path": "Med Rec/Example Log/test.xlsx",
+      "size": 9467,
+      "modified": "2025-10-17T16:19:46.826456"
+    },
+    {
+      "path": "Med Rec/Finished Product, Launch Ready/bot_log.txt",
+      "size": 238,
+      "modified": "2025-10-17T16:19:46.829454"
+    },
+    {
+      "path": "Med Rec/Medical Records Billing Log Output/Old/therapy_notes_log_20251112_093047.csv",
+      "size": 67607,
+      "modified": "2025-11-12T09:30:47.611594"
+    },
+    {
+      "path": "Med Rec/Medical Records Billing Log Output/Old/therapy_notes_log_20251112_093047.xlsx",
+      "size": 22065,
+      "modified": "2025-11-12T09:41:26.391859"
+    },
+    {
+      "path": "Med Rec/Finished Product, Launch Ready/Bot and extender/integrity_medical_records_bot_v3g_batchclicks.bat",
+      "size": 671,
+      "modified": "2025-10-28T17:01:48.956717"
+    },
+    {
+      "path": "Med Rec/Finished Product, Launch Ready/Bot and extender/integrity_medical_records_bot_v3g_batchclicks.py",
+      "size": 47271,
+      "modified": "2025-10-17T16:19:46.827459"
+    },
+    {
+      "path": "Med Rec/Finished Product, Launch Ready/Bot and extender/integrity_medical_records_extender_WAITREADY_ROI_INTAKEFALLBACK_TwinPeakin_FIX7_READYWAIT_ONLY_IAcheck.bat",
+      "size": 899,
+      "modified": "2025-10-28T17:01:48.957854"
+    },
+    {
+      "path": "Med Rec/Finished Product, Launch Ready/Bot and extender/integrity_medical_records_extender_WAITREADY_ROI_INTAKEFALLBACK_TwinPeakin_FIX7_READYWAIT_ONLY_IAcheck.py",
+      "size": 39067,
+      "modified": "2025-10-17T16:19:46.828458"
+    },
+    {
+      "path": "Cursor versions/Goose/isws_remove_counselor_botcursor3.bat",
+      "size": 619,
+      "modified": "2025-10-28T17:01:48.952717"
+    },
+    {
+      "path": "Cursor versions/Goose/isws_remove_counselor_botcursor3.py",
+      "size": 418522,
+      "modified": "2025-11-24T16:25:25.764743"
+    },
+    {
+      "path": "Cursor versions/Goose/test_fixes.bat",
+      "size": 531,
+      "modified": "2025-10-28T17:01:48.952717"
+    },
+    {
+      "path": "Cursor versions/Goose/test_fixes.py",
+      "size": 4747,
+      "modified": "2025-10-17T16:19:46.797027"
+    },
+    {
+      "path": "Cursor versions/Goose Backup (old)/isws_remove_counselor_botcursorbackup.bat",
+      "size": 639,
+      "modified": "2025-10-28T17:01:48.953717"
+    },
+    {
+      "path": "Cursor versions/Goose Backup (old)/isws_remove_counselor_botcursorbackup.py",
+      "size": 256971,
+      "modified": "2025-10-17T16:19:46.793010"
+    },
+    {
+      "path": "Cursor versions/Newest Goose Backup/isws_remove_counselor_botcursornewestbackup.bat",
+      "size": 663,
+      "modified": "2025-10-28T17:01:48.954717"
+    },
+    {
+      "path": "Cursor versions/Newest Goose Backup/isws_remove_counselor_botcursornewestbackup.py",
+      "size": 211814,
+      "modified": "2025-10-17T16:19:46.799033"
+    },
+    {
+      "path": "Cursor versions/Past Logs (Already Extracted and Uploaded)/Final 09.18.25.csv",
+      "size": 677,
+      "modified": "2025-10-17T16:19:46.804394"
+    },
+    {
+      "path": "Cursor versions/Past Logs (Already Extracted and Uploaded)/Final 09.18.25_results_20250918_163409.csv",
+      "size": 877,
+      "modified": "2025-09-18T16:34:09.981293"
+    },
+    {
+      "path": "Cursor versions/Past Logs (Already Extracted and Uploaded)/IPS Next remove_counselor_data_20250930_152945.csv",
+      "size": 18727,
+      "modified": "2025-10-17T16:19:46.805401"
+    },
+    {
+      "path": "Cursor versions/Past Logs (Already Extracted and Uploaded)/IPS Next remove_counselor_data_20250930_152945.xlsx",
+      "size": 15238,
+      "modified": "2025-10-17T16:19:46.806402"
+    },
+    {
+      "path": "Cursor versions/Past Logs (Already Extracted and Uploaded)/Messed up run fix 10.01.25.csv",
+      "size": 6270,
+      "modified": "2025-10-17T16:19:46.806402"
+    },
+    {
+      "path": "Cursor versions/Past Logs (Already Extracted and Uploaded)/Messed up run fix 10.01.25_results_20251001_191311.csv",
+      "size": 6328,
+      "modified": "2025-10-01T19:13:11.397840"
+    },
+    {
+      "path": "Cursor versions/Past Logs (Already Extracted and Uploaded)/remove_counselor_data_20250911_011057.csv",
+      "size": 20385,
+      "modified": "2025-10-17T16:19:46.807402"
+    },
+    {
+      "path": "Cursor versions/Past Logs (Already Extracted and Uploaded)/remove_counselor_data_20250911_011057.xlsx",
+      "size": 15799,
+      "modified": "2025-10-17T16:19:46.808401"
+    },
+    {
+      "path": "Cursor versions/Past Logs (Already Extracted and Uploaded)/remove_counselor_data_20250911_011057_results_20250911_015009.csv",
+      "size": 20574,
+      "modified": "2025-09-11T01:50:09.308455"
+    },
+    {
+      "path": "Cursor versions/Past Logs (Already Extracted and Uploaded)/remove_counselor_data_20250917_154500.csv",
+      "size": 11012,
+      "modified": "2025-10-17T16:19:46.808401"
+    },
+    {
+      "path": "Cursor versions/Past Logs (Already Extracted and Uploaded)/remove_counselor_data_20250917_154500.xlsx",
+      "size": 11419,
+      "modified": "2025-10-17T16:19:46.809403"
+    },
+    {
+      "path": "Cursor versions/Past Logs (Already Extracted and Uploaded)/remove_counselor_data_20250917_154500_results_20250917_191356.csv",
+      "size": 11145,
+      "modified": "2025-09-17T19:13:56.352436"
+    },
+    {
+      "path": "Cursor versions/Past Logs (Already Extracted and Uploaded)/remove_counselor_data_20250919_162110.csv",
+      "size": 9467,
+      "modified": "2025-10-17T16:19:46.809403"
+    },
+    {
+      "path": "Cursor versions/Past Logs (Already Extracted and Uploaded)/remove_counselor_data_20250919_162110.xlsx",
+      "size": 10406,
+      "modified": "2025-10-17T16:19:46.809403"
+    },
+    {
+      "path": "Cursor versions/Past Logs (Already Extracted and Uploaded)/remove_counselor_data_20250919_162110_results_20250919_164826.csv",
+      "size": 9560,
+      "modified": "2025-09-19T16:48:26.493956"
+    },
+    {
+      "path": "Cursor versions/Past Logs (Already Extracted and Uploaded)/remove_counselor_data_20250922_172703.csv",
+      "size": 19117,
+      "modified": "2025-10-17T16:19:46.810403"
+    },
+    {
+      "path": "Cursor versions/Past Logs (Already Extracted and Uploaded)/remove_counselor_data_20250922_172703.xlsx",
+      "size": 15622,
+      "modified": "2025-10-17T16:19:46.810403"
+    },
+    {
+      "path": "Cursor versions/Past Logs (Already Extracted and Uploaded)/remove_counselor_data_20250922_172703_results_20250922_181430.csv",
+      "size": 19429,
+      "modified": "2025-09-22T18:14:30.354501"
+    },
+    {
+      "path": "Cursor versions/Past Logs (Already Extracted and Uploaded)/remove_counselor_data_20250925_132432.csv",
+      "size": 6913,
+      "modified": "2025-10-17T16:19:46.811402"
+    },
+    {
+      "path": "Cursor versions/Past Logs (Already Extracted and Uploaded)/remove_counselor_data_20250925_132432.xlsx",
+      "size": 8954,
+      "modified": "2025-10-17T16:19:46.811402"
+    },
+    {
+      "path": "Cursor versions/Past Logs (Already Extracted and Uploaded)/remove_counselor_data_20250925_132432_results_20250925_134508.csv",
+      "size": 7001,
+      "modified": "2025-09-25T13:45:08.631432"
+    },
+    {
+      "path": "Cursor versions/Past Logs (Already Extracted and Uploaded)/remove_counselor_data_20250925_145840.csv",
+      "size": 326,
+      "modified": "2025-10-17T16:19:46.811402"
+    },
+    {
+      "path": "Cursor versions/Past Logs (Already Extracted and Uploaded)/remove_counselor_data_20250925_145840.xlsx",
+      "size": 5263,
+      "modified": "2025-10-17T16:19:46.812402"
+    },
+    {
+      "path": "Cursor versions/Past Logs (Already Extracted and Uploaded)/remove_counselor_data_20250926_105216.csv",
+      "size": 273,
+      "modified": "2025-10-17T16:19:46.813914"
+    },
+    {
+      "path": "Cursor versions/Past Logs (Already Extracted and Uploaded)/remove_counselor_data_20250926_105216.xlsx",
+      "size": 5219,
+      "modified": "2025-10-17T16:19:46.814927"
+    },
+    {
+      "path": "Cursor versions/Past Logs (Already Extracted and Uploaded)/remove_counselor_data_20250930_152945.csv",
+      "size": 18729,
+      "modified": "2025-10-17T16:19:46.815935"
+    },
+    {
+      "path": "Cursor versions/Past Logs (Already Extracted and Uploaded)/remove_counselor_data_20250930_152945_results_20250930_160304.csv",
+      "size": 19153,
+      "modified": "2025-09-30T16:03:04.465605"
+    },
+    {
+      "path": "Cursor versions/Past Logs (Already Extracted and Uploaded)/remove_counselor_data_20251001_171322.csv",
+      "size": 13656,
+      "modified": "2025-10-17T16:19:46.815935"
+    },
+    {
+      "path": "Cursor versions/Past Logs (Already Extracted and Uploaded)/remove_counselor_data_20251001_171322.xlsx",
+      "size": 12714,
+      "modified": "2025-10-17T16:19:46.816935"
+    },
+    {
+      "path": "Cursor versions/Past Logs (Already Extracted and Uploaded)/remove_counselor_data_20251001_171322_results_20251001_182506.csv",
+      "size": 13924,
+      "modified": "2025-10-01T18:25:06.054476"
+    },
+    {
+      "path": "Cursor versions/Past Logs (Already Extracted and Uploaded)/remove_counselor_data_20251013_154351.csv",
+      "size": 3712,
+      "modified": "2025-10-17T16:19:46.816935"
+    },
+    {
+      "path": "Cursor versions/Past Logs (Already Extracted and Uploaded)/remove_counselor_data_20251013_154351.xlsx",
+      "size": 7497,
+      "modified": "2025-10-17T16:19:46.817935"
+    },
+    {
+      "path": "Cursor versions/Past Logs (Already Extracted and Uploaded)/remove_counselor_data_20251013_154351_IPS_results_20251013_160536.csv",
+      "size": 678,
+      "modified": "2025-10-13T16:05:36.184420"
+    },
+    {
+      "path": "Cursor versions/Past Logs (Already Extracted and Uploaded)/remove_counselor_data_20251013_154351_IPS_results_20251013_163617.csv",
+      "size": 531,
+      "modified": "2025-10-13T16:36:17.802925"
+    },
+    {
+      "path": "Cursor versions/Past Logs (Already Extracted and Uploaded)/remove_counselor_data_20251014_113549.csv",
+      "size": 6315,
+      "modified": "2025-10-17T16:19:46.817935"
+    },
+    {
+      "path": "Cursor versions/Past Logs (Already Extracted and Uploaded)/remove_counselor_data_20251014_113549.xlsx",
+      "size": 8739,
+      "modified": "2025-10-17T16:19:46.817935"
+    },
+    {
+      "path": "Cursor versions/Past Logs (Already Extracted and Uploaded)/remove_counselor_data_20251014_113549_IPS_results_20251014_120300.csv",
+      "size": 936,
+      "modified": "2025-10-14T12:03:00.571549"
+    },
+    {
+      "path": "Cursor versions/Past Logs (Already Extracted and Uploaded)/remove_counselor_data_20251014_113549_IPS_results_20251014_134043.csv",
+      "size": 971,
+      "modified": "2025-10-14T13:40:43.931513"
+    },
+    {
+      "path": "Cursor versions/Past Logs (Already Extracted and Uploaded)/remove_counselor_data_20251014_113549_results_20251014_115956.csv",
+      "size": 6399,
+      "modified": "2025-10-14T11:59:56.735749"
+    },
+    {
+      "path": "Cursor versions/Past Logs (Already Extracted and Uploaded)/remove_counselor_data_20251015_150715.csv",
+      "size": 4853,
+      "modified": "2025-10-17T16:19:46.818935"
+    },
+    {
+      "path": "Cursor versions/Past Logs (Already Extracted and Uploaded)/remove_counselor_data_20251015_150715.xlsx",
+      "size": 7862,
+      "modified": "2025-10-17T16:19:46.819935"
+    },
+    {
+      "path": "Cursor versions/Past Logs (Already Extracted and Uploaded)/remove_counselor_data_20251015_150715_IPS_results_20251015_163228.csv",
+      "size": 645,
+      "modified": "2025-10-15T16:32:28.044885"
+    },
+    {
+      "path": "Cursor versions/Past Logs (Already Extracted and Uploaded)/remove_counselor_data_20251015_150715_results_20251015_162633.csv",
+      "size": 4890,
+      "modified": "2025-10-15T16:26:33.267501"
+    },
+    {
+      "path": "Cursor versions/Past Logs (Already Extracted and Uploaded)/remove_counselor_data_20251016_171052.csv",
+      "size": 6129,
+      "modified": "2025-10-17T16:19:46.819935"
+    },
+    {
+      "path": "Cursor versions/Past Logs (Already Extracted and Uploaded)/remove_counselor_data_20251016_171052.xlsx",
+      "size": 8452,
+      "modified": "2025-10-17T16:19:46.820935"
+    },
+    {
+      "path": "Cursor versions/Past Logs (Already Extracted and Uploaded)/remove_counselor_data_20251016_171052_IPS_results_20251016_175241.csv",
+      "size": 822,
+      "modified": "2025-10-16T17:52:41.910959"
+    },
+    {
+      "path": "Cursor versions/Past Logs (Already Extracted and Uploaded)/remove_counselor_data_20251016_171052_results_20251016_174537.csv",
+      "size": 6185,
+      "modified": "2025-10-16T17:45:37.517813"
+    },
+    {
+      "path": "Cursor versions/Past Logs (Already Extracted and Uploaded)/remove_counselor_data_20251017_154644.csv",
+      "size": 3035,
+      "modified": "2025-10-17T15:46:44.195484"
+    },
+    {
+      "path": "Cursor versions/Past Logs (Already Extracted and Uploaded)/remove_counselor_data_20251017_154644.xlsx",
+      "size": 6907,
+      "modified": "2025-10-17T15:46:46.184610"
+    },
+    {
+      "path": "Cursor versions/Past Logs (Already Extracted and Uploaded)/remove_counselor_data_20251017_154644_IPS_results_20251017_161706.csv",
+      "size": 415,
+      "modified": "2025-10-17T16:17:06.522245"
+    },
+    {
+      "path": "Cursor versions/Past Logs (Already Extracted and Uploaded)/remove_counselor_data_20251017_154644_results_20251017_161435.csv",
+      "size": 3069,
+      "modified": "2025-10-17T16:14:35.798856"
+    },
+    {
+      "path": "Cursor versions/Past Logs (Already Extracted and Uploaded)/remove_counselor_data_20251022_114749.csv",
+      "size": 5582,
+      "modified": "2025-10-22T11:47:49.330171"
+    },
+    {
+      "path": "Cursor versions/Past Logs (Already Extracted and Uploaded)/remove_counselor_data_20251022_114749.xlsx",
+      "size": 8351,
+      "modified": "2025-10-22T11:47:51.571975"
+    },
+    {
+      "path": "Cursor versions/Past Logs (Already Extracted and Uploaded)/remove_counselor_data_20251022_114749_IPS_results_20251022_150323.csv",
+      "size": 432,
+      "modified": "2025-10-22T15:03:23.686226"
+    },
+    {
+      "path": "Cursor versions/Past Logs (Already Extracted and Uploaded)/remove_counselor_data_20251022_114749_results_20251022_150025.csv",
+      "size": 5638,
+      "modified": "2025-10-22T15:00:25.609405"
+    },
+    {
+      "path": "Cursor versions/Past Logs (Already Extracted and Uploaded)/remove_counselor_data_20251023_142600.csv",
+      "size": 3226,
+      "modified": "2025-10-23T14:26:00.015188"
+    },
+    {
+      "path": "Cursor versions/Past Logs (Already Extracted and Uploaded)/remove_counselor_data_20251023_142600.xlsx",
+      "size": 6990,
+      "modified": "2025-10-23T14:26:02.835457"
+    },
+    {
+      "path": "Cursor versions/Past Logs (Already Extracted and Uploaded)/remove_counselor_data_20251023_142600_IPS_results_20251023_145123.csv",
+      "size": 136,
+      "modified": "2025-10-23T14:51:23.488754"
+    },
+    {
+      "path": "Cursor versions/Past Logs (Already Extracted and Uploaded)/remove_counselor_data_20251023_142600_results_20251023_145035.csv",
+      "size": 3253,
+      "modified": "2025-10-23T14:50:35.738461"
+    },
+    {
+      "path": "Cursor versions/Past Logs (Already Extracted and Uploaded)/remove_counselor_data_20251027_145319.csv",
+      "size": 19382,
+      "modified": "2025-10-27T14:53:19.932181"
+    },
+    {
+      "path": "Cursor versions/Past Logs (Already Extracted and Uploaded)/remove_counselor_data_20251027_145319.xlsx",
+      "size": 15618,
+      "modified": "2025-10-27T14:53:24.831583"
+    },
+    {
+      "path": "Cursor versions/Past Logs (Already Extracted and Uploaded)/remove_counselor_data_20251027_145319_IPS_results_20251027_161650.csv",
+      "size": 2731,
+      "modified": "2025-10-27T16:16:50.872783"
+    },
+    {
+      "path": "Cursor versions/Past Logs (Already Extracted and Uploaded)/remove_counselor_data_20251027_145319_results_20251027_155521.csv",
+      "size": 19623,
+      "modified": "2025-10-27T15:55:21.353751"
+    },
+    {
+      "path": "Cursor versions/Past Logs (Already Extracted and Uploaded)/remove_counselor_data_20251028_125034.csv",
+      "size": 6465,
+      "modified": "2025-10-28T12:50:34.134460"
+    },
+    {
+      "path": "Cursor versions/Past Logs (Already Extracted and Uploaded)/remove_counselor_data_20251028_125034.xlsx",
+      "size": 8839,
+      "modified": "2025-10-28T12:50:35.507283"
+    },
+    {
+      "path": "Cursor versions/Past Logs (Already Extracted and Uploaded)/remove_counselor_data_20251030_145647.csv",
+      "size": 8083,
+      "modified": "2025-10-30T14:56:47.469674"
+    },
+    {
+      "path": "Cursor versions/Past Logs (Already Extracted and Uploaded)/remove_counselor_data_20251030_145647.xlsx",
+      "size": 9731,
+      "modified": "2025-10-30T14:56:48.142020"
+    },
+    {
+      "path": "Cursor versions/Past Logs (Already Extracted and Uploaded)/remove_counselor_data_20251030_145647_IPS_results_20251030_154714.csv",
+      "size": 532,
+      "modified": "2025-10-30T15:47:14.020846"
+    },
+    {
+      "path": "Cursor versions/Past Logs (Already Extracted and Uploaded)/remove_counselor_data_20251030_145647_results_20251030_153128.csv",
+      "size": 8155,
+      "modified": "2025-10-30T15:31:28.957227"
+    },
+    {
+      "path": "Cursor versions/Past Logs (Already Extracted and Uploaded)/remove_counselor_data_20251103_160415.csv",
+      "size": 7662,
+      "modified": "2025-11-03T16:04:15.420942"
+    },
+    {
+      "path": "Cursor versions/Past Logs (Already Extracted and Uploaded)/remove_counselor_data_20251103_160415.xlsx",
+      "size": 9320,
+      "modified": "2025-11-03T16:04:16.500307"
+    },
+    {
+      "path": "Cursor versions/Past Logs (Already Extracted and Uploaded)/remove_counselor_data_20251103_160415_IPS_results_20251103_163946.csv",
+      "size": 972,
+      "modified": "2025-11-03T16:39:46.359170"
+    },
+    {
+      "path": "Cursor versions/Past Logs (Already Extracted and Uploaded)/remove_counselor_data_20251103_160415_results_20251103_163534.csv",
+      "size": 7744,
+      "modified": "2025-11-03T16:35:34.253723"
+    },
+    {
+      "path": "Cursor versions/Past Logs (Already Extracted and Uploaded)/remove_counselor_data_20251103_160415_results_20251103_170130.csv",
+      "size": 7744,
+      "modified": "2025-11-03T17:01:30.679027"
+    },
+    {
+      "path": "Cursor versions/Past Logs (Already Extracted and Uploaded)/remove_counselor_data_20251105_153518.csv",
+      "size": 6566,
+      "modified": "2025-11-06T09:35:46.660643"
+    },
+    {
+      "path": "Cursor versions/Past Logs (Already Extracted and Uploaded)/remove_counselor_data_20251105_153518.xlsx",
+      "size": 13014,
+      "modified": "2025-11-05T16:02:47"
+    },
+    {
+      "path": "Cursor versions/Past Logs (Already Extracted and Uploaded)/remove_counselor_data_20251105_153518_IPS_results_20251106_131519.csv",
+      "size": 1014,
+      "modified": "2025-11-06T13:15:19.817298"
+    },
+    {
+      "path": "Cursor versions/Past Logs (Already Extracted and Uploaded)/remove_counselor_data_20251105_153518_IPS_results_20251106_135224.csv",
+      "size": 1014,
+      "modified": "2025-11-06T13:52:24.621189"
+    },
+    {
+      "path": "Cursor versions/Past Logs (Already Extracted and Uploaded)/remove_counselor_data_20251105_153518_results_20251106_100613.csv",
+      "size": 6903,
+      "modified": "2025-11-06T10:06:13.025807"
+    },
+    {
+      "path": "Cursor versions/Past Logs (Already Extracted and Uploaded)/remove_counselor_data_20251107_095450.csv",
+      "size": 8518,
+      "modified": "2025-11-07T09:54:50.208730"
+    },
+    {
+      "path": "Cursor versions/Past Logs (Already Extracted and Uploaded)/remove_counselor_data_20251107_095450.xlsx",
+      "size": 10144,
+      "modified": "2025-11-07T09:54:52.522895"
+    },
+    {
+      "path": "Cursor versions/Past Logs (Already Extracted and Uploaded)/remove_counselor_data_20251107_095450_IPS_results_20251107_232727.csv",
+      "size": 2134,
+      "modified": "2025-11-07T23:27:27.693692"
+    },
+    {
+      "path": "Cursor versions/Past Logs (Already Extracted and Uploaded)/remove_counselor_data_20251107_095450_results_20251107_110942.csv",
+      "size": 7743,
+      "modified": "2025-11-07T11:09:42.544646"
+    },
+    {
+      "path": "Cursor versions/Past Logs (Already Extracted and Uploaded)/remove_counselor_data_20251107_095450_results_20251107_232027.csv",
+      "size": 7679,
+      "modified": "2025-11-07T23:20:28.002040"
+    },
+    {
+      "path": "Cursor versions/Past Logs (Already Extracted and Uploaded)/remove_counselor_data_20251112_101009.csv",
+      "size": 9260,
+      "modified": "2025-11-12T10:10:09.269334"
+    },
+    {
+      "path": "Cursor versions/Past Logs (Already Extracted and Uploaded)/remove_counselor_data_20251112_101009.xlsx",
+      "size": 10586,
+      "modified": "2025-11-12T10:10:10.084383"
+    },
+    {
+      "path": "Cursor versions/Past Logs (Already Extracted and Uploaded)/remove_counselor_data_20251112_101009_IPS_results_20251112_104134.csv",
+      "size": 1303,
+      "modified": "2025-11-12T10:41:34.228161"
+    },
+    {
+      "path": "Cursor versions/Past Logs (Already Extracted and Uploaded)/remove_counselor_data_20251112_101009_results_20251112_103741.csv",
+      "size": 8433,
+      "modified": "2025-11-12T10:37:41.584135"
+    },
+    {
+      "path": "Cursor versions/Past Logs (Already Extracted and Uploaded)/remove_counselor_data_20251113_152359.csv",
+      "size": 8226,
+      "modified": "2025-11-13T15:23:59.137298"
+    },
+    {
+      "path": "Cursor versions/Past Logs (Already Extracted and Uploaded)/remove_counselor_data_20251113_152359.xlsx",
+      "size": 10046,
+      "modified": "2025-11-13T15:24:00.450608"
+    },
+    {
+      "path": "Cursor versions/Past Logs (Already Extracted and Uploaded)/remove_counselor_data_20251113_152359_IPS_results_20251113_163213.csv",
+      "size": 402,
+      "modified": "2025-11-13T16:32:14.024721"
+    },
+    {
+      "path": "Cursor versions/Past Logs (Already Extracted and Uploaded)/remove_counselor_data_20251113_152359_IPS_results_20251113_164303.csv",
+      "size": 402,
+      "modified": "2025-11-13T16:43:03.366791"
+    },
+    {
+      "path": "Cursor versions/Past Logs (Already Extracted and Uploaded)/remove_counselor_data_20251118_131400.csv",
+      "size": 2685,
+      "modified": "2025-11-18T13:14:00.855016"
+    },
+    {
+      "path": "Cursor versions/Past Logs (Already Extracted and Uploaded)/remove_counselor_data_20251118_131400.xlsx",
+      "size": 6797,
+      "modified": "2025-11-18T13:14:02.456186"
+    },
+    {
+      "path": "Cursor versions/Past Logs (Already Extracted and Uploaded)/remove_counselor_data_20251118_131400_IPS_results_20251118_132605.csv",
+      "size": 392,
+      "modified": "2025-11-18T13:26:05.513123"
+    },
+    {
+      "path": "Cursor versions/Past Logs (Already Extracted and Uploaded)/remove_counselor_data_20251118_131400_results_20251118_132444.csv",
+      "size": 2420,
+      "modified": "2025-11-18T13:24:44.594506"
+    },
+    {
+      "path": "Cursor versions/Past Logs (Already Extracted and Uploaded)/Updated log where cutoff occurred.csv",
+      "size": 2551,
+      "modified": "2025-10-17T16:19:46.806402"
+    },
+    {
+      "path": "Cursor versions/Past Logs (Already Extracted and Uploaded)/Needs to be uploaded (NOT DONE)/remove_counselor_data_20251124_161318.csv",
+      "size": 32412,
+      "modified": "2025-11-24T16:13:18.929231"
+    },
+    {
+      "path": "Cursor versions/Past Logs (Already Extracted and Uploaded)/Needs to be uploaded (NOT DONE)/remove_counselor_data_20251124_161318.xlsx",
+      "size": 23219,
+      "modified": "2025-11-24T16:13:20.482811"
+    },
+    {
+      "path": "Cursor versions/Past Logs (Already Extracted and Uploaded)/output/remove_counselor_data_20251124_161318_IPS_results_20251124_193619.csv",
+      "size": 3146,
+      "modified": "2025-11-24T19:36:19.394109"
+    },
+    {
+      "path": "Cursor versions/Past Logs (Already Extracted and Uploaded)/output/remove_counselor_data_20251124_161318_results_20251124_165221.csv",
+      "size": 29687,
+      "modified": "2025-11-24T16:52:21.554995"
+    },
+    {
+      "path": "Cursor versions/Past Logs (Already Extracted and Uploaded)/output/remove_counselor_data_20251124_161318_results_20251124_192555.csv",
+      "size": 19089,
+      "modified": "2025-11-24T19:25:55.283042"
+    },
+    {
+      "path": "Cursor versions/Past Logs (Already Extracted and Uploaded)/Needs to be uploaded (NOT DONE)/Run #2 for morning/remove_counselor_data_20251124_161318.csv",
+      "size": 20305,
+      "modified": "2025-11-24T18:36:28.317200"
+    },
+    {
+      "path": "Cursor versions/Past Logs (Already Extracted and Uploaded)/Needs to be uploaded (NOT DONE)/Run #2 for morning/remove_counselor_data_20251124_161318.xlsx",
+      "size": 24675,
+      "modified": "2025-11-24T17:16:49.071310"
+    },
+    {
+      "path": "Cursor versions/Old stuff/Goose Backup (old)/isws_remove_counselor_botcursorbackup.bat",
+      "size": 639,
+      "modified": "2025-10-28T17:01:48.954717"
+    },
+    {
+      "path": "Cursor versions/Old stuff/Goose Backup (old)/isws_remove_counselor_botcursorbackup.py",
+      "size": 256971,
+      "modified": "2025-10-17T16:19:46.802028"
+    },
+    {
+      "path": "Cursor versions/Old stuff/Newest Goose Backup/isws_remove_counselor_botcursornewestbackup.bat",
+      "size": 663,
+      "modified": "2025-10-28T17:01:48.955717"
+    },
+    {
+      "path": "Cursor versions/Old stuff/Newest Goose Backup/isws_remove_counselor_botcursornewestbackup.py",
+      "size": 211814,
+      "modified": "2025-10-17T16:19:46.803028"
+    },
+    {
+      "path": "Billing Department/Billing Department/check_cleanup_status.py",
+      "size": 3926,
+      "modified": "2025-11-14T15:11:32.653060"
+    },
+    {
+      "path": "Billing Department/Billing Department/status_report.py",
+      "size": 4598,
+      "modified": "2025-11-17T16:38:57.320076"
+    },
+    {
+      "path": "Billing Department/Medicare Modifier Comparison Bot/install.bat",
+      "size": 159,
+      "modified": "2025-11-19T09:49:32"
+    },
+    {
+      "path": "Billing Department/Medicare Modifier Comparison Bot/medicare_modifier_comparison_bot.bat",
+      "size": 79,
+      "modified": "2025-11-19T09:49:32"
+    },
+    {
+      "path": "Billing Department/Medicare Modifier Comparison Bot/medicare_modifier_comparison_bot.py",
+      "size": 160571,
+      "modified": "2025-11-20T23:17:27.088356"
+    },
+    {
+      "path": "Billing Department/Medicare Modifier Comparison Bot/README.md",
+      "size": 2124,
+      "modified": "2025-11-19T09:49:32"
+    },
+    {
+      "path": "Billing Department/Medicare Modifier Comparison Bot/requirements.txt",
+      "size": 54,
+      "modified": "2025-11-19T11:40:06"
+    },
+    {
+      "path": "Billing Department/Medicare Refiling Bot/FIELD_MAPPING_GUIDE.md",
+      "size": 3468,
+      "modified": "2025-11-13T11:49:04.652785"
+    },
+    {
+      "path": "Billing Department/Medicare Refiling Bot/medicare_refiling_bot.log.1",
+      "size": 5242852,
+      "modified": "2025-11-18T11:18:53.339284"
+    },
+    {
+      "path": "Billing Department/Medicare Refiling Bot/medicare_refiling_bot.log.2",
+      "size": 5241830,
+      "modified": "2025-11-18T11:10:48.012191"
+    },
+    {
+      "path": "Billing Department/Medicare Refiling Bot/medicare_refiling_bot.log.3",
+      "size": 5242677,
+      "modified": "2025-11-18T11:02:50.794571"
+    },
+    {
+      "path": "Billing Department/Medicare Refiling Bot/medicare_refiling_bot.log.4",
+      "size": 5242724,
+      "modified": "2025-11-18T10:55:39.680424"
+    },
+    {
+      "path": "Billing Department/Medicare Refiling Bot/medicare_refiling_bot.log.5",
+      "size": 5242277,
+      "modified": "2025-11-18T10:47:44.189319"
+    },
+    {
+      "path": "Billing Department/Medicare Refiling Bot/medicare_refiling_bot.py",
+      "size": 414552,
+      "modified": "2025-11-21T13:45:17.249717"
+    },
+    {
+      "path": "Billing Department/Medicare Refiling Bot/VISUAL_MAPPER_GUIDE.md",
+      "size": 5931,
+      "modified": "2025-11-13T12:08:43.835756"
+    },
+    {
+      "path": "Billing Department/Medisoft Billing/account_ledger.png",
+      "size": 2522,
+      "modified": "2025-10-29T11:34:08.038828"
+    },
+    {
+      "path": "Billing Department/Medisoft Billing/check_pdf_fields.py",
+      "size": 3563,
+      "modified": "2025-11-13T11:30:47.601519"
+    },
+    {
+      "path": "Billing Department/Medisoft Billing/custom.png",
+      "size": 1863,
+      "modified": "2025-10-30T16:36:22.081597"
+    },
+    {
+      "path": "Billing Department/Medisoft Billing/date_created_checkbox.png",
+      "size": 2241,
+      "modified": "2025-10-29T16:09:24.665368"
+    },
+    {
+      "path": "Billing Department/Medisoft Billing/EXAMPLE_INTEGRATION_medisoft_bot.py",
+      "size": 8042,
+      "modified": "2025-11-26T13:27:08.992410"
+    },
+    {
+      "path": "Billing Department/Medisoft Billing/find_tesseract_poppler.py",
+      "size": 4740,
+      "modified": "2025-10-29T14:15:33.983476"
+    },
+    {
+      "path": "Billing Department/Medisoft Billing/HEALTHCARE_FINANCIAL_KPIs.md",
+      "size": 13351,
+      "modified": "2025-11-22T16:50:44.016910"
+    },
+    {
+      "path": "Billing Department/Medisoft Billing/install.bat",
+      "size": 7114,
+      "modified": "2025-11-20T12:22:59.986460"
+    },
+    {
+      "path": "Billing Department/Medisoft Billing/INSTALLATION_GUIDE.md",
+      "size": 4242,
+      "modified": "2025-10-29T10:55:57.393885"
+    },
+    {
+      "path": "Billing Department/Medisoft Billing/INSTALL_BOTS.bat",
+      "size": 13466,
+      "modified": "2025-11-26T09:53:37.606595"
+    },
+    {
+      "path": "Billing Department/Medisoft Billing/launch_medisoft_reports.png",
+      "size": 6905,
+      "modified": "2025-10-30T16:45:14.901960"
+    },
+    {
+      "path": "Billing Department/Medisoft Billing/medisoft_billing_bot.bat",
+      "size": 1586,
+      "modified": "2025-11-20T12:22:59.986460"
+    },
+    {
+      "path": "Billing Department/Medisoft Billing/medisoft_billing_bot.py",
+      "size": 267038,
+      "modified": "2025-11-19T11:18:18.916693"
+    },
+    {
+      "path": "Billing Department/Medisoft Billing/OCR_SETUP.md",
+      "size": 3472,
+      "modified": "2025-10-29T12:45:23.578364"
+    },
+    {
+      "path": "Billing Department/Medisoft Billing/ok_button_search_window.png",
+      "size": 2379,
+      "modified": "2025-10-29T15:13:14.922763"
+    },
+    {
+      "path": "Billing Department/Medisoft Billing/patient_account_ledger.png",
+      "size": 2345,
+      "modified": "2025-10-30T16:36:34.895188"
+    },
+    {
+      "path": "Billing Department/Medisoft Billing/patient_ledger.png",
+      "size": 2625,
+      "modified": "2025-10-29T11:38:51.523556"
+    },
+    {
+      "path": "Billing Department/Medisoft Billing/POWER_BI_QUICK_START.md",
+      "size": 6682,
+      "modified": "2025-11-22T16:55:18.847358"
+    },
+    {
+      "path": "Billing Department/Medisoft Billing/POWER_BI_SETUP_GUIDE.md",
+      "size": 37634,
+      "modified": "2025-11-22T16:55:18.847358"
+    },
+    {
+      "path": "Billing Department/Medisoft Billing/QUICK_START_UPDATES.md",
+      "size": 4821,
+      "modified": "2025-11-26T13:27:08.992410"
+    },
+    {
+      "path": "Billing Department/Medisoft Billing/README.md",
+      "size": 4693,
+      "modified": "2025-10-29T10:55:57.394957"
+    },
+    {
+      "path": "Billing Department/Medisoft Billing/release_update.py",
+      "size": 7106,
+      "modified": "2025-11-26T13:27:08.992410"
+    },
+    {
+      "path": "Billing Department/Medisoft Billing/repeat_loop_open_patient_account_ledgerv1.png",
+      "size": 2476,
+      "modified": "2025-10-30T13:02:36.037284"
+    },
+    {
+      "path": "Billing Department/Medisoft Billing/requirements.txt",
+      "size": 2494,
+      "modified": "2025-11-18T12:05:22.756575"
+    },
+    {
+      "path": "Billing Department/Medisoft Billing/search_add_button.png",
+      "size": 2119,
+      "modified": "2025-10-29T15:12:21.101700"
+    },
+    {
+      "path": "Billing Department/Medisoft Billing/search_chart_dots.png",
+      "size": 1377,
+      "modified": "2025-10-29T15:09:03.238020"
+    },
+    {
+      "path": "Billing Department/Medisoft Billing/search_date_created_check.png",
+      "size": 2178,
+      "modified": "2025-10-29T15:11:06.175951"
+    },
+    {
+      "path": "Billing Department/Medisoft Billing/search_date_from_end.png",
+      "size": 1736,
+      "modified": "2025-10-29T15:10:16.751972"
+    },
+    {
+      "path": "Billing Department/Medisoft Billing/search_date_from_start.png",
+      "size": 2144,
+      "modified": "2025-10-29T15:09:52.933584"
+    },
+    {
+      "path": "Billing Department/Medisoft Billing/search_popup_ok_button.png",
+      "size": 1451,
+      "modified": "2025-10-29T15:51:02.290942"
+    },
+    {
+      "path": "Billing Department/Medisoft Billing/search_procedure_code.png",
+      "size": 1469,
+      "modified": "2025-10-29T15:11:40.620237"
+    },
+    {
+      "path": "Billing Department/Medisoft Billing/setup_update_system.py",
+      "size": 6213,
+      "modified": "2025-11-26T13:27:08.992410"
+    },
+    {
+      "path": "Billing Department/Medisoft Billing/THERAPY_NOTES_PENELOPE_INTEGRATION.md",
+      "size": 14039,
+      "modified": "2025-11-22T16:55:18.847358"
+    },
+    {
+      "path": "Billing Department/Medisoft Billing/UPDATE_MANAGEMENT_SOLUTIONS.md",
+      "size": 10285,
+      "modified": "2025-11-26T13:27:08.992410"
+    },
+    {
+      "path": "Billing Department/Medisoft Billing/update_manager.py",
+      "size": 17568,
+      "modified": "2025-11-26T13:33:42.844230"
+    },
+    {
+      "path": "Billing Department/Medisoft Billing/UPDATE_SYSTEM_SETUP_GUIDE.md",
+      "size": 11937,
+      "modified": "2025-11-26T13:27:08.992410"
+    },
+    {
+      "path": "Billing Department/Medisoft Billing/UPDATE_SYSTEM_SUMMARY.md",
+      "size": 5029,
+      "modified": "2025-11-26T13:27:08.992410"
+    },
+    {
+      "path": "Billing Department/Medisoft Penelope Data Synthesizer/analyze_pdf_structure.py",
+      "size": 5863,
+      "modified": "2025-11-18T14:19:22"
+    },
+    {
+      "path": "Billing Department/Medisoft Penelope Data Synthesizer/check_columns.py",
+      "size": 1480,
+      "modified": "2025-11-18T14:40:14"
+    },
+    {
+      "path": "Billing Department/Medisoft Penelope Data Synthesizer/check_duplicates.py",
+      "size": 3613,
+      "modified": "2025-11-18T14:33:44"
+    },
+    {
+      "path": "Billing Department/Medisoft Penelope Data Synthesizer/check_output.py",
+      "size": 3516,
+      "modified": "2025-11-18T14:31:52"
+    },
+    {
+      "path": "Billing Department/Medisoft Penelope Data Synthesizer/check_pdf_rows.py",
+      "size": 977,
+      "modified": "2025-11-18T14:09:22"
+    },
+    {
+      "path": "Billing Department/Medisoft Penelope Data Synthesizer/check_procedure_codes.py",
+      "size": 8235,
+      "modified": "2025-11-18T14:56:22"
+    },
+    {
+      "path": "Billing Department/Medisoft Penelope Data Synthesizer/check_procedure_deep.py",
+      "size": 7648,
+      "modified": "2025-11-18T14:56:22"
+    },
+    {
+      "path": "Billing Department/Medisoft Penelope Data Synthesizer/deep_check_pdf.py",
+      "size": 7227,
+      "modified": "2025-11-18T14:31:52"
+    },
+    {
+      "path": "Billing Department/Medisoft Penelope Data Synthesizer/inspect_pdf.py",
+      "size": 2111,
+      "modified": "2025-11-18T14:03:56"
+    },
+    {
+      "path": "Billing Department/Medisoft Penelope Data Synthesizer/install.bat",
+      "size": 5069,
+      "modified": "2025-11-18T13:36:34"
+    },
+    {
+      "path": "Billing Department/Medisoft Penelope Data Synthesizer/medisoft_penelope_data_synthesizer.bat",
+      "size": 1385,
+      "modified": "2025-11-18T13:28:00"
+    },
+    {
+      "path": "Billing Department/Medisoft Penelope Data Synthesizer/medisoft_penelope_data_synthesizer.py",
+      "size": 76622,
+      "modified": "2025-11-18T15:15:48"
+    },
+    {
+      "path": "Billing Department/Medisoft Penelope Data Synthesizer/README.md",
+      "size": 2452,
+      "modified": "2025-11-18T13:28:00"
+    },
+    {
+      "path": "Billing Department/Medisoft Penelope Data Synthesizer/requirements.txt",
+      "size": 778,
+      "modified": "2025-11-18T13:36:34"
+    },
+    {
+      "path": "Billing Department/TN Refiling Bot/README.md",
+      "size": 4645,
+      "modified": "2025-10-31T09:36:44.047887"
+    },
+    {
+      "path": "Billing Department/TN Refiling Bot/requirements.txt",
+      "size": 2078,
+      "modified": "2025-10-31T09:48:42.897866"
+    },
+    {
+      "path": "Billing Department/TN Refiling Bot/test_consuelo_pdf.bat",
+      "size": 559,
+      "modified": "2025-11-07T13:51:23.904030"
+    },
+    {
+      "path": "Billing Department/TN Refiling Bot/test_consuelo_pdf.py",
+      "size": 6217,
+      "modified": "2025-10-31T10:46:49.113744"
+    },
+    {
+      "path": "Billing Department/TN Refiling Bot/test_final_payer_extraction.bat",
+      "size": 599,
+      "modified": "2025-11-07T13:51:23.925033"
+    },
+    {
+      "path": "Billing Department/TN Refiling Bot/test_final_payer_extraction.py",
+      "size": 15710,
+      "modified": "2025-10-31T10:44:25.560678"
+    },
+    {
+      "path": "Billing Department/TN Refiling Bot/test_payer_claim_extraction.bat",
+      "size": 599,
+      "modified": "2025-11-07T13:51:23.945477"
+    },
+    {
+      "path": "Billing Department/TN Refiling Bot/test_payer_claim_extraction.py",
+      "size": 11811,
+      "modified": "2025-10-31T10:36:41.087424"
+    },
+    {
+      "path": "Billing Department/TN Refiling Bot/test_payer_claim_extraction_v2.bat",
+      "size": 611,
+      "modified": "2025-11-07T13:51:23.969366"
+    },
+    {
+      "path": "Billing Department/TN Refiling Bot/test_payer_claim_extraction_v2.py",
+      "size": 11555,
+      "modified": "2025-10-31T10:37:53.341010"
+    },
+    {
+      "path": "Billing Department/TN Refiling Bot/test_payer_claim_extraction_v3.bat",
+      "size": 611,
+      "modified": "2025-11-07T13:51:23.994372"
+    },
+    {
+      "path": "Billing Department/TN Refiling Bot/test_payer_claim_extraction_v3.py",
+      "size": 11209,
+      "modified": "2025-10-31T10:38:48.106534"
+    },
+    {
+      "path": "Billing Department/TN Refiling Bot/test_payer_extraction_verification.bat",
+      "size": 627,
+      "modified": "2025-11-07T13:51:24.035367"
+    },
+    {
+      "path": "Billing Department/TN Refiling Bot/test_payer_extraction_verification.py",
+      "size": 3230,
+      "modified": "2025-10-31T10:48:44.408427"
+    },
+    {
+      "path": "Billing Department/TN Refiling Bot/tn_refiling_bot.bat",
+      "size": 551,
+      "modified": "2025-11-07T13:51:24.056568"
+    },
+    {
+      "path": "Billing Department/TN Refiling Bot/tn_refiling_bot.py",
+      "size": 630744,
+      "modified": "2025-11-12T12:41:40.888329"
+    },
+    {
+      "path": "Billing Department/Medisoft Billing/Installer/check_network.bat",
+      "size": 796,
+      "modified": "2025-11-20T13:23:03.508224"
+    },
+    {
+      "path": "Billing Department/Medisoft Billing/Installer/check_python_version.py",
+      "size": 732,
+      "modified": "2025-11-20T13:09:28.298123"
+    },
+    {
+      "path": "Billing Department/Medisoft Billing/Installer/configure_paths.py",
+      "size": 2991,
+      "modified": "2025-11-20T12:22:59.985457"
+    },
+    {
+      "path": "Billing Department/Medisoft Billing/Installer/create_desktop_shortcut.vbs",
+      "size": 2653,
+      "modified": "2025-11-20T12:22:59.985457"
+    },
+    {
+      "path": "Billing Department/Medisoft Billing/Installer/FIX_NUMPY_ERROR.bat",
+      "size": 1877,
+      "modified": "2025-11-20T13:06:48.858158"
+    },
+    {
+      "path": "Billing Department/Medisoft Billing/Installer/Install.bots",
+      "size": 20412,
+      "modified": "2025-11-20T13:59:52.615196"
+    },
+    {
+      "path": "Billing Department/Medisoft Billing/Installer/INSTALLER_ROBUSTNESS.md",
+      "size": 7513,
+      "modified": "2025-11-20T13:23:03.508224"
+    },
+    {
+      "path": "Billing Department/Medisoft Billing/Installer/INSTALLER_SUMMARY.md",
+      "size": 6959,
+      "modified": "2025-11-20T12:22:59.986460"
+    },
+    {
+      "path": "Billing Department/Medisoft Billing/Installer/install_ocr_dependencies.ps1",
+      "size": 24737,
+      "modified": "2025-11-26T09:49:58.678737"
+    },
+    {
+      "path": "Billing Department/Medisoft Billing/Installer/install_python.ps1",
+      "size": 8970,
+      "modified": "2025-11-20T13:23:03.508224"
+    },
+    {
+      "path": "Billing Department/Medisoft Billing/Installer/INTEGRATION_NOTES.md",
+      "size": 5080,
+      "modified": "2025-11-20T12:22:59.985457"
+    },
+    {
+      "path": "Billing Department/Medisoft Billing/Installer/migrate_saved_data.py",
+      "size": 4522,
+      "modified": "2025-11-20T12:22:59.985457"
+    },
+    {
+      "path": "Billing Department/Medisoft Billing/Installer/PYTHON_INSTALLATION_FIX.md",
+      "size": 4820,
+      "modified": "2025-11-20T13:09:28.298123"
+    },
+    {
+      "path": "Billing Department/Medisoft Billing/Installer/QUICK_START.md",
+      "size": 1612,
+      "modified": "2025-11-20T12:22:59.986460"
+    },
+    {
+      "path": "Billing Department/Medisoft Billing/Installer/README.md",
+      "size": 7476,
+      "modified": "2025-11-20T12:22:59.986460"
+    },
+    {
+      "path": "Billing Department/Medisoft Billing/Installer/setup_icon.py",
+      "size": 4527,
+      "modified": "2025-11-20T12:22:59.985457"
+    },
+    {
+      "path": "Billing Department/Medisoft Billing/Installer/TESTING_CHECKLIST.md",
+      "size": 5511,
+      "modified": "2025-11-20T13:17:41.291744"
+    },
+    {
+      "path": "Billing Department/Medisoft Billing/Installer/test_installer.bat",
+      "size": 4207,
+      "modified": "2025-11-20T13:17:41.291744"
+    },
+    {
+      "path": "Billing Department/Medisoft Billing/Installer/TROUBLESHOOTING.md",
+      "size": 5886,
+      "modified": "2025-11-20T13:06:48.858158"
+    },
+    {
+      "path": "Billing Department/Medisoft Billing/Missed Appointments Tracker Bot/install.bat",
+      "size": 1003,
+      "modified": "2025-11-19T15:37:30"
+    },
+    {
+      "path": "Billing Department/Medisoft Billing/Missed Appointments Tracker Bot/integrity_logo.png",
+      "size": 24953,
+      "modified": "2025-11-24T11:38:03.949622"
+    },
+    {
+      "path": "Billing Department/Medisoft Billing/Missed Appointments Tracker Bot/LOGIC_ANALYSIS.md",
+      "size": 5366,
+      "modified": "2025-11-19T16:59:51.275916"
+    },
+    {
+      "path": "Billing Department/Medisoft Billing/Missed Appointments Tracker Bot/missed_appointments_tracker_bot.bat",
+      "size": 1350,
+      "modified": "2025-11-19T15:37:30"
+    },
+    {
+      "path": "Billing Department/Medisoft Billing/Missed Appointments Tracker Bot/missed_appointments_tracker_bot.py",
+      "size": 357015,
+      "modified": "2025-11-26T13:10:41.263006"
+    },
+    {
+      "path": "Billing Department/Medisoft Billing/Missed Appointments Tracker Bot/MODERNIZATION_SUMMARY.md",
+      "size": 4810,
+      "modified": "2025-11-19T15:52:10"
+    },
+    {
+      "path": "Billing Department/Medisoft Billing/Missed Appointments Tracker Bot/NAVIGATION_IMPLEMENTATION.md",
+      "size": 3704,
+      "modified": "2025-11-19T17:17:38.701818"
+    },
+    {
+      "path": "Billing Department/Medisoft Billing/Missed Appointments Tracker Bot/README.md",
+      "size": 4000,
+      "modified": "2025-11-19T15:36:52"
+    },
+    {
+      "path": "Billing Department/Medisoft Billing/Missed Appointments Tracker Bot/requirements.txt",
+      "size": 1129,
+      "modified": "2025-11-25T12:55:29.223764"
+    },
+    {
+      "path": "Billing Department/Medisoft Billing/Missed Appointments Tracker Bot/test_bot.py",
+      "size": 0,
+      "modified": "2025-11-20T09:42:36.018754"
+    },
+    {
+      "path": "Billing Department/Medisoft Billing/Missed Appointments Tracker Bot/test_excel_matching.py",
+      "size": 9271,
+      "modified": "2025-11-20T13:26:32.381294"
+    },
+    {
+      "path": "Billing Department/Medisoft Billing/quarantine/comprehensive_fix.py",
+      "size": 957,
+      "modified": "2025-10-29T12:39:40.276907"
+    },
+    {
+      "path": "Billing Department/Medisoft Billing/quarantine/fix_all_indent.py",
+      "size": 944,
+      "modified": "2025-10-29T12:39:20.420121"
+    },
+    {
+      "path": "Billing Department/Medisoft Billing/quarantine/fix_final_indent.py",
+      "size": 700,
+      "modified": "2025-10-29T12:38:19.914090"
+    },
+    {
+      "path": "Billing Department/Medisoft Billing/quarantine/fix_indent.py",
+      "size": 467,
+      "modified": "2025-10-29T12:36:13.391823"
+    },
+    {
+      "path": "Billing Department/Medisoft Billing/quarantine/fix_indent2.py",
+      "size": 847,
+      "modified": "2025-10-29T12:37:47.476034"
+    },
+    {
+      "path": "Billing Department/Medisoft Billing/Real Estate Financial Tracker/install.bat",
+      "size": 1248,
+      "modified": "2025-11-26T09:27:59.062321"
+    },
+    {
+      "path": "Billing Department/Medisoft Billing/Real Estate Financial Tracker/QUICK_START.md",
+      "size": 3892,
+      "modified": "2025-11-26T09:27:59.384029"
+    },
+    {
+      "path": "Billing Department/Medisoft Billing/Real Estate Financial Tracker/README.md",
+      "size": 9728,
+      "modified": "2025-11-26T09:27:59.337655"
+    },
+    {
+      "path": "Billing Department/Medisoft Billing/Real Estate Financial Tracker/real_estate_financial_bot.bat",
+      "size": 355,
+      "modified": "2025-11-26T09:27:59.292320"
+    },
+    {
+      "path": "Billing Department/Medisoft Billing/Real Estate Financial Tracker/real_estate_financial_bot.py",
+      "size": 41550,
+      "modified": "2025-11-26T09:27:57.409084"
+    },
+    {
+      "path": "Billing Department/Medisoft Billing/Real Estate Financial Tracker/requirements.txt",
+      "size": 679,
+      "modified": "2025-11-26T09:27:58.573646"
+    },
+    {
+      "path": "Billing Department/Medisoft Billing/setup/install_ocr.ps1",
+      "size": 9538,
+      "modified": "2025-11-13T16:59:11.769726"
+    },
+    {
+      "path": "Billing Department/Medisoft Billing/setup/README_SETUP.txt",
+      "size": 1481,
+      "modified": "2025-10-29T14:40:08.424327"
+    },
+    {
+      "path": "Billing Department/Medisoft Billing/Updates/discover_all_bots.py",
+      "size": 3731,
+      "modified": "2025-11-26T13:51:36.038349"
+    },
+    {
+      "path": "Billing Department/Medisoft Billing/Updates/get_gdrive_helper.py",
+      "size": 2368,
+      "modified": "2025-11-26T13:34:06.484174"
+    },
+    {
+      "path": "Billing Department/Medisoft Billing/Updates/HOW_TO_USE.md",
+      "size": 3794,
+      "modified": "2025-11-26T13:47:20.150554"
+    },
+    {
+      "path": "Billing Department/Medisoft Billing/Updates/PUSH_UPDATE.bat",
+      "size": 1176,
+      "modified": "2025-11-26T13:47:20.150554"
+    },
+    {
+      "path": "Billing Department/Medisoft Billing/Updates/QUICK_START.md",
+      "size": 3533,
+      "modified": "2025-11-26T13:36:24.515001"
+    },
+    {
+      "path": "Billing Department/Medisoft Billing/Updates/README.md",
+      "size": 967,
+      "modified": "2025-11-26T13:34:58.951736"
+    },
+    {
+      "path": "Billing Department/Medisoft Billing/Updates/README_FINAL.md",
+      "size": 3156,
+      "modified": "2025-11-26T13:36:24.515001"
+    },
+    {
+      "path": "Billing Department/Medisoft Billing/Updates/release_update.py",
+      "size": 4177,
+      "modified": "2025-11-26T13:41:04.477552"
+    },
+    {
+      "path": "Billing Department/Medisoft Billing/Updates/SETUP.bat",
+      "size": 686,
+      "modified": "2025-11-26T13:47:20.150554"
+    },
+    {
+      "path": "Billing Department/Medisoft Billing/Updates/setup_all_bots.py",
+      "size": 3295,
+      "modified": "2025-11-26T13:41:04.477552"
+    },
+    {
+      "path": "Billing Department/Medisoft Billing/Updates/SIMPLE_INSTRUCTIONS.md",
+      "size": 1586,
+      "modified": "2025-11-26T13:36:24.515001"
+    },
+    {
+      "path": "Billing Department/Medisoft Billing/Updates/START_HERE.txt",
+      "size": 2896,
+      "modified": "2025-11-26T13:47:20.150554"
+    },
+    {
+      "path": "Billing Department/Medisoft Billing/Updates/sync_to_gdrive.py",
+      "size": 7422,
+      "modified": "2025-11-26T13:36:24.515001"
+    },
+    {
+      "path": "Billing Department/Medicare Refiling Bot/Medicare July Modifier Audit Output Excel/#1/Refile med july (Paused Mid-Run---continue tomorrow).xlsx",
+      "size": 39417,
+      "modified": "2025-11-18T11:28:56.193127"
+    },
+    {
+      "path": "Billing Department/Medicare Refiling Bot/Medicare July Modifier Audit Output Excel/#2/July Medicare, second half.xlsx",
+      "size": 21782,
+      "modified": "2025-11-18T11:19:00.124348"
+    }
+  ],
+  "total_files": 400
+}

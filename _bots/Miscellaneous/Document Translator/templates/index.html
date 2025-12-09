@@ -1,0 +1,484 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document Translator</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            padding: 20px;
+        }
+        
+        .container {
+            background: white;
+            border-radius: 20px;
+            box-shadow: 0 20px 60px rgba(0, 0, 0, 0.3);
+            max-width: 800px;
+            width: 100%;
+            padding: 40px;
+        }
+        
+        h1 {
+            color: #333;
+            text-align: center;
+            margin-bottom: 10px;
+            font-size: 2.5em;
+        }
+        
+        .subtitle {
+            text-align: center;
+            color: #666;
+            margin-bottom: 40px;
+            font-size: 1.1em;
+        }
+        
+        .upload-area {
+            border: 3px dashed #667eea;
+            border-radius: 15px;
+            padding: 40px;
+            text-align: center;
+            margin-bottom: 30px;
+            background: #f8f9ff;
+            transition: all 0.3s ease;
+            cursor: pointer;
+        }
+        
+        .upload-area:hover {
+            border-color: #764ba2;
+            background: #f0f2ff;
+        }
+        
+        .upload-area.dragover {
+            border-color: #764ba2;
+            background: #e8ebff;
+        }
+        
+        .upload-icon {
+            font-size: 4em;
+            margin-bottom: 20px;
+        }
+        
+        .file-input {
+            display: none;
+        }
+        
+        .file-label {
+            display: inline-block;
+            padding: 12px 30px;
+            background: #667eea;
+            color: white;
+            border-radius: 25px;
+            cursor: pointer;
+            font-size: 1.1em;
+            transition: all 0.3s ease;
+            margin-top: 10px;
+        }
+        
+        .file-label:hover {
+            background: #764ba2;
+            transform: translateY(-2px);
+            box-shadow: 0 5px 15px rgba(102, 126, 234, 0.4);
+        }
+        
+        .file-name {
+            margin-top: 15px;
+            color: #333;
+            font-weight: 500;
+        }
+        
+        .form-group {
+            margin-bottom: 25px;
+        }
+        
+        label {
+            display: block;
+            margin-bottom: 10px;
+            color: #333;
+            font-weight: 600;
+            font-size: 1.1em;
+        }
+        
+        select {
+            width: 100%;
+            padding: 15px;
+            border: 2px solid #ddd;
+            border-radius: 10px;
+            font-size: 1em;
+            background: white;
+            cursor: pointer;
+            transition: border-color 0.3s ease;
+        }
+        
+        select:focus {
+            outline: none;
+            border-color: #667eea;
+        }
+        
+        .translate-btn {
+            width: 100%;
+            padding: 18px;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            border: none;
+            border-radius: 10px;
+            font-size: 1.2em;
+            font-weight: 600;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            margin-top: 10px;
+        }
+        
+        .translate-btn:hover:not(:disabled) {
+            transform: translateY(-2px);
+            box-shadow: 0 10px 25px rgba(102, 126, 234, 0.4);
+        }
+        
+        .translate-btn:disabled {
+            opacity: 0.6;
+            cursor: not-allowed;
+        }
+        
+        .loading {
+            display: none;
+            text-align: center;
+            margin-top: 20px;
+        }
+        
+        .spinner {
+            border: 4px solid #f3f3f3;
+            border-top: 4px solid #667eea;
+            border-radius: 50%;
+            width: 40px;
+            height: 40px;
+            animation: spin 1s linear infinite;
+            margin: 0 auto 10px;
+        }
+        
+        @keyframes spin {
+            0% { transform: rotate(0deg); }
+            100% { transform: rotate(360deg); }
+        }
+        
+        .progress-container {
+            display: none;
+            margin-top: 20px;
+            padding: 20px;
+            background: #f8f9ff;
+            border-radius: 10px;
+        }
+        
+        .progress-bar-container {
+            width: 100%;
+            height: 30px;
+            background: #e0e0e0;
+            border-radius: 15px;
+            overflow: hidden;
+            margin: 10px 0;
+        }
+        
+        .progress-bar {
+            height: 100%;
+            background: linear-gradient(90deg, #667eea, #764ba2);
+            width: 0%;
+            transition: width 0.3s ease;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            color: white;
+            font-weight: bold;
+            font-size: 0.9em;
+        }
+        
+        .progress-text {
+            text-align: center;
+            color: #666;
+            margin-top: 10px;
+            font-size: 0.95em;
+        }
+        
+        .alert {
+            padding: 15px;
+            border-radius: 10px;
+            margin-bottom: 20px;
+            display: none;
+        }
+        
+        .alert.error {
+            background: #fee;
+            color: #c33;
+            border: 1px solid #fcc;
+        }
+        
+        .alert.success {
+            background: #efe;
+            color: #3c3;
+            border: 1px solid #cfc;
+        }
+        
+        .features {
+            margin-top: 40px;
+            padding-top: 30px;
+            border-top: 2px solid #eee;
+        }
+        
+        .features h3 {
+            color: #333;
+            margin-bottom: 15px;
+        }
+        
+        .features ul {
+            list-style: none;
+            color: #666;
+        }
+        
+        .features li {
+            padding: 8px 0;
+            padding-left: 25px;
+            position: relative;
+        }
+        
+        .features li:before {
+            content: "✓";
+            position: absolute;
+            left: 0;
+            color: #667eea;
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>🌐 Document Translator</h1>
+        <p class="subtitle">Translate your documents to any language instantly</p>
+        
+        <div id="alert" class="alert"></div>
+        
+        <form id="translateForm" action="/translate" method="POST" enctype="multipart/form-data">
+            <div class="upload-area" id="uploadArea">
+                <div class="upload-icon">📄</div>
+                <h3>Upload Your Document</h3>
+                <p style="color: #666; margin: 10px 0;">Drag and drop your file here or click to browse</p>
+                <input type="file" name="file" id="fileInput" class="file-input" accept=".pdf,.docx,.doc,.txt" required>
+                <label for="fileInput" class="file-label">Choose File</label>
+                <div class="file-name" id="fileName"></div>
+            </div>
+            
+            <div class="form-group">
+                <label for="language">Select Target Language:</label>
+                <select name="language" id="language" required>
+                    <option value="">-- Select a language --</option>
+                    {% for lang in languages %}
+                    <option value="{{ lang }}">{{ lang }}</option>
+                    {% endfor %}
+                </select>
+            </div>
+            
+            <div class="form-group">
+                <label for="outputFilename">Output Filename (Optional):</label>
+                <input type="text" name="outputFilename" id="outputFilename" 
+                       placeholder="Leave empty for automatic naming" 
+                       style="width: 100%; padding: 12px; border: 2px solid #ddd; border-radius: 8px; font-size: 1em;">
+                <small style="color: #666; display: block; margin-top: 5px;">
+                    💡 Tip: If left empty, the file will be named automatically (e.g., "document_es.pdf")
+                </small>
+            </div>
+            
+            <div class="form-group" style="background: #f0f7ff; padding: 15px; border-radius: 10px; border-left: 4px solid #667eea;">
+                <label style="color: #333; font-weight: 600; margin-bottom: 8px;">📥 Download Location:</label>
+                <p style="color: #666; font-size: 0.95em; margin: 5px 0;">
+                    The translated file will download to your browser's default download folder.
+                </p>
+                <details style="margin-top: 10px;">
+                    <summary style="cursor: pointer; color: #667eea; font-weight: 500;">How to change download location</summary>
+                    <div style="margin-top: 10px; padding-left: 15px; color: #555; font-size: 0.9em;">
+                        <strong>Chrome/Edge:</strong> Settings → Downloads → Change download location<br>
+                        <strong>Firefox:</strong> Settings → General → Downloads → Save files to<br>
+                        <strong>Or:</strong> When file downloads, click the arrow next to it and choose "Save As"
+                    </div>
+                </details>
+            </div>
+            
+            <div class="form-group" style="background: #fff4e6; padding: 15px; border-radius: 10px; border-left: 4px solid #ff9800;">
+                <label style="color: #333; font-weight: 600; margin-bottom: 8px;">📦 Large File Support:</label>
+                <p style="color: #666; font-size: 0.95em; margin: 5px 0;">
+                    ✓ Supports files up to 200MB<br>
+                    ✓ Progress indicator for files over 5MB<br>
+                    ✓ Optimized processing to prevent crashes<br>
+                    ⏱️ Large files may take several minutes to process
+                </p>
+            </div>
+            
+            <button type="submit" class="translate-btn" id="translateBtn">
+                Translate Document
+            </button>
+        </form>
+        
+        <div class="loading" id="loading">
+            <div class="spinner"></div>
+            <p>Translating your document... This may take a moment.</p>
+        </div>
+        
+        <div class="progress-container" id="progressContainer">
+            <h4 style="text-align: center; color: #333; margin-bottom: 15px;">Processing Large File</h4>
+            <div class="progress-bar-container">
+                <div class="progress-bar" id="progressBar">0%</div>
+            </div>
+            <div class="progress-text" id="progressText">Initializing...</div>
+        </div>
+        
+        <div class="features">
+            <h3>Features:</h3>
+            <ul>
+                <li>Supports PDF, Word documents, and text files</li>
+                <li>50+ languages available</li>
+                <li>Preserves document layout and formatting</li>
+                <li>OCR support for scanned documents</li>
+                <li>Fast and secure translation</li>
+            </ul>
+        </div>
+    </div>
+    
+    <script>
+        const uploadArea = document.getElementById('uploadArea');
+        const fileInput = document.getElementById('fileInput');
+        const fileName = document.getElementById('fileName');
+        const translateForm = document.getElementById('translateForm');
+        const translateBtn = document.getElementById('translateBtn');
+        const loading = document.getElementById('loading');
+        const alertDiv = document.getElementById('alert');
+        
+        // File input change
+        fileInput.addEventListener('change', function(e) {
+            if (e.target.files.length > 0) {
+                fileName.textContent = 'Selected: ' + e.target.files[0].name;
+            }
+        });
+        
+        // Drag and drop
+        uploadArea.addEventListener('dragover', function(e) {
+            e.preventDefault();
+            uploadArea.classList.add('dragover');
+        });
+        
+        uploadArea.addEventListener('dragleave', function(e) {
+            e.preventDefault();
+            uploadArea.classList.remove('dragover');
+        });
+        
+        uploadArea.addEventListener('drop', function(e) {
+            e.preventDefault();
+            uploadArea.classList.remove('dragover');
+            
+            if (e.dataTransfer.files.length > 0) {
+                fileInput.files = e.dataTransfer.files;
+                fileName.textContent = 'Selected: ' + e.dataTransfer.files[0].name;
+            }
+        });
+        
+        // Click to upload
+        uploadArea.addEventListener('click', function() {
+            fileInput.click();
+        });
+        
+        // Form submission
+        translateForm.addEventListener('submit', function(e) {
+            // Don't prevent default - let the form submit normally
+            if (!fileInput.files.length) {
+                e.preventDefault();
+                showAlert('Please select a file to translate', 'error');
+                return false;
+            }
+            
+            if (!document.getElementById('language').value) {
+                e.preventDefault();
+                showAlert('Please select a target language', 'error');
+                return false;
+            }
+            
+            // Check file size
+            const file = fileInput.files[0];
+            const fileSizeMB = file.size / (1024 * 1024);
+            
+            // Show loading
+            translateBtn.disabled = true;
+            loading.style.display = 'block';
+            translateBtn.textContent = 'Translating...';
+            
+            // Show progress for large files (> 5MB)
+            if (fileSizeMB > 5) {
+                progressContainer.style.display = 'block';
+                updateProgress(10, 'Uploading file...');
+                
+                // Simulate progress updates (actual progress would need server-side updates)
+                let progress = 10;
+                const progressInterval = setInterval(function() {
+                    if (progress < 90) {
+                        progress += 5;
+                        if (progress < 30) {
+                            updateProgress(progress, 'Reading document...');
+                        } else if (progress < 60) {
+                            updateProgress(progress, 'Extracting text...');
+                        } else if (progress < 85) {
+                            updateProgress(progress, 'Translating text...');
+                        } else {
+                            updateProgress(progress, 'Creating translated document...');
+                        }
+                    }
+                }, 2000);
+                
+                // Clear interval when form is submitted (page will reload)
+                setTimeout(function() {
+                    clearInterval(progressInterval);
+                }, 300000); // 5 minutes max
+            }
+            
+            // Allow form to submit normally (POST request)
+            return true;
+        });
+        
+        function updateProgress(percent, text) {
+            const progressBar = document.getElementById('progressBar');
+            const progressText = document.getElementById('progressText');
+            if (progressBar) {
+                progressBar.style.width = percent + '%';
+                progressBar.textContent = percent + '%';
+            }
+            if (progressText) {
+                progressText.textContent = text;
+            }
+        }
+        
+        function showAlert(message, type) {
+            alertDiv.textContent = message;
+            alertDiv.className = 'alert ' + type;
+            alertDiv.style.display = 'block';
+            
+            setTimeout(function() {
+                alertDiv.style.display = 'none';
+            }, 5000);
+        }
+        
+        // Check for flash messages from server
+        {% with messages = get_flashed_messages(with_categories=true) %}
+            {% if messages %}
+                {% for category, message in messages %}
+                    showAlert('{{ message }}', '{{ category }}');
+                {% endfor %}
+            {% endif %}
+        {% endwith %}
+    </script>
+</body>
+</html>
+

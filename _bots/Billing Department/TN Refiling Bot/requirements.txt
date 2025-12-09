@@ -1,0 +1,44 @@
+# TN Refiling Bot - Required Dependencies
+# Install with: pip install -r requirements.txt
+#
+# Note: If opencv-python fails to install, that's OK! The bot works without it.
+# The bot will use exact image matching instead of confidence-based matching.
+
+# Core dependencies (REQUIRED)
+pyautogui>=0.9.54
+pywinauto>=0.6.8
+Pillow>=9.0.0  # Required by pyautogui for image processing
+
+# Recommended dependencies (for full functionality)
+# If these fail to install, the bot will still work but with limited features:
+keyboard>=0.13.5  # Enables F8/F9 hotkeys for training
+
+# IMPORTANT: OpenCV enables reliable image recognition across different computers
+# Install with: pip install --only-binary :all: opencv-python
+opencv-python>=4.11.0  # REQUIRED for image recognition - enables confidence-based matching
+
+# PDF parsing for scanned documents
+pdfplumber>=0.11.0  # REQUIRED for extracting text from PDFs
+
+# OCR dependencies (for scanned PDFs)
+pdf2image>=1.17.0  # REQUIRED for converting PDF pages to images for OCR
+pytesseract>=0.3.13  # REQUIRED for OCR text extraction from scanned PDFs
+# NOTE: You also need to install TWO additional components separately:
+# 1. Poppler (for PDF to image conversion):
+#    Download from: https://github.com/oschwartz10612/poppler-windows/releases/
+#    Add to PATH after installation
+# 2. Tesseract OCR (for text recognition):
+#    Download from: https://github.com/tesseract-ocr/tesseract/wiki
+#    Add to PATH during/after installation
+# See OCR_SETUP.md for detailed instructions!
+
+# Excel/CSV reading
+pandas>=2.0.0  # REQUIRED for reading Excel and CSV files
+openpyxl>=3.1.0  # REQUIRED for reading .xlsx files
+
+# Browser automation for Therapy Notes
+selenium>=4.15.0  # REQUIRED for browser automation and web navigation
+webdriver-manager>=4.0.0  # RECOMMENDED - Automatically manages ChromeDriver (downloads correct version)
+# NOTE: If webdriver-manager is not installed, you need to manually install ChromeDriver:
+# Download ChromeDriver from https://chromedriver.chromium.org/ and add to PATH
+

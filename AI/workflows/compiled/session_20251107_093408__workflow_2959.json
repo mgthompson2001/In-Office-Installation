@@ -1,0 +1,1233 @@
+{
+  "workflow_key": "session_20251107_093408::workflow_2959",
+  "session_id": "session_20251107_093408",
+  "workflow_id": "workflow_2959",
+  "workflow_type": "interaction",
+  "description": "... and 88 more actions",
+  "goal": "Goal unclear",
+  "confidence": 0.7,
+  "timestamp": "2025-11-08T10:13:31.981251",
+  "summary": [
+    "Workflow captured from session session_20251107_093408 (interaction).",
+    "Contains 93 recorded actions with goal: Goal unclear.",
+    "Top intents detected:",
+    "  • Search (93 steps)",
+    "Primary applications involved:",
+    "  • SearchHost.exe (93 steps)",
+    "Common screens/pages:",
+    "  • Search Page (93 steps)",
+    "Suggested interpretation:",
+    "  Mixed activity detected; review simulation output for step-by-step context."
+  ],
+  "steps": [
+    {
+      "step_number": 1,
+      "action_id": "screen_2025-11-07T10:08:40.247333",
+      "intent_category": "search",
+      "intent_description": "User intends to search",
+      "intent_confidence": 0.4,
+      "contexts": {
+        "application": "SearchHost.exe",
+        "page": "Search Page",
+        "state": "viewing"
+      },
+      "source_session": "session_20251107_093408"
+    },
+    {
+      "step_number": 2,
+      "action_id": "screen_2025-11-07T10:08:41.150269",
+      "intent_category": "search",
+      "intent_description": "User intends to search",
+      "intent_confidence": 0.4,
+      "contexts": {
+        "application": "SearchHost.exe",
+        "page": "Search Page",
+        "state": "viewing"
+      },
+      "source_session": "session_20251107_093408"
+    },
+    {
+      "step_number": 3,
+      "action_id": "screen_2025-11-07T10:08:42.175692",
+      "intent_category": "search",
+      "intent_description": "User intends to search",
+      "intent_confidence": 0.4,
+      "contexts": {
+        "application": "SearchHost.exe",
+        "page": "Search Page",
+        "state": "viewing"
+      },
+      "source_session": "session_20251107_093408"
+    },
+    {
+      "step_number": 4,
+      "action_id": "screen_2025-11-07T10:08:43.205852",
+      "intent_category": "search",
+      "intent_description": "User intends to search",
+      "intent_confidence": 0.4,
+      "contexts": {
+        "application": "SearchHost.exe",
+        "page": "Search Page",
+        "state": "viewing"
+      },
+      "source_session": "session_20251107_093408"
+    },
+    {
+      "step_number": 5,
+      "action_id": "screen_2025-11-07T10:08:44.233188",
+      "intent_category": "search",
+      "intent_description": "User intends to search",
+      "intent_confidence": 0.4,
+      "contexts": {
+        "application": "SearchHost.exe",
+        "page": "Search Page",
+        "state": "viewing"
+      },
+      "source_session": "session_20251107_093408"
+    },
+    {
+      "step_number": 6,
+      "action_id": "screen_2025-11-07T10:08:45.300867",
+      "intent_category": "search",
+      "intent_description": "User intends to search",
+      "intent_confidence": 0.4,
+      "contexts": {
+        "application": "SearchHost.exe",
+        "page": "Search Page",
+        "state": "viewing"
+      },
+      "source_session": "session_20251107_093408"
+    },
+    {
+      "step_number": 7,
+      "action_id": "screen_2025-11-07T10:08:46.328836",
+      "intent_category": "search",
+      "intent_description": "User intends to search",
+      "intent_confidence": 0.4,
+      "contexts": {
+        "application": "SearchHost.exe",
+        "page": "Search Page",
+        "state": "viewing"
+      },
+      "source_session": "session_20251107_093408"
+    },
+    {
+      "step_number": 8,
+      "action_id": "screen_2025-11-07T10:08:47.368665",
+      "intent_category": "search",
+      "intent_description": "User intends to search",
+      "intent_confidence": 0.4,
+      "contexts": {
+        "application": "SearchHost.exe",
+        "page": "Search Page",
+        "state": "viewing"
+      },
+      "source_session": "session_20251107_093408"
+    },
+    {
+      "step_number": 9,
+      "action_id": "screen_2025-11-07T10:08:48.429393",
+      "intent_category": "search",
+      "intent_description": "User intends to search",
+      "intent_confidence": 0.4,
+      "contexts": {
+        "application": "SearchHost.exe",
+        "page": "Search Page",
+        "state": "viewing"
+      },
+      "source_session": "session_20251107_093408"
+    },
+    {
+      "step_number": 10,
+      "action_id": "screen_2025-11-07T10:08:49.448647",
+      "intent_category": "search",
+      "intent_description": "User intends to search",
+      "intent_confidence": 0.4,
+      "contexts": {
+        "application": "SearchHost.exe",
+        "page": "Search Page",
+        "state": "viewing"
+      },
+      "source_session": "session_20251107_093408"
+    },
+    {
+      "step_number": 11,
+      "action_id": "screen_2025-11-07T10:08:50.484626",
+      "intent_category": "search",
+      "intent_description": "User intends to search",
+      "intent_confidence": 0.4,
+      "contexts": {
+        "application": "SearchHost.exe",
+        "page": "Search Page",
+        "state": "viewing"
+      },
+      "source_session": "session_20251107_093408"
+    },
+    {
+      "step_number": 12,
+      "action_id": "screen_2025-11-07T10:08:51.480893",
+      "intent_category": "search",
+      "intent_description": "User intends to search",
+      "intent_confidence": 0.4,
+      "contexts": {
+        "application": "SearchHost.exe",
+        "page": "Search Page",
+        "state": "viewing"
+      },
+      "source_session": "session_20251107_093408"
+    },
+    {
+      "step_number": 13,
+      "action_id": "screen_2025-11-07T10:08:52.506437",
+      "intent_category": "search",
+      "intent_description": "User intends to search",
+      "intent_confidence": 0.4,
+      "contexts": {
+        "application": "SearchHost.exe",
+        "page": "Search Page",
+        "state": "viewing"
+      },
+      "source_session": "session_20251107_093408"
+    },
+    {
+      "step_number": 14,
+      "action_id": "screen_2025-11-07T10:08:53.510717",
+      "intent_category": "search",
+      "intent_description": "User intends to search",
+      "intent_confidence": 0.4,
+      "contexts": {
+        "application": "SearchHost.exe",
+        "page": "Search Page",
+        "state": "viewing"
+      },
+      "source_session": "session_20251107_093408"
+    },
+    {
+      "step_number": 15,
+      "action_id": "screen_2025-11-07T10:08:54.601809",
+      "intent_category": "search",
+      "intent_description": "User intends to search",
+      "intent_confidence": 0.4,
+      "contexts": {
+        "application": "SearchHost.exe",
+        "page": "Search Page",
+        "state": "viewing"
+      },
+      "source_session": "session_20251107_093408"
+    },
+    {
+      "step_number": 16,
+      "action_id": "screen_2025-11-07T10:08:55.702790",
+      "intent_category": "search",
+      "intent_description": "User intends to search",
+      "intent_confidence": 0.4,
+      "contexts": {
+        "application": "SearchHost.exe",
+        "page": "Search Page",
+        "state": "viewing"
+      },
+      "source_session": "session_20251107_093408"
+    },
+    {
+      "step_number": 17,
+      "action_id": "screen_2025-11-07T10:08:56.784006",
+      "intent_category": "search",
+      "intent_description": "User intends to search",
+      "intent_confidence": 0.4,
+      "contexts": {
+        "application": "SearchHost.exe",
+        "page": "Search Page",
+        "state": "viewing"
+      },
+      "source_session": "session_20251107_093408"
+    },
+    {
+      "step_number": 18,
+      "action_id": "screen_2025-11-07T10:08:57.865750",
+      "intent_category": "search",
+      "intent_description": "User intends to search",
+      "intent_confidence": 0.4,
+      "contexts": {
+        "application": "SearchHost.exe",
+        "page": "Search Page",
+        "state": "viewing"
+      },
+      "source_session": "session_20251107_093408"
+    },
+    {
+      "step_number": 19,
+      "action_id": "screen_2025-11-07T10:08:58.967453",
+      "intent_category": "search",
+      "intent_description": "User intends to search",
+      "intent_confidence": 0.4,
+      "contexts": {
+        "application": "SearchHost.exe",
+        "page": "Search Page",
+        "state": "viewing"
+      },
+      "source_session": "session_20251107_093408"
+    },
+    {
+      "step_number": 20,
+      "action_id": "screen_2025-11-07T10:09:00.046707",
+      "intent_category": "search",
+      "intent_description": "User intends to search",
+      "intent_confidence": 0.4,
+      "contexts": {
+        "application": "SearchHost.exe",
+        "page": "Search Page",
+        "state": "viewing"
+      },
+      "source_session": "session_20251107_093408"
+    },
+    {
+      "step_number": 21,
+      "action_id": "screen_2025-11-07T10:09:01.152982",
+      "intent_category": "search",
+      "intent_description": "User intends to search",
+      "intent_confidence": 0.4,
+      "contexts": {
+        "application": "SearchHost.exe",
+        "page": "Search Page",
+        "state": "viewing"
+      },
+      "source_session": "session_20251107_093408"
+    },
+    {
+      "step_number": 22,
+      "action_id": "screen_2025-11-07T10:09:02.192029",
+      "intent_category": "search",
+      "intent_description": "User intends to search",
+      "intent_confidence": 0.4,
+      "contexts": {
+        "application": "SearchHost.exe",
+        "page": "Search Page",
+        "state": "viewing"
+      },
+      "source_session": "session_20251107_093408"
+    },
+    {
+      "step_number": 23,
+      "action_id": "screen_2025-11-07T10:09:03.246834",
+      "intent_category": "search",
+      "intent_description": "User intends to search",
+      "intent_confidence": 0.4,
+      "contexts": {
+        "application": "SearchHost.exe",
+        "page": "Search Page",
+        "state": "viewing"
+      },
+      "source_session": "session_20251107_093408"
+    },
+    {
+      "step_number": 24,
+      "action_id": "screen_2025-11-07T10:09:04.276863",
+      "intent_category": "search",
+      "intent_description": "User intends to search",
+      "intent_confidence": 0.4,
+      "contexts": {
+        "application": "SearchHost.exe",
+        "page": "Search Page",
+        "state": "viewing"
+      },
+      "source_session": "session_20251107_093408"
+    },
+    {
+      "step_number": 25,
+      "action_id": "screen_2025-11-07T10:09:05.307528",
+      "intent_category": "search",
+      "intent_description": "User intends to search",
+      "intent_confidence": 0.4,
+      "contexts": {
+        "application": "SearchHost.exe",
+        "page": "Search Page",
+        "state": "viewing"
+      },
+      "source_session": "session_20251107_093408"
+    },
+    {
+      "step_number": 26,
+      "action_id": "screen_2025-11-07T10:09:06.312113",
+      "intent_category": "search",
+      "intent_description": "User intends to search",
+      "intent_confidence": 0.4,
+      "contexts": {
+        "application": "SearchHost.exe",
+        "page": "Search Page",
+        "state": "viewing"
+      },
+      "source_session": "session_20251107_093408"
+    },
+    {
+      "step_number": 27,
+      "action_id": "screen_2025-11-07T10:09:07.347428",
+      "intent_category": "search",
+      "intent_description": "User intends to search",
+      "intent_confidence": 0.4,
+      "contexts": {
+        "application": "SearchHost.exe",
+        "page": "Search Page",
+        "state": "viewing"
+      },
+      "source_session": "session_20251107_093408"
+    },
+    {
+      "step_number": 28,
+      "action_id": "screen_2025-11-07T10:09:08.359459",
+      "intent_category": "search",
+      "intent_description": "User intends to search",
+      "intent_confidence": 0.4,
+      "contexts": {
+        "application": "SearchHost.exe",
+        "page": "Search Page",
+        "state": "viewing"
+      },
+      "source_session": "session_20251107_093408"
+    },
+    {
+      "step_number": 29,
+      "action_id": "screen_2025-11-07T10:09:09.445332",
+      "intent_category": "search",
+      "intent_description": "User intends to search",
+      "intent_confidence": 0.4,
+      "contexts": {
+        "application": "SearchHost.exe",
+        "page": "Search Page",
+        "state": "viewing"
+      },
+      "source_session": "session_20251107_093408"
+    },
+    {
+      "step_number": 30,
+      "action_id": "screen_2025-11-07T10:09:10.542929",
+      "intent_category": "search",
+      "intent_description": "User intends to search",
+      "intent_confidence": 0.4,
+      "contexts": {
+        "application": "SearchHost.exe",
+        "page": "Search Page",
+        "state": "viewing"
+      },
+      "source_session": "session_20251107_093408"
+    },
+    {
+      "step_number": 31,
+      "action_id": "screen_2025-11-07T10:09:11.623371",
+      "intent_category": "search",
+      "intent_description": "User intends to search",
+      "intent_confidence": 0.4,
+      "contexts": {
+        "application": "SearchHost.exe",
+        "page": "Search Page",
+        "state": "viewing"
+      },
+      "source_session": "session_20251107_093408"
+    },
+    {
+      "step_number": 32,
+      "action_id": "screen_2025-11-07T10:09:12.691100",
+      "intent_category": "search",
+      "intent_description": "User intends to search",
+      "intent_confidence": 0.4,
+      "contexts": {
+        "application": "SearchHost.exe",
+        "page": "Search Page",
+        "state": "viewing"
+      },
+      "source_session": "session_20251107_093408"
+    },
+    {
+      "step_number": 33,
+      "action_id": "screen_2025-11-07T10:09:13.805530",
+      "intent_category": "search",
+      "intent_description": "User intends to search",
+      "intent_confidence": 0.4,
+      "contexts": {
+        "application": "SearchHost.exe",
+        "page": "Search Page",
+        "state": "viewing"
+      },
+      "source_session": "session_20251107_093408"
+    },
+    {
+      "step_number": 34,
+      "action_id": "screen_2025-11-07T10:09:14.825345",
+      "intent_category": "search",
+      "intent_description": "User intends to search",
+      "intent_confidence": 0.4,
+      "contexts": {
+        "application": "SearchHost.exe",
+        "page": "Search Page",
+        "state": "viewing"
+      },
+      "source_session": "session_20251107_093408"
+    },
+    {
+      "step_number": 35,
+      "action_id": "screen_2025-11-07T10:09:15.843635",
+      "intent_category": "search",
+      "intent_description": "User intends to search",
+      "intent_confidence": 0.4,
+      "contexts": {
+        "application": "SearchHost.exe",
+        "page": "Search Page",
+        "state": "viewing"
+      },
+      "source_session": "session_20251107_093408"
+    },
+    {
+      "step_number": 36,
+      "action_id": "screen_2025-11-07T10:09:16.886983",
+      "intent_category": "search",
+      "intent_description": "User intends to search",
+      "intent_confidence": 0.4,
+      "contexts": {
+        "application": "SearchHost.exe",
+        "page": "Search Page",
+        "state": "viewing"
+      },
+      "source_session": "session_20251107_093408"
+    },
+    {
+      "step_number": 37,
+      "action_id": "screen_2025-11-07T10:09:17.901661",
+      "intent_category": "search",
+      "intent_description": "User intends to search",
+      "intent_confidence": 0.4,
+      "contexts": {
+        "application": "SearchHost.exe",
+        "page": "Search Page",
+        "state": "viewing"
+      },
+      "source_session": "session_20251107_093408"
+    },
+    {
+      "step_number": 38,
+      "action_id": "screen_2025-11-07T10:09:18.903651",
+      "intent_category": "search",
+      "intent_description": "User intends to search",
+      "intent_confidence": 0.4,
+      "contexts": {
+        "application": "SearchHost.exe",
+        "page": "Search Page",
+        "state": "viewing"
+      },
+      "source_session": "session_20251107_093408"
+    },
+    {
+      "step_number": 39,
+      "action_id": "screen_2025-11-07T10:09:19.910861",
+      "intent_category": "search",
+      "intent_description": "User intends to search",
+      "intent_confidence": 0.4,
+      "contexts": {
+        "application": "SearchHost.exe",
+        "page": "Search Page",
+        "state": "viewing"
+      },
+      "source_session": "session_20251107_093408"
+    },
+    {
+      "step_number": 40,
+      "action_id": "screen_2025-11-07T10:09:20.990435",
+      "intent_category": "search",
+      "intent_description": "User intends to search",
+      "intent_confidence": 0.4,
+      "contexts": {
+        "application": "SearchHost.exe",
+        "page": "Search Page",
+        "state": "viewing"
+      },
+      "source_session": "session_20251107_093408"
+    },
+    {
+      "step_number": 41,
+      "action_id": "screen_2025-11-07T10:09:22.092939",
+      "intent_category": "search",
+      "intent_description": "User intends to search",
+      "intent_confidence": 0.4,
+      "contexts": {
+        "application": "SearchHost.exe",
+        "page": "Search Page",
+        "state": "viewing"
+      },
+      "source_session": "session_20251107_093408"
+    },
+    {
+      "step_number": 42,
+      "action_id": "screen_2025-11-07T10:09:23.087197",
+      "intent_category": "search",
+      "intent_description": "User intends to search",
+      "intent_confidence": 0.4,
+      "contexts": {
+        "application": "SearchHost.exe",
+        "page": "Search Page",
+        "state": "viewing"
+      },
+      "source_session": "session_20251107_093408"
+    },
+    {
+      "step_number": 43,
+      "action_id": "screen_2025-11-07T10:09:24.196248",
+      "intent_category": "search",
+      "intent_description": "User intends to search",
+      "intent_confidence": 0.4,
+      "contexts": {
+        "application": "SearchHost.exe",
+        "page": "Search Page",
+        "state": "viewing"
+      },
+      "source_session": "session_20251107_093408"
+    },
+    {
+      "step_number": 44,
+      "action_id": "screen_2025-11-07T10:09:25.201684",
+      "intent_category": "search",
+      "intent_description": "User intends to search",
+      "intent_confidence": 0.4,
+      "contexts": {
+        "application": "SearchHost.exe",
+        "page": "Search Page",
+        "state": "viewing"
+      },
+      "source_session": "session_20251107_093408"
+    },
+    {
+      "step_number": 45,
+      "action_id": "screen_2025-11-07T10:09:26.472700",
+      "intent_category": "search",
+      "intent_description": "User intends to search",
+      "intent_confidence": 0.4,
+      "contexts": {
+        "application": "SearchHost.exe",
+        "page": "Search Page",
+        "state": "viewing"
+      },
+      "source_session": "session_20251107_093408"
+    },
+    {
+      "step_number": 46,
+      "action_id": "screen_2025-11-07T10:09:27.331003",
+      "intent_category": "search",
+      "intent_description": "User intends to search",
+      "intent_confidence": 0.4,
+      "contexts": {
+        "application": "SearchHost.exe",
+        "page": "Search Page",
+        "state": "viewing"
+      },
+      "source_session": "session_20251107_093408"
+    },
+    {
+      "step_number": 47,
+      "action_id": "screen_2025-11-07T10:09:28.377206",
+      "intent_category": "search",
+      "intent_description": "User intends to search",
+      "intent_confidence": 0.4,
+      "contexts": {
+        "application": "SearchHost.exe",
+        "page": "Search Page",
+        "state": "viewing"
+      },
+      "source_session": "session_20251107_093408"
+    },
+    {
+      "step_number": 48,
+      "action_id": "screen_2025-11-07T10:09:29.390302",
+      "intent_category": "search",
+      "intent_description": "User intends to search",
+      "intent_confidence": 0.4,
+      "contexts": {
+        "application": "SearchHost.exe",
+        "page": "Search Page",
+        "state": "viewing"
+      },
+      "source_session": "session_20251107_093408"
+    },
+    {
+      "step_number": 49,
+      "action_id": "screen_2025-11-07T10:09:30.491156",
+      "intent_category": "search",
+      "intent_description": "User intends to search",
+      "intent_confidence": 0.4,
+      "contexts": {
+        "application": "SearchHost.exe",
+        "page": "Search Page",
+        "state": "viewing"
+      },
+      "source_session": "session_20251107_093408"
+    },
+    {
+      "step_number": 50,
+      "action_id": "screen_2025-11-07T10:09:31.417089",
+      "intent_category": "search",
+      "intent_description": "User intends to search",
+      "intent_confidence": 0.4,
+      "contexts": {
+        "application": "SearchHost.exe",
+        "page": "Search Page",
+        "state": "viewing"
+      },
+      "source_session": "session_20251107_093408"
+    },
+    {
+      "step_number": 51,
+      "action_id": "screen_2025-11-07T10:09:32.407816",
+      "intent_category": "search",
+      "intent_description": "User intends to search",
+      "intent_confidence": 0.4,
+      "contexts": {
+        "application": "SearchHost.exe",
+        "page": "Search Page",
+        "state": "viewing"
+      },
+      "source_session": "session_20251107_093408"
+    },
+    {
+      "step_number": 52,
+      "action_id": "screen_2025-11-07T10:09:33.502807",
+      "intent_category": "search",
+      "intent_description": "User intends to search",
+      "intent_confidence": 0.4,
+      "contexts": {
+        "application": "SearchHost.exe",
+        "page": "Search Page",
+        "state": "viewing"
+      },
+      "source_session": "session_20251107_093408"
+    },
+    {
+      "step_number": 53,
+      "action_id": "screen_2025-11-07T10:09:34.577272",
+      "intent_category": "search",
+      "intent_description": "User intends to search",
+      "intent_confidence": 0.4,
+      "contexts": {
+        "application": "SearchHost.exe",
+        "page": "Search Page",
+        "state": "viewing"
+      },
+      "source_session": "session_20251107_093408"
+    },
+    {
+      "step_number": 54,
+      "action_id": "screen_2025-11-07T10:09:35.676444",
+      "intent_category": "search",
+      "intent_description": "User intends to search",
+      "intent_confidence": 0.4,
+      "contexts": {
+        "application": "SearchHost.exe",
+        "page": "Search Page",
+        "state": "viewing"
+      },
+      "source_session": "session_20251107_093408"
+    },
+    {
+      "step_number": 55,
+      "action_id": "screen_2025-11-07T10:09:36.799404",
+      "intent_category": "search",
+      "intent_description": "User intends to search",
+      "intent_confidence": 0.4,
+      "contexts": {
+        "application": "SearchHost.exe",
+        "page": "Search Page",
+        "state": "viewing"
+      },
+      "source_session": "session_20251107_093408"
+    },
+    {
+      "step_number": 56,
+      "action_id": "screen_2025-11-07T10:09:37.869498",
+      "intent_category": "search",
+      "intent_description": "User intends to search",
+      "intent_confidence": 0.4,
+      "contexts": {
+        "application": "SearchHost.exe",
+        "page": "Search Page",
+        "state": "viewing"
+      },
+      "source_session": "session_20251107_093408"
+    },
+    {
+      "step_number": 57,
+      "action_id": "screen_2025-11-07T10:09:38.900977",
+      "intent_category": "search",
+      "intent_description": "User intends to search",
+      "intent_confidence": 0.4,
+      "contexts": {
+        "application": "SearchHost.exe",
+        "page": "Search Page",
+        "state": "viewing"
+      },
+      "source_session": "session_20251107_093408"
+    },
+    {
+      "step_number": 58,
+      "action_id": "screen_2025-11-07T10:09:39.899420",
+      "intent_category": "search",
+      "intent_description": "User intends to search",
+      "intent_confidence": 0.4,
+      "contexts": {
+        "application": "SearchHost.exe",
+        "page": "Search Page",
+        "state": "viewing"
+      },
+      "source_session": "session_20251107_093408"
+    },
+    {
+      "step_number": 59,
+      "action_id": "screen_2025-11-07T10:09:40.983734",
+      "intent_category": "search",
+      "intent_description": "User intends to search",
+      "intent_confidence": 0.4,
+      "contexts": {
+        "application": "SearchHost.exe",
+        "page": "Search Page",
+        "state": "viewing"
+      },
+      "source_session": "session_20251107_093408"
+    },
+    {
+      "step_number": 60,
+      "action_id": "screen_2025-11-07T10:09:42.104096",
+      "intent_category": "search",
+      "intent_description": "User intends to search",
+      "intent_confidence": 0.4,
+      "contexts": {
+        "application": "SearchHost.exe",
+        "page": "Search Page",
+        "state": "viewing"
+      },
+      "source_session": "session_20251107_093408"
+    },
+    {
+      "step_number": 61,
+      "action_id": "screen_2025-11-07T10:09:43.141512",
+      "intent_category": "search",
+      "intent_description": "User intends to search",
+      "intent_confidence": 0.4,
+      "contexts": {
+        "application": "SearchHost.exe",
+        "page": "Search Page",
+        "state": "viewing"
+      },
+      "source_session": "session_20251107_093408"
+    },
+    {
+      "step_number": 62,
+      "action_id": "screen_2025-11-07T10:09:44.248786",
+      "intent_category": "search",
+      "intent_description": "User intends to search",
+      "intent_confidence": 0.4,
+      "contexts": {
+        "application": "SearchHost.exe",
+        "page": "Search Page",
+        "state": "viewing"
+      },
+      "source_session": "session_20251107_093408"
+    },
+    {
+      "step_number": 63,
+      "action_id": "screen_2025-11-07T10:09:45.256427",
+      "intent_category": "search",
+      "intent_description": "User intends to search",
+      "intent_confidence": 0.4,
+      "contexts": {
+        "application": "SearchHost.exe",
+        "page": "Search Page",
+        "state": "viewing"
+      },
+      "source_session": "session_20251107_093408"
+    },
+    {
+      "step_number": 64,
+      "action_id": "screen_2025-11-07T10:09:46.262666",
+      "intent_category": "search",
+      "intent_description": "User intends to search",
+      "intent_confidence": 0.4,
+      "contexts": {
+        "application": "SearchHost.exe",
+        "page": "Search Page",
+        "state": "viewing"
+      },
+      "source_session": "session_20251107_093408"
+    },
+    {
+      "step_number": 65,
+      "action_id": "screen_2025-11-07T10:09:47.269542",
+      "intent_category": "search",
+      "intent_description": "User intends to search",
+      "intent_confidence": 0.4,
+      "contexts": {
+        "application": "SearchHost.exe",
+        "page": "Search Page",
+        "state": "viewing"
+      },
+      "source_session": "session_20251107_093408"
+    },
+    {
+      "step_number": 66,
+      "action_id": "screen_2025-11-07T10:09:48.305678",
+      "intent_category": "search",
+      "intent_description": "User intends to search",
+      "intent_confidence": 0.4,
+      "contexts": {
+        "application": "SearchHost.exe",
+        "page": "Search Page",
+        "state": "viewing"
+      },
+      "source_session": "session_20251107_093408"
+    },
+    {
+      "step_number": 67,
+      "action_id": "screen_2025-11-07T10:09:49.326402",
+      "intent_category": "search",
+      "intent_description": "User intends to search",
+      "intent_confidence": 0.4,
+      "contexts": {
+        "application": "SearchHost.exe",
+        "page": "Search Page",
+        "state": "viewing"
+      },
+      "source_session": "session_20251107_093408"
+    },
+    {
+      "step_number": 68,
+      "action_id": "screen_2025-11-07T10:09:50.362257",
+      "intent_category": "search",
+      "intent_description": "User intends to search",
+      "intent_confidence": 0.4,
+      "contexts": {
+        "application": "SearchHost.exe",
+        "page": "Search Page",
+        "state": "viewing"
+      },
+      "source_session": "session_20251107_093408"
+    },
+    {
+      "step_number": 69,
+      "action_id": "screen_2025-11-07T10:09:51.369497",
+      "intent_category": "search",
+      "intent_description": "User intends to search",
+      "intent_confidence": 0.4,
+      "contexts": {
+        "application": "SearchHost.exe",
+        "page": "Search Page",
+        "state": "viewing"
+      },
+      "source_session": "session_20251107_093408"
+    },
+    {
+      "step_number": 70,
+      "action_id": "screen_2025-11-07T10:09:52.396135",
+      "intent_category": "search",
+      "intent_description": "User intends to search",
+      "intent_confidence": 0.4,
+      "contexts": {
+        "application": "SearchHost.exe",
+        "page": "Search Page",
+        "state": "viewing"
+      },
+      "source_session": "session_20251107_093408"
+    },
+    {
+      "step_number": 71,
+      "action_id": "screen_2025-11-07T10:09:53.432074",
+      "intent_category": "search",
+      "intent_description": "User intends to search",
+      "intent_confidence": 0.4,
+      "contexts": {
+        "application": "SearchHost.exe",
+        "page": "Search Page",
+        "state": "viewing"
+      },
+      "source_session": "session_20251107_093408"
+    },
+    {
+      "step_number": 72,
+      "action_id": "screen_2025-11-07T10:09:54.479281",
+      "intent_category": "search",
+      "intent_description": "User intends to search",
+      "intent_confidence": 0.4,
+      "contexts": {
+        "application": "SearchHost.exe",
+        "page": "Search Page",
+        "state": "viewing"
+      },
+      "source_session": "session_20251107_093408"
+    },
+    {
+      "step_number": 73,
+      "action_id": "screen_2025-11-07T10:09:55.466007",
+      "intent_category": "search",
+      "intent_description": "User intends to search",
+      "intent_confidence": 0.4,
+      "contexts": {
+        "application": "SearchHost.exe",
+        "page": "Search Page",
+        "state": "viewing"
+      },
+      "source_session": "session_20251107_093408"
+    },
+    {
+      "step_number": 74,
+      "action_id": "screen_2025-11-07T10:09:56.551168",
+      "intent_category": "search",
+      "intent_description": "User intends to search",
+      "intent_confidence": 0.4,
+      "contexts": {
+        "application": "SearchHost.exe",
+        "page": "Search Page",
+        "state": "viewing"
+      },
+      "source_session": "session_20251107_093408"
+    },
+    {
+      "step_number": 75,
+      "action_id": "screen_2025-11-07T10:09:57.646284",
+      "intent_category": "search",
+      "intent_description": "User intends to search",
+      "intent_confidence": 0.4,
+      "contexts": {
+        "application": "SearchHost.exe",
+        "page": "Search Page",
+        "state": "viewing"
+      },
+      "source_session": "session_20251107_093408"
+    },
+    {
+      "step_number": 76,
+      "action_id": "screen_2025-11-07T10:09:58.725947",
+      "intent_category": "search",
+      "intent_description": "User intends to search",
+      "intent_confidence": 0.4,
+      "contexts": {
+        "application": "SearchHost.exe",
+        "page": "Search Page",
+        "state": "viewing"
+      },
+      "source_session": "session_20251107_093408"
+    },
+    {
+      "step_number": 77,
+      "action_id": "screen_2025-11-07T10:09:59.804540",
+      "intent_category": "search",
+      "intent_description": "User intends to search",
+      "intent_confidence": 0.4,
+      "contexts": {
+        "application": "SearchHost.exe",
+        "page": "Search Page",
+        "state": "viewing"
+      },
+      "source_session": "session_20251107_093408"
+    },
+    {
+      "step_number": 78,
+      "action_id": "screen_2025-11-07T10:10:00.892170",
+      "intent_category": "search",
+      "intent_description": "User intends to search",
+      "intent_confidence": 0.4,
+      "contexts": {
+        "application": "SearchHost.exe",
+        "page": "Search Page",
+        "state": "viewing"
+      },
+      "source_session": "session_20251107_093408"
+    },
+    {
+      "step_number": 79,
+      "action_id": "screen_2025-11-07T10:10:01.992287",
+      "intent_category": "search",
+      "intent_description": "User intends to search",
+      "intent_confidence": 0.4,
+      "contexts": {
+        "application": "SearchHost.exe",
+        "page": "Search Page",
+        "state": "viewing"
+      },
+      "source_session": "session_20251107_093408"
+    },
+    {
+      "step_number": 80,
+      "action_id": "screen_2025-11-07T10:10:03.020637",
+      "intent_category": "search",
+      "intent_description": "User intends to search",
+      "intent_confidence": 0.4,
+      "contexts": {
+        "application": "SearchHost.exe",
+        "page": "Search Page",
+        "state": "viewing"
+      },
+      "source_session": "session_20251107_093408"
+    },
+    {
+      "step_number": 81,
+      "action_id": "screen_2025-11-07T10:10:04.088602",
+      "intent_category": "search",
+      "intent_description": "User intends to search",
+      "intent_confidence": 0.4,
+      "contexts": {
+        "application": "SearchHost.exe",
+        "page": "Search Page",
+        "state": "viewing"
+      },
+      "source_session": "session_20251107_093408"
+    },
+    {
+      "step_number": 82,
+      "action_id": "screen_2025-11-07T10:10:05.106377",
+      "intent_category": "search",
+      "intent_description": "User intends to search",
+      "intent_confidence": 0.4,
+      "contexts": {
+        "application": "SearchHost.exe",
+        "page": "Search Page",
+        "state": "viewing"
+      },
+      "source_session": "session_20251107_093408"
+    },
+    {
+      "step_number": 83,
+      "action_id": "screen_2025-11-07T10:10:06.111701",
+      "intent_category": "search",
+      "intent_description": "User intends to search",
+      "intent_confidence": 0.4,
+      "contexts": {
+        "application": "SearchHost.exe",
+        "page": "Search Page",
+        "state": "viewing"
+      },
+      "source_session": "session_20251107_093408"
+    },
+    {
+      "step_number": 84,
+      "action_id": "screen_2025-11-07T10:10:07.152759",
+      "intent_category": "search",
+      "intent_description": "User intends to search",
+      "intent_confidence": 0.4,
+      "contexts": {
+        "application": "SearchHost.exe",
+        "page": "Search Page",
+        "state": "viewing"
+      },
+      "source_session": "session_20251107_093408"
+    },
+    {
+      "step_number": 85,
+      "action_id": "screen_2025-11-07T10:10:08.191270",
+      "intent_category": "search",
+      "intent_description": "User intends to search",
+      "intent_confidence": 0.4,
+      "contexts": {
+        "application": "SearchHost.exe",
+        "page": "Search Page",
+        "state": "viewing"
+      },
+      "source_session": "session_20251107_093408"
+    },
+    {
+      "step_number": 86,
+      "action_id": "screen_2025-11-07T10:10:09.220557",
+      "intent_category": "search",
+      "intent_description": "User intends to search",
+      "intent_confidence": 0.4,
+      "contexts": {
+        "application": "SearchHost.exe",
+        "page": "Search Page",
+        "state": "viewing"
+      },
+      "source_session": "session_20251107_093408"
+    },
+    {
+      "step_number": 87,
+      "action_id": "screen_2025-11-07T10:10:10.260296",
+      "intent_category": "search",
+      "intent_description": "User intends to search",
+      "intent_confidence": 0.4,
+      "contexts": {
+        "application": "SearchHost.exe",
+        "page": "Search Page",
+        "state": "viewing"
+      },
+      "source_session": "session_20251107_093408"
+    },
+    {
+      "step_number": 88,
+      "action_id": "screen_2025-11-07T10:10:11.290734",
+      "intent_category": "search",
+      "intent_description": "User intends to search",
+      "intent_confidence": 0.4,
+      "contexts": {
+        "application": "SearchHost.exe",
+        "page": "Search Page",
+        "state": "viewing"
+      },
+      "source_session": "session_20251107_093408"
+    },
+    {
+      "step_number": 89,
+      "action_id": "screen_2025-11-07T10:10:12.325867",
+      "intent_category": "search",
+      "intent_description": "User intends to search",
+      "intent_confidence": 0.4,
+      "contexts": {
+        "application": "SearchHost.exe",
+        "page": "Search Page",
+        "state": "viewing"
+      },
+      "source_session": "session_20251107_093408"
+    },
+    {
+      "step_number": 90,
+      "action_id": "screen_2025-11-07T10:10:13.342235",
+      "intent_category": "search",
+      "intent_description": "User intends to search",
+      "intent_confidence": 0.4,
+      "contexts": {
+        "application": "SearchHost.exe",
+        "page": "Search Page",
+        "state": "viewing"
+      },
+      "source_session": "session_20251107_093408"
+    },
+    {
+      "step_number": 91,
+      "action_id": "screen_2025-11-07T10:10:14.378793",
+      "intent_category": "search",
+      "intent_description": "User intends to search",
+      "intent_confidence": 0.4,
+      "contexts": {
+        "application": "SearchHost.exe",
+        "page": "Search Page",
+        "state": "viewing"
+      },
+      "source_session": "session_20251107_093408"
+    },
+    {
+      "step_number": 92,
+      "action_id": "screen_2025-11-07T10:10:15.400863",
+      "intent_category": "search",
+      "intent_description": "User intends to search",
+      "intent_confidence": 0.4,
+      "contexts": {
+        "application": "SearchHost.exe",
+        "page": "Search Page",
+        "state": "viewing"
+      },
+      "source_session": "session_20251107_093408"
+    },
+    {
+      "step_number": 93,
+      "action_id": "screen_2025-11-07T10:10:16.430130",
+      "intent_category": "search",
+      "intent_description": "User intends to search",
+      "intent_confidence": 0.4,
+      "contexts": {
+        "application": "SearchHost.exe",
+        "page": "Search Page",
+        "state": "viewing"
+      },
+      "source_session": "session_20251107_093408"
+    }
+  ]
+}

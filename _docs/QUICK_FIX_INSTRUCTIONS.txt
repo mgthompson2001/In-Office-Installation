@@ -1,0 +1,41 @@
+QUICK FIX: See All Computers in Update Manager
+==============================================
+
+PROBLEM: You only see one computer because each computer stores data locally.
+
+SOLUTION: Create a shared folder that all computers can access.
+
+STEP 1: Create Shared Folder on Company Drive
+---------------------------------------------
+1. Right-click on "setup_company_shared_drive.bat" in this folder
+2. Run it and enter your company shared drive path
+3. Example: \\server\shared or \\fileserver\company
+4. Wait for it to complete
+
+STEP 2: Restart Update Manager on ALL Computers
+-----------------------------------------------
+1. Close the update manager on all computers
+2. Reopen the update manager on all computers
+3. All computers should now appear in the list
+
+STEP 3: Verify It's Working
+---------------------------
+1. Open the update manager on any computer
+2. You should see all computers listed
+3. Each computer should show as "Online"
+
+TROUBLESHOOTING:
+- If computers still don't appear, check Windows Firewall
+- Make sure all computers are on the same network
+- Try running the shared folder script as administrator
+
+ALTERNATIVE: Manual Setup on Company Drive
+------------------------------------------
+If the script doesn't work:
+1. Navigate to your company shared drive (e.g., \\server\shared)
+2. Create folder: CCMD_Bot_Manager
+3. Right-click folder > Properties > Security
+4. Click "Edit" > "Add" > "Everyone" > "Full Control"
+5. Restart update manager on all computers
+
+The shared folder will be at: \\YOUR_SERVER\CCMD_Bot_Manager

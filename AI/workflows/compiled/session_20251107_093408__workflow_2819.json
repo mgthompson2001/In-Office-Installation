@@ -1,0 +1,778 @@
+{
+  "workflow_key": "session_20251107_093408::workflow_2819",
+  "session_id": "session_20251107_093408",
+  "workflow_id": "workflow_2819",
+  "workflow_type": "interaction",
+  "description": "... and 53 more actions",
+  "goal": "Goal: therapy notes management",
+  "confidence": 0.7,
+  "timestamp": "2025-11-08T10:13:31.978457",
+  "summary": [
+    "Workflow captured from session session_20251107_093408 (interaction).",
+    "Contains 58 recorded actions with goal: Goal: therapy notes management.",
+    "Top intents detected:",
+    "  • Unknown (58 steps)",
+    "Primary applications involved:",
+    "  • Browser (58 steps)",
+    "Common screens/pages:",
+    "  • p4 - Penelope by Athena Software - v4.24.33.0 - Google Chrome (58 steps)",
+    "Suggested interpretation:",
+    "  Mixed activity detected; review simulation output for step-by-step context."
+  ],
+  "steps": [
+    {
+      "step_number": 1,
+      "action_id": "screen_2025-11-07T10:06:16.310948",
+      "intent_category": "unknown",
+      "intent_description": "Intent unclear",
+      "intent_confidence": 0.0,
+      "contexts": {
+        "application": "Browser",
+        "page": "p4 - Penelope by Athena Software - v4.24.33.0 - Google Chrome",
+        "state": "viewing"
+      },
+      "source_session": "session_20251107_093408"
+    },
+    {
+      "step_number": 2,
+      "action_id": "screen_2025-11-07T10:06:17.305945",
+      "intent_category": "unknown",
+      "intent_description": "Intent unclear",
+      "intent_confidence": 0.0,
+      "contexts": {
+        "application": "Browser",
+        "page": "p4 - Penelope by Athena Software - v4.24.33.0 - Google Chrome",
+        "state": "viewing"
+      },
+      "source_session": "session_20251107_093408"
+    },
+    {
+      "step_number": 3,
+      "action_id": "screen_2025-11-07T10:06:18.788426",
+      "intent_category": "unknown",
+      "intent_description": "Intent unclear",
+      "intent_confidence": 0.0,
+      "contexts": {
+        "application": "Browser",
+        "page": "p4 - Penelope by Athena Software - v4.24.33.0 - Google Chrome",
+        "state": "viewing"
+      },
+      "source_session": "session_20251107_093408"
+    },
+    {
+      "step_number": 4,
+      "action_id": "screen_2025-11-07T10:06:19.373247",
+      "intent_category": "unknown",
+      "intent_description": "Intent unclear",
+      "intent_confidence": 0.0,
+      "contexts": {
+        "application": "Browser",
+        "page": "p4 - Penelope by Athena Software - v4.24.33.0 - Google Chrome",
+        "state": "viewing"
+      },
+      "source_session": "session_20251107_093408"
+    },
+    {
+      "step_number": 5,
+      "action_id": "screen_2025-11-07T10:06:20.444508",
+      "intent_category": "unknown",
+      "intent_description": "Intent unclear",
+      "intent_confidence": 0.0,
+      "contexts": {
+        "application": "Browser",
+        "page": "p4 - Penelope by Athena Software - v4.24.33.0 - Google Chrome",
+        "state": "viewing"
+      },
+      "source_session": "session_20251107_093408"
+    },
+    {
+      "step_number": 6,
+      "action_id": "screen_2025-11-07T10:06:22.043962",
+      "intent_category": "unknown",
+      "intent_description": "Intent unclear",
+      "intent_confidence": 0.0,
+      "contexts": {
+        "application": "Browser",
+        "page": "p4 - Penelope by Athena Software - v4.24.33.0 - Google Chrome",
+        "state": "viewing"
+      },
+      "source_session": "session_20251107_093408"
+    },
+    {
+      "step_number": 7,
+      "action_id": "screen_2025-11-07T10:06:22.771836",
+      "intent_category": "unknown",
+      "intent_description": "Intent unclear",
+      "intent_confidence": 0.0,
+      "contexts": {
+        "application": "Browser",
+        "page": "p4 - Penelope by Athena Software - v4.24.33.0 - Google Chrome",
+        "state": "viewing"
+      },
+      "source_session": "session_20251107_093408"
+    },
+    {
+      "step_number": 8,
+      "action_id": "screen_2025-11-07T10:06:23.703108",
+      "intent_category": "unknown",
+      "intent_description": "Intent unclear",
+      "intent_confidence": 0.0,
+      "contexts": {
+        "application": "Browser",
+        "page": "p4 - Penelope by Athena Software - v4.24.33.0 - Google Chrome",
+        "state": "viewing"
+      },
+      "source_session": "session_20251107_093408"
+    },
+    {
+      "step_number": 9,
+      "action_id": "screen_2025-11-07T10:06:24.713298",
+      "intent_category": "unknown",
+      "intent_description": "Intent unclear",
+      "intent_confidence": 0.0,
+      "contexts": {
+        "application": "Browser",
+        "page": "p4 - Penelope by Athena Software - v4.24.33.0 - Google Chrome",
+        "state": "viewing"
+      },
+      "source_session": "session_20251107_093408"
+    },
+    {
+      "step_number": 10,
+      "action_id": "screen_2025-11-07T10:06:25.726310",
+      "intent_category": "unknown",
+      "intent_description": "Intent unclear",
+      "intent_confidence": 0.0,
+      "contexts": {
+        "application": "Browser",
+        "page": "p4 - Penelope by Athena Software - v4.24.33.0 - Google Chrome",
+        "state": "viewing"
+      },
+      "source_session": "session_20251107_093408"
+    },
+    {
+      "step_number": 11,
+      "action_id": "screen_2025-11-07T10:06:27.031938",
+      "intent_category": "unknown",
+      "intent_description": "Intent unclear",
+      "intent_confidence": 0.0,
+      "contexts": {
+        "application": "Browser",
+        "page": "p4 - Penelope by Athena Software - v4.24.33.0 - Google Chrome",
+        "state": "viewing"
+      },
+      "source_session": "session_20251107_093408"
+    },
+    {
+      "step_number": 12,
+      "action_id": "screen_2025-11-07T10:06:28.154817",
+      "intent_category": "unknown",
+      "intent_description": "Intent unclear",
+      "intent_confidence": 0.0,
+      "contexts": {
+        "application": "Browser",
+        "page": "p4 - Penelope by Athena Software - v4.24.33.0 - Google Chrome",
+        "state": "viewing"
+      },
+      "source_session": "session_20251107_093408"
+    },
+    {
+      "step_number": 13,
+      "action_id": "screen_2025-11-07T10:06:29.013437",
+      "intent_category": "unknown",
+      "intent_description": "Intent unclear",
+      "intent_confidence": 0.0,
+      "contexts": {
+        "application": "Browser",
+        "page": "p4 - Penelope by Athena Software - v4.24.33.0 - Google Chrome",
+        "state": "viewing"
+      },
+      "source_session": "session_20251107_093408"
+    },
+    {
+      "step_number": 14,
+      "action_id": "screen_2025-11-07T10:06:30.060380",
+      "intent_category": "unknown",
+      "intent_description": "Intent unclear",
+      "intent_confidence": 0.0,
+      "contexts": {
+        "application": "Browser",
+        "page": "p4 - Penelope by Athena Software - v4.24.33.0 - Google Chrome",
+        "state": "viewing"
+      },
+      "source_session": "session_20251107_093408"
+    },
+    {
+      "step_number": 15,
+      "action_id": "screen_2025-11-07T10:06:31.093081",
+      "intent_category": "unknown",
+      "intent_description": "Intent unclear",
+      "intent_confidence": 0.0,
+      "contexts": {
+        "application": "Browser",
+        "page": "p4 - Penelope by Athena Software - v4.24.33.0 - Google Chrome",
+        "state": "viewing"
+      },
+      "source_session": "session_20251107_093408"
+    },
+    {
+      "step_number": 16,
+      "action_id": "screen_2025-11-07T10:06:32.316970",
+      "intent_category": "unknown",
+      "intent_description": "Intent unclear",
+      "intent_confidence": 0.0,
+      "contexts": {
+        "application": "Browser",
+        "page": "p4 - Penelope by Athena Software - v4.24.33.0 - Google Chrome",
+        "state": "viewing"
+      },
+      "source_session": "session_20251107_093408"
+    },
+    {
+      "step_number": 17,
+      "action_id": "screen_2025-11-07T10:06:33.320932",
+      "intent_category": "unknown",
+      "intent_description": "Intent unclear",
+      "intent_confidence": 0.0,
+      "contexts": {
+        "application": "Browser",
+        "page": "p4 - Penelope by Athena Software - v4.24.33.0 - Google Chrome",
+        "state": "viewing"
+      },
+      "source_session": "session_20251107_093408"
+    },
+    {
+      "step_number": 18,
+      "action_id": "screen_2025-11-07T10:06:34.384000",
+      "intent_category": "unknown",
+      "intent_description": "Intent unclear",
+      "intent_confidence": 0.0,
+      "contexts": {
+        "application": "Browser",
+        "page": "p4 - Penelope by Athena Software - v4.24.33.0 - Google Chrome",
+        "state": "viewing"
+      },
+      "source_session": "session_20251107_093408"
+    },
+    {
+      "step_number": 19,
+      "action_id": "screen_2025-11-07T10:06:35.429969",
+      "intent_category": "unknown",
+      "intent_description": "Intent unclear",
+      "intent_confidence": 0.0,
+      "contexts": {
+        "application": "Browser",
+        "page": "p4 - Penelope by Athena Software - v4.24.33.0 - Google Chrome",
+        "state": "viewing"
+      },
+      "source_session": "session_20251107_093408"
+    },
+    {
+      "step_number": 20,
+      "action_id": "screen_2025-11-07T10:06:36.457121",
+      "intent_category": "unknown",
+      "intent_description": "Intent unclear",
+      "intent_confidence": 0.0,
+      "contexts": {
+        "application": "Browser",
+        "page": "p4 - Penelope by Athena Software - v4.24.33.0 - Google Chrome",
+        "state": "viewing"
+      },
+      "source_session": "session_20251107_093408"
+    },
+    {
+      "step_number": 21,
+      "action_id": "screen_2025-11-07T10:06:37.506477",
+      "intent_category": "unknown",
+      "intent_description": "Intent unclear",
+      "intent_confidence": 0.0,
+      "contexts": {
+        "application": "Browser",
+        "page": "p4 - Penelope by Athena Software - v4.24.33.0 - Google Chrome",
+        "state": "viewing"
+      },
+      "source_session": "session_20251107_093408"
+    },
+    {
+      "step_number": 22,
+      "action_id": "screen_2025-11-07T10:06:38.532514",
+      "intent_category": "unknown",
+      "intent_description": "Intent unclear",
+      "intent_confidence": 0.0,
+      "contexts": {
+        "application": "Browser",
+        "page": "p4 - Penelope by Athena Software - v4.24.33.0 - Google Chrome",
+        "state": "viewing"
+      },
+      "source_session": "session_20251107_093408"
+    },
+    {
+      "step_number": 23,
+      "action_id": "screen_2025-11-07T10:06:39.601594",
+      "intent_category": "unknown",
+      "intent_description": "Intent unclear",
+      "intent_confidence": 0.0,
+      "contexts": {
+        "application": "Browser",
+        "page": "p4 - Penelope by Athena Software - v4.24.33.0 - Google Chrome",
+        "state": "viewing"
+      },
+      "source_session": "session_20251107_093408"
+    },
+    {
+      "step_number": 24,
+      "action_id": "screen_2025-11-07T10:06:40.631322",
+      "intent_category": "unknown",
+      "intent_description": "Intent unclear",
+      "intent_confidence": 0.0,
+      "contexts": {
+        "application": "Browser",
+        "page": "p4 - Penelope by Athena Software - v4.24.33.0 - Google Chrome",
+        "state": "viewing"
+      },
+      "source_session": "session_20251107_093408"
+    },
+    {
+      "step_number": 25,
+      "action_id": "screen_2025-11-07T10:06:41.664002",
+      "intent_category": "unknown",
+      "intent_description": "Intent unclear",
+      "intent_confidence": 0.0,
+      "contexts": {
+        "application": "Browser",
+        "page": "p4 - Penelope by Athena Software - v4.24.33.0 - Google Chrome",
+        "state": "viewing"
+      },
+      "source_session": "session_20251107_093408"
+    },
+    {
+      "step_number": 26,
+      "action_id": "screen_2025-11-07T10:06:42.688152",
+      "intent_category": "unknown",
+      "intent_description": "Intent unclear",
+      "intent_confidence": 0.0,
+      "contexts": {
+        "application": "Browser",
+        "page": "p4 - Penelope by Athena Software - v4.24.33.0 - Google Chrome",
+        "state": "viewing"
+      },
+      "source_session": "session_20251107_093408"
+    },
+    {
+      "step_number": 27,
+      "action_id": "screen_2025-11-07T10:06:43.732326",
+      "intent_category": "unknown",
+      "intent_description": "Intent unclear",
+      "intent_confidence": 0.0,
+      "contexts": {
+        "application": "Browser",
+        "page": "p4 - Penelope by Athena Software - v4.24.33.0 - Google Chrome",
+        "state": "viewing"
+      },
+      "source_session": "session_20251107_093408"
+    },
+    {
+      "step_number": 28,
+      "action_id": "screen_2025-11-07T10:06:44.764779",
+      "intent_category": "unknown",
+      "intent_description": "Intent unclear",
+      "intent_confidence": 0.0,
+      "contexts": {
+        "application": "Browser",
+        "page": "p4 - Penelope by Athena Software - v4.24.33.0 - Google Chrome",
+        "state": "viewing"
+      },
+      "source_session": "session_20251107_093408"
+    },
+    {
+      "step_number": 29,
+      "action_id": "screen_2025-11-07T10:06:45.793937",
+      "intent_category": "unknown",
+      "intent_description": "Intent unclear",
+      "intent_confidence": 0.0,
+      "contexts": {
+        "application": "Browser",
+        "page": "p4 - Penelope by Athena Software - v4.24.33.0 - Google Chrome",
+        "state": "viewing"
+      },
+      "source_session": "session_20251107_093408"
+    },
+    {
+      "step_number": 30,
+      "action_id": "screen_2025-11-07T10:06:46.805601",
+      "intent_category": "unknown",
+      "intent_description": "Intent unclear",
+      "intent_confidence": 0.0,
+      "contexts": {
+        "application": "Browser",
+        "page": "p4 - Penelope by Athena Software - v4.24.33.0 - Google Chrome",
+        "state": "viewing"
+      },
+      "source_session": "session_20251107_093408"
+    },
+    {
+      "step_number": 31,
+      "action_id": "screen_2025-11-07T10:06:47.866382",
+      "intent_category": "unknown",
+      "intent_description": "Intent unclear",
+      "intent_confidence": 0.0,
+      "contexts": {
+        "application": "Browser",
+        "page": "p4 - Penelope by Athena Software - v4.24.33.0 - Google Chrome",
+        "state": "viewing"
+      },
+      "source_session": "session_20251107_093408"
+    },
+    {
+      "step_number": 32,
+      "action_id": "screen_2025-11-07T10:06:48.923543",
+      "intent_category": "unknown",
+      "intent_description": "Intent unclear",
+      "intent_confidence": 0.0,
+      "contexts": {
+        "application": "Browser",
+        "page": "p4 - Penelope by Athena Software - v4.24.33.0 - Google Chrome",
+        "state": "viewing"
+      },
+      "source_session": "session_20251107_093408"
+    },
+    {
+      "step_number": 33,
+      "action_id": "screen_2025-11-07T10:06:50.016711",
+      "intent_category": "unknown",
+      "intent_description": "Intent unclear",
+      "intent_confidence": 0.0,
+      "contexts": {
+        "application": "Browser",
+        "page": "p4 - Penelope by Athena Software - v4.24.33.0 - Google Chrome",
+        "state": "viewing"
+      },
+      "source_session": "session_20251107_093408"
+    },
+    {
+      "step_number": 34,
+      "action_id": "screen_2025-11-07T10:06:51.115587",
+      "intent_category": "unknown",
+      "intent_description": "Intent unclear",
+      "intent_confidence": 0.0,
+      "contexts": {
+        "application": "Browser",
+        "page": "p4 - Penelope by Athena Software - v4.24.33.0 - Google Chrome",
+        "state": "viewing"
+      },
+      "source_session": "session_20251107_093408"
+    },
+    {
+      "step_number": 35,
+      "action_id": "screen_2025-11-07T10:06:52.148371",
+      "intent_category": "unknown",
+      "intent_description": "Intent unclear",
+      "intent_confidence": 0.0,
+      "contexts": {
+        "application": "Browser",
+        "page": "p4 - Penelope by Athena Software - v4.24.33.0 - Google Chrome",
+        "state": "viewing"
+      },
+      "source_session": "session_20251107_093408"
+    },
+    {
+      "step_number": 36,
+      "action_id": "screen_2025-11-07T10:06:53.279879",
+      "intent_category": "unknown",
+      "intent_description": "Intent unclear",
+      "intent_confidence": 0.0,
+      "contexts": {
+        "application": "Browser",
+        "page": "p4 - Penelope by Athena Software - v4.24.33.0 - Google Chrome",
+        "state": "viewing"
+      },
+      "source_session": "session_20251107_093408"
+    },
+    {
+      "step_number": 37,
+      "action_id": "screen_2025-11-07T10:06:54.311745",
+      "intent_category": "unknown",
+      "intent_description": "Intent unclear",
+      "intent_confidence": 0.0,
+      "contexts": {
+        "application": "Browser",
+        "page": "p4 - Penelope by Athena Software - v4.24.33.0 - Google Chrome",
+        "state": "viewing"
+      },
+      "source_session": "session_20251107_093408"
+    },
+    {
+      "step_number": 38,
+      "action_id": "screen_2025-11-07T10:06:55.326941",
+      "intent_category": "unknown",
+      "intent_description": "Intent unclear",
+      "intent_confidence": 0.0,
+      "contexts": {
+        "application": "Browser",
+        "page": "p4 - Penelope by Athena Software - v4.24.33.0 - Google Chrome",
+        "state": "viewing"
+      },
+      "source_session": "session_20251107_093408"
+    },
+    {
+      "step_number": 39,
+      "action_id": "screen_2025-11-07T10:06:56.334571",
+      "intent_category": "unknown",
+      "intent_description": "Intent unclear",
+      "intent_confidence": 0.0,
+      "contexts": {
+        "application": "Browser",
+        "page": "p4 - Penelope by Athena Software - v4.24.33.0 - Google Chrome",
+        "state": "viewing"
+      },
+      "source_session": "session_20251107_093408"
+    },
+    {
+      "step_number": 40,
+      "action_id": "screen_2025-11-07T10:06:57.422688",
+      "intent_category": "unknown",
+      "intent_description": "Intent unclear",
+      "intent_confidence": 0.0,
+      "contexts": {
+        "application": "Browser",
+        "page": "p4 - Penelope by Athena Software - v4.24.33.0 - Google Chrome",
+        "state": "viewing"
+      },
+      "source_session": "session_20251107_093408"
+    },
+    {
+      "step_number": 41,
+      "action_id": "screen_2025-11-07T10:06:58.521733",
+      "intent_category": "unknown",
+      "intent_description": "Intent unclear",
+      "intent_confidence": 0.0,
+      "contexts": {
+        "application": "Browser",
+        "page": "p4 - Penelope by Athena Software - v4.24.33.0 - Google Chrome",
+        "state": "viewing"
+      },
+      "source_session": "session_20251107_093408"
+    },
+    {
+      "step_number": 42,
+      "action_id": "screen_2025-11-07T10:06:59.532289",
+      "intent_category": "unknown",
+      "intent_description": "Intent unclear",
+      "intent_confidence": 0.0,
+      "contexts": {
+        "application": "Browser",
+        "page": "p4 - Penelope by Athena Software - v4.24.33.0 - Google Chrome",
+        "state": "viewing"
+      },
+      "source_session": "session_20251107_093408"
+    },
+    {
+      "step_number": 43,
+      "action_id": "screen_2025-11-07T10:07:00.536804",
+      "intent_category": "unknown",
+      "intent_description": "Intent unclear",
+      "intent_confidence": 0.0,
+      "contexts": {
+        "application": "Browser",
+        "page": "p4 - Penelope by Athena Software - v4.24.33.0 - Google Chrome",
+        "state": "viewing"
+      },
+      "source_session": "session_20251107_093408"
+    },
+    {
+      "step_number": 44,
+      "action_id": "screen_2025-11-07T10:07:01.552208",
+      "intent_category": "unknown",
+      "intent_description": "Intent unclear",
+      "intent_confidence": 0.0,
+      "contexts": {
+        "application": "Browser",
+        "page": "p4 - Penelope by Athena Software - v4.24.33.0 - Google Chrome",
+        "state": "viewing"
+      },
+      "source_session": "session_20251107_093408"
+    },
+    {
+      "step_number": 45,
+      "action_id": "screen_2025-11-07T10:07:02.557501",
+      "intent_category": "unknown",
+      "intent_description": "Intent unclear",
+      "intent_confidence": 0.0,
+      "contexts": {
+        "application": "Browser",
+        "page": "p4 - Penelope by Athena Software - v4.24.33.0 - Google Chrome",
+        "state": "viewing"
+      },
+      "source_session": "session_20251107_093408"
+    },
+    {
+      "step_number": 46,
+      "action_id": "screen_2025-11-07T10:07:03.666331",
+      "intent_category": "unknown",
+      "intent_description": "Intent unclear",
+      "intent_confidence": 0.0,
+      "contexts": {
+        "application": "Browser",
+        "page": "p4 - Penelope by Athena Software - v4.24.33.0 - Google Chrome",
+        "state": "viewing"
+      },
+      "source_session": "session_20251107_093408"
+    },
+    {
+      "step_number": 47,
+      "action_id": "screen_2025-11-07T10:07:04.670855",
+      "intent_category": "unknown",
+      "intent_description": "Intent unclear",
+      "intent_confidence": 0.0,
+      "contexts": {
+        "application": "Browser",
+        "page": "p4 - Penelope by Athena Software - v4.24.33.0 - Google Chrome",
+        "state": "viewing"
+      },
+      "source_session": "session_20251107_093408"
+    },
+    {
+      "step_number": 48,
+      "action_id": "screen_2025-11-07T10:07:05.698708",
+      "intent_category": "unknown",
+      "intent_description": "Intent unclear",
+      "intent_confidence": 0.0,
+      "contexts": {
+        "application": "Browser",
+        "page": "p4 - Penelope by Athena Software - v4.24.33.0 - Google Chrome",
+        "state": "viewing"
+      },
+      "source_session": "session_20251107_093408"
+    },
+    {
+      "step_number": 49,
+      "action_id": "screen_2025-11-07T10:07:06.748284",
+      "intent_category": "unknown",
+      "intent_description": "Intent unclear",
+      "intent_confidence": 0.0,
+      "contexts": {
+        "application": "Browser",
+        "page": "p4 - Penelope by Athena Software - v4.24.33.0 - Google Chrome",
+        "state": "viewing"
+      },
+      "source_session": "session_20251107_093408"
+    },
+    {
+      "step_number": 50,
+      "action_id": "screen_2025-11-07T10:07:07.759975",
+      "intent_category": "unknown",
+      "intent_description": "Intent unclear",
+      "intent_confidence": 0.0,
+      "contexts": {
+        "application": "Browser",
+        "page": "p4 - Penelope by Athena Software - v4.24.33.0 - Google Chrome",
+        "state": "viewing"
+      },
+      "source_session": "session_20251107_093408"
+    },
+    {
+      "step_number": 51,
+      "action_id": "screen_2025-11-07T10:07:08.766053",
+      "intent_category": "unknown",
+      "intent_description": "Intent unclear",
+      "intent_confidence": 0.0,
+      "contexts": {
+        "application": "Browser",
+        "page": "p4 - Penelope by Athena Software - v4.24.33.0 - Google Chrome",
+        "state": "viewing"
+      },
+      "source_session": "session_20251107_093408"
+    },
+    {
+      "step_number": 52,
+      "action_id": "screen_2025-11-07T10:07:09.776358",
+      "intent_category": "unknown",
+      "intent_description": "Intent unclear",
+      "intent_confidence": 0.0,
+      "contexts": {
+        "application": "Browser",
+        "page": "p4 - Penelope by Athena Software - v4.24.33.0 - Google Chrome",
+        "state": "viewing"
+      },
+      "source_session": "session_20251107_093408"
+    },
+    {
+      "step_number": 53,
+      "action_id": "screen_2025-11-07T10:07:10.859099",
+      "intent_category": "unknown",
+      "intent_description": "Intent unclear",
+      "intent_confidence": 0.0,
+      "contexts": {
+        "application": "Browser",
+        "page": "p4 - Penelope by Athena Software - v4.24.33.0 - Google Chrome",
+        "state": "viewing"
+      },
+      "source_session": "session_20251107_093408"
+    },
+    {
+      "step_number": 54,
+      "action_id": "screen_2025-11-07T10:07:11.880577",
+      "intent_category": "unknown",
+      "intent_description": "Intent unclear",
+      "intent_confidence": 0.0,
+      "contexts": {
+        "application": "Browser",
+        "page": "p4 - Penelope by Athena Software - v4.24.33.0 - Google Chrome",
+        "state": "viewing"
+      },
+      "source_session": "session_20251107_093408"
+    },
+    {
+      "step_number": 55,
+      "action_id": "screen_2025-11-07T10:07:12.908310",
+      "intent_category": "unknown",
+      "intent_description": "Intent unclear",
+      "intent_confidence": 0.0,
+      "contexts": {
+        "application": "Browser",
+        "page": "p4 - Penelope by Athena Software - v4.24.33.0 - Google Chrome",
+        "state": "viewing"
+      },
+      "source_session": "session_20251107_093408"
+    },
+    {
+      "step_number": 56,
+      "action_id": "screen_2025-11-07T10:07:13.910847",
+      "intent_category": "unknown",
+      "intent_description": "Intent unclear",
+      "intent_confidence": 0.0,
+      "contexts": {
+        "application": "Browser",
+        "page": "p4 - Penelope by Athena Software - v4.24.33.0 - Google Chrome",
+        "state": "viewing"
+      },
+      "source_session": "session_20251107_093408"
+    },
+    {
+      "step_number": 57,
+      "action_id": "screen_2025-11-07T10:07:15.013885",
+      "intent_category": "unknown",
+      "intent_description": "Intent unclear",
+      "intent_confidence": 0.0,
+      "contexts": {
+        "application": "Browser",
+        "page": "p4 - Penelope by Athena Software - v4.24.33.0 - Google Chrome",
+        "state": "viewing"
+      },
+      "source_session": "session_20251107_093408"
+    },
+    {
+      "step_number": 58,
+      "action_id": "screen_2025-11-07T10:07:16.039536",
+      "intent_category": "unknown",
+      "intent_description": "Intent unclear",
+      "intent_confidence": 0.0,
+      "contexts": {
+        "application": "Browser",
+        "page": "p4 - Penelope by Athena Software - v4.24.33.0 - Google Chrome",
+        "state": "viewing"
+      },
+      "source_session": "session_20251107_093408"
+    }
+  ]
+}

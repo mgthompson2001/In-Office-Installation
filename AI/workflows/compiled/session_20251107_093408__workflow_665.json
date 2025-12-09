@@ -1,0 +1,298 @@
+{
+  "workflow_key": "session_20251107_093408::workflow_665",
+  "session_id": "session_20251107_093408",
+  "workflow_id": "workflow_665",
+  "workflow_type": "desktop_automation",
+  "description": "... and 16 more actions",
+  "goal": "Executing automation scripts",
+  "confidence": 0.7,
+  "timestamp": "2025-11-08T10:13:31.920954",
+  "summary": [
+    "Workflow captured from session session_20251107_093408 (desktop_automation).",
+    "Contains 21 recorded actions with goal: Executing automation scripts.",
+    "Top intents detected:",
+    "  • Automation Control (20 steps)",
+    "  • Enter Data (1 steps)",
+    "Primary applications involved:",
+    "  • python.exe (21 steps)",
+    "Common screens/pages:",
+    "  • Context Understanding Engine Test (21 steps)",
+    "Suggested interpretation:",
+    "  This appears to be a session controlling automation tools (launching bots, monitoring)."
+  ],
+  "steps": [
+    {
+      "step_number": 1,
+      "action_id": "screen_2025-11-07T09:39:13.291380",
+      "intent_category": "automation_control",
+      "intent_description": "Controlling automation scripts",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "python.exe",
+        "page": "Context Understanding Engine Test",
+        "state": "viewing"
+      },
+      "source_session": "session_20251107_093408"
+    },
+    {
+      "step_number": 2,
+      "action_id": "screen_2025-11-07T09:39:14.309213",
+      "intent_category": "automation_control",
+      "intent_description": "Controlling automation scripts",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "python.exe",
+        "page": "Context Understanding Engine Test",
+        "state": "viewing"
+      },
+      "source_session": "session_20251107_093408"
+    },
+    {
+      "step_number": 3,
+      "action_id": "screen_2025-11-07T09:39:15.296131",
+      "intent_category": "automation_control",
+      "intent_description": "Controlling automation scripts",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "python.exe",
+        "page": "Context Understanding Engine Test",
+        "state": "viewing"
+      },
+      "source_session": "session_20251107_093408"
+    },
+    {
+      "step_number": 4,
+      "action_id": "screen_2025-11-07T09:39:16.415252",
+      "intent_category": "automation_control",
+      "intent_description": "Controlling automation scripts",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "python.exe",
+        "page": "Context Understanding Engine Test",
+        "state": "viewing"
+      },
+      "source_session": "session_20251107_093408"
+    },
+    {
+      "step_number": 5,
+      "action_id": "screen_2025-11-07T09:39:17.446634",
+      "intent_category": "automation_control",
+      "intent_description": "Controlling automation scripts",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "python.exe",
+        "page": "Context Understanding Engine Test",
+        "state": "viewing"
+      },
+      "source_session": "session_20251107_093408"
+    },
+    {
+      "step_number": 6,
+      "action_id": "screen_2025-11-07T09:39:18.475533",
+      "intent_category": "automation_control",
+      "intent_description": "Controlling automation scripts",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "python.exe",
+        "page": "Context Understanding Engine Test",
+        "state": "viewing"
+      },
+      "source_session": "session_20251107_093408"
+    },
+    {
+      "step_number": 7,
+      "action_id": "screen_2025-11-07T09:39:19.539057",
+      "intent_category": "automation_control",
+      "intent_description": "Controlling automation scripts",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "python.exe",
+        "page": "Context Understanding Engine Test",
+        "state": "viewing"
+      },
+      "source_session": "session_20251107_093408"
+    },
+    {
+      "step_number": 8,
+      "action_id": "screen_2025-11-07T09:39:20.561971",
+      "intent_category": "automation_control",
+      "intent_description": "Controlling automation scripts",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "python.exe",
+        "page": "Context Understanding Engine Test",
+        "state": "viewing"
+      },
+      "source_session": "session_20251107_093408"
+    },
+    {
+      "step_number": 9,
+      "action_id": "screen_2025-11-07T09:39:21.580578",
+      "intent_category": "automation_control",
+      "intent_description": "Controlling automation scripts",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "python.exe",
+        "page": "Context Understanding Engine Test",
+        "state": "viewing"
+      },
+      "source_session": "session_20251107_093408"
+    },
+    {
+      "step_number": 10,
+      "action_id": "screen_2025-11-07T09:39:22.587430",
+      "intent_category": "automation_control",
+      "intent_description": "Controlling automation scripts",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "python.exe",
+        "page": "Context Understanding Engine Test",
+        "state": "viewing"
+      },
+      "source_session": "session_20251107_093408"
+    },
+    {
+      "step_number": 11,
+      "action_id": "screen_2025-11-07T09:39:23.610837",
+      "intent_category": "automation_control",
+      "intent_description": "Controlling automation scripts",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "python.exe",
+        "page": "Context Understanding Engine Test",
+        "state": "viewing"
+      },
+      "source_session": "session_20251107_093408"
+    },
+    {
+      "step_number": 12,
+      "action_id": "screen_2025-11-07T09:39:24.637205",
+      "intent_category": "automation_control",
+      "intent_description": "Controlling automation scripts",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "python.exe",
+        "page": "Context Understanding Engine Test",
+        "state": "viewing"
+      },
+      "source_session": "session_20251107_093408"
+    },
+    {
+      "step_number": 13,
+      "action_id": "mouse_2025-11-07T09:39:25.134271",
+      "intent_category": "automation_control",
+      "intent_description": "Controlling automation scripts",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "python.exe",
+        "page": "Context Understanding Engine Test",
+        "state": "interacting"
+      },
+      "source_session": "session_20251107_093408"
+    },
+    {
+      "step_number": 14,
+      "action_id": "screen_2025-11-07T09:39:25.673704",
+      "intent_category": "automation_control",
+      "intent_description": "Controlling automation scripts",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "python.exe",
+        "page": "Context Understanding Engine Test",
+        "state": "viewing"
+      },
+      "source_session": "session_20251107_093408"
+    },
+    {
+      "step_number": 15,
+      "action_id": "screen_2025-11-07T09:39:26.679764",
+      "intent_category": "automation_control",
+      "intent_description": "Controlling automation scripts",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "python.exe",
+        "page": "Context Understanding Engine Test",
+        "state": "viewing"
+      },
+      "source_session": "session_20251107_093408"
+    },
+    {
+      "step_number": 16,
+      "action_id": "screen_2025-11-07T09:39:27.717461",
+      "intent_category": "automation_control",
+      "intent_description": "Controlling automation scripts",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "python.exe",
+        "page": "Context Understanding Engine Test",
+        "state": "viewing"
+      },
+      "source_session": "session_20251107_093408"
+    },
+    {
+      "step_number": 17,
+      "action_id": "screen_2025-11-07T09:39:28.740892",
+      "intent_category": "automation_control",
+      "intent_description": "Controlling automation scripts",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "python.exe",
+        "page": "Context Understanding Engine Test",
+        "state": "viewing"
+      },
+      "source_session": "session_20251107_093408"
+    },
+    {
+      "step_number": 18,
+      "action_id": "keyboard_2025-11-07T09:39:29.063375",
+      "intent_category": "automation_control",
+      "intent_description": "Controlling automation scripts",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "python.exe",
+        "page": "Context Understanding Engine Test",
+        "state": "typing"
+      },
+      "source_session": "session_20251107_093408"
+    },
+    {
+      "step_number": 19,
+      "action_id": "keyboard_2025-11-07T09:39:29.374724",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "python.exe",
+        "page": "Context Understanding Engine Test",
+        "state": "typing"
+      },
+      "source_session": "session_20251107_093408"
+    },
+    {
+      "step_number": 20,
+      "action_id": "screen_2025-11-07T09:39:29.761313",
+      "intent_category": "automation_control",
+      "intent_description": "Controlling automation scripts",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "python.exe",
+        "page": "Context Understanding Engine Test",
+        "state": "viewing"
+      },
+      "source_session": "session_20251107_093408"
+    },
+    {
+      "step_number": 21,
+      "action_id": "screen_2025-11-07T09:39:30.782060",
+      "intent_category": "automation_control",
+      "intent_description": "Controlling automation scripts",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "python.exe",
+        "page": "Context Understanding Engine Test",
+        "state": "viewing"
+      },
+      "source_session": "session_20251107_093408"
+    }
+  ]
+}

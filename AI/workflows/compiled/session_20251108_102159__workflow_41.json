@@ -1,0 +1,128 @@
+{
+  "workflow_key": "session_20251108_102159::workflow_41",
+  "session_id": "session_20251108_102159",
+  "workflow_id": "workflow_41",
+  "workflow_type": "interaction",
+  "description": "... and 3 more actions",
+  "goal": "Goal unclear",
+  "confidence": 0.7,
+  "timestamp": "2025-11-08T10:39:57.740001",
+  "summary": [
+    "Workflow captured from session session_20251108_102159 (interaction).",
+    "Contains 8 recorded actions with goal: Goal unclear.",
+    "Top intents detected:",
+    "  • Unknown (8 steps)",
+    "Primary applications involved:",
+    "  • ApplicationFrameHost.exe (8 steps)",
+    "Common screens/pages:",
+    "  • Amphetamine (8 steps)",
+    "Suggested interpretation:",
+    "  Mixed activity detected; review simulation output for step-by-step context."
+  ],
+  "steps": [
+    {
+      "step_number": 1,
+      "action_id": "screen_2025-11-08T10:22:15.474356",
+      "intent_category": "unknown",
+      "intent_description": "Intent unclear",
+      "intent_confidence": 0.0,
+      "contexts": {
+        "application": "ApplicationFrameHost.exe",
+        "page": "Amphetamine",
+        "state": "viewing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 2,
+      "action_id": "screen_2025-11-08T10:22:16.598361",
+      "intent_category": "unknown",
+      "intent_description": "Intent unclear",
+      "intent_confidence": 0.0,
+      "contexts": {
+        "application": "ApplicationFrameHost.exe",
+        "page": "Amphetamine",
+        "state": "viewing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 3,
+      "action_id": "screen_2025-11-08T10:22:17.587035",
+      "intent_category": "unknown",
+      "intent_description": "Intent unclear",
+      "intent_confidence": 0.0,
+      "contexts": {
+        "application": "ApplicationFrameHost.exe",
+        "page": "Amphetamine",
+        "state": "viewing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 4,
+      "action_id": "screen_2025-11-08T10:22:18.683361",
+      "intent_category": "unknown",
+      "intent_description": "Intent unclear",
+      "intent_confidence": 0.0,
+      "contexts": {
+        "application": "ApplicationFrameHost.exe",
+        "page": "Amphetamine",
+        "state": "viewing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 5,
+      "action_id": "screen_2025-11-08T10:22:19.771867",
+      "intent_category": "unknown",
+      "intent_description": "Intent unclear",
+      "intent_confidence": 0.0,
+      "contexts": {
+        "application": "ApplicationFrameHost.exe",
+        "page": "Amphetamine",
+        "state": "viewing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 6,
+      "action_id": "mouse_2025-11-08T10:22:19.773573",
+      "intent_category": "unknown",
+      "intent_description": "Intent unclear",
+      "intent_confidence": 0.0,
+      "contexts": {
+        "application": "ApplicationFrameHost.exe",
+        "page": "Amphetamine",
+        "state": "interacting"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 7,
+      "action_id": "screen_2025-11-08T10:22:20.849466",
+      "intent_category": "unknown",
+      "intent_description": "Intent unclear",
+      "intent_confidence": 0.0,
+      "contexts": {
+        "application": "ApplicationFrameHost.exe",
+        "page": "Amphetamine",
+        "state": "viewing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 8,
+      "action_id": "screen_2025-11-08T10:22:21.948419",
+      "intent_category": "unknown",
+      "intent_description": "Intent unclear",
+      "intent_confidence": 0.0,
+      "contexts": {
+        "application": "ApplicationFrameHost.exe",
+        "page": "Amphetamine",
+        "state": "viewing"
+      },
+      "source_session": "session_20251108_102159"
+    }
+  ]
+}

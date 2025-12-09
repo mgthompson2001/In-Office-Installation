@@ -1,0 +1,315 @@
+{
+  "workflow_key": "session_20251108_102159::workflow_0",
+  "session_id": "session_20251108_102159",
+  "workflow_id": "workflow_0",
+  "workflow_type": "interaction",
+  "description": "Click/interact → Click/interact → Click/interact → ... and 16 more actions",
+  "goal": "Executing automation scripts",
+  "confidence": 0.7,
+  "timestamp": "2025-11-08T10:39:57.734631",
+  "summary": [
+    "Workflow captured from session session_20251108_102159 (interaction).",
+    "Contains 21 recorded actions with goal: Executing automation scripts.",
+    "Top intents detected:",
+    "  • Automation Control (21 steps)",
+    "Primary applications involved:",
+    "  • python.exe (21 steps)",
+    "Common screens/pages:",
+    "  • Dashboard (17 steps)",
+    "  • Monitoring Started (4 steps)",
+    "Suggested interpretation:",
+    "  This appears to be a session controlling automation tools (launching bots, monitoring)."
+  ],
+  "steps": [
+    {
+      "step_number": 1,
+      "action_id": "screen_2025-11-08T10:22:00.569904",
+      "intent_category": "automation_control",
+      "intent_description": "Controlling automation scripts",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "python.exe",
+        "page": "Monitoring Started",
+        "state": "viewing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 2,
+      "action_id": "mouse_2025-11-08T10:22:00.694833",
+      "intent_category": "automation_control",
+      "intent_description": "Controlling automation scripts",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "python.exe",
+        "page": "Monitoring Started",
+        "state": "interacting"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 3,
+      "action_id": "mouse_2025-11-08T10:22:00.695237",
+      "intent_category": "automation_control",
+      "intent_description": "Controlling automation scripts",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "python.exe",
+        "page": "Monitoring Started",
+        "state": "interacting"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 4,
+      "action_id": "mouse_2025-11-08T10:22:00.774837",
+      "intent_category": "automation_control",
+      "intent_description": "Controlling automation scripts",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "python.exe",
+        "page": "Monitoring Started",
+        "state": "interacting"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 5,
+      "action_id": "screen_2025-11-08T10:22:01.634259",
+      "intent_category": "automation_control",
+      "intent_description": "Controlling automation scripts",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "python.exe",
+        "page": "Dashboard",
+        "state": "viewing",
+        "task": "Automation Oversight"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 6,
+      "action_id": "screen_2025-11-08T10:22:02.691293",
+      "intent_category": "automation_control",
+      "intent_description": "Controlling automation scripts",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "python.exe",
+        "page": "Dashboard",
+        "state": "viewing",
+        "task": "Automation Oversight"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 7,
+      "action_id": "screen_2025-11-08T10:22:03.778853",
+      "intent_category": "automation_control",
+      "intent_description": "Controlling automation scripts",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "python.exe",
+        "page": "Dashboard",
+        "state": "viewing",
+        "task": "Automation Oversight"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 8,
+      "action_id": "screen_2025-11-08T10:22:04.836532",
+      "intent_category": "automation_control",
+      "intent_description": "Controlling automation scripts",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "python.exe",
+        "page": "Dashboard",
+        "state": "viewing",
+        "task": "Automation Oversight"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 9,
+      "action_id": "mouse_2025-11-08T10:22:04.878863",
+      "intent_category": "automation_control",
+      "intent_description": "Controlling automation scripts",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "python.exe",
+        "page": "Dashboard",
+        "state": "interacting",
+        "task": "Automation Oversight"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 10,
+      "action_id": "mouse_2025-11-08T10:22:05.495348",
+      "intent_category": "automation_control",
+      "intent_description": "Controlling automation scripts",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "python.exe",
+        "page": "Dashboard",
+        "state": "interacting",
+        "task": "Automation Oversight"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 11,
+      "action_id": "mouse_2025-11-08T10:22:05.495904",
+      "intent_category": "automation_control",
+      "intent_description": "Controlling automation scripts",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "python.exe",
+        "page": "Dashboard",
+        "state": "interacting",
+        "task": "Automation Oversight"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 12,
+      "action_id": "mouse_2025-11-08T10:22:05.599011",
+      "intent_category": "automation_control",
+      "intent_description": "Controlling automation scripts",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "python.exe",
+        "page": "Dashboard",
+        "state": "interacting",
+        "task": "Automation Oversight"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 13,
+      "action_id": "screen_2025-11-08T10:22:05.892762",
+      "intent_category": "automation_control",
+      "intent_description": "Controlling automation scripts",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "python.exe",
+        "page": "Dashboard",
+        "state": "viewing",
+        "task": "Automation Oversight"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 14,
+      "action_id": "mouse_2025-11-08T10:22:06.414909",
+      "intent_category": "automation_control",
+      "intent_description": "Controlling automation scripts",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "python.exe",
+        "page": "Dashboard",
+        "state": "interacting",
+        "task": "Automation Oversight"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 15,
+      "action_id": "mouse_2025-11-08T10:22:06.415323",
+      "intent_category": "automation_control",
+      "intent_description": "Controlling automation scripts",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "python.exe",
+        "page": "Dashboard",
+        "state": "interacting",
+        "task": "Automation Oversight"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 16,
+      "action_id": "mouse_2025-11-08T10:22:06.526882",
+      "intent_category": "automation_control",
+      "intent_description": "Controlling automation scripts",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "python.exe",
+        "page": "Dashboard",
+        "state": "interacting",
+        "task": "Automation Oversight"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 17,
+      "action_id": "screen_2025-11-08T10:22:06.965830",
+      "intent_category": "automation_control",
+      "intent_description": "Controlling automation scripts",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "python.exe",
+        "page": "Dashboard",
+        "state": "viewing",
+        "task": "Automation Oversight"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 18,
+      "action_id": "screen_2025-11-08T10:22:08.027579",
+      "intent_category": "automation_control",
+      "intent_description": "Controlling automation scripts",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "python.exe",
+        "page": "Dashboard",
+        "state": "viewing",
+        "task": "Automation Oversight"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 19,
+      "action_id": "mouse_2025-11-08T10:22:08.542772",
+      "intent_category": "automation_control",
+      "intent_description": "Controlling automation scripts",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "python.exe",
+        "page": "Dashboard",
+        "state": "interacting",
+        "task": "Automation Oversight"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 20,
+      "action_id": "mouse_2025-11-08T10:22:08.543190",
+      "intent_category": "automation_control",
+      "intent_description": "Controlling automation scripts",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "python.exe",
+        "page": "Dashboard",
+        "state": "interacting",
+        "task": "Automation Oversight"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 21,
+      "action_id": "mouse_2025-11-08T10:22:08.662891",
+      "intent_category": "automation_control",
+      "intent_description": "Controlling automation scripts",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "python.exe",
+        "page": "Dashboard",
+        "state": "interacting",
+        "task": "Automation Oversight"
+      },
+      "source_session": "session_20251108_102159"
+    }
+  ]
+}

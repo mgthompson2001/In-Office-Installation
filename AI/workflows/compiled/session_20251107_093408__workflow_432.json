@@ -1,0 +1,310 @@
+{
+  "workflow_key": "session_20251107_093408::workflow_432",
+  "session_id": "session_20251107_093408",
+  "workflow_id": "workflow_432",
+  "workflow_type": "interaction",
+  "description": "Click/interact → Click/interact → Click/interact → Click/interact → ... and 17 more actions",
+  "goal": "Executing automation scripts",
+  "confidence": 0.7,
+  "timestamp": "2025-11-08T10:13:31.912105",
+  "summary": [
+    "Workflow captured from session session_20251107_093408 (interaction).",
+    "Contains 22 recorded actions with goal: Executing automation scripts.",
+    "Top intents detected:",
+    "  • Automation Control (22 steps)",
+    "Primary applications involved:",
+    "  • pythonw.exe (22 steps)",
+    "Common screens/pages:",
+    "  • Bot Interface (22 steps)",
+    "Suggested interpretation:",
+    "  This appears to be a session controlling automation tools (launching bots, monitoring)."
+  ],
+  "steps": [
+    {
+      "step_number": 1,
+      "action_id": "screen_2025-11-07T09:36:04.784843",
+      "intent_category": "automation_control",
+      "intent_description": "Controlling automation scripts",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "pythonw.exe",
+        "page": "Bot Interface",
+        "state": "viewing"
+      },
+      "source_session": "session_20251107_093408"
+    },
+    {
+      "step_number": 2,
+      "action_id": "mouse_2025-11-07T09:36:04.974611",
+      "intent_category": "automation_control",
+      "intent_description": "Controlling automation scripts",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "pythonw.exe",
+        "page": "Bot Interface",
+        "state": "interacting"
+      },
+      "source_session": "session_20251107_093408"
+    },
+    {
+      "step_number": 3,
+      "action_id": "mouse_2025-11-07T09:36:04.975175",
+      "intent_category": "automation_control",
+      "intent_description": "Controlling automation scripts",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "pythonw.exe",
+        "page": "Bot Interface",
+        "state": "interacting"
+      },
+      "source_session": "session_20251107_093408"
+    },
+    {
+      "step_number": 4,
+      "action_id": "mouse_2025-11-07T09:36:05.006625",
+      "intent_category": "automation_control",
+      "intent_description": "Controlling automation scripts",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "pythonw.exe",
+        "page": "Bot Interface",
+        "state": "interacting"
+      },
+      "source_session": "session_20251107_093408"
+    },
+    {
+      "step_number": 5,
+      "action_id": "mouse_2025-11-07T09:36:05.038463",
+      "intent_category": "automation_control",
+      "intent_description": "Controlling automation scripts",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "pythonw.exe",
+        "page": "Bot Interface",
+        "state": "interacting"
+      },
+      "source_session": "session_20251107_093408"
+    },
+    {
+      "step_number": 6,
+      "action_id": "mouse_2025-11-07T09:36:05.038968",
+      "intent_category": "automation_control",
+      "intent_description": "Controlling automation scripts",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "pythonw.exe",
+        "page": "Bot Interface",
+        "state": "interacting"
+      },
+      "source_session": "session_20251107_093408"
+    },
+    {
+      "step_number": 7,
+      "action_id": "mouse_2025-11-07T09:36:05.062533",
+      "intent_category": "automation_control",
+      "intent_description": "Controlling automation scripts",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "pythonw.exe",
+        "page": "Bot Interface",
+        "state": "interacting"
+      },
+      "source_session": "session_20251107_093408"
+    },
+    {
+      "step_number": 8,
+      "action_id": "mouse_2025-11-07T09:36:05.110454",
+      "intent_category": "automation_control",
+      "intent_description": "Controlling automation scripts",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "pythonw.exe",
+        "page": "Bot Interface",
+        "state": "interacting"
+      },
+      "source_session": "session_20251107_093408"
+    },
+    {
+      "step_number": 9,
+      "action_id": "screen_2025-11-07T09:36:05.841668",
+      "intent_category": "automation_control",
+      "intent_description": "Controlling automation scripts",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "pythonw.exe",
+        "page": "Bot Interface",
+        "state": "viewing"
+      },
+      "source_session": "session_20251107_093408"
+    },
+    {
+      "step_number": 10,
+      "action_id": "screen_2025-11-07T09:36:06.895941",
+      "intent_category": "automation_control",
+      "intent_description": "Controlling automation scripts",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "pythonw.exe",
+        "page": "Bot Interface",
+        "state": "viewing"
+      },
+      "source_session": "session_20251107_093408"
+    },
+    {
+      "step_number": 11,
+      "action_id": "screen_2025-11-07T09:36:07.961699",
+      "intent_category": "automation_control",
+      "intent_description": "Controlling automation scripts",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "pythonw.exe",
+        "page": "Bot Interface",
+        "state": "viewing"
+      },
+      "source_session": "session_20251107_093408"
+    },
+    {
+      "step_number": 12,
+      "action_id": "mouse_2025-11-07T09:36:08.222151",
+      "intent_category": "automation_control",
+      "intent_description": "Controlling automation scripts",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "pythonw.exe",
+        "page": "Bot Interface",
+        "state": "interacting"
+      },
+      "source_session": "session_20251107_093408"
+    },
+    {
+      "step_number": 13,
+      "action_id": "mouse_2025-11-07T09:36:08.223184",
+      "intent_category": "automation_control",
+      "intent_description": "Controlling automation scripts",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "pythonw.exe",
+        "page": "Bot Interface",
+        "state": "interacting"
+      },
+      "source_session": "session_20251107_093408"
+    },
+    {
+      "step_number": 14,
+      "action_id": "mouse_2025-11-07T09:36:08.767421",
+      "intent_category": "automation_control",
+      "intent_description": "Controlling automation scripts",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "pythonw.exe",
+        "page": "Bot Interface",
+        "state": "interacting"
+      },
+      "source_session": "session_20251107_093408"
+    },
+    {
+      "step_number": 15,
+      "action_id": "mouse_2025-11-07T09:36:08.768224",
+      "intent_category": "automation_control",
+      "intent_description": "Controlling automation scripts",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "pythonw.exe",
+        "page": "Bot Interface",
+        "state": "interacting"
+      },
+      "source_session": "session_20251107_093408"
+    },
+    {
+      "step_number": 16,
+      "action_id": "screen_2025-11-07T09:36:09.024475",
+      "intent_category": "automation_control",
+      "intent_description": "Controlling automation scripts",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "pythonw.exe",
+        "page": "Bot Interface",
+        "state": "viewing"
+      },
+      "source_session": "session_20251107_093408"
+    },
+    {
+      "step_number": 17,
+      "action_id": "mouse_2025-11-07T09:36:09.790177",
+      "intent_category": "automation_control",
+      "intent_description": "Controlling automation scripts",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "pythonw.exe",
+        "page": "Bot Interface",
+        "state": "interacting"
+      },
+      "source_session": "session_20251107_093408"
+    },
+    {
+      "step_number": 18,
+      "action_id": "mouse_2025-11-07T09:36:09.790987",
+      "intent_category": "automation_control",
+      "intent_description": "Controlling automation scripts",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "pythonw.exe",
+        "page": "Bot Interface",
+        "state": "interacting"
+      },
+      "source_session": "session_20251107_093408"
+    },
+    {
+      "step_number": 19,
+      "action_id": "mouse_2025-11-07T09:36:09.870201",
+      "intent_category": "automation_control",
+      "intent_description": "Controlling automation scripts",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "pythonw.exe",
+        "page": "Bot Interface",
+        "state": "interacting"
+      },
+      "source_session": "session_20251107_093408"
+    },
+    {
+      "step_number": 20,
+      "action_id": "screen_2025-11-07T09:36:10.097901",
+      "intent_category": "automation_control",
+      "intent_description": "Controlling automation scripts",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "pythonw.exe",
+        "page": "Bot Interface",
+        "state": "viewing"
+      },
+      "source_session": "session_20251107_093408"
+    },
+    {
+      "step_number": 21,
+      "action_id": "mouse_2025-11-07T09:36:10.734491",
+      "intent_category": "automation_control",
+      "intent_description": "Controlling automation scripts",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "pythonw.exe",
+        "page": "Bot Interface",
+        "state": "interacting"
+      },
+      "source_session": "session_20251107_093408"
+    },
+    {
+      "step_number": 22,
+      "action_id": "mouse_2025-11-07T09:36:10.735061",
+      "intent_category": "automation_control",
+      "intent_description": "Controlling automation scripts",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "pythonw.exe",
+        "page": "Bot Interface",
+        "state": "interacting"
+      },
+      "source_session": "session_20251107_093408"
+    }
+  ]
+}

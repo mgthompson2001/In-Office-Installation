@@ -1,0 +1,10 @@
+# Web Application Requirements
+# Install with: pip install -r requirements_web.txt
+
+# Web framework
+Flask>=3.0.0
+Werkzeug>=3.0.0
+
+# All requirements from the main bot
+-r requirements.txt
+

@@ -1,0 +1,2015 @@
+{
+  "workflow_key": "session_20251107_104633::workflow_590",
+  "session_id": "session_20251107_104633",
+  "workflow_id": "workflow_590",
+  "workflow_type": "desktop_automation",
+  "description": "Click/interact → ... and 147 more actions",
+  "goal": "Executing automation scripts",
+  "confidence": 0.7,
+  "timestamp": "2025-11-08T10:02:03.577888",
+  "summary": [
+    "Workflow captured from session session_20251107_104633 (desktop_automation).",
+    "Contains 152 recorded actions with goal: Executing automation scripts.",
+    "Top intents detected:",
+    "  • Automation Control (98 steps)",
+    "  • Enter Data (54 steps)",
+    "Primary applications involved:",
+    "  • python.exe (152 steps)",
+    "Common screens/pages:",
+    "  • Admin Access Required (88 steps)",
+    "  • Report Page (32 steps)",
+    "  • 🔒 Admin Review - AI Optimization Recommendations (16 steps)",
+    "Suggested interpretation:",
+    "  This appears to be a session controlling automation tools (launching bots, monitoring)."
+  ],
+  "steps": [
+    {
+      "step_number": 1,
+      "action_id": "mouse_2025-11-07T10:49:02.159761",
+      "intent_category": "automation_control",
+      "intent_description": "Controlling automation scripts",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "python.exe",
+        "page": "Dashboard",
+        "state": "interacting",
+        "task": "Automation Oversight"
+      },
+      "source_session": "session_20251107_104633"
+    },
+    {
+      "step_number": 2,
+      "action_id": "screen_2025-11-07T10:49:02.779395",
+      "intent_category": "automation_control",
+      "intent_description": "Controlling automation scripts",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "python.exe",
+        "page": "Dashboard",
+        "state": "viewing",
+        "task": "Automation Oversight"
+      },
+      "source_session": "session_20251107_104633"
+    },
+    {
+      "step_number": 3,
+      "action_id": "screen_2025-11-07T10:49:03.765711",
+      "intent_category": "automation_control",
+      "intent_description": "Controlling automation scripts",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "python.exe",
+        "page": "Dashboard",
+        "state": "viewing",
+        "task": "Automation Oversight"
+      },
+      "source_session": "session_20251107_104633"
+    },
+    {
+      "step_number": 4,
+      "action_id": "screen_2025-11-07T10:49:04.855151",
+      "intent_category": "automation_control",
+      "intent_description": "Controlling automation scripts",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "python.exe",
+        "page": "Admin Access Required",
+        "state": "viewing"
+      },
+      "source_session": "session_20251107_104633"
+    },
+    {
+      "step_number": 5,
+      "action_id": "screen_2025-11-07T10:49:05.937341",
+      "intent_category": "automation_control",
+      "intent_description": "Controlling automation scripts",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "python.exe",
+        "page": "Admin Access Required",
+        "state": "viewing"
+      },
+      "source_session": "session_20251107_104633"
+    },
+    {
+      "step_number": 6,
+      "action_id": "mouse_2025-11-07T10:49:06.396004",
+      "intent_category": "automation_control",
+      "intent_description": "Controlling automation scripts",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "python.exe",
+        "page": "Admin Access Required",
+        "state": "interacting"
+      },
+      "source_session": "session_20251107_104633"
+    },
+    {
+      "step_number": 7,
+      "action_id": "mouse_2025-11-07T10:49:06.402876",
+      "intent_category": "automation_control",
+      "intent_description": "Controlling automation scripts",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "python.exe",
+        "page": "Admin Access Required",
+        "state": "interacting"
+      },
+      "source_session": "session_20251107_104633"
+    },
+    {
+      "step_number": 8,
+      "action_id": "screen_2025-11-07T10:49:06.988463",
+      "intent_category": "automation_control",
+      "intent_description": "Controlling automation scripts",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "python.exe",
+        "page": "Admin Access Required",
+        "state": "viewing"
+      },
+      "source_session": "session_20251107_104633"
+    },
+    {
+      "step_number": 9,
+      "action_id": "screen_2025-11-07T10:49:08.002921",
+      "intent_category": "automation_control",
+      "intent_description": "Controlling automation scripts",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "python.exe",
+        "page": "Admin Access Required",
+        "state": "viewing"
+      },
+      "source_session": "session_20251107_104633"
+    },
+    {
+      "step_number": 10,
+      "action_id": "screen_2025-11-07T10:49:09.003580",
+      "intent_category": "automation_control",
+      "intent_description": "Controlling automation scripts",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "python.exe",
+        "page": "Admin Access Required",
+        "state": "viewing"
+      },
+      "source_session": "session_20251107_104633"
+    },
+    {
+      "step_number": 11,
+      "action_id": "screen_2025-11-07T10:49:10.000551",
+      "intent_category": "automation_control",
+      "intent_description": "Controlling automation scripts",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "python.exe",
+        "page": "Admin Access Required",
+        "state": "viewing"
+      },
+      "source_session": "session_20251107_104633"
+    },
+    {
+      "step_number": 12,
+      "action_id": "screen_2025-11-07T10:49:10.993658",
+      "intent_category": "automation_control",
+      "intent_description": "Controlling automation scripts",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "python.exe",
+        "page": "Admin Access Required",
+        "state": "viewing"
+      },
+      "source_session": "session_20251107_104633"
+    },
+    {
+      "step_number": 13,
+      "action_id": "keyboard_2025-11-07T10:49:11.326627",
+      "intent_category": "automation_control",
+      "intent_description": "Controlling automation scripts",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "python.exe",
+        "page": "Admin Access Required",
+        "state": "typing"
+      },
+      "source_session": "session_20251107_104633"
+    },
+    {
+      "step_number": 14,
+      "action_id": "keyboard_2025-11-07T10:49:11.390881",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "python.exe",
+        "page": "Admin Access Required",
+        "state": "typing"
+      },
+      "source_session": "session_20251107_104633"
+    },
+    {
+      "step_number": 15,
+      "action_id": "keyboard_2025-11-07T10:49:11.583135",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "python.exe",
+        "page": "Admin Access Required",
+        "state": "typing"
+      },
+      "source_session": "session_20251107_104633"
+    },
+    {
+      "step_number": 16,
+      "action_id": "keyboard_2025-11-07T10:49:11.646842",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "python.exe",
+        "page": "Admin Access Required",
+        "state": "typing"
+      },
+      "source_session": "session_20251107_104633"
+    },
+    {
+      "step_number": 17,
+      "action_id": "keyboard_2025-11-07T10:49:11.790230",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "python.exe",
+        "page": "Admin Access Required",
+        "state": "typing"
+      },
+      "source_session": "session_20251107_104633"
+    },
+    {
+      "step_number": 18,
+      "action_id": "keyboard_2025-11-07T10:49:11.974302",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "python.exe",
+        "page": "Admin Access Required",
+        "state": "typing"
+      },
+      "source_session": "session_20251107_104633"
+    },
+    {
+      "step_number": 19,
+      "action_id": "screen_2025-11-07T10:49:12.084988",
+      "intent_category": "automation_control",
+      "intent_description": "Controlling automation scripts",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "python.exe",
+        "page": "Admin Access Required",
+        "state": "viewing"
+      },
+      "source_session": "session_20251107_104633"
+    },
+    {
+      "step_number": 20,
+      "action_id": "keyboard_2025-11-07T10:49:12.131715",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "python.exe",
+        "page": "Admin Access Required",
+        "state": "typing"
+      },
+      "source_session": "session_20251107_104633"
+    },
+    {
+      "step_number": 21,
+      "action_id": "keyboard_2025-11-07T10:49:12.230387",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "python.exe",
+        "page": "Admin Access Required",
+        "state": "typing"
+      },
+      "source_session": "session_20251107_104633"
+    },
+    {
+      "step_number": 22,
+      "action_id": "keyboard_2025-11-07T10:49:12.330367",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "python.exe",
+        "page": "Admin Access Required",
+        "state": "typing"
+      },
+      "source_session": "session_20251107_104633"
+    },
+    {
+      "step_number": 23,
+      "action_id": "keyboard_2025-11-07T10:49:12.438594",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "python.exe",
+        "page": "Admin Access Required",
+        "state": "typing"
+      },
+      "source_session": "session_20251107_104633"
+    },
+    {
+      "step_number": 24,
+      "action_id": "keyboard_2025-11-07T10:49:12.703366",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "python.exe",
+        "page": "Admin Access Required",
+        "state": "typing"
+      },
+      "source_session": "session_20251107_104633"
+    },
+    {
+      "step_number": 25,
+      "action_id": "screen_2025-11-07T10:49:13.182734",
+      "intent_category": "automation_control",
+      "intent_description": "Controlling automation scripts",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "python.exe",
+        "page": "Admin Access Required",
+        "state": "viewing"
+      },
+      "source_session": "session_20251107_104633"
+    },
+    {
+      "step_number": 26,
+      "action_id": "keyboard_2025-11-07T10:49:13.190634",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "python.exe",
+        "page": "Admin Access Required",
+        "state": "typing"
+      },
+      "source_session": "session_20251107_104633"
+    },
+    {
+      "step_number": 27,
+      "action_id": "keyboard_2025-11-07T10:49:13.262390",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "python.exe",
+        "page": "Admin Access Required",
+        "state": "typing"
+      },
+      "source_session": "session_20251107_104633"
+    },
+    {
+      "step_number": 28,
+      "action_id": "keyboard_2025-11-07T10:49:13.478668",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "python.exe",
+        "page": "Admin Access Required",
+        "state": "typing"
+      },
+      "source_session": "session_20251107_104633"
+    },
+    {
+      "step_number": 29,
+      "action_id": "screen_2025-11-07T10:49:14.289528",
+      "intent_category": "automation_control",
+      "intent_description": "Controlling automation scripts",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "python.exe",
+        "page": "Admin Access Required",
+        "state": "viewing"
+      },
+      "source_session": "session_20251107_104633"
+    },
+    {
+      "step_number": 30,
+      "action_id": "keyboard_2025-11-07T10:49:15.038679",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "python.exe",
+        "page": "Admin Access Required",
+        "state": "typing"
+      },
+      "source_session": "session_20251107_104633"
+    },
+    {
+      "step_number": 31,
+      "action_id": "keyboard_2025-11-07T10:49:15.166955",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "python.exe",
+        "page": "Admin Access Required",
+        "state": "typing"
+      },
+      "source_session": "session_20251107_104633"
+    },
+    {
+      "step_number": 32,
+      "action_id": "screen_2025-11-07T10:49:15.274337",
+      "intent_category": "automation_control",
+      "intent_description": "Controlling automation scripts",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "python.exe",
+        "page": "Admin Access Required",
+        "state": "viewing"
+      },
+      "source_session": "session_20251107_104633"
+    },
+    {
+      "step_number": 33,
+      "action_id": "keyboard_2025-11-07T10:49:15.326660",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "python.exe",
+        "page": "Admin Access Required",
+        "state": "typing"
+      },
+      "source_session": "session_20251107_104633"
+    },
+    {
+      "step_number": 34,
+      "action_id": "keyboard_2025-11-07T10:49:15.441094",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "python.exe",
+        "page": "Admin Access Required",
+        "state": "typing"
+      },
+      "source_session": "session_20251107_104633"
+    },
+    {
+      "step_number": 35,
+      "action_id": "keyboard_2025-11-07T10:49:15.719571",
+      "intent_category": "automation_control",
+      "intent_description": "Controlling automation scripts",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "python.exe",
+        "page": "Admin Access Required",
+        "state": "typing"
+      },
+      "source_session": "session_20251107_104633"
+    },
+    {
+      "step_number": 36,
+      "action_id": "keyboard_2025-11-07T10:49:15.966949",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "python.exe",
+        "page": "Admin Access Required",
+        "state": "typing"
+      },
+      "source_session": "session_20251107_104633"
+    },
+    {
+      "step_number": 37,
+      "action_id": "keyboard_2025-11-07T10:49:16.246670",
+      "intent_category": "automation_control",
+      "intent_description": "Controlling automation scripts",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "python.exe",
+        "page": "Admin Access Required",
+        "state": "typing"
+      },
+      "source_session": "session_20251107_104633"
+    },
+    {
+      "step_number": 38,
+      "action_id": "screen_2025-11-07T10:49:16.310104",
+      "intent_category": "automation_control",
+      "intent_description": "Controlling automation scripts",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "python.exe",
+        "page": "Access Denied",
+        "state": "viewing"
+      },
+      "source_session": "session_20251107_104633"
+    },
+    {
+      "step_number": 39,
+      "action_id": "screen_2025-11-07T10:49:17.315712",
+      "intent_category": "automation_control",
+      "intent_description": "Controlling automation scripts",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "python.exe",
+        "page": "Access Denied",
+        "state": "viewing"
+      },
+      "source_session": "session_20251107_104633"
+    },
+    {
+      "step_number": 40,
+      "action_id": "keyboard_2025-11-07T10:49:17.895593",
+      "intent_category": "automation_control",
+      "intent_description": "Controlling automation scripts",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "python.exe",
+        "page": "Access Denied",
+        "state": "typing"
+      },
+      "source_session": "session_20251107_104633"
+    },
+    {
+      "step_number": 41,
+      "action_id": "screen_2025-11-07T10:49:18.320771",
+      "intent_category": "automation_control",
+      "intent_description": "Controlling automation scripts",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "python.exe",
+        "page": "Admin Access Required",
+        "state": "viewing"
+      },
+      "source_session": "session_20251107_104633"
+    },
+    {
+      "step_number": 42,
+      "action_id": "keyboard_2025-11-07T10:49:18.918353",
+      "intent_category": "automation_control",
+      "intent_description": "Controlling automation scripts",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "python.exe",
+        "page": "Admin Access Required",
+        "state": "typing"
+      },
+      "source_session": "session_20251107_104633"
+    },
+    {
+      "step_number": 43,
+      "action_id": "keyboard_2025-11-07T10:49:18.976949",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "python.exe",
+        "page": "Admin Access Required",
+        "state": "typing"
+      },
+      "source_session": "session_20251107_104633"
+    },
+    {
+      "step_number": 44,
+      "action_id": "screen_2025-11-07T10:49:19.423022",
+      "intent_category": "automation_control",
+      "intent_description": "Controlling automation scripts",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "python.exe",
+        "page": "Admin Access Required",
+        "state": "viewing"
+      },
+      "source_session": "session_20251107_104633"
+    },
+    {
+      "step_number": 45,
+      "action_id": "keyboard_2025-11-07T10:49:19.775176",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "python.exe",
+        "page": "Admin Access Required",
+        "state": "typing"
+      },
+      "source_session": "session_20251107_104633"
+    },
+    {
+      "step_number": 46,
+      "action_id": "keyboard_2025-11-07T10:49:19.855380",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "python.exe",
+        "page": "Admin Access Required",
+        "state": "typing"
+      },
+      "source_session": "session_20251107_104633"
+    },
+    {
+      "step_number": 47,
+      "action_id": "keyboard_2025-11-07T10:49:20.014855",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "python.exe",
+        "page": "Admin Access Required",
+        "state": "typing"
+      },
+      "source_session": "session_20251107_104633"
+    },
+    {
+      "step_number": 48,
+      "action_id": "keyboard_2025-11-07T10:49:20.246965",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "python.exe",
+        "page": "Admin Access Required",
+        "state": "typing"
+      },
+      "source_session": "session_20251107_104633"
+    },
+    {
+      "step_number": 49,
+      "action_id": "screen_2025-11-07T10:49:20.433467",
+      "intent_category": "automation_control",
+      "intent_description": "Controlling automation scripts",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "python.exe",
+        "page": "Admin Access Required",
+        "state": "viewing"
+      },
+      "source_session": "session_20251107_104633"
+    },
+    {
+      "step_number": 50,
+      "action_id": "keyboard_2025-11-07T10:49:20.775215",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "python.exe",
+        "page": "Admin Access Required",
+        "state": "typing"
+      },
+      "source_session": "session_20251107_104633"
+    },
+    {
+      "step_number": 51,
+      "action_id": "keyboard_2025-11-07T10:49:20.862713",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "python.exe",
+        "page": "Admin Access Required",
+        "state": "typing"
+      },
+      "source_session": "session_20251107_104633"
+    },
+    {
+      "step_number": 52,
+      "action_id": "keyboard_2025-11-07T10:49:20.960622",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "python.exe",
+        "page": "Admin Access Required",
+        "state": "typing"
+      },
+      "source_session": "session_20251107_104633"
+    },
+    {
+      "step_number": 53,
+      "action_id": "keyboard_2025-11-07T10:49:21.055269",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "python.exe",
+        "page": "Admin Access Required",
+        "state": "typing"
+      },
+      "source_session": "session_20251107_104633"
+    },
+    {
+      "step_number": 54,
+      "action_id": "keyboard_2025-11-07T10:49:21.446647",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "python.exe",
+        "page": "Admin Access Required",
+        "state": "typing"
+      },
+      "source_session": "session_20251107_104633"
+    },
+    {
+      "step_number": 55,
+      "action_id": "screen_2025-11-07T10:49:21.533763",
+      "intent_category": "automation_control",
+      "intent_description": "Controlling automation scripts",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "python.exe",
+        "page": "Admin Access Required",
+        "state": "viewing"
+      },
+      "source_session": "session_20251107_104633"
+    },
+    {
+      "step_number": 56,
+      "action_id": "keyboard_2025-11-07T10:49:21.558825",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "python.exe",
+        "page": "Admin Access Required",
+        "state": "typing"
+      },
+      "source_session": "session_20251107_104633"
+    },
+    {
+      "step_number": 57,
+      "action_id": "keyboard_2025-11-07T10:49:21.641228",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "python.exe",
+        "page": "Admin Access Required",
+        "state": "typing"
+      },
+      "source_session": "session_20251107_104633"
+    },
+    {
+      "step_number": 58,
+      "action_id": "keyboard_2025-11-07T10:49:21.808914",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "python.exe",
+        "page": "Admin Access Required",
+        "state": "typing"
+      },
+      "source_session": "session_20251107_104633"
+    },
+    {
+      "step_number": 59,
+      "action_id": "keyboard_2025-11-07T10:49:22.182401",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "python.exe",
+        "page": "Admin Access Required",
+        "state": "typing"
+      },
+      "source_session": "session_20251107_104633"
+    },
+    {
+      "step_number": 60,
+      "action_id": "keyboard_2025-11-07T10:49:22.240594",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "python.exe",
+        "page": "Admin Access Required",
+        "state": "typing"
+      },
+      "source_session": "session_20251107_104633"
+    },
+    {
+      "step_number": 61,
+      "action_id": "keyboard_2025-11-07T10:49:22.326682",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "python.exe",
+        "page": "Admin Access Required",
+        "state": "typing"
+      },
+      "source_session": "session_20251107_104633"
+    },
+    {
+      "step_number": 62,
+      "action_id": "screen_2025-11-07T10:49:22.545618",
+      "intent_category": "automation_control",
+      "intent_description": "Controlling automation scripts",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "python.exe",
+        "page": "Admin Access Required",
+        "state": "viewing"
+      },
+      "source_session": "session_20251107_104633"
+    },
+    {
+      "step_number": 63,
+      "action_id": "keyboard_2025-11-07T10:49:23.061866",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "python.exe",
+        "page": "Admin Access Required",
+        "state": "typing"
+      },
+      "source_session": "session_20251107_104633"
+    },
+    {
+      "step_number": 64,
+      "action_id": "keyboard_2025-11-07T10:49:23.366169",
+      "intent_category": "automation_control",
+      "intent_description": "Controlling automation scripts",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "python.exe",
+        "page": "Admin Access Required",
+        "state": "typing"
+      },
+      "source_session": "session_20251107_104633"
+    },
+    {
+      "step_number": 65,
+      "action_id": "screen_2025-11-07T10:49:23.546827",
+      "intent_category": "automation_control",
+      "intent_description": "Controlling automation scripts",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "python.exe",
+        "page": "Admin Access Required",
+        "state": "viewing"
+      },
+      "source_session": "session_20251107_104633"
+    },
+    {
+      "step_number": 66,
+      "action_id": "keyboard_2025-11-07T10:49:23.611251",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "python.exe",
+        "page": "Admin Access Required",
+        "state": "typing"
+      },
+      "source_session": "session_20251107_104633"
+    },
+    {
+      "step_number": 67,
+      "action_id": "keyboard_2025-11-07T10:49:23.838673",
+      "intent_category": "automation_control",
+      "intent_description": "Controlling automation scripts",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "python.exe",
+        "page": "Admin Access Required",
+        "state": "typing"
+      },
+      "source_session": "session_20251107_104633"
+    },
+    {
+      "step_number": 68,
+      "action_id": "keyboard_2025-11-07T10:49:24.390502",
+      "intent_category": "automation_control",
+      "intent_description": "Controlling automation scripts",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "python.exe",
+        "page": "Access Denied",
+        "state": "typing"
+      },
+      "source_session": "session_20251107_104633"
+    },
+    {
+      "step_number": 69,
+      "action_id": "screen_2025-11-07T10:49:24.587129",
+      "intent_category": "automation_control",
+      "intent_description": "Controlling automation scripts",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "python.exe",
+        "page": "Admin Access Required",
+        "state": "viewing"
+      },
+      "source_session": "session_20251107_104633"
+    },
+    {
+      "step_number": 70,
+      "action_id": "screen_2025-11-07T10:49:25.570680",
+      "intent_category": "automation_control",
+      "intent_description": "Controlling automation scripts",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "python.exe",
+        "page": "Admin Access Required",
+        "state": "viewing"
+      },
+      "source_session": "session_20251107_104633"
+    },
+    {
+      "step_number": 71,
+      "action_id": "keyboard_2025-11-07T10:49:25.822223",
+      "intent_category": "automation_control",
+      "intent_description": "Controlling automation scripts",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "python.exe",
+        "page": "Admin Access Required",
+        "state": "typing"
+      },
+      "source_session": "session_20251107_104633"
+    },
+    {
+      "step_number": 72,
+      "action_id": "keyboard_2025-11-07T10:49:25.889301",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "python.exe",
+        "page": "Admin Access Required",
+        "state": "typing"
+      },
+      "source_session": "session_20251107_104633"
+    },
+    {
+      "step_number": 73,
+      "action_id": "screen_2025-11-07T10:49:26.638381",
+      "intent_category": "automation_control",
+      "intent_description": "Controlling automation scripts",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "python.exe",
+        "page": "Admin Access Required",
+        "state": "viewing"
+      },
+      "source_session": "session_20251107_104633"
+    },
+    {
+      "step_number": 74,
+      "action_id": "keyboard_2025-11-07T10:49:26.677959",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "python.exe",
+        "page": "Admin Access Required",
+        "state": "typing"
+      },
+      "source_session": "session_20251107_104633"
+    },
+    {
+      "step_number": 75,
+      "action_id": "keyboard_2025-11-07T10:49:26.830860",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "python.exe",
+        "page": "Admin Access Required",
+        "state": "typing"
+      },
+      "source_session": "session_20251107_104633"
+    },
+    {
+      "step_number": 76,
+      "action_id": "keyboard_2025-11-07T10:49:27.000045",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "python.exe",
+        "page": "Admin Access Required",
+        "state": "typing"
+      },
+      "source_session": "session_20251107_104633"
+    },
+    {
+      "step_number": 77,
+      "action_id": "keyboard_2025-11-07T10:49:27.199131",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "python.exe",
+        "page": "Admin Access Required",
+        "state": "typing"
+      },
+      "source_session": "session_20251107_104633"
+    },
+    {
+      "step_number": 78,
+      "action_id": "keyboard_2025-11-07T10:49:27.366988",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "python.exe",
+        "page": "Admin Access Required",
+        "state": "typing"
+      },
+      "source_session": "session_20251107_104633"
+    },
+    {
+      "step_number": 79,
+      "action_id": "keyboard_2025-11-07T10:49:27.472464",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "python.exe",
+        "page": "Admin Access Required",
+        "state": "typing"
+      },
+      "source_session": "session_20251107_104633"
+    },
+    {
+      "step_number": 80,
+      "action_id": "keyboard_2025-11-07T10:49:27.558804",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "python.exe",
+        "page": "Admin Access Required",
+        "state": "typing"
+      },
+      "source_session": "session_20251107_104633"
+    },
+    {
+      "step_number": 81,
+      "action_id": "keyboard_2025-11-07T10:49:27.671737",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "python.exe",
+        "page": "Admin Access Required",
+        "state": "typing"
+      },
+      "source_session": "session_20251107_104633"
+    },
+    {
+      "step_number": 82,
+      "action_id": "screen_2025-11-07T10:49:27.749679",
+      "intent_category": "automation_control",
+      "intent_description": "Controlling automation scripts",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "python.exe",
+        "page": "Admin Access Required",
+        "state": "viewing"
+      },
+      "source_session": "session_20251107_104633"
+    },
+    {
+      "step_number": 83,
+      "action_id": "keyboard_2025-11-07T10:49:28.038378",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "python.exe",
+        "page": "Admin Access Required",
+        "state": "typing"
+      },
+      "source_session": "session_20251107_104633"
+    },
+    {
+      "step_number": 84,
+      "action_id": "keyboard_2025-11-07T10:49:28.302771",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "python.exe",
+        "page": "Admin Access Required",
+        "state": "typing"
+      },
+      "source_session": "session_20251107_104633"
+    },
+    {
+      "step_number": 85,
+      "action_id": "keyboard_2025-11-07T10:49:28.422588",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "python.exe",
+        "page": "Admin Access Required",
+        "state": "typing"
+      },
+      "source_session": "session_20251107_104633"
+    },
+    {
+      "step_number": 86,
+      "action_id": "keyboard_2025-11-07T10:49:28.590361",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "python.exe",
+        "page": "Admin Access Required",
+        "state": "typing"
+      },
+      "source_session": "session_20251107_104633"
+    },
+    {
+      "step_number": 87,
+      "action_id": "screen_2025-11-07T10:49:28.748038",
+      "intent_category": "automation_control",
+      "intent_description": "Controlling automation scripts",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "python.exe",
+        "page": "Admin Access Required",
+        "state": "viewing"
+      },
+      "source_session": "session_20251107_104633"
+    },
+    {
+      "step_number": 88,
+      "action_id": "keyboard_2025-11-07T10:49:29.031180",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "python.exe",
+        "page": "Admin Access Required",
+        "state": "typing"
+      },
+      "source_session": "session_20251107_104633"
+    },
+    {
+      "step_number": 89,
+      "action_id": "keyboard_2025-11-07T10:49:29.246003",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "python.exe",
+        "page": "Admin Access Required",
+        "state": "typing"
+      },
+      "source_session": "session_20251107_104633"
+    },
+    {
+      "step_number": 90,
+      "action_id": "keyboard_2025-11-07T10:49:29.415299",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "python.exe",
+        "page": "Admin Access Required",
+        "state": "typing"
+      },
+      "source_session": "session_20251107_104633"
+    },
+    {
+      "step_number": 91,
+      "action_id": "keyboard_2025-11-07T10:49:29.535890",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "python.exe",
+        "page": "Admin Access Required",
+        "state": "typing"
+      },
+      "source_session": "session_20251107_104633"
+    },
+    {
+      "step_number": 92,
+      "action_id": "screen_2025-11-07T10:49:29.839219",
+      "intent_category": "automation_control",
+      "intent_description": "Controlling automation scripts",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "python.exe",
+        "page": "Admin Access Required",
+        "state": "viewing"
+      },
+      "source_session": "session_20251107_104633"
+    },
+    {
+      "step_number": 93,
+      "action_id": "keyboard_2025-11-07T10:49:29.862448",
+      "intent_category": "automation_control",
+      "intent_description": "Controlling automation scripts",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "python.exe",
+        "page": "Admin Access Required",
+        "state": "typing"
+      },
+      "source_session": "session_20251107_104633"
+    },
+    {
+      "step_number": 94,
+      "action_id": "keyboard_2025-11-07T10:49:30.103023",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "python.exe",
+        "page": "Admin Access Required",
+        "state": "typing"
+      },
+      "source_session": "session_20251107_104633"
+    },
+    {
+      "step_number": 95,
+      "action_id": "keyboard_2025-11-07T10:49:30.382131",
+      "intent_category": "automation_control",
+      "intent_description": "Controlling automation scripts",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "python.exe",
+        "page": "Admin Access Required",
+        "state": "typing"
+      },
+      "source_session": "session_20251107_104633"
+    },
+    {
+      "step_number": 96,
+      "action_id": "screen_2025-11-07T10:49:30.949874",
+      "intent_category": "automation_control",
+      "intent_description": "Controlling automation scripts",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "python.exe",
+        "page": "Dashboard",
+        "state": "viewing",
+        "task": "Automation Oversight"
+      },
+      "source_session": "session_20251107_104633"
+    },
+    {
+      "step_number": 97,
+      "action_id": "screen_2025-11-07T10:49:31.974112",
+      "intent_category": "automation_control",
+      "intent_description": "Controlling automation scripts",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "python.exe",
+        "page": "Dashboard",
+        "state": "viewing",
+        "task": "Automation Oversight"
+      },
+      "source_session": "session_20251107_104633"
+    },
+    {
+      "step_number": 98,
+      "action_id": "screen_2025-11-07T10:49:32.996257",
+      "intent_category": "automation_control",
+      "intent_description": "Controlling automation scripts",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "python.exe",
+        "page": "🔒 Admin Review - AI Optimization Recommendations",
+        "state": "viewing"
+      },
+      "source_session": "session_20251107_104633"
+    },
+    {
+      "step_number": 99,
+      "action_id": "screen_2025-11-07T10:49:33.992966",
+      "intent_category": "automation_control",
+      "intent_description": "Controlling automation scripts",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "python.exe",
+        "page": "🔒 Admin Review - AI Optimization Recommendations",
+        "state": "viewing"
+      },
+      "source_session": "session_20251107_104633"
+    },
+    {
+      "step_number": 100,
+      "action_id": "screen_2025-11-07T10:49:35.063262",
+      "intent_category": "automation_control",
+      "intent_description": "Controlling automation scripts",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "python.exe",
+        "page": "🔒 Admin Review - AI Optimization Recommendations",
+        "state": "viewing"
+      },
+      "source_session": "session_20251107_104633"
+    },
+    {
+      "step_number": 101,
+      "action_id": "mouse_2025-11-07T10:49:35.668485",
+      "intent_category": "automation_control",
+      "intent_description": "Controlling automation scripts",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "python.exe",
+        "page": "🔒 Admin Review - AI Optimization Recommendations",
+        "state": "interacting"
+      },
+      "source_session": "session_20251107_104633"
+    },
+    {
+      "step_number": 102,
+      "action_id": "mouse_2025-11-07T10:49:35.714626",
+      "intent_category": "automation_control",
+      "intent_description": "Controlling automation scripts",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "python.exe",
+        "page": "🔒 Admin Review - AI Optimization Recommendations",
+        "state": "interacting"
+      },
+      "source_session": "session_20251107_104633"
+    },
+    {
+      "step_number": 103,
+      "action_id": "mouse_2025-11-07T10:49:35.720314",
+      "intent_category": "automation_control",
+      "intent_description": "Controlling automation scripts",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "python.exe",
+        "page": "🔒 Admin Review - AI Optimization Recommendations",
+        "state": "interacting"
+      },
+      "source_session": "session_20251107_104633"
+    },
+    {
+      "step_number": 104,
+      "action_id": "screen_2025-11-07T10:49:36.147720",
+      "intent_category": "automation_control",
+      "intent_description": "Controlling automation scripts",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "python.exe",
+        "page": "🔒 Admin Review - AI Optimization Recommendations",
+        "state": "viewing"
+      },
+      "source_session": "session_20251107_104633"
+    },
+    {
+      "step_number": 105,
+      "action_id": "mouse_2025-11-07T10:49:36.221637",
+      "intent_category": "automation_control",
+      "intent_description": "Controlling automation scripts",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "python.exe",
+        "page": "🔒 Admin Review - AI Optimization Recommendations",
+        "state": "interacting"
+      },
+      "source_session": "session_20251107_104633"
+    },
+    {
+      "step_number": 106,
+      "action_id": "screen_2025-11-07T10:49:37.248922",
+      "intent_category": "automation_control",
+      "intent_description": "Controlling automation scripts",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "python.exe",
+        "page": "🔒 Admin Review - AI Optimization Recommendations",
+        "state": "viewing"
+      },
+      "source_session": "session_20251107_104633"
+    },
+    {
+      "step_number": 107,
+      "action_id": "screen_2025-11-07T10:49:38.239919",
+      "intent_category": "automation_control",
+      "intent_description": "Controlling automation scripts",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "python.exe",
+        "page": "🔒 Admin Review - AI Optimization Recommendations",
+        "state": "viewing"
+      },
+      "source_session": "session_20251107_104633"
+    },
+    {
+      "step_number": 108,
+      "action_id": "screen_2025-11-07T10:49:39.342874",
+      "intent_category": "automation_control",
+      "intent_description": "Controlling automation scripts",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "python.exe",
+        "page": "🔒 Admin Review - AI Optimization Recommendations",
+        "state": "viewing"
+      },
+      "source_session": "session_20251107_104633"
+    },
+    {
+      "step_number": 109,
+      "action_id": "screen_2025-11-07T10:49:40.357026",
+      "intent_category": "automation_control",
+      "intent_description": "Controlling automation scripts",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "python.exe",
+        "page": "🔒 Admin Review - AI Optimization Recommendations",
+        "state": "viewing"
+      },
+      "source_session": "session_20251107_104633"
+    },
+    {
+      "step_number": 110,
+      "action_id": "screen_2025-11-07T10:49:41.349617",
+      "intent_category": "automation_control",
+      "intent_description": "Controlling automation scripts",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "python.exe",
+        "page": "🔒 Admin Review - AI Optimization Recommendations",
+        "state": "viewing"
+      },
+      "source_session": "session_20251107_104633"
+    },
+    {
+      "step_number": 111,
+      "action_id": "screen_2025-11-07T10:49:42.341377",
+      "intent_category": "automation_control",
+      "intent_description": "Controlling automation scripts",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "python.exe",
+        "page": "🔒 Admin Review - AI Optimization Recommendations",
+        "state": "viewing"
+      },
+      "source_session": "session_20251107_104633"
+    },
+    {
+      "step_number": 112,
+      "action_id": "screen_2025-11-07T10:49:43.422636",
+      "intent_category": "automation_control",
+      "intent_description": "Controlling automation scripts",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "python.exe",
+        "page": "🔒 Admin Review - AI Optimization Recommendations",
+        "state": "viewing"
+      },
+      "source_session": "session_20251107_104633"
+    },
+    {
+      "step_number": 113,
+      "action_id": "screen_2025-11-07T10:49:44.494372",
+      "intent_category": "automation_control",
+      "intent_description": "Controlling automation scripts",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "python.exe",
+        "page": "Report Page",
+        "state": "viewing"
+      },
+      "source_session": "session_20251107_104633"
+    },
+    {
+      "step_number": 114,
+      "action_id": "screen_2025-11-07T10:49:45.499089",
+      "intent_category": "automation_control",
+      "intent_description": "Controlling automation scripts",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "python.exe",
+        "page": "Report Page",
+        "state": "viewing"
+      },
+      "source_session": "session_20251107_104633"
+    },
+    {
+      "step_number": 115,
+      "action_id": "screen_2025-11-07T10:49:46.612494",
+      "intent_category": "automation_control",
+      "intent_description": "Controlling automation scripts",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "python.exe",
+        "page": "Dashboard",
+        "state": "viewing",
+        "task": "Automation Oversight"
+      },
+      "source_session": "session_20251107_104633"
+    },
+    {
+      "step_number": 116,
+      "action_id": "screen_2025-11-07T10:49:47.625939",
+      "intent_category": "automation_control",
+      "intent_description": "Controlling automation scripts",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "python.exe",
+        "page": "Report Page",
+        "state": "viewing"
+      },
+      "source_session": "session_20251107_104633"
+    },
+    {
+      "step_number": 117,
+      "action_id": "mouse_2025-11-07T10:49:48.214012",
+      "intent_category": "automation_control",
+      "intent_description": "Controlling automation scripts",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "python.exe",
+        "page": "Report Page",
+        "state": "interacting"
+      },
+      "source_session": "session_20251107_104633"
+    },
+    {
+      "step_number": 118,
+      "action_id": "screen_2025-11-07T10:49:48.635228",
+      "intent_category": "automation_control",
+      "intent_description": "Controlling automation scripts",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "python.exe",
+        "page": "Report Page",
+        "state": "viewing"
+      },
+      "source_session": "session_20251107_104633"
+    },
+    {
+      "step_number": 119,
+      "action_id": "screen_2025-11-07T10:49:49.645263",
+      "intent_category": "automation_control",
+      "intent_description": "Controlling automation scripts",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "python.exe",
+        "page": "Report Page",
+        "state": "viewing"
+      },
+      "source_session": "session_20251107_104633"
+    },
+    {
+      "step_number": 120,
+      "action_id": "screen_2025-11-07T10:49:50.754702",
+      "intent_category": "automation_control",
+      "intent_description": "Controlling automation scripts",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "python.exe",
+        "page": "Report Page",
+        "state": "viewing"
+      },
+      "source_session": "session_20251107_104633"
+    },
+    {
+      "step_number": 121,
+      "action_id": "screen_2025-11-07T10:49:51.760866",
+      "intent_category": "automation_control",
+      "intent_description": "Controlling automation scripts",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "python.exe",
+        "page": "Report Page",
+        "state": "viewing"
+      },
+      "source_session": "session_20251107_104633"
+    },
+    {
+      "step_number": 122,
+      "action_id": "screen_2025-11-07T10:49:52.813419",
+      "intent_category": "automation_control",
+      "intent_description": "Controlling automation scripts",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "python.exe",
+        "page": "Report Page",
+        "state": "viewing"
+      },
+      "source_session": "session_20251107_104633"
+    },
+    {
+      "step_number": 123,
+      "action_id": "screen_2025-11-07T10:49:53.833057",
+      "intent_category": "automation_control",
+      "intent_description": "Controlling automation scripts",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "python.exe",
+        "page": "Report Page",
+        "state": "viewing"
+      },
+      "source_session": "session_20251107_104633"
+    },
+    {
+      "step_number": 124,
+      "action_id": "screen_2025-11-07T10:49:54.826425",
+      "intent_category": "automation_control",
+      "intent_description": "Controlling automation scripts",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "python.exe",
+        "page": "Report Page",
+        "state": "viewing"
+      },
+      "source_session": "session_20251107_104633"
+    },
+    {
+      "step_number": 125,
+      "action_id": "screen_2025-11-07T10:49:55.936809",
+      "intent_category": "automation_control",
+      "intent_description": "Controlling automation scripts",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "python.exe",
+        "page": "Report Page",
+        "state": "viewing"
+      },
+      "source_session": "session_20251107_104633"
+    },
+    {
+      "step_number": 126,
+      "action_id": "screen_2025-11-07T10:49:56.939489",
+      "intent_category": "automation_control",
+      "intent_description": "Controlling automation scripts",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "python.exe",
+        "page": "Report Page",
+        "state": "viewing"
+      },
+      "source_session": "session_20251107_104633"
+    },
+    {
+      "step_number": 127,
+      "action_id": "screen_2025-11-07T10:49:57.958823",
+      "intent_category": "automation_control",
+      "intent_description": "Controlling automation scripts",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "python.exe",
+        "page": "Report Page",
+        "state": "viewing"
+      },
+      "source_session": "session_20251107_104633"
+    },
+    {
+      "step_number": 128,
+      "action_id": "screen_2025-11-07T10:49:58.968197",
+      "intent_category": "automation_control",
+      "intent_description": "Controlling automation scripts",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "python.exe",
+        "page": "Report Page",
+        "state": "viewing"
+      },
+      "source_session": "session_20251107_104633"
+    },
+    {
+      "step_number": 129,
+      "action_id": "screen_2025-11-07T10:49:59.974115",
+      "intent_category": "automation_control",
+      "intent_description": "Controlling automation scripts",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "python.exe",
+        "page": "Report Page",
+        "state": "viewing"
+      },
+      "source_session": "session_20251107_104633"
+    },
+    {
+      "step_number": 130,
+      "action_id": "screen_2025-11-07T10:50:00.992281",
+      "intent_category": "automation_control",
+      "intent_description": "Controlling automation scripts",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "python.exe",
+        "page": "Report Page",
+        "state": "viewing"
+      },
+      "source_session": "session_20251107_104633"
+    },
+    {
+      "step_number": 131,
+      "action_id": "screen_2025-11-07T10:50:01.990940",
+      "intent_category": "automation_control",
+      "intent_description": "Controlling automation scripts",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "python.exe",
+        "page": "Report Page",
+        "state": "viewing"
+      },
+      "source_session": "session_20251107_104633"
+    },
+    {
+      "step_number": 132,
+      "action_id": "screen_2025-11-07T10:50:02.983247",
+      "intent_category": "automation_control",
+      "intent_description": "Controlling automation scripts",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "python.exe",
+        "page": "Report Page",
+        "state": "viewing"
+      },
+      "source_session": "session_20251107_104633"
+    },
+    {
+      "step_number": 133,
+      "action_id": "screen_2025-11-07T10:50:04.070731",
+      "intent_category": "automation_control",
+      "intent_description": "Controlling automation scripts",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "python.exe",
+        "page": "Report Page",
+        "state": "viewing"
+      },
+      "source_session": "session_20251107_104633"
+    },
+    {
+      "step_number": 134,
+      "action_id": "mouse_2025-11-07T10:50:04.821080",
+      "intent_category": "automation_control",
+      "intent_description": "Controlling automation scripts",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "python.exe",
+        "page": "Report Page",
+        "state": "interacting"
+      },
+      "source_session": "session_20251107_104633"
+    },
+    {
+      "step_number": 135,
+      "action_id": "screen_2025-11-07T10:50:05.067669",
+      "intent_category": "automation_control",
+      "intent_description": "Controlling automation scripts",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "python.exe",
+        "page": "Report Page",
+        "state": "viewing"
+      },
+      "source_session": "session_20251107_104633"
+    },
+    {
+      "step_number": 136,
+      "action_id": "screen_2025-11-07T10:50:06.145090",
+      "intent_category": "automation_control",
+      "intent_description": "Controlling automation scripts",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "python.exe",
+        "page": "Report Page",
+        "state": "viewing"
+      },
+      "source_session": "session_20251107_104633"
+    },
+    {
+      "step_number": 137,
+      "action_id": "screen_2025-11-07T10:50:07.225608",
+      "intent_category": "automation_control",
+      "intent_description": "Controlling automation scripts",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "python.exe",
+        "page": "Report Page",
+        "state": "viewing"
+      },
+      "source_session": "session_20251107_104633"
+    },
+    {
+      "step_number": 138,
+      "action_id": "mouse_2025-11-07T10:50:07.606151",
+      "intent_category": "automation_control",
+      "intent_description": "Controlling automation scripts",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "python.exe",
+        "page": "Report Page",
+        "state": "interacting"
+      },
+      "source_session": "session_20251107_104633"
+    },
+    {
+      "step_number": 139,
+      "action_id": "screen_2025-11-07T10:50:08.308409",
+      "intent_category": "automation_control",
+      "intent_description": "Controlling automation scripts",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "python.exe",
+        "page": "Report Page",
+        "state": "viewing"
+      },
+      "source_session": "session_20251107_104633"
+    },
+    {
+      "step_number": 140,
+      "action_id": "screen_2025-11-07T10:50:09.319322",
+      "intent_category": "automation_control",
+      "intent_description": "Controlling automation scripts",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "python.exe",
+        "page": "Report Page",
+        "state": "viewing"
+      },
+      "source_session": "session_20251107_104633"
+    },
+    {
+      "step_number": 141,
+      "action_id": "screen_2025-11-07T10:50:10.303656",
+      "intent_category": "automation_control",
+      "intent_description": "Controlling automation scripts",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "python.exe",
+        "page": "Report Page",
+        "state": "viewing"
+      },
+      "source_session": "session_20251107_104633"
+    },
+    {
+      "step_number": 142,
+      "action_id": "screen_2025-11-07T10:50:11.407706",
+      "intent_category": "automation_control",
+      "intent_description": "Controlling automation scripts",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "python.exe",
+        "page": "Report Page",
+        "state": "viewing"
+      },
+      "source_session": "session_20251107_104633"
+    },
+    {
+      "step_number": 143,
+      "action_id": "mouse_2025-11-07T10:50:12.277163",
+      "intent_category": "automation_control",
+      "intent_description": "Controlling automation scripts",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "python.exe",
+        "page": "Report Page",
+        "state": "interacting"
+      },
+      "source_session": "session_20251107_104633"
+    },
+    {
+      "step_number": 144,
+      "action_id": "screen_2025-11-07T10:50:12.483592",
+      "intent_category": "automation_control",
+      "intent_description": "Controlling automation scripts",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "python.exe",
+        "page": "Report Page",
+        "state": "viewing"
+      },
+      "source_session": "session_20251107_104633"
+    },
+    {
+      "step_number": 145,
+      "action_id": "screen_2025-11-07T10:50:13.576459",
+      "intent_category": "automation_control",
+      "intent_description": "Controlling automation scripts",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "python.exe",
+        "page": "Report Page",
+        "state": "viewing"
+      },
+      "source_session": "session_20251107_104633"
+    },
+    {
+      "step_number": 146,
+      "action_id": "screen_2025-11-07T10:50:14.675842",
+      "intent_category": "automation_control",
+      "intent_description": "Controlling automation scripts",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "python.exe",
+        "page": "Dashboard",
+        "state": "viewing",
+        "task": "Automation Oversight"
+      },
+      "source_session": "session_20251107_104633"
+    },
+    {
+      "step_number": 147,
+      "action_id": "screen_2025-11-07T10:50:15.702419",
+      "intent_category": "automation_control",
+      "intent_description": "Controlling automation scripts",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "python.exe",
+        "page": "Dashboard",
+        "state": "viewing",
+        "task": "Automation Oversight"
+      },
+      "source_session": "session_20251107_104633"
+    },
+    {
+      "step_number": 148,
+      "action_id": "screen_2025-11-07T10:50:16.785294",
+      "intent_category": "automation_control",
+      "intent_description": "Controlling automation scripts",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "python.exe",
+        "page": "Dashboard",
+        "state": "viewing",
+        "task": "Automation Oversight"
+      },
+      "source_session": "session_20251107_104633"
+    },
+    {
+      "step_number": 149,
+      "action_id": "screen_2025-11-07T10:50:17.817184",
+      "intent_category": "automation_control",
+      "intent_description": "Controlling automation scripts",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "python.exe",
+        "page": "Dashboard",
+        "state": "viewing",
+        "task": "Automation Oversight"
+      },
+      "source_session": "session_20251107_104633"
+    },
+    {
+      "step_number": 150,
+      "action_id": "screen_2025-11-07T10:50:18.827192",
+      "intent_category": "automation_control",
+      "intent_description": "Controlling automation scripts",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "python.exe",
+        "page": "Dashboard",
+        "state": "viewing",
+        "task": "Automation Oversight"
+      },
+      "source_session": "session_20251107_104633"
+    },
+    {
+      "step_number": 151,
+      "action_id": "screen_2025-11-07T10:50:19.845690",
+      "intent_category": "automation_control",
+      "intent_description": "Controlling automation scripts",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "python.exe",
+        "page": "Dashboard",
+        "state": "viewing",
+        "task": "Automation Oversight"
+      },
+      "source_session": "session_20251107_104633"
+    },
+    {
+      "step_number": 152,
+      "action_id": "screen_2025-11-07T10:50:20.948485",
+      "intent_category": "automation_control",
+      "intent_description": "Controlling automation scripts",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "python.exe",
+        "page": "🔒 Admin Review - AI Optimization Recommendations",
+        "state": "viewing"
+      },
+      "source_session": "session_20251107_104633"
+    }
+  ]
+}

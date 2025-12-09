@@ -1,0 +1,11 @@
+# Referral Document Cleanup Bot - Required Dependencies
+# Install with: pip install -r requirements.txt
+
+# Excel file support
+pandas>=2.0.0
+openpyxl>=3.1.0
+
+# Web automation
+selenium>=4.15.0
+webdriver-manager>=4.0.0
+

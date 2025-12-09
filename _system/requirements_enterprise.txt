@@ -1,0 +1,85 @@
+# Enterprise AI Task Assistant - Cutting-Edge Dependencies
+# Used by companies like Anthropic, Microsoft, and OpenAI
+
+# Note: Python 3.8+ is required but must be installed separately
+# Python version is checked during installation, not installed via pip
+
+# Encryption & Security (Military-Grade)
+cryptography>=41.0.0  # Industry-standard encryption library
+pycryptodome>=3.19.0  # Additional cryptographic functions
+
+# Local LLM Inference (Cutting-Edge)
+# Option 1: Ollama (Recommended - Most cutting-edge)
+# Install Ollama separately: https://ollama.ai
+ollama>=0.1.0  # Python client for Ollama
+
+# Option 2: HuggingFace Transformers (Used by Microsoft)
+transformers>=4.35.0
+torch>=2.1.0  # PyTorch for local inference
+accelerate>=0.24.0  # Model optimization
+
+# Option 3: LangChain (Used by Anthropic/Microsoft)
+langchain>=0.1.0
+langchain-community>=0.0.10
+
+# Data Processing
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Database
+# sqlite3 is built into Python standard library - do NOT install via pip
+# For encrypted SQLite: sqlcipher3>=0.5.0 (install separately if needed)
+
+# HTTP Requests (for local Ollama API)
+requests>=2.31.0
+httpx>=0.25.0  # Async HTTP (used by Anthropic)
+
+# Logging & Monitoring
+python-json-logger>=2.0.7
+
+# Security Utilities
+python-dotenv>=1.0.0  # Secure environment variable management
+keyring>=24.2.0  # Secure credential storage
+
+# Optional: Advanced NLP (for better PII detection)
+spacy>=3.7.0  # Named Entity Recognition for PII detection
+# Download model: python -m spacy download en_core_web_sm
+
+# Optional: Local Model Fine-Tuning
+# For advanced fine-tuning (requires GPU):
+# peft>=0.7.0  # Parameter-Efficient Fine-Tuning
+# bitsandbytes>=0.41.0  # Quantization
+
+# HIPAA Compliance Tools
+python-dateutil>=2.8.2  # Date handling for retention policies
+
+# Existing dependencies
+selenium>=4.15.0
+webdriver-manager>=4.0.0
+openpyxl>=3.1.0
+xlrd>=2.0.1
+pyperclip>=1.8.2
+Pillow>=10.0.0
+pywin32>=306; sys_platform == 'win32'
+lxml>=4.9.0
+beautifulsoup4>=4.11.0
+pdfrw>=0.4
+reportlab>=4.0.0
+pyautogui>=0.9.54
+pywinauto>=0.6.8
+colorama>=0.4.6
+Send2Trash>=1.8.2
+configparser>=6.0.0
+
+# Optional: AI Task Assistant (for LLM APIs)
+anthropic>=0.18.0  # Claude API (optional - for external LLM)
+openai>=1.0.0      # OpenAI API (optional - for external LLM)
+
+# Full System Monitoring (Personal Use - Requires Explicit Consent)
+mss>=9.0.0  # Screen capture
+pynput>=1.7.6  # Keyboard/mouse monitoring
+psutil>=5.9.0  # Process monitoring
+watchdog>=3.0.0  # File system monitoring
+pywin32>=306; sys_platform == 'win32'  # Windows window detection (already used, but listed for clarity)
+opencv-python>=4.8.0  # Image processing (already used, but listed for clarity)
+

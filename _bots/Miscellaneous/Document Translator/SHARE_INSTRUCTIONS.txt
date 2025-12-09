@@ -1,0 +1,38 @@
+========================================
+HOW TO SHARE THE DOCUMENT TRANSLATOR
+========================================
+
+STEP 1: Get Your Shareable Link
+--------------------------------
+Double-click: "get_shareable_link.bat"
+This will show you the link to share (looks like: http://192.168.1.100:5000)
+
+
+STEP 2: Start the Server
+-------------------------
+Double-click: "start_web_server.bat"
+This starts the web server so others can access it
+
+
+STEP 3: Share the Link
+----------------------
+Copy the link from Step 1 and send it to the person you want to share with
+They can paste it in their web browser to use the translator
+
+
+IMPORTANT NOTES:
+----------------
+✓ The person must be on the SAME WiFi/network as you
+✓ Keep the server running (don't close the window) while they use it
+✓ You can stop the server by pressing Ctrl+C in the server window
+✓ The link will work as long as the server is running
+
+
+TROUBLESHOOTING:
+----------------
+If the link doesn't work:
+1. Make sure both computers are on the same WiFi network
+2. Make sure Windows Firewall allows Python (it should ask you)
+3. Try restarting the server
+4. Check that your IP address hasn't changed (run get_shareable_link.bat again)
+

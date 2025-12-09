@@ -1,0 +1,1033 @@
+{
+  "workflow_key": "session_20251107_104633::workflow_1474",
+  "session_id": "session_20251107_104633",
+  "workflow_id": "workflow_1474",
+  "workflow_type": "data_entry",
+  "description": "... and 67 more actions",
+  "goal": "Completing billing workflow",
+  "confidence": 0.7,
+  "timestamp": "2025-11-08T10:02:03.578593",
+  "summary": [
+    "Workflow captured from session session_20251107_104633 (data_entry).",
+    "Contains 72 recorded actions with goal: Completing billing workflow.",
+    "Top intents detected:",
+    "  • Process Billing (38 steps)",
+    "  • Enter Data (34 steps)",
+    "Primary applications involved:",
+    "  • Cursor.exe (72 steps)",
+    "Common screens/pages:",
+    "  • Untitled-1 - Medisoft Billing - Cursor (72 steps)",
+    "Suggested interpretation:",
+    "  Mixed activity detected; review simulation output for step-by-step context."
+  ],
+  "steps": [
+    {
+      "step_number": 1,
+      "action_id": "screen_2025-11-07T10:56:39.296398",
+      "intent_category": "process_billing",
+      "intent_description": "Processing billing tasks",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Untitled-1 - Medisoft Billing - Cursor",
+        "state": "viewing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251107_104633"
+    },
+    {
+      "step_number": 2,
+      "action_id": "screen_2025-11-07T10:56:40.332744",
+      "intent_category": "process_billing",
+      "intent_description": "Processing billing tasks",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Untitled-1 - Medisoft Billing - Cursor",
+        "state": "viewing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251107_104633"
+    },
+    {
+      "step_number": 3,
+      "action_id": "screen_2025-11-07T10:56:41.343507",
+      "intent_category": "process_billing",
+      "intent_description": "Processing billing tasks",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Untitled-1 - Medisoft Billing - Cursor",
+        "state": "viewing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251107_104633"
+    },
+    {
+      "step_number": 4,
+      "action_id": "screen_2025-11-07T10:56:42.430677",
+      "intent_category": "process_billing",
+      "intent_description": "Processing billing tasks",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Untitled-1 - Medisoft Billing - Cursor",
+        "state": "viewing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251107_104633"
+    },
+    {
+      "step_number": 5,
+      "action_id": "screen_2025-11-07T10:56:43.463780",
+      "intent_category": "process_billing",
+      "intent_description": "Processing billing tasks",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Untitled-1 - Medisoft Billing - Cursor",
+        "state": "viewing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251107_104633"
+    },
+    {
+      "step_number": 6,
+      "action_id": "screen_2025-11-07T10:56:44.512788",
+      "intent_category": "process_billing",
+      "intent_description": "Processing billing tasks",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Untitled-1 - Medisoft Billing - Cursor",
+        "state": "viewing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251107_104633"
+    },
+    {
+      "step_number": 7,
+      "action_id": "screen_2025-11-07T10:56:45.926943",
+      "intent_category": "process_billing",
+      "intent_description": "Processing billing tasks",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Untitled-1 - Medisoft Billing - Cursor",
+        "state": "viewing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251107_104633"
+    },
+    {
+      "step_number": 8,
+      "action_id": "screen_2025-11-07T10:56:46.636939",
+      "intent_category": "process_billing",
+      "intent_description": "Processing billing tasks",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Untitled-1 - Medisoft Billing - Cursor",
+        "state": "viewing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251107_104633"
+    },
+    {
+      "step_number": 9,
+      "action_id": "screen_2025-11-07T10:56:47.655703",
+      "intent_category": "process_billing",
+      "intent_description": "Processing billing tasks",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Untitled-1 - Medisoft Billing - Cursor",
+        "state": "viewing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251107_104633"
+    },
+    {
+      "step_number": 10,
+      "action_id": "screen_2025-11-07T10:56:48.662990",
+      "intent_category": "process_billing",
+      "intent_description": "Processing billing tasks",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Untitled-1 - Medisoft Billing - Cursor",
+        "state": "viewing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251107_104633"
+    },
+    {
+      "step_number": 11,
+      "action_id": "screen_2025-11-07T10:56:49.749206",
+      "intent_category": "process_billing",
+      "intent_description": "Processing billing tasks",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Untitled-1 - Medisoft Billing - Cursor",
+        "state": "viewing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251107_104633"
+    },
+    {
+      "step_number": 12,
+      "action_id": "screen_2025-11-07T10:56:50.876481",
+      "intent_category": "process_billing",
+      "intent_description": "Processing billing tasks",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Untitled-1 - Medisoft Billing - Cursor",
+        "state": "viewing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251107_104633"
+    },
+    {
+      "step_number": 13,
+      "action_id": "keyboard_2025-11-07T10:56:51.719112",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Untitled-1 - Medisoft Billing - Cursor",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251107_104633"
+    },
+    {
+      "step_number": 14,
+      "action_id": "keyboard_2025-11-07T10:56:51.820182",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Untitled-1 - Medisoft Billing - Cursor",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251107_104633"
+    },
+    {
+      "step_number": 15,
+      "action_id": "screen_2025-11-07T10:56:51.913654",
+      "intent_category": "process_billing",
+      "intent_description": "Processing billing tasks",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Untitled-1 - Medisoft Billing - Cursor",
+        "state": "viewing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251107_104633"
+    },
+    {
+      "step_number": 16,
+      "action_id": "keyboard_2025-11-07T10:56:51.926241",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Untitled-1 - Medisoft Billing - Cursor",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251107_104633"
+    },
+    {
+      "step_number": 17,
+      "action_id": "keyboard_2025-11-07T10:56:52.010872",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Untitled-1 - Medisoft Billing - Cursor",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251107_104633"
+    },
+    {
+      "step_number": 18,
+      "action_id": "keyboard_2025-11-07T10:56:52.227683",
+      "intent_category": "process_billing",
+      "intent_description": "Processing billing tasks",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Untitled-1 - Medisoft Billing - Cursor",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251107_104633"
+    },
+    {
+      "step_number": 19,
+      "action_id": "keyboard_2025-11-07T10:56:52.323824",
+      "intent_category": "process_billing",
+      "intent_description": "Processing billing tasks",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Untitled-1 - Medisoft Billing - Cursor",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251107_104633"
+    },
+    {
+      "step_number": 20,
+      "action_id": "keyboard_2025-11-07T10:56:52.395670",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Untitled-1 - Medisoft Billing - Cursor",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251107_104633"
+    },
+    {
+      "step_number": 21,
+      "action_id": "keyboard_2025-11-07T10:56:52.540232",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Untitled-1 - Medisoft Billing - Cursor",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251107_104633"
+    },
+    {
+      "step_number": 22,
+      "action_id": "keyboard_2025-11-07T10:56:52.763608",
+      "intent_category": "process_billing",
+      "intent_description": "Processing billing tasks",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Untitled-1 - Medisoft Billing - Cursor",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251107_104633"
+    },
+    {
+      "step_number": 23,
+      "action_id": "screen_2025-11-07T10:56:52.990985",
+      "intent_category": "process_billing",
+      "intent_description": "Processing billing tasks",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Untitled-1 - Medisoft Billing - Cursor",
+        "state": "viewing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251107_104633"
+    },
+    {
+      "step_number": 24,
+      "action_id": "keyboard_2025-11-07T10:56:53.732201",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Untitled-1 - Medisoft Billing - Cursor",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251107_104633"
+    },
+    {
+      "step_number": 25,
+      "action_id": "keyboard_2025-11-07T10:56:53.891664",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Untitled-1 - Medisoft Billing - Cursor",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251107_104633"
+    },
+    {
+      "step_number": 26,
+      "action_id": "screen_2025-11-07T10:56:54.016824",
+      "intent_category": "process_billing",
+      "intent_description": "Processing billing tasks",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Untitled-1 - Medisoft Billing - Cursor",
+        "state": "viewing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251107_104633"
+    },
+    {
+      "step_number": 27,
+      "action_id": "keyboard_2025-11-07T10:56:54.083969",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Untitled-1 - Medisoft Billing - Cursor",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251107_104633"
+    },
+    {
+      "step_number": 28,
+      "action_id": "keyboard_2025-11-07T10:56:54.267648",
+      "intent_category": "process_billing",
+      "intent_description": "Processing billing tasks",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Untitled-1 - Medisoft Billing - Cursor",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251107_104633"
+    },
+    {
+      "step_number": 29,
+      "action_id": "keyboard_2025-11-07T10:56:54.467442",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Untitled-1 - Medisoft Billing - Cursor",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251107_104633"
+    },
+    {
+      "step_number": 30,
+      "action_id": "keyboard_2025-11-07T10:56:54.579687",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Untitled-1 - Medisoft Billing - Cursor",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251107_104633"
+    },
+    {
+      "step_number": 31,
+      "action_id": "keyboard_2025-11-07T10:56:54.675720",
+      "intent_category": "process_billing",
+      "intent_description": "Processing billing tasks",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Untitled-1 - Medisoft Billing - Cursor",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251107_104633"
+    },
+    {
+      "step_number": 32,
+      "action_id": "keyboard_2025-11-07T10:56:54.899865",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Untitled-1 - Medisoft Billing - Cursor",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251107_104633"
+    },
+    {
+      "step_number": 33,
+      "action_id": "screen_2025-11-07T10:56:55.093467",
+      "intent_category": "process_billing",
+      "intent_description": "Processing billing tasks",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Untitled-1 - Medisoft Billing - Cursor",
+        "state": "viewing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251107_104633"
+    },
+    {
+      "step_number": 34,
+      "action_id": "keyboard_2025-11-07T10:56:55.099734",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Untitled-1 - Medisoft Billing - Cursor",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251107_104633"
+    },
+    {
+      "step_number": 35,
+      "action_id": "keyboard_2025-11-07T10:56:55.155606",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Untitled-1 - Medisoft Billing - Cursor",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251107_104633"
+    },
+    {
+      "step_number": 36,
+      "action_id": "keyboard_2025-11-07T10:56:55.211955",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Untitled-1 - Medisoft Billing - Cursor",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251107_104633"
+    },
+    {
+      "step_number": 37,
+      "action_id": "keyboard_2025-11-07T10:56:55.395932",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Untitled-1 - Medisoft Billing - Cursor",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251107_104633"
+    },
+    {
+      "step_number": 38,
+      "action_id": "keyboard_2025-11-07T10:56:55.475956",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Untitled-1 - Medisoft Billing - Cursor",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251107_104633"
+    },
+    {
+      "step_number": 39,
+      "action_id": "keyboard_2025-11-07T10:56:55.659598",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Untitled-1 - Medisoft Billing - Cursor",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251107_104633"
+    },
+    {
+      "step_number": 40,
+      "action_id": "keyboard_2025-11-07T10:56:55.739440",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Untitled-1 - Medisoft Billing - Cursor",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251107_104633"
+    },
+    {
+      "step_number": 41,
+      "action_id": "keyboard_2025-11-07T10:56:55.819831",
+      "intent_category": "process_billing",
+      "intent_description": "Processing billing tasks",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Untitled-1 - Medisoft Billing - Cursor",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251107_104633"
+    },
+    {
+      "step_number": 42,
+      "action_id": "keyboard_2025-11-07T10:56:56.046233",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Untitled-1 - Medisoft Billing - Cursor",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251107_104633"
+    },
+    {
+      "step_number": 43,
+      "action_id": "screen_2025-11-07T10:56:56.070126",
+      "intent_category": "process_billing",
+      "intent_description": "Processing billing tasks",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Untitled-1 - Medisoft Billing - Cursor",
+        "state": "viewing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251107_104633"
+    },
+    {
+      "step_number": 44,
+      "action_id": "keyboard_2025-11-07T10:56:56.291656",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Untitled-1 - Medisoft Billing - Cursor",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251107_104633"
+    },
+    {
+      "step_number": 45,
+      "action_id": "keyboard_2025-11-07T10:56:56.403531",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Untitled-1 - Medisoft Billing - Cursor",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251107_104633"
+    },
+    {
+      "step_number": 46,
+      "action_id": "keyboard_2025-11-07T10:56:56.500440",
+      "intent_category": "process_billing",
+      "intent_description": "Processing billing tasks",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Untitled-1 - Medisoft Billing - Cursor",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251107_104633"
+    },
+    {
+      "step_number": 47,
+      "action_id": "screen_2025-11-07T10:56:57.185802",
+      "intent_category": "process_billing",
+      "intent_description": "Processing billing tasks",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Untitled-1 - Medisoft Billing - Cursor",
+        "state": "viewing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251107_104633"
+    },
+    {
+      "step_number": 48,
+      "action_id": "keyboard_2025-11-07T10:56:57.403862",
+      "intent_category": "process_billing",
+      "intent_description": "Processing billing tasks",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Untitled-1 - Medisoft Billing - Cursor",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251107_104633"
+    },
+    {
+      "step_number": 49,
+      "action_id": "keyboard_2025-11-07T10:56:57.499661",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Untitled-1 - Medisoft Billing - Cursor",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251107_104633"
+    },
+    {
+      "step_number": 50,
+      "action_id": "keyboard_2025-11-07T10:56:57.627873",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Untitled-1 - Medisoft Billing - Cursor",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251107_104633"
+    },
+    {
+      "step_number": 51,
+      "action_id": "keyboard_2025-11-07T10:56:57.907077",
+      "intent_category": "process_billing",
+      "intent_description": "Processing billing tasks",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Untitled-1 - Medisoft Billing - Cursor",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251107_104633"
+    },
+    {
+      "step_number": 52,
+      "action_id": "screen_2025-11-07T10:56:58.317438",
+      "intent_category": "process_billing",
+      "intent_description": "Processing billing tasks",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Untitled-1 - Medisoft Billing - Cursor",
+        "state": "viewing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251107_104633"
+    },
+    {
+      "step_number": 53,
+      "action_id": "keyboard_2025-11-07T10:56:59.268259",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Untitled-1 - Medisoft Billing - Cursor",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251107_104633"
+    },
+    {
+      "step_number": 54,
+      "action_id": "screen_2025-11-07T10:56:59.394935",
+      "intent_category": "process_billing",
+      "intent_description": "Processing billing tasks",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Untitled-1 - Medisoft Billing - Cursor",
+        "state": "viewing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251107_104633"
+    },
+    {
+      "step_number": 55,
+      "action_id": "keyboard_2025-11-07T10:56:59.484475",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Untitled-1 - Medisoft Billing - Cursor",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251107_104633"
+    },
+    {
+      "step_number": 56,
+      "action_id": "keyboard_2025-11-07T10:56:59.563947",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Untitled-1 - Medisoft Billing - Cursor",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251107_104633"
+    },
+    {
+      "step_number": 57,
+      "action_id": "keyboard_2025-11-07T10:56:59.612112",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Untitled-1 - Medisoft Billing - Cursor",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251107_104633"
+    },
+    {
+      "step_number": 58,
+      "action_id": "keyboard_2025-11-07T10:56:59.780595",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Untitled-1 - Medisoft Billing - Cursor",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251107_104633"
+    },
+    {
+      "step_number": 59,
+      "action_id": "keyboard_2025-11-07T10:57:00.004364",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Untitled-1 - Medisoft Billing - Cursor",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251107_104633"
+    },
+    {
+      "step_number": 60,
+      "action_id": "keyboard_2025-11-07T10:57:00.059699",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Untitled-1 - Medisoft Billing - Cursor",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251107_104633"
+    },
+    {
+      "step_number": 61,
+      "action_id": "keyboard_2025-11-07T10:57:00.275990",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Untitled-1 - Medisoft Billing - Cursor",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251107_104633"
+    },
+    {
+      "step_number": 62,
+      "action_id": "screen_2025-11-07T10:57:00.387870",
+      "intent_category": "process_billing",
+      "intent_description": "Processing billing tasks",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Untitled-1 - Medisoft Billing - Cursor",
+        "state": "viewing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251107_104633"
+    },
+    {
+      "step_number": 63,
+      "action_id": "keyboard_2025-11-07T10:57:00.459877",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Untitled-1 - Medisoft Billing - Cursor",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251107_104633"
+    },
+    {
+      "step_number": 64,
+      "action_id": "keyboard_2025-11-07T10:57:00.523576",
+      "intent_category": "process_billing",
+      "intent_description": "Processing billing tasks",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Untitled-1 - Medisoft Billing - Cursor",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251107_104633"
+    },
+    {
+      "step_number": 65,
+      "action_id": "screen_2025-11-07T10:57:01.426909",
+      "intent_category": "process_billing",
+      "intent_description": "Processing billing tasks",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Untitled-1 - Medisoft Billing - Cursor",
+        "state": "viewing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251107_104633"
+    },
+    {
+      "step_number": 66,
+      "action_id": "keyboard_2025-11-07T10:57:01.868383",
+      "intent_category": "process_billing",
+      "intent_description": "Processing billing tasks",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Untitled-1 - Medisoft Billing - Cursor",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251107_104633"
+    },
+    {
+      "step_number": 67,
+      "action_id": "keyboard_2025-11-07T10:57:02.052258",
+      "intent_category": "process_billing",
+      "intent_description": "Processing billing tasks",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Untitled-1 - Medisoft Billing - Cursor",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251107_104633"
+    },
+    {
+      "step_number": 68,
+      "action_id": "keyboard_2025-11-07T10:57:02.164190",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Untitled-1 - Medisoft Billing - Cursor",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251107_104633"
+    },
+    {
+      "step_number": 69,
+      "action_id": "screen_2025-11-07T10:57:02.430225",
+      "intent_category": "process_billing",
+      "intent_description": "Processing billing tasks",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Untitled-1 - Medisoft Billing - Cursor",
+        "state": "viewing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251107_104633"
+    },
+    {
+      "step_number": 70,
+      "action_id": "screen_2025-11-07T10:57:03.488487",
+      "intent_category": "process_billing",
+      "intent_description": "Processing billing tasks",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Untitled-1 - Medisoft Billing - Cursor",
+        "state": "viewing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251107_104633"
+    },
+    {
+      "step_number": 71,
+      "action_id": "screen_2025-11-07T10:57:04.573837",
+      "intent_category": "process_billing",
+      "intent_description": "Processing billing tasks",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Untitled-1 - Medisoft Billing - Cursor",
+        "state": "viewing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251107_104633"
+    },
+    {
+      "step_number": 72,
+      "action_id": "screen_2025-11-07T10:57:05.621226",
+      "intent_category": "process_billing",
+      "intent_description": "Processing billing tasks",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Untitled-1 - Medisoft Billing - Cursor",
+        "state": "viewing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251107_104633"
+    }
+  ]
+}

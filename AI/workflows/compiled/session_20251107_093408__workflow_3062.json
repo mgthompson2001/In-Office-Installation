@@ -1,0 +1,67 @@
+{
+  "workflow_key": "session_20251107_093408::workflow_3062",
+  "session_id": "session_20251107_093408",
+  "workflow_id": "workflow_3062",
+  "workflow_type": "interaction",
+  "description": "Click/interact",
+  "goal": "Removing counselor assignments",
+  "confidence": 0.7,
+  "timestamp": "2025-11-08T10:13:31.990256",
+  "summary": [
+    "Workflow captured from session session_20251107_093408 (interaction).",
+    "Contains 3 recorded actions with goal: Removing counselor assignments.",
+    "Top intents detected:",
+    "  • Remove Counselor (2 steps)",
+    "  • Automation Control (1 steps)",
+    "Primary applications involved:",
+    "  • pythonw.exe (3 steps)",
+    "Common screens/pages:",
+    "  • Bot Interface (3 steps)",
+    "Suggested interpretation:",
+    "  This captures a TherapyNotes counselor removal workflow."
+  ],
+  "steps": [
+    {
+      "step_number": 1,
+      "action_id": "screen_2025-11-07T10:10:27.303188",
+      "intent_category": "remove_counselor",
+      "intent_description": "Removing counselor assignment",
+      "intent_confidence": 0.9,
+      "contexts": {
+        "application": "pythonw.exe",
+        "page": "Bot Interface",
+        "state": "viewing",
+        "task": "IPS Removal"
+      },
+      "source_session": "session_20251107_093408"
+    },
+    {
+      "step_number": 2,
+      "action_id": "mouse_2025-11-07T10:10:27.559195",
+      "intent_category": "automation_control",
+      "intent_description": "Controlling automation scripts",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "pythonw.exe",
+        "page": "Bot Interface",
+        "state": "interacting",
+        "task": "IPS Removal"
+      },
+      "source_session": "session_20251107_093408"
+    },
+    {
+      "step_number": 3,
+      "action_id": "screen_2025-11-07T10:10:28.106120",
+      "intent_category": "remove_counselor",
+      "intent_description": "Removing counselor assignment",
+      "intent_confidence": 0.9,
+      "contexts": {
+        "application": "pythonw.exe",
+        "page": "Bot Interface",
+        "state": "viewing",
+        "task": "IPS Removal"
+      },
+      "source_session": "session_20251107_093408"
+    }
+  ]
+}

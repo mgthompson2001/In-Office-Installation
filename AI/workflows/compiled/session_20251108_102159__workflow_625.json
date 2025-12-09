@@ -1,0 +1,5387 @@
+{
+  "workflow_key": "session_20251108_102159::workflow_625",
+  "session_id": "session_20251108_102159",
+  "workflow_id": "workflow_625",
+  "workflow_type": "data_entry",
+  "description": "... and 378 more actions",
+  "goal": "Completing billing workflow",
+  "confidence": 0.7,
+  "timestamp": "2025-11-08T10:39:57.758648",
+  "summary": [
+    "Workflow captured from session session_20251108_102159 (data_entry).",
+    "Contains 383 recorded actions with goal: Completing billing workflow.",
+    "Top intents detected:",
+    "  • Enter Data (260 steps)",
+    "  • Process Billing (123 steps)",
+    "Primary applications involved:",
+    "  • Cursor.exe (383 steps)",
+    "Common screens/pages:",
+    "  • Bot Interface (383 steps)",
+    "Suggested interpretation:",
+    "  Mixed activity detected; review simulation output for step-by-step context."
+  ],
+  "steps": [
+    {
+      "step_number": 1,
+      "action_id": "screen_2025-11-08T10:26:05.640619",
+      "intent_category": "process_billing",
+      "intent_description": "Processing billing tasks",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "viewing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 2,
+      "action_id": "screen_2025-11-08T10:26:06.622415",
+      "intent_category": "process_billing",
+      "intent_description": "Processing billing tasks",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "viewing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 3,
+      "action_id": "screen_2025-11-08T10:26:07.705643",
+      "intent_category": "process_billing",
+      "intent_description": "Processing billing tasks",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "viewing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 4,
+      "action_id": "screen_2025-11-08T10:26:08.843558",
+      "intent_category": "process_billing",
+      "intent_description": "Processing billing tasks",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "viewing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 5,
+      "action_id": "screen_2025-11-08T10:26:09.924792",
+      "intent_category": "process_billing",
+      "intent_description": "Processing billing tasks",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "viewing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 6,
+      "action_id": "screen_2025-11-08T10:26:10.980874",
+      "intent_category": "process_billing",
+      "intent_description": "Processing billing tasks",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "viewing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 7,
+      "action_id": "screen_2025-11-08T10:26:11.975638",
+      "intent_category": "process_billing",
+      "intent_description": "Processing billing tasks",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "viewing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 8,
+      "action_id": "screen_2025-11-08T10:26:13.059813",
+      "intent_category": "process_billing",
+      "intent_description": "Processing billing tasks",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "viewing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 9,
+      "action_id": "screen_2025-11-08T10:26:14.132518",
+      "intent_category": "process_billing",
+      "intent_description": "Processing billing tasks",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "viewing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 10,
+      "action_id": "screen_2025-11-08T10:26:15.161708",
+      "intent_category": "process_billing",
+      "intent_description": "Processing billing tasks",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "viewing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 11,
+      "action_id": "screen_2025-11-08T10:26:16.252979",
+      "intent_category": "process_billing",
+      "intent_description": "Processing billing tasks",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "viewing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 12,
+      "action_id": "screen_2025-11-08T10:26:17.345229",
+      "intent_category": "process_billing",
+      "intent_description": "Processing billing tasks",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "viewing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 13,
+      "action_id": "screen_2025-11-08T10:26:18.342915",
+      "intent_category": "process_billing",
+      "intent_description": "Processing billing tasks",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "viewing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 14,
+      "action_id": "screen_2025-11-08T10:26:19.428091",
+      "intent_category": "process_billing",
+      "intent_description": "Processing billing tasks",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "viewing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 15,
+      "action_id": "screen_2025-11-08T10:26:20.494076",
+      "intent_category": "process_billing",
+      "intent_description": "Processing billing tasks",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "viewing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 16,
+      "action_id": "screen_2025-11-08T10:26:21.598831",
+      "intent_category": "process_billing",
+      "intent_description": "Processing billing tasks",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "viewing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 17,
+      "action_id": "screen_2025-11-08T10:26:22.779378",
+      "intent_category": "process_billing",
+      "intent_description": "Processing billing tasks",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "viewing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 18,
+      "action_id": "keyboard_2025-11-08T10:26:23.387344",
+      "intent_category": "process_billing",
+      "intent_description": "Processing billing tasks",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 19,
+      "action_id": "keyboard_2025-11-08T10:26:23.427006",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 20,
+      "action_id": "keyboard_2025-11-08T10:26:23.640094",
+      "intent_category": "process_billing",
+      "intent_description": "Processing billing tasks",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 21,
+      "action_id": "keyboard_2025-11-08T10:26:23.738434",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 22,
+      "action_id": "screen_2025-11-08T10:26:23.785526",
+      "intent_category": "process_billing",
+      "intent_description": "Processing billing tasks",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "viewing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 23,
+      "action_id": "keyboard_2025-11-08T10:26:23.943180",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 24,
+      "action_id": "keyboard_2025-11-08T10:26:24.090367",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 25,
+      "action_id": "keyboard_2025-11-08T10:26:24.203738",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 26,
+      "action_id": "keyboard_2025-11-08T10:26:24.327517",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 27,
+      "action_id": "keyboard_2025-11-08T10:26:24.512311",
+      "intent_category": "process_billing",
+      "intent_description": "Processing billing tasks",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 28,
+      "action_id": "keyboard_2025-11-08T10:26:24.624746",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 29,
+      "action_id": "keyboard_2025-11-08T10:26:24.711393",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 30,
+      "action_id": "screen_2025-11-08T10:26:24.808037",
+      "intent_category": "process_billing",
+      "intent_description": "Processing billing tasks",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "viewing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 31,
+      "action_id": "keyboard_2025-11-08T10:26:24.906241",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 32,
+      "action_id": "keyboard_2025-11-08T10:26:24.979060",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 33,
+      "action_id": "keyboard_2025-11-08T10:26:25.047396",
+      "intent_category": "process_billing",
+      "intent_description": "Processing billing tasks",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 34,
+      "action_id": "keyboard_2025-11-08T10:26:25.231269",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 35,
+      "action_id": "keyboard_2025-11-08T10:26:25.431511",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 36,
+      "action_id": "keyboard_2025-11-08T10:26:25.498303",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 37,
+      "action_id": "keyboard_2025-11-08T10:26:25.610994",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 38,
+      "action_id": "keyboard_2025-11-08T10:26:25.751085",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 39,
+      "action_id": "keyboard_2025-11-08T10:26:25.869873",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 40,
+      "action_id": "screen_2025-11-08T10:26:25.904440",
+      "intent_category": "process_billing",
+      "intent_description": "Processing billing tasks",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "viewing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 41,
+      "action_id": "keyboard_2025-11-08T10:26:25.979642",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 42,
+      "action_id": "keyboard_2025-11-08T10:26:26.075491",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 43,
+      "action_id": "keyboard_2025-11-08T10:26:26.214307",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 44,
+      "action_id": "keyboard_2025-11-08T10:26:26.261126",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 45,
+      "action_id": "keyboard_2025-11-08T10:26:26.362575",
+      "intent_category": "process_billing",
+      "intent_description": "Processing billing tasks",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 46,
+      "action_id": "keyboard_2025-11-08T10:26:26.525167",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 47,
+      "action_id": "keyboard_2025-11-08T10:26:26.735675",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 48,
+      "action_id": "keyboard_2025-11-08T10:26:26.892603",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 49,
+      "action_id": "screen_2025-11-08T10:26:26.953180",
+      "intent_category": "process_billing",
+      "intent_description": "Processing billing tasks",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "viewing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 50,
+      "action_id": "keyboard_2025-11-08T10:26:27.000311",
+      "intent_category": "process_billing",
+      "intent_description": "Processing billing tasks",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 51,
+      "action_id": "keyboard_2025-11-08T10:26:27.190779",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 52,
+      "action_id": "keyboard_2025-11-08T10:26:27.379704",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 53,
+      "action_id": "keyboard_2025-11-08T10:26:27.447083",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 54,
+      "action_id": "keyboard_2025-11-08T10:26:27.579184",
+      "intent_category": "process_billing",
+      "intent_description": "Processing billing tasks",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 55,
+      "action_id": "keyboard_2025-11-08T10:26:27.661742",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 56,
+      "action_id": "keyboard_2025-11-08T10:26:27.802175",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 57,
+      "action_id": "keyboard_2025-11-08T10:26:27.877923",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 58,
+      "action_id": "screen_2025-11-08T10:26:28.025699",
+      "intent_category": "process_billing",
+      "intent_description": "Processing billing tasks",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "viewing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 59,
+      "action_id": "keyboard_2025-11-08T10:26:28.029198",
+      "intent_category": "process_billing",
+      "intent_description": "Processing billing tasks",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 60,
+      "action_id": "keyboard_2025-11-08T10:26:28.734217",
+      "intent_category": "process_billing",
+      "intent_description": "Processing billing tasks",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 61,
+      "action_id": "keyboard_2025-11-08T10:26:28.800757",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 62,
+      "action_id": "keyboard_2025-11-08T10:26:28.986404",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 63,
+      "action_id": "screen_2025-11-08T10:26:29.102002",
+      "intent_category": "process_billing",
+      "intent_description": "Processing billing tasks",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "viewing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 64,
+      "action_id": "keyboard_2025-11-08T10:26:29.168637",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 65,
+      "action_id": "keyboard_2025-11-08T10:26:29.389230",
+      "intent_category": "process_billing",
+      "intent_description": "Processing billing tasks",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 66,
+      "action_id": "keyboard_2025-11-08T10:26:29.575093",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 67,
+      "action_id": "keyboard_2025-11-08T10:26:29.640464",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 68,
+      "action_id": "keyboard_2025-11-08T10:26:29.822633",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 69,
+      "action_id": "keyboard_2025-11-08T10:26:30.055138",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 70,
+      "action_id": "keyboard_2025-11-08T10:26:30.141417",
+      "intent_category": "process_billing",
+      "intent_description": "Processing billing tasks",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 71,
+      "action_id": "screen_2025-11-08T10:26:30.177806",
+      "intent_category": "process_billing",
+      "intent_description": "Processing billing tasks",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "viewing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 72,
+      "action_id": "keyboard_2025-11-08T10:26:30.271086",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 73,
+      "action_id": "keyboard_2025-11-08T10:26:30.449444",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 74,
+      "action_id": "keyboard_2025-11-08T10:26:30.622729",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 75,
+      "action_id": "keyboard_2025-11-08T10:26:31.006736",
+      "intent_category": "process_billing",
+      "intent_description": "Processing billing tasks",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 76,
+      "action_id": "screen_2025-11-08T10:26:31.195527",
+      "intent_category": "process_billing",
+      "intent_description": "Processing billing tasks",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "viewing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 77,
+      "action_id": "keyboard_2025-11-08T10:26:31.881650",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 78,
+      "action_id": "keyboard_2025-11-08T10:26:31.994290",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 79,
+      "action_id": "keyboard_2025-11-08T10:26:32.205481",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 80,
+      "action_id": "screen_2025-11-08T10:26:32.283474",
+      "intent_category": "process_billing",
+      "intent_description": "Processing billing tasks",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "viewing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 81,
+      "action_id": "keyboard_2025-11-08T10:26:32.323564",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 82,
+      "action_id": "keyboard_2025-11-08T10:26:32.459777",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 83,
+      "action_id": "keyboard_2025-11-08T10:26:32.540961",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 84,
+      "action_id": "keyboard_2025-11-08T10:26:32.719064",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 85,
+      "action_id": "keyboard_2025-11-08T10:26:32.909233",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 86,
+      "action_id": "keyboard_2025-11-08T10:26:33.092904",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 87,
+      "action_id": "screen_2025-11-08T10:26:33.294059",
+      "intent_category": "process_billing",
+      "intent_description": "Processing billing tasks",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "viewing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 88,
+      "action_id": "keyboard_2025-11-08T10:26:33.297978",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 89,
+      "action_id": "keyboard_2025-11-08T10:26:33.368210",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 90,
+      "action_id": "keyboard_2025-11-08T10:26:33.449914",
+      "intent_category": "process_billing",
+      "intent_description": "Processing billing tasks",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 91,
+      "action_id": "keyboard_2025-11-08T10:26:33.726513",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 92,
+      "action_id": "keyboard_2025-11-08T10:26:33.947042",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 93,
+      "action_id": "keyboard_2025-11-08T10:26:34.153090",
+      "intent_category": "process_billing",
+      "intent_description": "Processing billing tasks",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 94,
+      "action_id": "keyboard_2025-11-08T10:26:34.266836",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 95,
+      "action_id": "screen_2025-11-08T10:26:34.340112",
+      "intent_category": "process_billing",
+      "intent_description": "Processing billing tasks",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "viewing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 96,
+      "action_id": "keyboard_2025-11-08T10:26:34.347905",
+      "intent_category": "process_billing",
+      "intent_description": "Processing billing tasks",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 97,
+      "action_id": "keyboard_2025-11-08T10:26:34.581958",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 98,
+      "action_id": "keyboard_2025-11-08T10:26:34.619300",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 99,
+      "action_id": "keyboard_2025-11-08T10:26:34.780939",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 100,
+      "action_id": "keyboard_2025-11-08T10:26:34.969732",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 101,
+      "action_id": "keyboard_2025-11-08T10:26:35.015490",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 102,
+      "action_id": "keyboard_2025-11-08T10:26:35.186705",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 103,
+      "action_id": "screen_2025-11-08T10:26:35.350002",
+      "intent_category": "process_billing",
+      "intent_description": "Processing billing tasks",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "viewing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 104,
+      "action_id": "keyboard_2025-11-08T10:26:35.380993",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 105,
+      "action_id": "keyboard_2025-11-08T10:26:35.453286",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 106,
+      "action_id": "keyboard_2025-11-08T10:26:35.592168",
+      "intent_category": "process_billing",
+      "intent_description": "Processing billing tasks",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 107,
+      "action_id": "keyboard_2025-11-08T10:26:35.679037",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 108,
+      "action_id": "keyboard_2025-11-08T10:26:35.873462",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 109,
+      "action_id": "keyboard_2025-11-08T10:26:36.068554",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 110,
+      "action_id": "keyboard_2025-11-08T10:26:36.198980",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 111,
+      "action_id": "screen_2025-11-08T10:26:36.400925",
+      "intent_category": "process_billing",
+      "intent_description": "Processing billing tasks",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "viewing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 112,
+      "action_id": "keyboard_2025-11-08T10:26:36.404778",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 113,
+      "action_id": "keyboard_2025-11-08T10:26:36.493632",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 114,
+      "action_id": "keyboard_2025-11-08T10:26:36.658303",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 115,
+      "action_id": "keyboard_2025-11-08T10:26:36.719463",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 116,
+      "action_id": "keyboard_2025-11-08T10:26:36.896467",
+      "intent_category": "process_billing",
+      "intent_description": "Processing billing tasks",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 117,
+      "action_id": "keyboard_2025-11-08T10:26:37.085972",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 118,
+      "action_id": "keyboard_2025-11-08T10:26:37.269969",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 119,
+      "action_id": "keyboard_2025-11-08T10:26:37.410295",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 120,
+      "action_id": "screen_2025-11-08T10:26:37.473830",
+      "intent_category": "process_billing",
+      "intent_description": "Processing billing tasks",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "viewing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 121,
+      "action_id": "keyboard_2025-11-08T10:26:37.587861",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 122,
+      "action_id": "keyboard_2025-11-08T10:26:37.793438",
+      "intent_category": "process_billing",
+      "intent_description": "Processing billing tasks",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 123,
+      "action_id": "keyboard_2025-11-08T10:26:37.934292",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 124,
+      "action_id": "keyboard_2025-11-08T10:26:38.007478",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 125,
+      "action_id": "keyboard_2025-11-08T10:26:38.313461",
+      "intent_category": "process_billing",
+      "intent_description": "Processing billing tasks",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 126,
+      "action_id": "screen_2025-11-08T10:26:38.554988",
+      "intent_category": "process_billing",
+      "intent_description": "Processing billing tasks",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "viewing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 127,
+      "action_id": "keyboard_2025-11-08T10:26:38.766935",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 128,
+      "action_id": "keyboard_2025-11-08T10:26:38.855320",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 129,
+      "action_id": "keyboard_2025-11-08T10:26:39.140928",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 130,
+      "action_id": "keyboard_2025-11-08T10:26:39.313546",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 131,
+      "action_id": "keyboard_2025-11-08T10:26:39.449301",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 132,
+      "action_id": "keyboard_2025-11-08T10:26:39.537701",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 133,
+      "action_id": "screen_2025-11-08T10:26:39.631146",
+      "intent_category": "process_billing",
+      "intent_description": "Processing billing tasks",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "viewing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 134,
+      "action_id": "keyboard_2025-11-08T10:26:39.735158",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 135,
+      "action_id": "keyboard_2025-11-08T10:26:39.843737",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 136,
+      "action_id": "keyboard_2025-11-08T10:26:39.957458",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 137,
+      "action_id": "keyboard_2025-11-08T10:26:40.168418",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 138,
+      "action_id": "keyboard_2025-11-08T10:26:40.255322",
+      "intent_category": "process_billing",
+      "intent_description": "Processing billing tasks",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 139,
+      "action_id": "keyboard_2025-11-08T10:26:40.374312",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 140,
+      "action_id": "keyboard_2025-11-08T10:26:40.461284",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 141,
+      "action_id": "keyboard_2025-11-08T10:26:40.617983",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 142,
+      "action_id": "screen_2025-11-08T10:26:40.716127",
+      "intent_category": "process_billing",
+      "intent_description": "Processing billing tasks",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "viewing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 143,
+      "action_id": "keyboard_2025-11-08T10:26:40.780372",
+      "intent_category": "process_billing",
+      "intent_description": "Processing billing tasks",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 144,
+      "action_id": "keyboard_2025-11-08T10:26:40.958793",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 145,
+      "action_id": "keyboard_2025-11-08T10:26:41.034967",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 146,
+      "action_id": "keyboard_2025-11-08T10:26:41.158950",
+      "intent_category": "process_billing",
+      "intent_description": "Processing billing tasks",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 147,
+      "action_id": "keyboard_2025-11-08T10:26:41.245560",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 148,
+      "action_id": "keyboard_2025-11-08T10:26:41.332348",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 149,
+      "action_id": "keyboard_2025-11-08T10:26:41.489444",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 150,
+      "action_id": "keyboard_2025-11-08T10:26:41.571628",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 151,
+      "action_id": "keyboard_2025-11-08T10:26:41.699754",
+      "intent_category": "process_billing",
+      "intent_description": "Processing billing tasks",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 152,
+      "action_id": "screen_2025-11-08T10:26:41.807102",
+      "intent_category": "process_billing",
+      "intent_description": "Processing billing tasks",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "viewing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 153,
+      "action_id": "keyboard_2025-11-08T10:26:41.809984",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 154,
+      "action_id": "keyboard_2025-11-08T10:26:41.970981",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 155,
+      "action_id": "keyboard_2025-11-08T10:26:42.161011",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 156,
+      "action_id": "keyboard_2025-11-08T10:26:42.360514",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 157,
+      "action_id": "keyboard_2025-11-08T10:26:42.457754",
+      "intent_category": "process_billing",
+      "intent_description": "Processing billing tasks",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 158,
+      "action_id": "keyboard_2025-11-08T10:26:42.582276",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 159,
+      "action_id": "keyboard_2025-11-08T10:26:42.648731",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 160,
+      "action_id": "keyboard_2025-11-08T10:26:42.852543",
+      "intent_category": "process_billing",
+      "intent_description": "Processing billing tasks",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 161,
+      "action_id": "screen_2025-11-08T10:26:42.890403",
+      "intent_category": "process_billing",
+      "intent_description": "Processing billing tasks",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "viewing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 162,
+      "action_id": "keyboard_2025-11-08T10:26:42.934570",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 163,
+      "action_id": "keyboard_2025-11-08T10:26:43.081014",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 164,
+      "action_id": "keyboard_2025-11-08T10:26:43.242353",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 165,
+      "action_id": "keyboard_2025-11-08T10:26:43.438148",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 166,
+      "action_id": "keyboard_2025-11-08T10:26:43.653413",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 167,
+      "action_id": "keyboard_2025-11-08T10:26:43.836900",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 168,
+      "action_id": "screen_2025-11-08T10:26:43.971067",
+      "intent_category": "process_billing",
+      "intent_description": "Processing billing tasks",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "viewing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 169,
+      "action_id": "keyboard_2025-11-08T10:26:43.983374",
+      "intent_category": "process_billing",
+      "intent_description": "Processing billing tasks",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 170,
+      "action_id": "keyboard_2025-11-08T10:26:44.340792",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 171,
+      "action_id": "keyboard_2025-11-08T10:26:44.465920",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 172,
+      "action_id": "keyboard_2025-11-08T10:26:44.638989",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 173,
+      "action_id": "keyboard_2025-11-08T10:26:44.703860",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 174,
+      "action_id": "keyboard_2025-11-08T10:26:44.909057",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 175,
+      "action_id": "screen_2025-11-08T10:26:45.071653",
+      "intent_category": "process_billing",
+      "intent_description": "Processing billing tasks",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "viewing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 176,
+      "action_id": "keyboard_2025-11-08T10:26:45.115237",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 177,
+      "action_id": "keyboard_2025-11-08T10:26:45.309434",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 178,
+      "action_id": "keyboard_2025-11-08T10:26:45.483267",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 179,
+      "action_id": "keyboard_2025-11-08T10:26:45.655431",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 180,
+      "action_id": "keyboard_2025-11-08T10:26:45.758238",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 181,
+      "action_id": "keyboard_2025-11-08T10:26:45.850430",
+      "intent_category": "process_billing",
+      "intent_description": "Processing billing tasks",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 182,
+      "action_id": "keyboard_2025-11-08T10:26:45.965383",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 183,
+      "action_id": "keyboard_2025-11-08T10:26:46.019710",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 184,
+      "action_id": "screen_2025-11-08T10:26:46.083382",
+      "intent_category": "process_billing",
+      "intent_description": "Processing billing tasks",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "viewing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 185,
+      "action_id": "keyboard_2025-11-08T10:26:46.223897",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 186,
+      "action_id": "keyboard_2025-11-08T10:26:46.413875",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 187,
+      "action_id": "keyboard_2025-11-08T10:26:46.593271",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 188,
+      "action_id": "keyboard_2025-11-08T10:26:46.631344",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 189,
+      "action_id": "keyboard_2025-11-08T10:26:46.829749",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 190,
+      "action_id": "keyboard_2025-11-08T10:26:46.964991",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 191,
+      "action_id": "screen_2025-11-08T10:26:47.079163",
+      "intent_category": "process_billing",
+      "intent_description": "Processing billing tasks",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "viewing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 192,
+      "action_id": "keyboard_2025-11-08T10:26:47.165759",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 193,
+      "action_id": "keyboard_2025-11-08T10:26:47.246169",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 194,
+      "action_id": "keyboard_2025-11-08T10:26:47.457077",
+      "intent_category": "process_billing",
+      "intent_description": "Processing billing tasks",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 195,
+      "action_id": "keyboard_2025-11-08T10:26:47.530118",
+      "intent_category": "process_billing",
+      "intent_description": "Processing billing tasks",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 196,
+      "action_id": "keyboard_2025-11-08T10:26:47.582289",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 197,
+      "action_id": "keyboard_2025-11-08T10:26:47.755088",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 198,
+      "action_id": "keyboard_2025-11-08T10:26:47.863953",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 199,
+      "action_id": "keyboard_2025-11-08T10:26:48.015652",
+      "intent_category": "process_billing",
+      "intent_description": "Processing billing tasks",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 200,
+      "action_id": "screen_2025-11-08T10:26:48.153350",
+      "intent_category": "process_billing",
+      "intent_description": "Processing billing tasks",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "viewing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 201,
+      "action_id": "keyboard_2025-11-08T10:26:48.155897",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 202,
+      "action_id": "keyboard_2025-11-08T10:26:48.220821",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 203,
+      "action_id": "keyboard_2025-11-08T10:26:48.388052",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 204,
+      "action_id": "keyboard_2025-11-08T10:26:48.599037",
+      "intent_category": "process_billing",
+      "intent_description": "Processing billing tasks",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 205,
+      "action_id": "keyboard_2025-11-08T10:26:48.793808",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 206,
+      "action_id": "keyboard_2025-11-08T10:26:48.908417",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 207,
+      "action_id": "keyboard_2025-11-08T10:26:48.967119",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 208,
+      "action_id": "keyboard_2025-11-08T10:26:49.061994",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 209,
+      "action_id": "keyboard_2025-11-08T10:26:49.167541",
+      "intent_category": "process_billing",
+      "intent_description": "Processing billing tasks",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 210,
+      "action_id": "screen_2025-11-08T10:26:49.228406",
+      "intent_category": "process_billing",
+      "intent_description": "Processing billing tasks",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "viewing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 211,
+      "action_id": "keyboard_2025-11-08T10:26:49.248840",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 212,
+      "action_id": "keyboard_2025-11-08T10:26:49.341547",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 213,
+      "action_id": "keyboard_2025-11-08T10:26:49.491974",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 214,
+      "action_id": "keyboard_2025-11-08T10:26:49.600707",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 215,
+      "action_id": "keyboard_2025-11-08T10:26:49.708879",
+      "intent_category": "process_billing",
+      "intent_description": "Processing billing tasks",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 216,
+      "action_id": "keyboard_2025-11-08T10:26:49.806625",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 217,
+      "action_id": "keyboard_2025-11-08T10:26:49.908578",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 218,
+      "action_id": "keyboard_2025-11-08T10:26:50.009596",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 219,
+      "action_id": "keyboard_2025-11-08T10:26:50.145815",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 220,
+      "action_id": "keyboard_2025-11-08T10:26:50.255709",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 221,
+      "action_id": "screen_2025-11-08T10:26:50.279038",
+      "intent_category": "process_billing",
+      "intent_description": "Processing billing tasks",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "viewing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 222,
+      "action_id": "keyboard_2025-11-08T10:26:50.450300",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 223,
+      "action_id": "keyboard_2025-11-08T10:26:50.801853",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 224,
+      "action_id": "keyboard_2025-11-08T10:26:51.121116",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 225,
+      "action_id": "keyboard_2025-11-08T10:26:51.219160",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 226,
+      "action_id": "screen_2025-11-08T10:26:51.389885",
+      "intent_category": "process_billing",
+      "intent_description": "Processing billing tasks",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "viewing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 227,
+      "action_id": "keyboard_2025-11-08T10:26:51.435081",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 228,
+      "action_id": "keyboard_2025-11-08T10:26:51.481288",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 229,
+      "action_id": "keyboard_2025-11-08T10:26:51.667672",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 230,
+      "action_id": "keyboard_2025-11-08T10:26:51.728104",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 231,
+      "action_id": "keyboard_2025-11-08T10:26:51.900458",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 232,
+      "action_id": "keyboard_2025-11-08T10:26:52.089497",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 233,
+      "action_id": "keyboard_2025-11-08T10:26:52.268451",
+      "intent_category": "process_billing",
+      "intent_description": "Processing billing tasks",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 234,
+      "action_id": "keyboard_2025-11-08T10:26:52.370193",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 235,
+      "action_id": "keyboard_2025-11-08T10:26:52.463861",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 236,
+      "action_id": "screen_2025-11-08T10:26:52.481226",
+      "intent_category": "process_billing",
+      "intent_description": "Processing billing tasks",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "viewing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 237,
+      "action_id": "keyboard_2025-11-08T10:26:52.535527",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 238,
+      "action_id": "keyboard_2025-11-08T10:26:52.721197",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 239,
+      "action_id": "keyboard_2025-11-08T10:26:52.906524",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 240,
+      "action_id": "keyboard_2025-11-08T10:26:53.052253",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 241,
+      "action_id": "keyboard_2025-11-08T10:26:53.128514",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 242,
+      "action_id": "keyboard_2025-11-08T10:26:53.174278",
+      "intent_category": "process_billing",
+      "intent_description": "Processing billing tasks",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 243,
+      "action_id": "keyboard_2025-11-08T10:26:53.301029",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 244,
+      "action_id": "keyboard_2025-11-08T10:26:53.376933",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 245,
+      "action_id": "screen_2025-11-08T10:26:53.497930",
+      "intent_category": "process_billing",
+      "intent_description": "Processing billing tasks",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "viewing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 246,
+      "action_id": "keyboard_2025-11-08T10:26:53.582329",
+      "intent_category": "process_billing",
+      "intent_description": "Processing billing tasks",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 247,
+      "action_id": "keyboard_2025-11-08T10:26:53.739950",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 248,
+      "action_id": "keyboard_2025-11-08T10:26:53.836999",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 249,
+      "action_id": "keyboard_2025-11-08T10:26:53.934170",
+      "intent_category": "process_billing",
+      "intent_description": "Processing billing tasks",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 250,
+      "action_id": "keyboard_2025-11-08T10:26:54.102420",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 251,
+      "action_id": "keyboard_2025-11-08T10:26:54.275269",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 252,
+      "action_id": "keyboard_2025-11-08T10:26:54.299612",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 253,
+      "action_id": "screen_2025-11-08T10:26:54.478079",
+      "intent_category": "process_billing",
+      "intent_description": "Processing billing tasks",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "viewing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 254,
+      "action_id": "keyboard_2025-11-08T10:26:54.496403",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 255,
+      "action_id": "keyboard_2025-11-08T10:26:54.648306",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 256,
+      "action_id": "keyboard_2025-11-08T10:26:54.766680",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 257,
+      "action_id": "keyboard_2025-11-08T10:26:54.983175",
+      "intent_category": "process_billing",
+      "intent_description": "Processing billing tasks",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 258,
+      "action_id": "keyboard_2025-11-08T10:26:55.044559",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 259,
+      "action_id": "screen_2025-11-08T10:26:55.524365",
+      "intent_category": "process_billing",
+      "intent_description": "Processing billing tasks",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "viewing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 260,
+      "action_id": "keyboard_2025-11-08T10:26:55.807821",
+      "intent_category": "process_billing",
+      "intent_description": "Processing billing tasks",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 261,
+      "action_id": "keyboard_2025-11-08T10:26:56.245439",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 262,
+      "action_id": "keyboard_2025-11-08T10:26:56.342740",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 263,
+      "action_id": "keyboard_2025-11-08T10:26:56.489474",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 264,
+      "action_id": "screen_2025-11-08T10:26:56.602506",
+      "intent_category": "process_billing",
+      "intent_description": "Processing billing tasks",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "viewing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 265,
+      "action_id": "keyboard_2025-11-08T10:26:56.759527",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 266,
+      "action_id": "keyboard_2025-11-08T10:26:57.002716",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 267,
+      "action_id": "keyboard_2025-11-08T10:26:57.115020",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 268,
+      "action_id": "keyboard_2025-11-08T10:26:57.220488",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 269,
+      "action_id": "keyboard_2025-11-08T10:26:57.490340",
+      "intent_category": "process_billing",
+      "intent_description": "Processing billing tasks",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 270,
+      "action_id": "keyboard_2025-11-08T10:26:57.615440",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 271,
+      "action_id": "screen_2025-11-08T10:26:57.720025",
+      "intent_category": "process_billing",
+      "intent_description": "Processing billing tasks",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "viewing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 272,
+      "action_id": "keyboard_2025-11-08T10:26:57.724081",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 273,
+      "action_id": "keyboard_2025-11-08T10:26:57.842202",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 274,
+      "action_id": "keyboard_2025-11-08T10:26:57.936277",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 275,
+      "action_id": "keyboard_2025-11-08T10:26:58.032064",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 276,
+      "action_id": "keyboard_2025-11-08T10:26:58.129020",
+      "intent_category": "process_billing",
+      "intent_description": "Processing billing tasks",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 277,
+      "action_id": "keyboard_2025-11-08T10:26:58.281195",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 278,
+      "action_id": "keyboard_2025-11-08T10:26:58.470562",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 279,
+      "action_id": "keyboard_2025-11-08T10:26:58.524686",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 280,
+      "action_id": "keyboard_2025-11-08T10:26:58.670802",
+      "intent_category": "process_billing",
+      "intent_description": "Processing billing tasks",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 281,
+      "action_id": "screen_2025-11-08T10:26:58.714597",
+      "intent_category": "process_billing",
+      "intent_description": "Processing billing tasks",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "viewing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 282,
+      "action_id": "keyboard_2025-11-08T10:26:58.902858",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 283,
+      "action_id": "keyboard_2025-11-08T10:26:58.984381",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 284,
+      "action_id": "keyboard_2025-11-08T10:26:59.129223",
+      "intent_category": "process_billing",
+      "intent_description": "Processing billing tasks",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 285,
+      "action_id": "keyboard_2025-11-08T10:26:59.233059",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 286,
+      "action_id": "keyboard_2025-11-08T10:26:59.390305",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 287,
+      "action_id": "keyboard_2025-11-08T10:26:59.524952",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 288,
+      "action_id": "keyboard_2025-11-08T10:26:59.698430",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 289,
+      "action_id": "screen_2025-11-08T10:26:59.793312",
+      "intent_category": "process_billing",
+      "intent_description": "Processing billing tasks",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "viewing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 290,
+      "action_id": "keyboard_2025-11-08T10:26:59.801460",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 291,
+      "action_id": "keyboard_2025-11-08T10:26:59.898902",
+      "intent_category": "process_billing",
+      "intent_description": "Processing billing tasks",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 292,
+      "action_id": "keyboard_2025-11-08T10:27:00.099292",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 293,
+      "action_id": "keyboard_2025-11-08T10:27:00.291063",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 294,
+      "action_id": "keyboard_2025-11-08T10:27:00.423887",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 295,
+      "action_id": "keyboard_2025-11-08T10:27:00.485222",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 296,
+      "action_id": "keyboard_2025-11-08T10:27:00.612226",
+      "intent_category": "process_billing",
+      "intent_description": "Processing billing tasks",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 297,
+      "action_id": "keyboard_2025-11-08T10:27:00.709488",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 298,
+      "action_id": "screen_2025-11-08T10:27:00.778980",
+      "intent_category": "process_billing",
+      "intent_description": "Processing billing tasks",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "viewing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 299,
+      "action_id": "keyboard_2025-11-08T10:27:00.791772",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 300,
+      "action_id": "keyboard_2025-11-08T10:27:01.002311",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 301,
+      "action_id": "keyboard_2025-11-08T10:27:01.165050",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 302,
+      "action_id": "keyboard_2025-11-08T10:27:01.299992",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 303,
+      "action_id": "keyboard_2025-11-08T10:27:01.397336",
+      "intent_category": "process_billing",
+      "intent_description": "Processing billing tasks",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 304,
+      "action_id": "keyboard_2025-11-08T10:27:01.581709",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 305,
+      "action_id": "keyboard_2025-11-08T10:27:01.770985",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 306,
+      "action_id": "screen_2025-11-08T10:27:01.839463",
+      "intent_category": "process_billing",
+      "intent_description": "Processing billing tasks",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "viewing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 307,
+      "action_id": "keyboard_2025-11-08T10:27:01.870647",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 308,
+      "action_id": "keyboard_2025-11-08T10:27:01.992701",
+      "intent_category": "process_billing",
+      "intent_description": "Processing billing tasks",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 309,
+      "action_id": "keyboard_2025-11-08T10:27:02.160681",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 310,
+      "action_id": "keyboard_2025-11-08T10:27:02.200150",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 311,
+      "action_id": "keyboard_2025-11-08T10:27:02.328467",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 312,
+      "action_id": "keyboard_2025-11-08T10:27:02.486267",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 313,
+      "action_id": "keyboard_2025-11-08T10:27:02.707004",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 314,
+      "action_id": "keyboard_2025-11-08T10:27:02.774152",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 315,
+      "action_id": "screen_2025-11-08T10:27:02.870835",
+      "intent_category": "process_billing",
+      "intent_description": "Processing billing tasks",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "viewing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 316,
+      "action_id": "keyboard_2025-11-08T10:27:02.880483",
+      "intent_category": "process_billing",
+      "intent_description": "Processing billing tasks",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 317,
+      "action_id": "keyboard_2025-11-08T10:27:02.988513",
+      "intent_category": "process_billing",
+      "intent_description": "Processing billing tasks",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 318,
+      "action_id": "keyboard_2025-11-08T10:27:03.071189",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 319,
+      "action_id": "keyboard_2025-11-08T10:27:03.125760",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 320,
+      "action_id": "keyboard_2025-11-08T10:27:03.334895",
+      "intent_category": "process_billing",
+      "intent_description": "Processing billing tasks",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 321,
+      "action_id": "keyboard_2025-11-08T10:27:03.454475",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 322,
+      "action_id": "keyboard_2025-11-08T10:27:03.567809",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 323,
+      "action_id": "keyboard_2025-11-08T10:27:03.768110",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 324,
+      "action_id": "screen_2025-11-08T10:27:03.905569",
+      "intent_category": "process_billing",
+      "intent_description": "Processing billing tasks",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "viewing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 325,
+      "action_id": "keyboard_2025-11-08T10:27:03.908601",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 326,
+      "action_id": "keyboard_2025-11-08T10:27:03.981947",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 327,
+      "action_id": "keyboard_2025-11-08T10:27:04.174214",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 328,
+      "action_id": "keyboard_2025-11-08T10:27:04.341642",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 329,
+      "action_id": "keyboard_2025-11-08T10:27:04.530956",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 330,
+      "action_id": "keyboard_2025-11-08T10:27:04.628001",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 331,
+      "action_id": "keyboard_2025-11-08T10:27:04.733233",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 332,
+      "action_id": "keyboard_2025-11-08T10:27:04.828394",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 333,
+      "action_id": "keyboard_2025-11-08T10:27:04.895306",
+      "intent_category": "process_billing",
+      "intent_description": "Processing billing tasks",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 334,
+      "action_id": "screen_2025-11-08T10:27:04.930612",
+      "intent_category": "process_billing",
+      "intent_description": "Processing billing tasks",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "viewing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 335,
+      "action_id": "keyboard_2025-11-08T10:27:05.158222",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 336,
+      "action_id": "keyboard_2025-11-08T10:27:05.363606",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 337,
+      "action_id": "keyboard_2025-11-08T10:27:05.526414",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 338,
+      "action_id": "keyboard_2025-11-08T10:27:05.645520",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 339,
+      "action_id": "keyboard_2025-11-08T10:27:05.755020",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 340,
+      "action_id": "keyboard_2025-11-08T10:27:05.883304",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 341,
+      "action_id": "screen_2025-11-08T10:27:05.948315",
+      "intent_category": "process_billing",
+      "intent_description": "Processing billing tasks",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "viewing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 342,
+      "action_id": "keyboard_2025-11-08T10:27:06.055192",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 343,
+      "action_id": "keyboard_2025-11-08T10:27:06.139130",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 344,
+      "action_id": "keyboard_2025-11-08T10:27:06.330680",
+      "intent_category": "process_billing",
+      "intent_description": "Processing billing tasks",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 345,
+      "action_id": "keyboard_2025-11-08T10:27:06.489099",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 346,
+      "action_id": "keyboard_2025-11-08T10:27:06.566310",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 347,
+      "action_id": "keyboard_2025-11-08T10:27:06.775909",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 348,
+      "action_id": "keyboard_2025-11-08T10:27:06.883622",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 349,
+      "action_id": "keyboard_2025-11-08T10:27:06.981199",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 350,
+      "action_id": "screen_2025-11-08T10:27:07.002230",
+      "intent_category": "process_billing",
+      "intent_description": "Processing billing tasks",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "viewing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 351,
+      "action_id": "keyboard_2025-11-08T10:27:07.099768",
+      "intent_category": "process_billing",
+      "intent_description": "Processing billing tasks",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 352,
+      "action_id": "keyboard_2025-11-08T10:27:07.196717",
+      "intent_category": "process_billing",
+      "intent_description": "Processing billing tasks",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 353,
+      "action_id": "keyboard_2025-11-08T10:27:07.273475",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 354,
+      "action_id": "keyboard_2025-11-08T10:27:07.473557",
+      "intent_category": "process_billing",
+      "intent_description": "Processing billing tasks",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 355,
+      "action_id": "keyboard_2025-11-08T10:27:07.668269",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 356,
+      "action_id": "keyboard_2025-11-08T10:27:07.874250",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 357,
+      "action_id": "keyboard_2025-11-08T10:27:07.940916",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 358,
+      "action_id": "screen_2025-11-08T10:27:08.111185",
+      "intent_category": "process_billing",
+      "intent_description": "Processing billing tasks",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "viewing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 359,
+      "action_id": "keyboard_2025-11-08T10:27:08.128213",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 360,
+      "action_id": "keyboard_2025-11-08T10:27:08.204361",
+      "intent_category": "process_billing",
+      "intent_description": "Processing billing tasks",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 361,
+      "action_id": "keyboard_2025-11-08T10:27:08.372256",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 362,
+      "action_id": "keyboard_2025-11-08T10:27:08.426175",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 363,
+      "action_id": "keyboard_2025-11-08T10:27:08.614998",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 364,
+      "action_id": "keyboard_2025-11-08T10:27:08.734226",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 365,
+      "action_id": "keyboard_2025-11-08T10:27:08.794788",
+      "intent_category": "process_billing",
+      "intent_description": "Processing billing tasks",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 366,
+      "action_id": "keyboard_2025-11-08T10:27:08.972315",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 367,
+      "action_id": "screen_2025-11-08T10:27:09.098524",
+      "intent_category": "process_billing",
+      "intent_description": "Processing billing tasks",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "viewing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 368,
+      "action_id": "keyboard_2025-11-08T10:27:09.161334",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 369,
+      "action_id": "keyboard_2025-11-08T10:27:09.238145",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 370,
+      "action_id": "keyboard_2025-11-08T10:27:09.331167",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 371,
+      "action_id": "keyboard_2025-11-08T10:27:09.448940",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 372,
+      "action_id": "keyboard_2025-11-08T10:27:09.632870",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 373,
+      "action_id": "keyboard_2025-11-08T10:27:09.740927",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 374,
+      "action_id": "keyboard_2025-11-08T10:27:09.870577",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 375,
+      "action_id": "keyboard_2025-11-08T10:27:09.979038",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 376,
+      "action_id": "keyboard_2025-11-08T10:27:10.061849",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 377,
+      "action_id": "keyboard_2025-11-08T10:27:10.157791",
+      "intent_category": "process_billing",
+      "intent_description": "Processing billing tasks",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 378,
+      "action_id": "screen_2025-11-08T10:27:10.215412",
+      "intent_category": "process_billing",
+      "intent_description": "Processing billing tasks",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "viewing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 379,
+      "action_id": "keyboard_2025-11-08T10:27:10.325354",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 380,
+      "action_id": "keyboard_2025-11-08T10:27:10.392735",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 381,
+      "action_id": "keyboard_2025-11-08T10:27:10.584270",
+      "intent_category": "process_billing",
+      "intent_description": "Processing billing tasks",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 382,
+      "action_id": "screen_2025-11-08T10:27:11.223658",
+      "intent_category": "process_billing",
+      "intent_description": "Processing billing tasks",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "viewing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 383,
+      "action_id": "screen_2025-11-08T10:27:12.265065",
+      "intent_category": "process_billing",
+      "intent_description": "Processing billing tasks",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "viewing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    }
+  ]
+}

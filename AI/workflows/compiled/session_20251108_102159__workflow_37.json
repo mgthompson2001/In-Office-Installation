@@ -1,0 +1,63 @@
+{
+  "workflow_key": "session_20251108_102159::workflow_37",
+  "session_id": "session_20251108_102159",
+  "workflow_id": "workflow_37",
+  "workflow_type": "interaction",
+  "description": "Click/interact → Click/interact",
+  "goal": "Goal unclear",
+  "confidence": 0.7,
+  "timestamp": "2025-11-08T10:39:57.739913",
+  "summary": [
+    "Workflow captured from session session_20251108_102159 (interaction).",
+    "Contains 3 recorded actions with goal: Goal unclear.",
+    "Top intents detected:",
+    "  • Unknown (3 steps)",
+    "Primary applications involved:",
+    "  • ApplicationFrameHost.exe (3 steps)",
+    "Common screens/pages:",
+    "  • Amphetamine (3 steps)",
+    "Suggested interpretation:",
+    "  Mixed activity detected; review simulation output for step-by-step context."
+  ],
+  "steps": [
+    {
+      "step_number": 1,
+      "action_id": "screen_2025-11-08T10:22:14.399273",
+      "intent_category": "unknown",
+      "intent_description": "Intent unclear",
+      "intent_confidence": 0.0,
+      "contexts": {
+        "application": "ApplicationFrameHost.exe",
+        "page": "Amphetamine",
+        "state": "viewing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 2,
+      "action_id": "mouse_2025-11-08T10:22:14.401953",
+      "intent_category": "unknown",
+      "intent_description": "Intent unclear",
+      "intent_confidence": 0.0,
+      "contexts": {
+        "application": "ApplicationFrameHost.exe",
+        "page": "Amphetamine",
+        "state": "interacting"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 3,
+      "action_id": "mouse_2025-11-08T10:22:14.402539",
+      "intent_category": "unknown",
+      "intent_description": "Intent unclear",
+      "intent_confidence": 0.0,
+      "contexts": {
+        "application": "ApplicationFrameHost.exe",
+        "page": "Amphetamine",
+        "state": "interacting"
+      },
+      "source_session": "session_20251108_102159"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "workflow_key": "session_20251107_093408::workflow_978",
+  "session_id": "session_20251107_093408",
+  "workflow_id": "workflow_978",
+  "workflow_type": "interaction",
+  "description": "",
+  "goal": "Goal: therapy notes management",
+  "confidence": 0.7,
+  "timestamp": "2025-11-08T10:13:31.929688",
+  "summary": [
+    "Workflow captured from session session_20251107_093408 (interaction).",
+    "Contains 2 recorded actions with goal: Goal: therapy notes management.",
+    "Top intents detected:",
+    "  • Unknown (2 steps)",
+    "Primary applications involved:",
+    "  • Browser (2 steps)",
+    "Common screens/pages:",
+    "  • p4 - Penelope by Athena Software - v4.24.33.0 - Google Chrome (2 steps)",
+    "Suggested interpretation:",
+    "  Mixed activity detected; review simulation output for step-by-step context."
+  ],
+  "steps": [
+    {
+      "step_number": 1,
+      "action_id": "screen_2025-11-07T09:40:14.447362",
+      "intent_category": "unknown",
+      "intent_description": "Intent unclear",
+      "intent_confidence": 0.0,
+      "contexts": {
+        "application": "Browser",
+        "page": "p4 - Penelope by Athena Software - v4.24.33.0 - Google Chrome",
+        "state": "viewing"
+      },
+      "source_session": "session_20251107_093408"
+    },
+    {
+      "step_number": 2,
+      "action_id": "screen_2025-11-07T09:40:15.790064",
+      "intent_category": "unknown",
+      "intent_description": "Intent unclear",
+      "intent_confidence": 0.0,
+      "contexts": {
+        "application": "Browser",
+        "page": "p4 - Penelope by Athena Software - v4.24.33.0 - Google Chrome",
+        "state": "viewing"
+      },
+      "source_session": "session_20251107_093408"
+    }
+  ]
+}

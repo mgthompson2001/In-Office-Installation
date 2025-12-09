@@ -1,0 +1,94 @@
+{
+  "workflow_key": "session_20251108_102159::workflow_21",
+  "session_id": "session_20251108_102159",
+  "workflow_id": "workflow_21",
+  "workflow_type": "interaction",
+  "description": "Click/interact → Click/interact → Click/interact",
+  "goal": "Completing billing workflow",
+  "confidence": 0.7,
+  "timestamp": "2025-11-08T10:39:57.737918",
+  "summary": [
+    "Workflow captured from session session_20251108_102159 (interaction).",
+    "Contains 5 recorded actions with goal: Completing billing workflow.",
+    "Top intents detected:",
+    "  • Process Billing (5 steps)",
+    "Primary applications involved:",
+    "  • Cursor.exe (5 steps)",
+    "Common screens/pages:",
+    "  • Bot Interface (5 steps)",
+    "Suggested interpretation:",
+    "  Mixed activity detected; review simulation output for step-by-step context."
+  ],
+  "steps": [
+    {
+      "step_number": 1,
+      "action_id": "screen_2025-11-08T10:22:09.087007",
+      "intent_category": "process_billing",
+      "intent_description": "Processing billing tasks",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "viewing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 2,
+      "action_id": "screen_2025-11-08T10:22:10.146690",
+      "intent_category": "process_billing",
+      "intent_description": "Processing billing tasks",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "viewing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 3,
+      "action_id": "mouse_2025-11-08T10:22:10.334866",
+      "intent_category": "process_billing",
+      "intent_description": "Processing billing tasks",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "interacting",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 4,
+      "action_id": "mouse_2025-11-08T10:22:10.335576",
+      "intent_category": "process_billing",
+      "intent_description": "Processing billing tasks",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "interacting",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 5,
+      "action_id": "mouse_2025-11-08T10:22:10.414982",
+      "intent_category": "process_billing",
+      "intent_description": "Processing billing tasks",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "interacting",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    }
+  ]
+}

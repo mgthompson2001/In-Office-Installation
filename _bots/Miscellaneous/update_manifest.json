@@ -1,0 +1,76 @@
+{
+  "created": "2025-11-26T13:55:13.917399",
+  "files": [
+    {
+      "path": "miscellaneous_launcher.py",
+      "size": 8146,
+      "modified": "2025-11-21T17:25:33.620776"
+    },
+    {
+      "path": "Document Translator/document_translator_bot.bat",
+      "size": 253,
+      "modified": "2025-11-21T17:21:40.714550"
+    },
+    {
+      "path": "Document Translator/document_translator_bot.py",
+      "size": 91100,
+      "modified": "2025-11-21T19:24:22.875299"
+    },
+    {
+      "path": "Document Translator/get_shareable_link.bat",
+      "size": 973,
+      "modified": "2025-11-21T18:16:22.189097"
+    },
+    {
+      "path": "Document Translator/install.bat",
+      "size": 1175,
+      "modified": "2025-11-21T17:21:40.715552"
+    },
+    {
+      "path": "Document Translator/README.md",
+      "size": 3948,
+      "modified": "2025-11-21T17:21:40.715552"
+    },
+    {
+      "path": "Document Translator/requirements.txt",
+      "size": 607,
+      "modified": "2025-11-21T17:31:03.840492"
+    },
+    {
+      "path": "Document Translator/requirements_web.txt",
+      "size": 198,
+      "modified": "2025-11-21T18:14:56.147601"
+    },
+    {
+      "path": "Document Translator/run_web_server.bat",
+      "size": 343,
+      "modified": "2025-11-21T18:14:56.147601"
+    },
+    {
+      "path": "Document Translator/SHARE_INSTRUCTIONS.txt",
+      "size": 1243,
+      "modified": "2025-11-21T18:16:22.189097"
+    },
+    {
+      "path": "Document Translator/start_web_server.bat",
+      "size": 833,
+      "modified": "2025-11-21T18:16:22.189097"
+    },
+    {
+      "path": "Document Translator/WEB_README.md",
+      "size": 3065,
+      "modified": "2025-11-21T18:14:56.147601"
+    },
+    {
+      "path": "Document Translator/web_translator_app.py",
+      "size": 16091,
+      "modified": "2025-11-21T18:56:43.075860"
+    },
+    {
+      "path": "Document Translator/templates/index.html",
+      "size": 17022,
+      "modified": "2025-11-21T18:54:22.004723"
+    }
+  ],
+  "total_files": 14
+}

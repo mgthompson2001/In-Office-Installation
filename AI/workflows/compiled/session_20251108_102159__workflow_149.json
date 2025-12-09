@@ -1,0 +1,193 @@
+{
+  "workflow_key": "session_20251108_102159::workflow_149",
+  "session_id": "session_20251108_102159",
+  "workflow_id": "workflow_149",
+  "workflow_type": "desktop_automation",
+  "description": "Click/interact → Click/interact → Click/interact → ... and 7 more actions",
+  "goal": "Completing billing workflow",
+  "confidence": 0.7,
+  "timestamp": "2025-11-08T10:39:57.747402",
+  "summary": [
+    "Workflow captured from session session_20251108_102159 (desktop_automation).",
+    "Contains 12 recorded actions with goal: Completing billing workflow.",
+    "Top intents detected:",
+    "  • Process Billing (9 steps)",
+    "  • Enter Data (3 steps)",
+    "Primary applications involved:",
+    "  • Cursor.exe (12 steps)",
+    "Common screens/pages:",
+    "  • Bot Interface (12 steps)",
+    "Suggested interpretation:",
+    "  Mixed activity detected; review simulation output for step-by-step context."
+  ],
+  "steps": [
+    {
+      "step_number": 1,
+      "action_id": "screen_2025-11-08T10:22:57.312643",
+      "intent_category": "process_billing",
+      "intent_description": "Processing billing tasks",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "viewing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 2,
+      "action_id": "screen_2025-11-08T10:22:58.428866",
+      "intent_category": "process_billing",
+      "intent_description": "Processing billing tasks",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "viewing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 3,
+      "action_id": "mouse_2025-11-08T10:22:58.567052",
+      "intent_category": "process_billing",
+      "intent_description": "Processing billing tasks",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "interacting",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 4,
+      "action_id": "mouse_2025-11-08T10:22:58.567959",
+      "intent_category": "process_billing",
+      "intent_description": "Processing billing tasks",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "interacting",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 5,
+      "action_id": "mouse_2025-11-08T10:22:58.663062",
+      "intent_category": "process_billing",
+      "intent_description": "Processing billing tasks",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "interacting",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 6,
+      "action_id": "screen_2025-11-08T10:22:59.429227",
+      "intent_category": "process_billing",
+      "intent_description": "Processing billing tasks",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "viewing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 7,
+      "action_id": "keyboard_2025-11-08T10:22:59.649992",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 8,
+      "action_id": "keyboard_2025-11-08T10:22:59.838398",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 9,
+      "action_id": "keyboard_2025-11-08T10:23:00.027913",
+      "intent_category": "process_billing",
+      "intent_description": "Processing billing tasks",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 10,
+      "action_id": "keyboard_2025-11-08T10:23:00.293027",
+      "intent_category": "process_billing",
+      "intent_description": "Processing billing tasks",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 11,
+      "action_id": "keyboard_2025-11-08T10:23:00.359633",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "typing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 12,
+      "action_id": "screen_2025-11-08T10:23:00.421576",
+      "intent_category": "process_billing",
+      "intent_description": "Processing billing tasks",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "viewing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    }
+  ]
+}

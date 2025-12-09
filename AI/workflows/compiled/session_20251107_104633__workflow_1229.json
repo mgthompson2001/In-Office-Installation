@@ -1,0 +1,38 @@
+{
+  "workflow_key": "session_20251107_104633::workflow_1229",
+  "session_id": "session_20251107_104633",
+  "workflow_id": "workflow_1229",
+  "workflow_type": "interaction",
+  "description": "",
+  "goal": "Executing automation scripts",
+  "confidence": 0.7,
+  "timestamp": "2025-11-08T10:02:03.578340",
+  "summary": [
+    "Workflow captured from session session_20251107_104633 (interaction).",
+    "Contains 1 recorded actions with goal: Executing automation scripts.",
+    "Top intents detected:",
+    "  • Automation Control (1 steps)",
+    "Primary applications involved:",
+    "  • python.exe (1 steps)",
+    "Common screens/pages:",
+    "  • Dashboard (1 steps)",
+    "Suggested interpretation:",
+    "  This appears to be a session controlling automation tools (launching bots, monitoring)."
+  ],
+  "steps": [
+    {
+      "step_number": 1,
+      "action_id": "screen_2025-11-07T10:53:16.159942",
+      "intent_category": "automation_control",
+      "intent_description": "Controlling automation scripts",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "python.exe",
+        "page": "Dashboard",
+        "state": "viewing",
+        "task": "Automation Oversight"
+      },
+      "source_session": "session_20251107_104633"
+    }
+  ]
+}

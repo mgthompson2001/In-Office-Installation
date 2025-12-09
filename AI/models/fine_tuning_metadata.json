@@ -1,0 +1,23 @@
+{
+  "files": [
+    {
+      "file_id": "file-LgCnsiW9Q3DWK6VXotX9zv",
+      "file_path": "C:\\Users\\mthompson\\OneDrive - Integrity Senior Services\\Desktop\\In-Office Installation\\AI\\models\\fine_tuning_data_20251124_124757.jsonl",
+      "uploaded_at": "2025-11-24T12:48:00.497938"
+    },
+    {
+      "file_id": "file-K2i8tnDEq2HbWNDeASEZJz",
+      "file_path": "C:\\Users\\mthompson\\OneDrive - Integrity Senior Services\\Desktop\\In-Office Installation\\AI\\models\\fine_tuning_data_20251124_124800.jsonl",
+      "uploaded_at": "2025-11-24T12:48:02.578140"
+    }
+  ],
+  "jobs": [
+    {
+      "job_id": "ftjob-TzW9RMpWhh6b3oIzutT7PwME",
+      "file_id": "file-K2i8tnDEq2HbWNDeASEZJz",
+      "model": "gpt-3.5-turbo",
+      "created_at": "2025-11-24T12:48:04.025081",
+      "status": "created"
+    }
+  ]
+}

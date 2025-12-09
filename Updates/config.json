@@ -1,0 +1,169 @@
+{
+  "master_folder": "C:\\Users\\mthompson\\OneDrive - Integrity Senior Services\\Desktop\\In-Office Installation",
+  "gdrive_path": "G:\\Company\\Software",
+  "gdrive_updates_folder": "Updates",
+  "bots": [
+    {
+      "name": "Medisoft Billing Bot",
+      "source_path": "_bots\\Billing Department\\Medisoft Billing",
+      "version": "3.1.0",
+      "user_data_files": [
+        "medisoft_users.json",
+        "medisoft_coordinates.json",
+        "*.png"
+      ]
+    },
+    {
+      "name": "Missed Appointments Tracker Bot",
+      "source_path": "_bots\\Billing Department\\Medisoft Billing\\Missed Appointments Tracker Bot",
+      "version": "3.1.0",
+      "user_data_files": [
+        "missed_appointments_tracker_users.json",
+        "email_configs.json",
+        "missed_appointments_tracker.log"
+      ]
+    },
+    {
+      "name": "Real Estate Financial Tracker",
+      "source_path": "_bots\\Billing Department\\Medisoft Billing\\Real Estate Financial Tracker",
+      "version": "3.1.0",
+      "user_data_files": [
+        "*.json",
+        "*.log"
+      ]
+    },
+    {
+      "name": "Medicare Modifier Comparison Bot",
+      "source_path": "_bots\\Billing Department\\Medicare Modifier Comparison Bot",
+      "version": "3.1.0",
+      "user_data_files": [
+        "*.json",
+        "*.log"
+      ]
+    },
+    {
+      "name": "Medicare Refiling Bot",
+      "source_path": "_bots\\Billing Department\\Medicare Refiling Bot",
+      "version": "3.1.0",
+      "user_data_files": [
+        "*.json",
+        "*.log"
+      ]
+    },
+    {
+      "name": "TN Refiling Bot",
+      "source_path": "_bots\\Billing Department\\TN Refiling Bot",
+      "version": "3.1.0",
+      "user_data_files": [
+        "*.json",
+        "*.log"
+      ]
+    },
+    {
+      "name": "Medisoft Penelope Data Synthesizer",
+      "source_path": "_bots\\Billing Department\\Medisoft Penelope Data Synthesizer",
+      "version": "3.1.0",
+      "user_data_files": [
+        "*.json",
+        "*.log"
+      ]
+    },
+    {
+      "name": "Launcher",
+      "source_path": "_bots\\Launcher",
+      "version": "3.1.0",
+      "user_data_files": [
+        "*.json",
+        "*.log"
+      ]
+    },
+    {
+      "name": "Med Rec",
+      "source_path": "_bots\\Med Rec",
+      "version": "3.1.0",
+      "user_data_files": [
+        "*.json",
+        "*.log"
+      ]
+    },
+    {
+      "name": "Bot and extender",
+      "source_path": "_bots\\Med Rec\\Finished Product, Launch Ready\\Bot and extender",
+      "version": "3.1.0",
+      "user_data_files": [
+        "*.json",
+        "*.log"
+      ]
+    },
+    {
+      "name": "Document Translator",
+      "source_path": "_bots\\Miscellaneous\\Document Translator",
+      "version": "3.1.0",
+      "user_data_files": [
+        "*.json",
+        "*.log"
+      ]
+    },
+    {
+      "name": "Operational Analytics",
+      "source_path": "_bots\\Operational Analytics",
+      "version": "3.1.0",
+      "user_data_files": [
+        "*.json",
+        "*.log"
+      ]
+    },
+    {
+      "name": "Page Extractor",
+      "source_path": "_bots\\Page Extractor (Working)",
+      "version": "3.1.0",
+      "user_data_files": [
+        "*.json",
+        "*.log"
+      ]
+    },
+    {
+      "name": "Penelope Workflow Tool",
+      "source_path": "_bots\\Penelope Workflow Tool",
+      "version": "3.1.0",
+      "user_data_files": [
+        "*.json",
+        "*.log"
+      ]
+    },
+    {
+      "name": "Referral Bot and Bridge",
+      "source_path": "_bots\\Referral bot and bridge (final)",
+      "version": "3.1.0",
+      "user_data_files": [
+        "*.json",
+        "*.log"
+      ]
+    },
+    {
+      "name": "The Welcomed One Exalted Rank",
+      "source_path": "_bots\\The Welcomed One, Exalted Rank",
+      "version": "3.1.0",
+      "user_data_files": [
+        "*.json",
+        "*.log"
+      ]
+    },
+    {
+      "name": "Therapy Notes Records Bot",
+      "source_path": "_bots\\Billing Department\\Medisoft Billing",
+      "version": "3.1.0",
+      "user_data_files": [
+        "therapy_notes_records_users.json",
+        "therapy_notes_records_settings.json",
+        "therapy_notes_records_bot.log"
+      ],
+      "include_files": [
+        "therapy_notes_records_bot.py",
+        "therapy_notes_records_bot.bat",
+        "therapy_notes_records_*.json",
+        "therapy_notes_records_*.log"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "workflow_key": "session_20251107_093408::workflow_3386",
+  "session_id": "session_20251107_093408",
+  "workflow_id": "workflow_3386",
+  "workflow_type": "interaction",
+  "description": "Click/interact → Click/interact",
+  "goal": "Goal unclear",
+  "confidence": 0.7,
+  "timestamp": "2025-11-08T10:13:31.997067",
+  "summary": [
+    "Workflow captured from session session_20251107_093408 (interaction).",
+    "Contains 5 recorded actions with goal: Goal unclear.",
+    "Top intents detected:",
+    "  • Unknown (5 steps)",
+    "Primary applications involved:",
+    "  • explorer.exe (5 steps)",
+    "Suggested interpretation:",
+    "  Mixed activity detected; review simulation output for step-by-step context."
+  ],
+  "steps": [
+    {
+      "step_number": 1,
+      "action_id": "screen_2025-11-07T10:13:09.106831",
+      "intent_category": "unknown",
+      "intent_description": "Intent unclear",
+      "intent_confidence": 0.0,
+      "contexts": {
+        "application": "explorer.exe",
+        "state": "viewing"
+      },
+      "source_session": "session_20251107_093408"
+    },
+    {
+      "step_number": 2,
+      "action_id": "screen_2025-11-07T10:13:10.248498",
+      "intent_category": "unknown",
+      "intent_description": "Intent unclear",
+      "intent_confidence": 0.0,
+      "contexts": {
+        "application": "explorer.exe",
+        "state": "viewing"
+      },
+      "source_session": "session_20251107_093408"
+    },
+    {
+      "step_number": 3,
+      "action_id": "mouse_2025-11-07T10:13:11.150398",
+      "intent_category": "unknown",
+      "intent_description": "Intent unclear",
+      "intent_confidence": 0.0,
+      "contexts": {
+        "application": "explorer.exe",
+        "state": "interacting"
+      },
+      "source_session": "session_20251107_093408"
+    },
+    {
+      "step_number": 4,
+      "action_id": "mouse_2025-11-07T10:13:11.151377",
+      "intent_category": "unknown",
+      "intent_description": "Intent unclear",
+      "intent_confidence": 0.0,
+      "contexts": {
+        "application": "explorer.exe",
+        "state": "interacting"
+      },
+      "source_session": "session_20251107_093408"
+    },
+    {
+      "step_number": 5,
+      "action_id": "screen_2025-11-07T10:13:11.505525",
+      "intent_category": "unknown",
+      "intent_description": "Intent unclear",
+      "intent_confidence": 0.0,
+      "contexts": {
+        "application": "explorer.exe",
+        "state": "viewing"
+      },
+      "source_session": "session_20251107_093408"
+    }
+  ]
+}

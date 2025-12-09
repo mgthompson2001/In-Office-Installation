@@ -1,0 +1,43 @@
+# GitHub Backup Commands for "In-Office Installation" Folder
+# Repository: https://github.com/mgthompson2001/In-Office-Installation.git
+# Date: December 9, 2025
+
+# Step 1: Navigate to the folder
+cd "C:\Users\mthompson\OneDrive - Integrity Senior Services\Desktop\In-Office Installation"
+
+# Step 2: Initialize git repository
+git init
+
+# Step 3: Create a README.md file (optional, but good practice)
+echo "# Updated CCMD Software - December 9, 2025" > README.md
+echo "" >> README.md
+echo "Backup of In-Office Installation folder" >> README.md
+echo "" >> README.md
+echo "This repository contains the complete backup of the CCMD software installation folder." >> README.md
+
+# Step 4: Add all files to git
+git add .
+
+# Step 5: Create initial commit
+git commit -m "Initial backup - Updated CCMD Software, 12/09/2025"
+
+# Step 6: Rename branch to main
+git branch -M main
+
+# Step 7: Add remote repository
+git remote add origin https://github.com/mgthompson2001/In-Office-Installation.git
+
+# Step 8: Push to GitHub
+git push -u origin main
+
+# ============================================
+# If you get authentication errors, you may need to:
+# 1. Use a Personal Access Token instead of password
+#    - Go to: https://github.com/settings/tokens
+#    - Generate new token (classic) with 'repo' scope
+#    - Use the token as your password when prompted
+#
+# 2. Or set up credential helper:
+#    git config --global credential.helper wincred
+# ============================================
+

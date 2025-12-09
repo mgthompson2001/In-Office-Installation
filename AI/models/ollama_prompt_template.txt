@@ -1,0 +1,603 @@
+Healthcare Billing Bot Training Examples:
+
+Bot Log: 2025-10-28 15:59:03,128 - INFO - Found Medisoft at: C:\Medisoft\BIN\MAPA.EXE
+Action Type: workflow_action
+Description: locating UI elements
+
+---
+
+Bot Log: 2025-10-28 16:01:22,878 - INFO - Starting login process...
+Action Type: authentication
+Description: executing workflow step
+
+---
+
+Bot Log: 2025-10-28 16:01:38,134 - INFO - Login credentials entered successfully
+Action Type: authentication
+Description: successfully completing workflow step
+
+---
+
+Bot Log: 2025-10-28 16:38:55,880 - INFO - Found Medisoft at: C:\Medisoft\BIN\MAPA.EXE
+Action Type: workflow_action
+Description: locating UI elements
+
+---
+
+Bot Log: 2025-10-28 17:07:14,240 - INFO - Enter your Medisoft credentials above and click Start Bot to begin
+Action Type: ui_interaction
+Description: executing workflow step
+
+---
+
+Bot Log: 2025-10-29 09:28:33,824 - INFO - Found Medisoft at: C:\Medisoft\BIN\MAPA.EXE
+Action Type: workflow_action
+Description: locating UI elements
+
+---
+
+Bot Log: 2025-10-29 09:36:28,454 - INFO - Medisoft Billing Bot initialized
+Action Type: workflow_action
+Description: executing workflow step
+
+---
+
+Bot Log: 2025-10-29 09:36:30,560 - INFO - Starting Medisoft billing workflow...
+Action Type: workflow_action
+Description: executing workflow step
+
+---
+
+Bot Log: 2025-10-29 09:44:54,632 - INFO - No users saved - Click 'Add User' to create your first user profile
+Action Type: ui_interaction
+Description: executing workflow step
+
+---
+
+Bot Log: 2025-10-29 09:45:56,876 - INFO - Found Medisoft at: C:\Medisoft\BIN\MAPA.EXE
+Action Type: workflow_action
+Description: locating UI elements
+
+---
+
+Bot Log: 2025-10-29 09:46:00,069 - INFO - Loaded credentials for user: Michael T
+Action Type: workflow_action
+Description: executing workflow step
+
+---
+
+Bot Log: 2025-10-29 09:52:21,618 - INFO - Found Medisoft at: C:\Medisoft\BIN\MAPA.EXE
+Action Type: workflow_action
+Description: locating UI elements
+
+---
+
+Bot Log: 2025-10-29 09:52:33,386 - INFO - Loaded credentials for user: Michael T
+Action Type: workflow_action
+Description: executing workflow step
+
+---
+
+Bot Log: 2025-10-29 10:02:20,215 - INFO - Found Medisoft at: C:\Medisoft\BIN\MAPA.EXE
+Action Type: workflow_action
+Description: locating UI elements
+
+---
+
+Bot Log: 2025-10-29 10:02:24,070 - INFO - Loaded credentials for user: Michael T
+Action Type: workflow_action
+Description: executing workflow step
+
+---
+
+Bot Log: 2025-10-29 10:11:51,072 - INFO - Found Medisoft at: C:\Medisoft\BIN\MAPA.EXE
+Action Type: workflow_action
+Description: locating UI elements
+
+---
+
+Bot Log: 2025-10-29 10:11:51,319 - INFO - Loaded 1 saved user(s) - Select a user from the dropdown or add a new one
+Action Type: workflow_action
+Description: executing workflow step
+
+---
+
+Bot Log: 2025-10-29 10:21:39,847 - INFO - Loaded 0 coordinate mappings from C:\Users\mthompson\OneDrive - Integrity Senior Services\Desktop\In-Office Installation\_bots\Billing Department\Medisoft Billing\medi
+Action Type: workflow_action
+Description: executing workflow step
+
+---
+
+Bot Log: 2025-10-29 10:22:01,824 - INFO - Credentials received
+Action Type: workflow_action
+Description: executing workflow step
+
+---
+
+Bot Log: 2025-10-29 10:26:09,245 - INFO - Loaded 1 users from C:\Users\mthompson\OneDrive - Integrity Senior Services\Desktop\In-Office Installation\_bots\Billing Department\Medisoft Billing\medisoft_users.jso
+Action Type: workflow_action
+Description: executing workflow step
+
+---
+
+Bot Log: 2025-10-29 10:27:52,474 - INFO - Found Medisoft at: C:\Medisoft\BIN\MAPA.EXE
+Action Type: workflow_action
+Description: locating UI elements
+
+---
+
+Bot Log: 2025-10-29 10:27:52,829 - INFO - Loaded 1 saved user(s) - Select a user from the dropdown or add a new one
+Action Type: workflow_action
+Description: executing workflow step
+
+---
+
+Bot Log: 2025-10-29 10:28:36,936 - INFO - Starting navigation to Reports...
+Action Type: workflow_action
+Description: executing workflow step
+
+---
+
+Bot Log: 2025-10-29 11:09:56,432 - INFO - Loaded 1 coordinate mappings from C:\Users\mthompson\OneDrive - Integrity Senior Services\Desktop\In-Office Installation\_bots\Billing Department\Medisoft Billing\medi
+Action Type: workflow_action
+Description: executing workflow step
+
+---
+
+Bot Log: 2025-10-29 11:10:08,512 - INFO - Credentials received
+Action Type: workflow_action
+Description: executing workflow step
+
+---
+
+Bot Log: 2025-10-29 11:11:09,066 - INFO - Found Medisoft at: C:\Medisoft\BIN\MAPA.EXE
+Action Type: workflow_action
+Description: locating UI elements
+
+---
+
+Bot Log: 2025-10-29 11:11:09,476 - INFO - Loaded 1 saved user(s) - Select a user from the dropdown or add a new one
+Action Type: workflow_action
+Description: executing workflow step
+
+---
+
+Bot Log: 2025-10-29 11:12:00,080 - INFO - Saved 1 coordinate mappings to C:\Users\mthompson\OneDrive - Integrity Senior Services\Desktop\In-Office Installation\_bots\Billing Department\Medisoft Billing\medisof
+Action Type: workflow_action
+Description: executing workflow step
+
+---
+
+Bot Log: 2025-10-29 11:16:03,858 - INFO - Loaded 1 coordinate mappings from C:\Users\mthompson\OneDrive - Integrity Senior Services\Desktop\In-Office Installation\_bots\Billing Department\Medisoft Billing\medi
+Action Type: workflow_action
+Description: executing workflow step
+
+---
+
+Bot Log: 2025-10-29 11:16:07,258 - INFO - Credentials received
+Action Type: workflow_action
+Description: executing workflow step
+
+---
+
+Bot Log: 2025-10-29 11:16:28,677 - INFO - Loaded 1 coordinate mappings from C:\Users\mthompson\OneDrive - Integrity Senior Services\Desktop\In-Office Installation\_bots\Billing Department\Medisoft Billing\medi
+Action Type: workflow_action
+Description: executing workflow step
+
+---
+
+Bot Log: 2025-10-29 11:16:31,517 - INFO - Credentials received
+Action Type: workflow_action
+Description: executing workflow step
+
+---
+
+Bot Log: 2025-10-29 11:23:07,439 - INFO - Found Medisoft at: C:\Medisoft\BIN\MAPA.EXE
+Action Type: workflow_action
+Description: locating UI elements
+
+---
+
+Bot Log: 2025-10-29 11:23:07,946 - INFO - Loaded 1 saved user(s) - Select a user from the dropdown or add a new one
+Action Type: workflow_action
+Description: executing workflow step
+
+---
+
+Bot Log: 2025-10-29 11:27:15,356 - INFO - Found Medisoft at: C:\Medisoft\BIN\MAPA.EXE
+Action Type: workflow_action
+Description: locating UI elements
+
+---
+
+Bot Log: 2025-10-29 11:27:15,788 - INFO - Loaded 1 saved user(s) - Select a user from the dropdown or add a new one
+Action Type: workflow_action
+Description: executing workflow step
+
+---
+
+Bot Log: 2025-10-29 11:27:48,998 - INFO - Starting navigation to Reports...
+Action Type: workflow_action
+Description: executing workflow step
+
+---
+
+Bot Log: 2025-10-29 11:28:14,526 - INFO -    - launch_medisoft_reports.png
+Action Type: workflow_action
+Description: executing workflow step
+
+---
+
+Bot Log: 2025-10-29 11:32:40,785 - INFO - Loaded 3 coordinate mappings from C:\Users\mthompson\OneDrive - Integrity Senior Services\Desktop\In-Office Installation\_bots\Billing Department\Medisoft Billing\medi
+Action Type: workflow_action
+Description: executing workflow step
+
+---
+
+Bot Log: 2025-10-29 11:32:45,457 - INFO - Credentials received
+Action Type: workflow_action
+Description: executing workflow step
+
+---
+
+Bot Log: 2025-10-29 11:34:15,403 - INFO -    - custom.png
+Action Type: workflow_action
+Description: executing workflow step
+
+---
+
+Bot Log: 2025-10-29 11:35:56,957 - INFO - Loaded 1 users from C:\Users\mthompson\OneDrive - Integrity Senior Services\Desktop\In-Office Installation\_bots\Billing Department\Medisoft Billing\medisoft_users.jso
+Action Type: workflow_action
+Description: executing workflow step
+
+---
+
+Bot Log: 2025-10-29 11:35:58,970 - INFO - Loaded credentials for user: Michael T
+Action Type: workflow_action
+Description: executing workflow step
+
+---
+
+Bot Log: 2025-10-29 11:36:33,484 - INFO -    - account_ledger.png
+Action Type: workflow_action
+Description: executing workflow step
+
+---
+
+Bot Log: 2025-10-29 11:36:56,589 - INFO -    - account_ledger.png
+Action Type: workflow_action
+Description: executing workflow step
+
+---
+
+Bot Log: 2025-10-29 11:38:10,065 - INFO - Saved 3 coordinate mappings to C:\Users\mthompson\OneDrive - Integrity Senior Services\Desktop\In-Office Installation\_bots\Billing Department\Medisoft Billing\medisof
+Action Type: workflow_action
+Description: executing workflow step
+
+---
+
+Bot Log: 2025-10-29 11:40:50,541 - INFO - Loaded 1 users from C:\Users\mthompson\OneDrive - Integrity Senior Services\Desktop\In-Office Installation\_bots\Billing Department\Medisoft Billing\medisoft_users.jso
+Action Type: workflow_action
+Description: executing workflow step
+
+---
+
+Bot Log: 2025-10-29 11:40:53,658 - INFO - Loaded credentials for user: Michael T
+Action Type: workflow_action
+Description: executing workflow step
+
+---
+
+Bot Log: 2025-10-29 11:42:17,297 - INFO - Loaded 1 users from C:\Users\mthompson\OneDrive - Integrity Senior Services\Desktop\In-Office Installation\_bots\Billing Department\Medisoft Billing\medisoft_users.jso
+Action Type: workflow_action
+Description: executing workflow step
+
+---
+
+Bot Log: 2025-10-29 11:42:21,490 - INFO - Loaded credentials for user: Michael T
+Action Type: workflow_action
+Description: executing workflow step
+
+---
+
+Bot Log: 2025-10-29 11:42:52,104 - INFO -    - account_ledger.png
+Action Type: workflow_action
+Description: executing workflow step
+
+---
+
+Bot Log: 2025-10-29 11:42:52,130 - INFO -    - patient_ledger.png
+Action Type: workflow_action
+Description: executing workflow step
+
+---
+
+Bot Log: 2025-10-29 11:43:02,706 - INFO -    - patient_account_ledger.png
+Action Type: workflow_action
+Description: executing workflow step
+
+---
+
+Bot Log: 2025-10-29 11:48:56,877 - INFO - Loaded 4 coordinate mappings from C:\Users\mthompson\OneDrive - Integrity Senior Services\Desktop\In-Office Installation\_bots\Billing Department\Medisoft Billing\medi
+Action Type: workflow_action
+Description: executing workflow step
+
+---
+
+Bot Log: 2025-10-29 11:49:01,267 - INFO - Credentials received
+Action Type: workflow_action
+Description: executing workflow step
+
+---
+
+Bot Log: 2025-10-29 11:51:45,296 - INFO - Loaded 4 coordinate mappings from C:\Users\mthompson\OneDrive - Integrity Senior Services\Desktop\In-Office Installation\_bots\Billing Department\Medisoft Billing\medi
+Action Type: workflow_action
+Description: executing workflow step
+
+---
+
+Bot Log: 2025-10-29 11:51:49,799 - INFO - Credentials received
+Action Type: workflow_action
+Description: executing workflow step
+
+---
+
+Bot Log: 2025-10-29 11:52:47,585 - INFO -    - custom.png
+Action Type: workflow_action
+Description: executing workflow step
+
+---
+
+Bot Log: 2025-10-29 11:53:02,486 - INFO -    - account_ledger.png
+Action Type: workflow_action
+Description: executing workflow step
+
+---
+
+Bot Log: 2025-10-29 11:53:02,510 - INFO -    - patient_ledger.png
+Action Type: workflow_action
+Description: executing workflow step
+
+---
+
+Bot Log: 2025-10-29 11:56:11,062 - INFO - Medisoft Billing Bot initialized
+Action Type: workflow_action
+Description: executing workflow step
+
+---
+
+Bot Log: 2025-10-29 12:01:12,945 - INFO - Found Medisoft at: C:\Medisoft\BIN\MAPA.EXE
+Action Type: workflow_action
+Description: locating UI elements
+
+---
+
+Bot Log: 2025-10-29 12:01:13,936 - INFO - Loaded 1 saved user(s) - Select a user from the dropdown or add a new one
+Action Type: workflow_action
+Description: executing workflow step
+
+---
+
+Bot Log: 2025-10-29 12:05:04,895 - INFO - Found Medisoft at: C:\Medisoft\BIN\MAPA.EXE
+Action Type: workflow_action
+Description: locating UI elements
+
+---
+
+Bot Log: 2025-10-29 12:05:05,529 - INFO - Loaded 1 saved user(s) - Select a user from the dropdown or add a new one
+Action Type: workflow_action
+Description: executing workflow step
+
+---
+
+Bot Log: 2025-10-29 12:07:00,327 - INFO - Found Medisoft at: C:\Medisoft\BIN\MAPA.EXE
+Action Type: workflow_action
+Description: locating UI elements
+
+---
+
+Bot Log: 2025-10-29 12:07:00,873 - INFO - Loaded 1 saved user(s) - Select a user from the dropdown or add a new one
+Action Type: workflow_action
+Description: executing workflow step
+
+---
+
+Bot Log: 2025-10-29 12:07:54,629 - INFO - Starting navigation to Reports...
+Action Type: workflow_action
+Description: executing workflow step
+
+---
+
+Bot Log: 2025-10-29 12:07:55,200 - INFO -    - patient_account_ledger.png
+Action Type: workflow_action
+Description: executing workflow step
+
+---
+
+Bot Log: 2025-10-29 12:08:15,989 - INFO -    - launch_medisoft_reports.png
+Action Type: workflow_action
+Description: executing workflow step
+
+---
+
+Bot Log: 2025-10-29 12:40:47,164 - INFO - Loaded 1 users from C:\Users\mthompson\OneDrive - Integrity Senior Services\Desktop\In-Office Installation\_bots\Billing Department\Medisoft Billing\medisoft_users.jso
+Action Type: workflow_action
+Description: executing workflow step
+
+---
+
+Bot Log: 2025-10-29 14:37:12,533 - INFO - Configured Tesseract path: C:\Users\mthompson\AppData\Local\Programs\Tesseract-OCR\tesseract.exe
+Action Type: workflow_action
+Description: executing workflow step
+
+---
+
+Bot Log: 2025-10-29 14:37:15,539 - INFO - Loaded 4 coordinate mappings from C:\Users\mthompson\OneDrive - Integrity Senior Services\Desktop\In-Office Installation\_bots\Billing Department\Medisoft Billing\medi
+Action Type: workflow_action
+Description: executing workflow step
+
+---
+
+Bot Log: 2025-10-29 14:38:35,114 - INFO - Credentials received
+Action Type: workflow_action
+Description: executing workflow step
+
+---
+
+Bot Log: 2025-10-29 14:54:33,640 - INFO - Loaded 1 users from C:\Users\mthompson\OneDrive - Integrity Senior Services\Desktop\In-Office Installation\_bots\Billing Department\Medisoft Billing\medisoft_users.jso
+Action Type: workflow_action
+Description: executing workflow step
+
+---
+
+Bot Log: 2025-10-29 14:54:40,050 - INFO - Loaded credentials for user: Michael T
+Action Type: workflow_action
+Description: executing workflow step
+
+---
+
+Bot Log: 2025-10-29 14:55:47,647 - INFO -    - account_ledger.png
+Action Type: workflow_action
+Description: executing workflow step
+
+---
+
+Bot Log: 2025-10-29 14:55:47,671 - INFO -    - patient_ledger.png
+Action Type: workflow_action
+Description: executing workflow step
+
+---
+
+Bot Log: 2025-10-29 14:56:01,259 - INFO -    - patient_account_ledger.png
+Action Type: workflow_action
+Description: executing workflow step
+
+---
+
+Bot Log: 2025-10-29 14:56:40,842 - INFO - Parsing insurance PDF: C:\Users\mthompson\Downloads\Optum for Molina prepayment request.pdf
+Action Type: workflow_action
+Description: executing workflow step
+
+---
+
+Bot Log: 2025-10-29 14:56:48,992 - INFO - Found date of service label on line 113
+Action Type: workflow_action
+Description: locating UI elements
+
+---
+
+Bot Log: 2025-10-29 14:56:48,995 - INFO -    Client Name: SEAN HANSEN
+Action Type: workflow_action
+Description: executing workflow step
+
+---
+
+Bot Log: 2025-10-29 14:56:49,003 - INFO - Filling Search window with extracted data...
+Action Type: data_extraction
+Description: executing workflow step
+
+---
+
+Bot Log: 2025-10-29 14:59:54,780 - INFO - Found Medisoft at: C:\Medisoft\BIN\MAPA.EXE
+Action Type: workflow_action
+Description: locating UI elements
+
+---
+
+Bot Log: 2025-10-29 14:59:55,190 - INFO - Loaded 1 saved user(s) - Select a user from the dropdown or add a new one
+Action Type: workflow_action
+Description: executing workflow step
+
+---
+
+Bot Log: 2025-10-29 15:00:48,452 - INFO - Starting navigation to Reports...
+Action Type: workflow_action
+Description: executing workflow step
+
+---
+
+Bot Log: 2025-10-29 15:00:49,023 - INFO -    - patient_account_ledger.png
+Action Type: workflow_action
+Description: executing workflow step
+
+---
+
+Bot Log: 2025-10-29 15:01:02,655 - INFO -    - launch_medisoft_reports.png
+Action Type: workflow_action
+Description: executing workflow step
+
+---
+
+Bot Log: 2025-10-29 15:01:42,361 - INFO - Parsing user-selected PDF: Optum for Molina prepayment request.pdf
+Action Type: workflow_action
+Description: executing workflow step
+
+---
+
+Bot Log: 2025-10-29 15:01:50,519 - INFO - OCR extraction completed from 5 page(s)
+Action Type: data_extraction
+Description: executing workflow step
+
+---
+
+Bot Log: 2025-10-29 15:01:50,523 - INFO - Extracted from PDF:
+Action Type: data_extraction
+Description: executing workflow step
+
+---
+
+Bot Log: 2025-10-29 15:01:50,526 - INFO - Date range extraction verified: 09/02/2025 - 09/30/2025
+Action Type: data_extraction
+Description: executing workflow step
+
+---
+
+Bot Log: 2025-10-29 15:01:52,166 - INFO - Step 2: Filling Date From range: 09/02/2025 to 09/30/2025
+Action Type: data_entry
+Description: executing workflow step
+
+---
+
+Bot Log: 2025-10-29 15:01:52,184 - INFO - Could not find Procedure Code field or Add button
+Action Type: ui_interaction
+Description: executing workflow step
+
+---
+
+Bot Log: 2025-10-29 15:07:23,981 - WARNING - OCR path auto-config failed: cannot access local variable 'conda_prefix' where it is not associated with a value
+Action Type: error_handling
+Description: executing workflow step
+
+---
+
+Bot Log: 2025-10-29 15:07:27,472 - INFO - Medisoft Billing Bot initialized
+Action Type: workflow_action
+Description: executing workflow step
+
+---
+
+Bot Log: 2025-10-29 15:07:32,030 - INFO - Starting Medisoft login process...
+Action Type: authentication
+Description: executing workflow step
+
+---
+
+Bot Log: 2025-10-29 15:11:08,347 - INFO - Saved 8 coordinate mappings to C:\Users\mthompson\OneDrive - Integrity Senior Services\Desktop\In-Office Installation\_bots\Billing Department\Medisoft Billing\medisof
+Action Type: workflow_action
+Description: executing workflow step
+
+---
+
+Bot Log: 2025-10-29 15:17:31,145 - WARNING - OCR path auto-config failed: cannot access local variable 'conda_prefix' where it is not associated with a value
+Action Type: error_handling
+Description: executing workflow step
+
+---
+
+Bot Log: 2025-10-29 15:17:34,708 - INFO - Medisoft Billing Bot initialized
+Action Type: workflow_action
+Description: executing workflow step
+
+---
+
+Based on the above examples, analyze new bot log entries and predict actions.

@@ -1,0 +1,551 @@
+@echo off
+REM ==============================================
+REM Medisoft Billing Bot - Consumer-Ready Installer
+REM This installer handles all dependencies and configuration
+REM Installs from root level: In-Office Installation\Installer\Install.bots
+REM ==============================================
+
+setlocal enabledelayedexpansion
+
+echo.
+echo ================================================
+echo  Medisoft Billing Bot - Installation
+echo ================================================
+echo.
+echo This installer will:
+echo   1. Detect and configure Python (flexible - works with existing installs)
+echo   2. Install all Python dependencies
+echo   3. Install OCR dependencies (Poppler, Tesseract)
+echo   4. Create desktop shortcut with red I icon
+echo   5. Migrate saved selectors and coordinates
+echo   6. Configure all paths for your installation location
+echo.
+
+REM Get root installation directory (parent of Installer folder)
+set "ROOT_DIR=%~dp0.."
+cd /d "%ROOT_DIR%"
+
+REM Set Medisoft Billing Bot directory
+set "BOT_DIR=%ROOT_DIR%_bots\Billing Department\Medisoft Billing"
+
+if not exist "%BOT_DIR%\medisoft_billing_bot.py" (
+    echo [ERROR] Cannot find medisoft_billing_bot.py!
+    echo Expected location: %BOT_DIR%
+    echo Current directory: %CD%
+    echo Please ensure Install.bots is in the Installer folder at the root level.
+    pause
+    exit /b 1
+)
+
+echo [INFO] Root directory: %ROOT_DIR%
+echo [INFO] Bot directory: %BOT_DIR%
+echo.
+
+REM ==========================================
+REM Step 0: Network Connectivity Check
+REM ==========================================
+echo [0/8] Checking network connectivity...
+echo.
+echo Verifying internet connection for downloads...
+echo.
+REM Quick network check (non-blocking)
+ping -n 1 www.python.org >nul 2>&1
+if errorlevel 1 (
+    echo [WARNING] Network connectivity issue detected
+    echo Some downloads may fail. Please check your internet connection.
+    echo.
+) else (
+    echo [OK] Network connectivity: OK
+    echo.
+)
+
+REM ==========================================
+REM Step 1: Python Installation/Verification
+REM ==========================================
+echo [1/8] Checking and installing compatible Python version...
+echo.
+
+set "PYTHON_CMD="
+set "PYTHON_VERSION="
+set "PYTHON_MAJOR="
+set "PYTHON_MINOR="
+
+REM Check if Python command was passed from parent installer
+if defined REQUIRED_PYTHON_CMD (
+    echo [INFO] Using Python from parent installer: !REQUIRED_PYTHON_CMD!
+    REM Try to execute the Python command - handle both full paths and multi-word commands
+    REM Check if it's a full path (contains backslash) or a command
+    echo !REQUIRED_PYTHON_CMD! | findstr /C:"\" >nul
+    if not errorlevel 1 (
+        REM Contains backslash - likely a full path, quote it
+        "!REQUIRED_PYTHON_CMD!" --version >nul 2>&1
+        if not errorlevel 1 (
+            for /f "tokens=2" %%i in ('"!REQUIRED_PYTHON_CMD!" --version 2^>^&1') do set PYTHON_VERSION=%%i
+            set "PYTHON_CMD=!REQUIRED_PYTHON_CMD!"
+            echo [OK] Python found: !PYTHON_CMD! (version: !PYTHON_VERSION!)
+            goto :python_found
+        )
+    ) else (
+        REM No backslash - likely a command like "py -3.11", use as-is
+        !REQUIRED_PYTHON_CMD! --version >nul 2>&1
+        if not errorlevel 1 (
+            for /f "tokens=2" %%i in ('!REQUIRED_PYTHON_CMD! --version 2^>^&1') do set PYTHON_VERSION=%%i
+            set "PYTHON_CMD=!REQUIRED_PYTHON_CMD!"
+            echo [OK] Python found: !PYTHON_CMD! (version: !PYTHON_VERSION!)
+            goto :python_found
+        )
+    )
+    echo [WARNING] REQUIRED_PYTHON_CMD provided but failed to execute, falling back to detection...
+)
+
+REM Try 'python' first (most common)
+python --version >nul 2>&1
+if not errorlevel 1 (
+    for /f "tokens=2" %%i in ('python --version 2^>^&1') do set PYTHON_VERSION=%%i
+    for /f "tokens=1,2 delims=." %%a in ("!PYTHON_VERSION!") do (
+        set PYTHON_MAJOR=%%a
+        set PYTHON_MINOR=%%b
+    )
+    REM Check if version is compatible (3.7 - 3.12)
+    if "!PYTHON_MAJOR!"=="3" (
+        if !PYTHON_MINOR! GEQ 7 if !PYTHON_MINOR! LEQ 12 (
+            set "PYTHON_CMD=python"
+            goto :python_found
+        )
+    )
+)
+
+REM Try 'python3' next
+python3 --version >nul 2>&1
+if not errorlevel 1 (
+    for /f "tokens=2" %%i in ('python3 --version 2^>^&1') do set PYTHON_VERSION=%%i
+    for /f "tokens=1,2 delims=." %%a in ("!PYTHON_VERSION!") do (
+        set PYTHON_MAJOR=%%a
+        set PYTHON_MINOR=%%b
+    )
+    if "!PYTHON_MAJOR!"=="3" (
+        if !PYTHON_MINOR! GEQ 7 if !PYTHON_MINOR! LEQ 12 (
+            set "PYTHON_CMD=python3"
+            goto :python_found
+        )
+    )
+)
+
+REM Try 'py' launcher (Windows Python Launcher)
+py --version >nul 2>&1
+if not errorlevel 1 (
+    for /f "tokens=2" %%i in ('py --version 2^>^&1') do set PYTHON_VERSION=%%i
+    for /f "tokens=1,2 delims=." %%a in ("!PYTHON_VERSION!") do (
+        set PYTHON_MAJOR=%%a
+        set PYTHON_MINOR=%%b
+    )
+    if "!PYTHON_MAJOR!"=="3" (
+        if !PYTHON_MINOR! GEQ 7 if !PYTHON_MINOR! LEQ 12 (
+            set "PYTHON_CMD=py"
+            goto :python_found
+        )
+    )
+)
+
+REM Python not found or not compatible - install Python 3.11
+echo [INFO] Python not found or version is incompatible
+if defined PYTHON_VERSION (
+    echo      Current version: %PYTHON_VERSION% (not compatible)
+)
+echo      Required: Python 3.7 - 3.12
+echo      Recommended: Python 3.10 or 3.11
+echo.
+echo Installing Python 3.11.10 (recommended version)...
+echo This will ensure compatibility with all packages.
+echo.
+
+REM Run Python installation script
+set "PYTHON_INSTALLER=%ROOT_DIR%Installer\install_python.ps1"
+if exist "%PYTHON_INSTALLER%" (
+    powershell -NoProfile -ExecutionPolicy Bypass -File "%PYTHON_INSTALLER%" -PreferredVersion "3.11.10"
+    set PYTHON_INSTALL_EXIT=%ERRORLEVEL%
+    
+    if !PYTHON_INSTALL_EXIT! NEQ 0 (
+        echo.
+        echo [ERROR] Python installation failed!
+        echo.
+        echo Please install Python manually:
+        echo   1. Download from: https://www.python.org/downloads/
+        echo   2. Select Python 3.10 or 3.11
+        echo   3. Check "Add Python to PATH" during installation
+        echo   4. Re-run this installer
+        echo.
+        pause
+        exit /b 1
+    )
+    
+    echo.
+    echo [OK] Python installation complete
+    echo.
+    echo Refreshing environment...
+    echo This may take a moment...
+    echo.
+    
+    REM Wait for installation to fully complete
+    timeout /t 5 /nobreak >nul
+    
+    REM Refresh PATH from registry (multiple methods for reliability)
+    REM Method 1: System PATH
+    for /f "tokens=2*" %%a in ('reg query "HKLM\SYSTEM\CurrentControlSet\Control\Session Manager\Environment" /v PATH 2^>nul') do set "SYSTEM_PATH=%%b"
+    REM Method 2: User PATH
+    for /f "tokens=2*" %%a in ('reg query "HKCU\Environment" /v PATH 2^>nul') do set "USER_PATH=%%b"
+    REM Method 3: Combine both
+    set "PATH=!SYSTEM_PATH!;!USER_PATH!"
+    
+    REM Method 4: Try to refresh using PowerShell (more reliable)
+    powershell -NoProfile -Command "[Environment]::GetEnvironmentVariable('Path', 'Machine'); [Environment]::GetEnvironmentVariable('Path', 'User')" >nul 2>&1
+    
+    REM Method 5: Refresh current session PATH
+    for /f "tokens=*" %%p in ('powershell -NoProfile -Command "[Environment]::GetEnvironmentVariable('Path', 'Machine') + ';' + [Environment]::GetEnvironmentVariable('Path', 'User')"') do set "PATH=%%p"
+    
+    REM Wait for PATH to propagate
+    timeout /t 3 /nobreak >nul
+    
+    REM Try common Python locations (expanded list for reliability)
+    set "PYTHON_LOCATIONS=C:\Program Files\Python311\python.exe;C:\Program Files (x86)\Python311\python.exe;C:\Program Files\Python310\python.exe;C:\Program Files (x86)\Python310\python.exe;C:\Users\%USERNAME%\AppData\Local\Programs\Python\Python311\python.exe;C:\Users\%USERNAME%\AppData\Local\Programs\Python\Python310\python.exe;C:\Python311\python.exe;C:\Python310\python.exe"
+    
+    for %%p in (%PYTHON_LOCATIONS%) do (
+        if exist "%%p" (
+            "%%p" --version >nul 2>&1
+            if not errorlevel 1 (
+                for /f "tokens=2" %%i in ('"%%p" --version 2^>^&1') do set PYTHON_VERSION=%%i
+                set "PYTHON_CMD=%%p"
+                echo [OK] Found Python at: %%p
+                goto :python_found
+            )
+        )
+    )
+    
+    REM Try py launcher with version auto-detection
+    for /f "tokens=*" %%v in ('py -0 2^>nul ^| findstr /R "3.1[01]"') do (
+        set "PY_VER=%%v"
+        set "PY_VER=!PY_VER:~-3,3!"
+        py -!PY_VER! --version >nul 2>&1
+        if not errorlevel 1 (
+            set "PYTHON_CMD=py -!PY_VER!"
+            for /f "tokens=2" %%i in ('py -!PY_VER! --version 2^>^&1') do set PYTHON_VERSION=%%i
+            echo [OK] Found Python via py launcher: !PY_VER!
+            goto :python_found
+        )
+    )
+    
+    REM Verify new Python installation via command
+    python --version >nul 2>&1
+    if not errorlevel 1 (
+        for /f "tokens=2" %%i in ('python --version 2^>^&1') do set PYTHON_VERSION=%%i
+        set "PYTHON_CMD=python"
+        goto :python_found
+    )
+    
+    REM Try py launcher with version specifier
+    py -3.11 --version >nul 2>&1
+    if not errorlevel 1 (
+        set "PYTHON_CMD=py -3.11"
+        for /f "tokens=2" %%i in ('py -3.11 --version 2^>^&1') do set PYTHON_VERSION=%%i
+        goto :python_found
+    )
+    
+    REM Last resort - try py -3.10
+    py -3.10 --version >nul 2>&1
+    if not errorlevel 1 (
+        set "PYTHON_CMD=py -3.10"
+        for /f "tokens=2" %%i in ('py -3.10 --version 2^>^&1') do set PYTHON_VERSION=%%i
+        goto :python_found
+    )
+    
+    echo.
+    echo [WARNING] Python installed but not immediately available in PATH
+    echo.
+    echo Python has been installed, but the PATH may need to be refreshed.
+    echo Options:
+    echo   1. Close this window and reopen it, then run the installer again
+    echo   2. Restart your computer, then run the installer again
+    echo   3. Continue anyway - Python may still work
+    echo.
+    set /p CONTINUE_CHOICE="Continue anyway? (y/n): "
+    if /i not "!CONTINUE_CHOICE!"=="y" (
+        echo Installation paused. Please restart your terminal and run again.
+        pause
+        exit /b 1
+    )
+    
+    REM Try one more time
+    python --version >nul 2>&1
+    if not errorlevel 1 (
+        set "PYTHON_CMD=python"
+        for /f "tokens=2" %%i in ('python --version 2^>^&1') do set PYTHON_VERSION=%%i
+        goto :python_found
+    )
+    
+    echo [ERROR] Could not verify Python installation
+    echo Please restart your terminal and run the installer again
+    pause
+    exit /b 1
+) else (
+    echo [ERROR] Python installer script not found at: %PYTHON_INSTALLER%
+    echo Please install Python manually from https://www.python.org/
+    pause
+    exit /b 1
+)
+
+:python_found
+echo [OK] Python found: %PYTHON_CMD%
+if defined PYTHON_VERSION (
+    echo      Version: %PYTHON_VERSION%
+)
+echo.
+
+REM ==========================================
+REM Step 2: Upgrade pip
+REM ==========================================
+echo [2/8] Upgrading pip...
+echo.
+%PYTHON_CMD% -m pip install --quiet --upgrade pip --no-warn-script-location
+if errorlevel 1 (
+    echo [WARNING] pip upgrade failed, continuing anyway...
+)
+echo.
+
+REM ==========================================
+REM Step 3: Install Python Dependencies
+REM ==========================================
+echo [3/8] Installing Python dependencies...
+echo This may take a few minutes...
+echo.
+
+REM Change to bot directory for requirements.txt
+cd /d "%BOT_DIR%"
+
+REM Install core dependencies first (with pre-built wheels to avoid compilation)
+echo Installing core packages...
+%PYTHON_CMD% -m pip install --quiet --only-binary :all: pyautogui pywinauto Pillow
+if errorlevel 1 (
+    echo [WARNING] Some core packages may have failed to install
+    echo Trying without --only-binary flag...
+    %PYTHON_CMD% -m pip install --quiet pyautogui pywinauto Pillow
+)
+
+REM Install NumPy with pre-built wheels (critical for pandas, opencv-python, etc.)
+echo Installing NumPy (required for data processing)...
+%PYTHON_CMD% -m pip install --quiet --only-binary :all: numpy
+if errorlevel 1 (
+    echo [WARNING] NumPy installation with pre-built wheels failed
+    echo Trying standard installation...
+    %PYTHON_CMD% -m pip install --quiet numpy
+    if errorlevel 1 (
+        echo [ERROR] NumPy installation failed - some features may not work
+        echo This is usually due to missing C compiler (Visual Studio)
+        echo Continuing with installation anyway...
+    )
+)
+
+REM Install all dependencies from requirements.txt
+if exist "requirements.txt" (
+    echo Installing all dependencies from requirements.txt...
+    REM Try with pre-built wheels first to avoid compilation issues
+    %PYTHON_CMD% -m pip install --quiet --only-binary :all: -r requirements.txt
+    if errorlevel 1 (
+        echo [WARNING] Some dependencies failed with pre-built wheels
+        echo Trying standard installation (may require compilation)...
+        %PYTHON_CMD% -m pip install --quiet -r requirements.txt
+        if errorlevel 1 (
+            echo [WARNING] Some dependencies may have failed to install
+            echo Continuing with installation...
+        )
+    )
+) else (
+    echo [WARNING] requirements.txt not found, installing common packages...
+    REM Install critical packages individually with error handling
+    for %%p in (keyboard opencv-python pdfplumber pdf2image pytesseract pandas openpyxl pyperclip PyPDF2 reportlab fpdf2 selenium webdriver-manager) do (
+        echo Installing %%p...
+        %PYTHON_CMD% -m pip install --quiet --only-binary :all: %%p
+        if errorlevel 1 (
+            echo   [WARNING] %%p failed with pre-built wheels, trying standard install...
+            %PYTHON_CMD% -m pip install --quiet %%p
+        )
+    )
+)
+
+echo.
+echo [OK] Python dependencies installation complete
+echo.
+
+REM ==========================================
+REM Step 4: Install OCR Dependencies
+REM ==========================================
+echo [4/8] Installing OCR dependencies (Poppler, Tesseract)...
+echo.
+
+REM Run OCR installation script (ALWAYS run this, even if Python packages failed)
+set "OCR_SCRIPT=%ROOT_DIR%Installer\install_ocr_dependencies.ps1"
+if exist "%OCR_SCRIPT%" (
+    echo Installing Tesseract OCR and Poppler...
+    echo This will attempt multiple installation methods:
+    echo   - User-level installation (no admin required)
+    echo   - Admin installation (if needed)
+    echo   - Portable installation (if other methods fail)
+    echo.
+    
+    REM Try OCR installation (may need admin, but will try user-level first)
+    powershell -NoProfile -ExecutionPolicy Bypass -File "%OCR_SCRIPT%" -InstallDir "%BOT_DIR%"
+    set OCR_EXIT_CODE=%ERRORLEVEL%
+    
+    if !OCR_EXIT_CODE! NEQ 0 (
+        echo.
+        echo [WARNING] OCR dependencies installation encountered issues (exit code: !OCR_EXIT_CODE!)
+        echo.
+        echo The installer tried multiple methods:
+        echo   1. User-level installation (no admin)
+        echo   2. Admin installation (with elevation prompt)
+        echo   3. Portable installation (no admin)
+        echo.
+        echo The bot will still work, but scanned PDF processing may be limited.
+        echo.
+        echo Options:
+        echo   1. Run this installer as Administrator and try again
+        echo   2. Install manually:
+        echo      winget install -e --id UB-Mannheim.TesseractOCR
+        echo      winget install -e --id Poppler.Poppler
+        echo   3. Continue anyway - OCR features will not work until installed
+        echo.
+        set /p OCR_CONTINUE="Continue installation anyway? (y/n): "
+        if /i not "!OCR_CONTINUE!"=="y" (
+            echo Installation paused. Please install OCR dependencies manually.
+            pause
+            exit /b 1
+        )
+    ) else (
+        echo.
+        echo [OK] OCR dependencies installation complete
+    )
+) else (
+    echo [ERROR] OCR installation script not found at: %OCR_SCRIPT%
+    echo OCR features will NOT be available until Tesseract and Poppler are installed manually
+)
+echo.
+
+REM ==========================================
+REM Step 5: Setup Icon
+REM ==========================================
+echo [5/8] Setting up desktop shortcut icon...
+echo.
+
+set "ICON_SCRIPT=%ROOT_DIR%Installer\setup_icon.py"
+if exist "%ICON_SCRIPT%" (
+    %PYTHON_CMD% "%ICON_SCRIPT%" "%BOT_DIR%"
+    if errorlevel 1 (
+        echo [WARNING] Icon setup encountered issues
+        echo Shortcut will use default icon
+    ) else (
+        echo [OK] Icon setup complete
+    )
+) else (
+    echo [INFO] Icon setup script not found - skipping
+)
+echo.
+
+REM ==========================================
+REM Step 6: Configure Paths
+REM ==========================================
+echo [6/8] Configuring installation paths...
+echo.
+
+REM Create vendor directory if it doesn't exist
+if not exist "%BOT_DIR%\vendor" mkdir "%BOT_DIR%\vendor"
+
+REM Update bot configuration if needed (handled by Python script)
+set "CONFIG_SCRIPT=%ROOT_DIR%Installer\configure_paths.py"
+if exist "%CONFIG_SCRIPT%" (
+    echo Configuring paths in bot files...
+    %PYTHON_CMD% "%CONFIG_SCRIPT%" "%BOT_DIR%"
+    if errorlevel 1 (
+        echo [WARNING] Path configuration encountered issues
+    ) else (
+        echo [OK] Paths configured successfully
+    )
+)
+echo.
+
+REM ==========================================
+REM Step 7: Migrate Saved Data
+REM ==========================================
+echo [7/8] Migrating saved selectors and coordinates...
+echo.
+
+set "MIGRATE_SCRIPT=%ROOT_DIR%Installer\migrate_saved_data.py"
+if exist "%MIGRATE_SCRIPT%" (
+    %PYTHON_CMD% "%MIGRATE_SCRIPT%" "%BOT_DIR%"
+    if errorlevel 1 (
+        echo [WARNING] Data migration encountered issues
+        echo Saved selectors may need to be reconfigured
+    ) else (
+        echo [OK] Data migration complete
+    )
+) else (
+    echo [INFO] No migration script found - this is normal for new installations
+)
+echo.
+
+REM ==========================================
+REM Step 8: Create Desktop Shortcut
+REM ==========================================
+echo [8/8] Creating desktop shortcut...
+echo.
+
+set "SHORTCUT_SCRIPT=%ROOT_DIR%Installer\create_desktop_shortcut.vbs"
+if exist "%SHORTCUT_SCRIPT%" (
+    echo Creating shortcut with red I icon...
+    cscript //nologo "%SHORTCUT_SCRIPT%" "%BOT_DIR%" "%BOT_DIR%\medisoft_billing_bot.bat"
+    if errorlevel 1 (
+        echo [WARNING] Desktop shortcut creation encountered issues
+        echo You can create it manually if needed
+    ) else (
+        echo [OK] Desktop shortcut created successfully
+    )
+) else (
+    echo [WARNING] Shortcut creation script not found
+    echo Skipping shortcut creation
+)
+echo.
+
+REM ==========================================
+REM Installation Summary
+REM ==========================================
+echo.
+echo ================================================
+echo Installation Complete!
+echo ================================================
+echo.
+echo Summary:
+echo   - Python: %PYTHON_CMD%
+if defined PYTHON_VERSION (
+    echo   - Python Version: %PYTHON_VERSION%
+)
+echo   - Installation Directory: %BOT_DIR%
+echo.
+echo What was installed:
+echo   - All Python dependencies from requirements.txt
+echo   - OCR dependencies (Poppler, Tesseract)
+echo   - Desktop shortcut (check your desktop)
+echo   - Saved selectors migrated (if any)
+echo.
+echo Next steps:
+echo   1. Look for "Medisoft Billing Bot" shortcut on your desktop
+echo   2. Double-click the shortcut to launch the bot
+echo   3. If the icon appears blank, try restarting your computer
+echo.
+echo Troubleshooting:
+echo   - If shortcut icon is blank: Restart your computer or run as Administrator
+echo   - If bot won't start: Check that Python is in PATH
+echo   - If selectors don't work: Use the training tools (F8/F9) to reconfigure
+echo.
+echo ================================================
+echo.
+pause
+
+endlocal

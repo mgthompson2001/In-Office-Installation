@@ -1,0 +1,50 @@
+{
+  "workflow_key": "session_20251107_093408::workflow_3057",
+  "session_id": "session_20251107_093408",
+  "workflow_id": "workflow_3057",
+  "workflow_type": "interaction",
+  "description": "",
+  "goal": "Goal unclear",
+  "confidence": 0.7,
+  "timestamp": "2025-11-08T10:13:31.989532",
+  "summary": [
+    "Workflow captured from session session_20251107_093408 (interaction).",
+    "Contains 2 recorded actions with goal: Goal unclear.",
+    "Top intents detected:",
+    "  • Unknown (2 steps)",
+    "Primary applications involved:",
+    "  • explorer.exe (2 steps)",
+    "Common screens/pages:",
+    "  • Program Manager (2 steps)",
+    "Suggested interpretation:",
+    "  Mixed activity detected; review simulation output for step-by-step context."
+  ],
+  "steps": [
+    {
+      "step_number": 1,
+      "action_id": "screen_2025-11-07T10:10:21.751623",
+      "intent_category": "unknown",
+      "intent_description": "Intent unclear",
+      "intent_confidence": 0.0,
+      "contexts": {
+        "application": "explorer.exe",
+        "page": "Program Manager",
+        "state": "viewing"
+      },
+      "source_session": "session_20251107_093408"
+    },
+    {
+      "step_number": 2,
+      "action_id": "screen_2025-11-07T10:10:22.833932",
+      "intent_category": "unknown",
+      "intent_description": "Intent unclear",
+      "intent_confidence": 0.0,
+      "contexts": {
+        "application": "explorer.exe",
+        "page": "Program Manager",
+        "state": "viewing"
+      },
+      "source_session": "session_20251107_093408"
+    }
+  ]
+}

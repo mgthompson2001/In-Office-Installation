@@ -1,0 +1,353 @@
+{
+  "workflow_key": "session_20251108_102159::workflow_1074",
+  "session_id": "session_20251108_102159",
+  "workflow_id": "workflow_1074",
+  "workflow_type": "data_entry",
+  "description": "Type: p → Type: e → Type: n → ... and 20 more actions",
+  "goal": "Goal: create record",
+  "confidence": 0.7,
+  "timestamp": "2025-11-08T10:39:57.775560",
+  "summary": [
+    "Workflow captured from session session_20251108_102159 (data_entry).",
+    "Contains 25 recorded actions with goal: Goal: create record.",
+    "Top intents detected:",
+    "  • Navigate (10 steps)",
+    "  • Enter Data (9 steps)",
+    "  • Unknown (3 steps)",
+    "Primary applications involved:",
+    "  • Browser (25 steps)",
+    "Common screens/pages:",
+    "  • New Tab - Google Chrome (20 steps)",
+    "  • Search Page (3 steps)",
+    "  • integrityseniorservices.athena-us.com - Google Chrome (2 steps)",
+    "Suggested interpretation:",
+    "  Mixed activity detected; review simulation output for step-by-step context."
+  ],
+  "steps": [
+    {
+      "step_number": 1,
+      "action_id": "screen_2025-11-08T10:28:22.676368",
+      "intent_category": "navigate",
+      "intent_description": "User intends to navigate",
+      "intent_confidence": 0.4,
+      "contexts": {
+        "application": "Browser",
+        "page": "New Tab - Google Chrome",
+        "state": "viewing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 2,
+      "action_id": "keyboard_2025-11-08T10:28:23.572178",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "Browser",
+        "page": "New Tab - Google Chrome",
+        "state": "typing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 3,
+      "action_id": "screen_2025-11-08T10:28:23.661216",
+      "intent_category": "navigate",
+      "intent_description": "User intends to navigate",
+      "intent_confidence": 0.4,
+      "contexts": {
+        "application": "Browser",
+        "page": "New Tab - Google Chrome",
+        "state": "viewing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 4,
+      "action_id": "keyboard_2025-11-08T10:28:23.761189",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "Browser",
+        "page": "New Tab - Google Chrome",
+        "state": "typing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 5,
+      "action_id": "keyboard_2025-11-08T10:28:23.840103",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "Browser",
+        "page": "New Tab - Google Chrome",
+        "state": "typing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 6,
+      "action_id": "keyboard_2025-11-08T10:28:23.929722",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "Browser",
+        "page": "New Tab - Google Chrome",
+        "state": "typing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 7,
+      "action_id": "screen_2025-11-08T10:28:24.730906",
+      "intent_category": "navigate",
+      "intent_description": "User intends to navigate",
+      "intent_confidence": 0.4,
+      "contexts": {
+        "application": "Browser",
+        "page": "New Tab - Google Chrome",
+        "state": "viewing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 8,
+      "action_id": "screen_2025-11-08T10:28:25.799257",
+      "intent_category": "navigate",
+      "intent_description": "User intends to navigate",
+      "intent_confidence": 0.4,
+      "contexts": {
+        "application": "Browser",
+        "page": "New Tab - Google Chrome",
+        "state": "viewing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 9,
+      "action_id": "screen_2025-11-08T10:28:26.849510",
+      "intent_category": "navigate",
+      "intent_description": "User intends to navigate",
+      "intent_confidence": 0.4,
+      "contexts": {
+        "application": "Browser",
+        "page": "New Tab - Google Chrome",
+        "state": "viewing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 10,
+      "action_id": "screen_2025-11-08T10:28:27.914332",
+      "intent_category": "navigate",
+      "intent_description": "User intends to navigate",
+      "intent_confidence": 0.4,
+      "contexts": {
+        "application": "Browser",
+        "page": "New Tab - Google Chrome",
+        "state": "viewing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 11,
+      "action_id": "screen_2025-11-08T10:28:28.994221",
+      "intent_category": "navigate",
+      "intent_description": "User intends to navigate",
+      "intent_confidence": 0.4,
+      "contexts": {
+        "application": "Browser",
+        "page": "New Tab - Google Chrome",
+        "state": "viewing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 12,
+      "action_id": "screen_2025-11-08T10:28:30.068467",
+      "intent_category": "navigate",
+      "intent_description": "User intends to navigate",
+      "intent_confidence": 0.4,
+      "contexts": {
+        "application": "Browser",
+        "page": "New Tab - Google Chrome",
+        "state": "viewing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 13,
+      "action_id": "screen_2025-11-08T10:28:31.146672",
+      "intent_category": "navigate",
+      "intent_description": "User intends to navigate",
+      "intent_confidence": 0.4,
+      "contexts": {
+        "application": "Browser",
+        "page": "New Tab - Google Chrome",
+        "state": "viewing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 14,
+      "action_id": "keyboard_2025-11-08T10:28:31.580023",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "Browser",
+        "page": "New Tab - Google Chrome",
+        "state": "typing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 15,
+      "action_id": "keyboard_2025-11-08T10:28:31.774911",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "Browser",
+        "page": "New Tab - Google Chrome",
+        "state": "typing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 16,
+      "action_id": "keyboard_2025-11-08T10:28:31.872671",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "Browser",
+        "page": "New Tab - Google Chrome",
+        "state": "typing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 17,
+      "action_id": "keyboard_2025-11-08T10:28:32.029442",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "Browser",
+        "page": "New Tab - Google Chrome",
+        "state": "typing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 18,
+      "action_id": "keyboard_2025-11-08T10:28:32.175592",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "Browser",
+        "page": "New Tab - Google Chrome",
+        "state": "typing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 19,
+      "action_id": "screen_2025-11-08T10:28:32.230522",
+      "intent_category": "navigate",
+      "intent_description": "User intends to navigate",
+      "intent_confidence": 0.4,
+      "contexts": {
+        "application": "Browser",
+        "page": "New Tab - Google Chrome",
+        "state": "viewing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 20,
+      "action_id": "keyboard_2025-11-08T10:28:32.401907",
+      "intent_category": "unknown",
+      "intent_description": "Intent unclear",
+      "intent_confidence": 0.0,
+      "contexts": {
+        "application": "Browser",
+        "page": "New Tab - Google Chrome",
+        "state": "typing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 21,
+      "action_id": "screen_2025-11-08T10:28:33.302536",
+      "intent_category": "search",
+      "intent_description": "User intends to search",
+      "intent_confidence": 0.4,
+      "contexts": {
+        "application": "Browser",
+        "page": "Search Page",
+        "state": "viewing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 22,
+      "action_id": "screen_2025-11-08T10:28:34.377311",
+      "intent_category": "search",
+      "intent_description": "User intends to search",
+      "intent_confidence": 0.4,
+      "contexts": {
+        "application": "Browser",
+        "page": "Search Page",
+        "state": "viewing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 23,
+      "action_id": "screen_2025-11-08T10:28:35.445028",
+      "intent_category": "search",
+      "intent_description": "User intends to search",
+      "intent_confidence": 0.4,
+      "contexts": {
+        "application": "Browser",
+        "page": "Search Page",
+        "state": "viewing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 24,
+      "action_id": "screen_2025-11-08T10:28:36.514036",
+      "intent_category": "unknown",
+      "intent_description": "Intent unclear",
+      "intent_confidence": 0.0,
+      "contexts": {
+        "application": "Browser",
+        "page": "integrityseniorservices.athena-us.com - Google Chrome",
+        "state": "viewing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 25,
+      "action_id": "screen_2025-11-08T10:28:37.582894",
+      "intent_category": "unknown",
+      "intent_description": "Intent unclear",
+      "intent_confidence": 0.0,
+      "contexts": {
+        "application": "Browser",
+        "page": "integrityseniorservices.athena-us.com - Google Chrome",
+        "state": "viewing"
+      },
+      "source_session": "session_20251108_102159"
+    }
+  ]
+}

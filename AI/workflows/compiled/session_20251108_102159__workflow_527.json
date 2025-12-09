@@ -1,0 +1,52 @@
+{
+  "workflow_key": "session_20251108_102159::workflow_527",
+  "session_id": "session_20251108_102159",
+  "workflow_id": "workflow_527",
+  "workflow_type": "interaction",
+  "description": "",
+  "goal": "Completing billing workflow",
+  "confidence": 0.7,
+  "timestamp": "2025-11-08T10:39:57.755546",
+  "summary": [
+    "Workflow captured from session session_20251108_102159 (interaction).",
+    "Contains 2 recorded actions with goal: Completing billing workflow.",
+    "Top intents detected:",
+    "  • Process Billing (2 steps)",
+    "Primary applications involved:",
+    "  • Cursor.exe (2 steps)",
+    "Common screens/pages:",
+    "  • Bot Interface (2 steps)",
+    "Suggested interpretation:",
+    "  Mixed activity detected; review simulation output for step-by-step context."
+  ],
+  "steps": [
+    {
+      "step_number": 1,
+      "action_id": "screen_2025-11-08T10:24:23.874959",
+      "intent_category": "process_billing",
+      "intent_description": "Processing billing tasks",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "viewing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 2,
+      "action_id": "screen_2025-11-08T10:24:24.949616",
+      "intent_category": "process_billing",
+      "intent_description": "Processing billing tasks",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Bot Interface",
+        "state": "viewing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251108_102159"
+    }
+  ]
+}

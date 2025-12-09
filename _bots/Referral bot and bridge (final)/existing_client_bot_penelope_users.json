@@ -1,0 +1,12 @@
+{
+  "Michael T": {
+    "username": "MThompson",
+    "password": "!IntegritySWS1!",
+    "url": "https://integrityseniorservices.athena-us.com/acm_loginControl"
+  },
+  "Automation Bot Penelope #1": {
+    "username": "AutomationIntake Bot",
+    "password": "WelcomeAuto!",
+    "url": "https://integrityseniorservices.athena-us.com/acm_loginControl"
+  }
+}

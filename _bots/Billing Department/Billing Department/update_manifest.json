@@ -1,0 +1,16 @@
+{
+  "created": "2025-11-26T13:55:13.824222",
+  "files": [
+    {
+      "path": "check_cleanup_status.py",
+      "size": 3926,
+      "modified": "2025-11-14T15:11:32.653060"
+    },
+    {
+      "path": "status_report.py",
+      "size": 4598,
+      "modified": "2025-11-17T16:38:57.320076"
+    }
+  ],
+  "total_files": 2
+}

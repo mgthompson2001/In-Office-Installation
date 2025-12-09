@@ -1,0 +1,76 @@
+{
+  "created": "2025-12-04T12:14:01.932729",
+  "files": [
+    {
+      "path": "medical_records_department_launcher.py",
+      "size": 5603,
+      "modified": "2025-12-03T14:54:33.914931"
+    },
+    {
+      "path": "requirements.txt",
+      "size": 1683,
+      "modified": "2025-11-20T10:13:57.196824"
+    },
+    {
+      "path": "therapy_notes_records_bot.py",
+      "size": 199090,
+      "modified": "2025-12-03T14:54:33.934156"
+    },
+    {
+      "path": "Example Log/Datavant VNS 24 Clients.xlsx",
+      "size": 14341,
+      "modified": "2025-10-17T16:19:46.823442"
+    },
+    {
+      "path": "Example Log/Test 2.xlsx",
+      "size": 9874,
+      "modified": "2025-10-17T16:19:46.824449"
+    },
+    {
+      "path": "Example Log/Test 3.xlsx",
+      "size": 9238,
+      "modified": "2025-10-17T16:19:46.825459"
+    },
+    {
+      "path": "Example Log/test.xlsx",
+      "size": 9467,
+      "modified": "2025-10-17T16:19:46.826456"
+    },
+    {
+      "path": "Finished Product, Launch Ready/bot_log.txt",
+      "size": 238,
+      "modified": "2025-10-17T16:19:46.829454"
+    },
+    {
+      "path": "Medical Records Billing Log Output/Old/therapy_notes_log_20251112_093047.csv",
+      "size": 67607,
+      "modified": "2025-11-12T09:30:47.611594"
+    },
+    {
+      "path": "Medical Records Billing Log Output/Old/therapy_notes_log_20251112_093047.xlsx",
+      "size": 22065,
+      "modified": "2025-11-12T09:41:26.391859"
+    },
+    {
+      "path": "Finished Product, Launch Ready/Bot and extender/integrity_medical_records_bot_v3g_batchclicks.bat",
+      "size": 671,
+      "modified": "2025-10-28T17:01:48.956717"
+    },
+    {
+      "path": "Finished Product, Launch Ready/Bot and extender/integrity_medical_records_bot_v3g_batchclicks.py",
+      "size": 47312,
+      "modified": "2025-12-03T14:54:34.009380"
+    },
+    {
+      "path": "Finished Product, Launch Ready/Bot and extender/integrity_medical_records_extender_WAITREADY_ROI_INTAKEFALLBACK_TwinPeakin_FIX7_READYWAIT_ONLY_IAcheck.bat",
+      "size": 899,
+      "modified": "2025-10-28T17:01:48.957854"
+    },
+    {
+      "path": "Finished Product, Launch Ready/Bot and extender/integrity_medical_records_extender_WAITREADY_ROI_INTAKEFALLBACK_TwinPeakin_FIX7_READYWAIT_ONLY_IAcheck.py",
+      "size": 39108,
+      "modified": "2025-12-03T14:54:34.009380"
+    }
+  ],
+  "total_files": 14
+}

@@ -1,0 +1,37 @@
+{
+  "workflow_key": "session_20251108_102159::workflow_40",
+  "session_id": "session_20251108_102159",
+  "workflow_id": "workflow_40",
+  "workflow_type": "interaction",
+  "description": "Click/interact",
+  "goal": "Executing automation scripts",
+  "confidence": 0.7,
+  "timestamp": "2025-11-08T10:39:57.739969",
+  "summary": [
+    "Workflow captured from session session_20251108_102159 (interaction).",
+    "Contains 1 recorded actions with goal: Executing automation scripts.",
+    "Top intents detected:",
+    "  • Automation Control (1 steps)",
+    "Primary applications involved:",
+    "  • pythonw.exe (1 steps)",
+    "Common screens/pages:",
+    "  • Bot Interface (1 steps)",
+    "Suggested interpretation:",
+    "  This appears to be a session controlling automation tools (launching bots, monitoring)."
+  ],
+  "steps": [
+    {
+      "step_number": 1,
+      "action_id": "mouse_2025-11-08T10:22:14.439019",
+      "intent_category": "automation_control",
+      "intent_description": "Controlling automation scripts",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "pythonw.exe",
+        "page": "Bot Interface",
+        "state": "interacting"
+      },
+      "source_session": "session_20251108_102159"
+    }
+  ]
+}

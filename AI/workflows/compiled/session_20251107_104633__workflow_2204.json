@@ -1,0 +1,193 @@
+{
+  "workflow_key": "session_20251107_104633::workflow_2204",
+  "session_id": "session_20251107_104633",
+  "workflow_id": "workflow_2204",
+  "workflow_type": "interaction",
+  "description": "... and 8 more actions",
+  "goal": "Goal unclear",
+  "confidence": 0.7,
+  "timestamp": "2025-11-08T10:02:03.579226",
+  "summary": [
+    "Workflow captured from session session_20251107_104633 (interaction).",
+    "Contains 13 recorded actions with goal: Goal unclear.",
+    "Top intents detected:",
+    "  • Search (13 steps)",
+    "Primary applications involved:",
+    "  • Browser (13 steps)",
+    "Common screens/pages:",
+    "  • Search Page (13 steps)",
+    "Suggested interpretation:",
+    "  Mixed activity detected; review simulation output for step-by-step context."
+  ],
+  "steps": [
+    {
+      "step_number": 1,
+      "action_id": "screen_2025-11-07T11:01:25.489171",
+      "intent_category": "search",
+      "intent_description": "User intends to search",
+      "intent_confidence": 0.4,
+      "contexts": {
+        "application": "Browser",
+        "page": "Search Page",
+        "state": "viewing"
+      },
+      "source_session": "session_20251107_104633"
+    },
+    {
+      "step_number": 2,
+      "action_id": "screen_2025-11-07T11:01:26.500025",
+      "intent_category": "search",
+      "intent_description": "User intends to search",
+      "intent_confidence": 0.4,
+      "contexts": {
+        "application": "Browser",
+        "page": "Search Page",
+        "state": "viewing"
+      },
+      "source_session": "session_20251107_104633"
+    },
+    {
+      "step_number": 3,
+      "action_id": "screen_2025-11-07T11:01:27.586416",
+      "intent_category": "search",
+      "intent_description": "User intends to search",
+      "intent_confidence": 0.4,
+      "contexts": {
+        "application": "Browser",
+        "page": "Search Page",
+        "state": "viewing"
+      },
+      "source_session": "session_20251107_104633"
+    },
+    {
+      "step_number": 4,
+      "action_id": "screen_2025-11-07T11:01:28.603741",
+      "intent_category": "search",
+      "intent_description": "User intends to search",
+      "intent_confidence": 0.4,
+      "contexts": {
+        "application": "Browser",
+        "page": "Search Page",
+        "state": "viewing"
+      },
+      "source_session": "session_20251107_104633"
+    },
+    {
+      "step_number": 5,
+      "action_id": "screen_2025-11-07T11:01:29.658185",
+      "intent_category": "search",
+      "intent_description": "User intends to search",
+      "intent_confidence": 0.4,
+      "contexts": {
+        "application": "Browser",
+        "page": "Search Page",
+        "state": "viewing"
+      },
+      "source_session": "session_20251107_104633"
+    },
+    {
+      "step_number": 6,
+      "action_id": "screen_2025-11-07T11:01:30.665658",
+      "intent_category": "search",
+      "intent_description": "User intends to search",
+      "intent_confidence": 0.4,
+      "contexts": {
+        "application": "Browser",
+        "page": "Search Page",
+        "state": "viewing"
+      },
+      "source_session": "session_20251107_104633"
+    },
+    {
+      "step_number": 7,
+      "action_id": "screen_2025-11-07T11:01:31.693070",
+      "intent_category": "search",
+      "intent_description": "User intends to search",
+      "intent_confidence": 0.4,
+      "contexts": {
+        "application": "Browser",
+        "page": "Search Page",
+        "state": "viewing"
+      },
+      "source_session": "session_20251107_104633"
+    },
+    {
+      "step_number": 8,
+      "action_id": "screen_2025-11-07T11:01:32.814476",
+      "intent_category": "search",
+      "intent_description": "User intends to search",
+      "intent_confidence": 0.4,
+      "contexts": {
+        "application": "Browser",
+        "page": "Search Page",
+        "state": "viewing"
+      },
+      "source_session": "session_20251107_104633"
+    },
+    {
+      "step_number": 9,
+      "action_id": "screen_2025-11-07T11:01:33.895112",
+      "intent_category": "search",
+      "intent_description": "User intends to search",
+      "intent_confidence": 0.4,
+      "contexts": {
+        "application": "Browser",
+        "page": "Search Page",
+        "state": "viewing"
+      },
+      "source_session": "session_20251107_104633"
+    },
+    {
+      "step_number": 10,
+      "action_id": "screen_2025-11-07T11:01:34.890842",
+      "intent_category": "search",
+      "intent_description": "User intends to search",
+      "intent_confidence": 0.4,
+      "contexts": {
+        "application": "Browser",
+        "page": "Search Page",
+        "state": "viewing"
+      },
+      "source_session": "session_20251107_104633"
+    },
+    {
+      "step_number": 11,
+      "action_id": "screen_2025-11-07T11:01:35.939373",
+      "intent_category": "search",
+      "intent_description": "User intends to search",
+      "intent_confidence": 0.4,
+      "contexts": {
+        "application": "Browser",
+        "page": "Search Page",
+        "state": "viewing"
+      },
+      "source_session": "session_20251107_104633"
+    },
+    {
+      "step_number": 12,
+      "action_id": "screen_2025-11-07T11:01:36.982140",
+      "intent_category": "search",
+      "intent_description": "User intends to search",
+      "intent_confidence": 0.4,
+      "contexts": {
+        "application": "Browser",
+        "page": "Search Page",
+        "state": "viewing"
+      },
+      "source_session": "session_20251107_104633"
+    },
+    {
+      "step_number": 13,
+      "action_id": "screen_2025-11-07T11:01:38.102322",
+      "intent_category": "search",
+      "intent_description": "User intends to search",
+      "intent_confidence": 0.4,
+      "contexts": {
+        "application": "Browser",
+        "page": "Search Page",
+        "state": "viewing"
+      },
+      "source_session": "session_20251107_104633"
+    }
+  ]
+}

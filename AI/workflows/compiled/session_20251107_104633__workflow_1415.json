@@ -1,0 +1,456 @@
+{
+  "workflow_key": "session_20251107_104633::workflow_1415",
+  "session_id": "session_20251107_104633",
+  "workflow_id": "workflow_1415",
+  "workflow_type": "interaction",
+  "description": "... and 26 more actions",
+  "goal": "Removing counselor assignments",
+  "confidence": 0.7,
+  "timestamp": "2025-11-08T10:02:03.578544",
+  "summary": [
+    "Workflow captured from session session_20251107_104633 (interaction).",
+    "Contains 31 recorded actions with goal: Removing counselor assignments.",
+    "Top intents detected:",
+    "  • Remove Counselor (16 steps)",
+    "  • Automation Control (15 steps)",
+    "Primary applications involved:",
+    "  • pythonw.exe (31 steps)",
+    "Common screens/pages:",
+    "  • Bot Interface (27 steps)",
+    "  • Select CSV file to upload (4 steps)",
+    "Suggested interpretation:",
+    "  This captures a TherapyNotes counselor removal workflow."
+  ],
+  "steps": [
+    {
+      "step_number": 1,
+      "action_id": "screen_2025-11-07T10:55:39.889569",
+      "intent_category": "automation_control",
+      "intent_description": "Controlling automation scripts",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "pythonw.exe",
+        "page": "Bot Interface",
+        "state": "viewing",
+        "task": "Intake"
+      },
+      "source_session": "session_20251107_104633"
+    },
+    {
+      "step_number": 2,
+      "action_id": "screen_2025-11-07T10:55:40.892679",
+      "intent_category": "automation_control",
+      "intent_description": "Controlling automation scripts",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "pythonw.exe",
+        "page": "Bot Interface",
+        "state": "viewing",
+        "task": "Intake"
+      },
+      "source_session": "session_20251107_104633"
+    },
+    {
+      "step_number": 3,
+      "action_id": "screen_2025-11-07T10:55:41.914025",
+      "intent_category": "automation_control",
+      "intent_description": "Controlling automation scripts",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "pythonw.exe",
+        "page": "Bot Interface",
+        "state": "viewing",
+        "task": "Intake"
+      },
+      "source_session": "session_20251107_104633"
+    },
+    {
+      "step_number": 4,
+      "action_id": "screen_2025-11-07T10:55:42.936284",
+      "intent_category": "automation_control",
+      "intent_description": "Controlling automation scripts",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "pythonw.exe",
+        "page": "Bot Interface",
+        "state": "viewing",
+        "task": "Intake"
+      },
+      "source_session": "session_20251107_104633"
+    },
+    {
+      "step_number": 5,
+      "action_id": "screen_2025-11-07T10:55:43.946256",
+      "intent_category": "automation_control",
+      "intent_description": "Controlling automation scripts",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "pythonw.exe",
+        "page": "Bot Interface",
+        "state": "viewing",
+        "task": "Intake"
+      },
+      "source_session": "session_20251107_104633"
+    },
+    {
+      "step_number": 6,
+      "action_id": "screen_2025-11-07T10:55:44.987554",
+      "intent_category": "automation_control",
+      "intent_description": "Controlling automation scripts",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "pythonw.exe",
+        "page": "Bot Interface",
+        "state": "viewing",
+        "task": "Intake"
+      },
+      "source_session": "session_20251107_104633"
+    },
+    {
+      "step_number": 7,
+      "action_id": "screen_2025-11-07T10:55:46.039705",
+      "intent_category": "automation_control",
+      "intent_description": "Controlling automation scripts",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "pythonw.exe",
+        "page": "Bot Interface",
+        "state": "viewing",
+        "task": "Intake"
+      },
+      "source_session": "session_20251107_104633"
+    },
+    {
+      "step_number": 8,
+      "action_id": "screen_2025-11-07T10:55:47.027775",
+      "intent_category": "automation_control",
+      "intent_description": "Controlling automation scripts",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "pythonw.exe",
+        "page": "Bot Interface",
+        "state": "viewing",
+        "task": "Intake"
+      },
+      "source_session": "session_20251107_104633"
+    },
+    {
+      "step_number": 9,
+      "action_id": "screen_2025-11-07T10:55:48.114412",
+      "intent_category": "remove_counselor",
+      "intent_description": "Removing counselor assignment",
+      "intent_confidence": 0.9,
+      "contexts": {
+        "application": "pythonw.exe",
+        "page": "Bot Interface",
+        "state": "viewing",
+        "task": "IPS Removal"
+      },
+      "source_session": "session_20251107_104633"
+    },
+    {
+      "step_number": 10,
+      "action_id": "screen_2025-11-07T10:55:49.263050",
+      "intent_category": "remove_counselor",
+      "intent_description": "Removing counselor assignment",
+      "intent_confidence": 0.9,
+      "contexts": {
+        "application": "pythonw.exe",
+        "page": "Bot Interface",
+        "state": "viewing",
+        "task": "IPS Removal"
+      },
+      "source_session": "session_20251107_104633"
+    },
+    {
+      "step_number": 11,
+      "action_id": "screen_2025-11-07T10:55:50.297375",
+      "intent_category": "remove_counselor",
+      "intent_description": "Removing counselor assignment",
+      "intent_confidence": 0.9,
+      "contexts": {
+        "application": "pythonw.exe",
+        "page": "Bot Interface",
+        "state": "viewing",
+        "task": "IPS Removal"
+      },
+      "source_session": "session_20251107_104633"
+    },
+    {
+      "step_number": 12,
+      "action_id": "screen_2025-11-07T10:55:51.310056",
+      "intent_category": "remove_counselor",
+      "intent_description": "Removing counselor assignment",
+      "intent_confidence": 0.9,
+      "contexts": {
+        "application": "pythonw.exe",
+        "page": "Bot Interface",
+        "state": "viewing",
+        "task": "IPS Removal"
+      },
+      "source_session": "session_20251107_104633"
+    },
+    {
+      "step_number": 13,
+      "action_id": "screen_2025-11-07T10:55:52.358315",
+      "intent_category": "remove_counselor",
+      "intent_description": "Removing counselor assignment",
+      "intent_confidence": 0.9,
+      "contexts": {
+        "application": "pythonw.exe",
+        "page": "Bot Interface",
+        "state": "viewing",
+        "task": "IPS Removal"
+      },
+      "source_session": "session_20251107_104633"
+    },
+    {
+      "step_number": 14,
+      "action_id": "screen_2025-11-07T10:55:53.380264",
+      "intent_category": "remove_counselor",
+      "intent_description": "Removing counselor assignment",
+      "intent_confidence": 0.9,
+      "contexts": {
+        "application": "pythonw.exe",
+        "page": "Bot Interface",
+        "state": "viewing",
+        "task": "IPS Removal"
+      },
+      "source_session": "session_20251107_104633"
+    },
+    {
+      "step_number": 15,
+      "action_id": "screen_2025-11-07T10:55:54.409030",
+      "intent_category": "remove_counselor",
+      "intent_description": "Removing counselor assignment",
+      "intent_confidence": 0.9,
+      "contexts": {
+        "application": "pythonw.exe",
+        "page": "Bot Interface",
+        "state": "viewing",
+        "task": "IPS Removal"
+      },
+      "source_session": "session_20251107_104633"
+    },
+    {
+      "step_number": 16,
+      "action_id": "screen_2025-11-07T10:55:55.398171",
+      "intent_category": "remove_counselor",
+      "intent_description": "Removing counselor assignment",
+      "intent_confidence": 0.9,
+      "contexts": {
+        "application": "pythonw.exe",
+        "page": "Bot Interface",
+        "state": "viewing",
+        "task": "IPS Removal"
+      },
+      "source_session": "session_20251107_104633"
+    },
+    {
+      "step_number": 17,
+      "action_id": "screen_2025-11-07T10:55:56.410747",
+      "intent_category": "remove_counselor",
+      "intent_description": "Removing counselor assignment",
+      "intent_confidence": 0.9,
+      "contexts": {
+        "application": "pythonw.exe",
+        "page": "Bot Interface",
+        "state": "viewing",
+        "task": "IPS Removal"
+      },
+      "source_session": "session_20251107_104633"
+    },
+    {
+      "step_number": 18,
+      "action_id": "screen_2025-11-07T10:55:57.423026",
+      "intent_category": "remove_counselor",
+      "intent_description": "Removing counselor assignment",
+      "intent_confidence": 0.9,
+      "contexts": {
+        "application": "pythonw.exe",
+        "page": "Bot Interface",
+        "state": "viewing",
+        "task": "IPS Removal"
+      },
+      "source_session": "session_20251107_104633"
+    },
+    {
+      "step_number": 19,
+      "action_id": "screen_2025-11-07T10:55:58.426294",
+      "intent_category": "automation_control",
+      "intent_description": "Controlling automation scripts",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "pythonw.exe",
+        "page": "Select CSV file to upload",
+        "state": "viewing"
+      },
+      "source_session": "session_20251107_104633"
+    },
+    {
+      "step_number": 20,
+      "action_id": "screen_2025-11-07T10:55:59.461916",
+      "intent_category": "automation_control",
+      "intent_description": "Controlling automation scripts",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "pythonw.exe",
+        "page": "Select CSV file to upload",
+        "state": "viewing"
+      },
+      "source_session": "session_20251107_104633"
+    },
+    {
+      "step_number": 21,
+      "action_id": "screen_2025-11-07T10:56:00.441192",
+      "intent_category": "automation_control",
+      "intent_description": "Controlling automation scripts",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "pythonw.exe",
+        "page": "Select CSV file to upload",
+        "state": "viewing"
+      },
+      "source_session": "session_20251107_104633"
+    },
+    {
+      "step_number": 22,
+      "action_id": "screen_2025-11-07T10:56:01.494816",
+      "intent_category": "automation_control",
+      "intent_description": "Controlling automation scripts",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "pythonw.exe",
+        "page": "Select CSV file to upload",
+        "state": "viewing"
+      },
+      "source_session": "session_20251107_104633"
+    },
+    {
+      "step_number": 23,
+      "action_id": "screen_2025-11-07T10:56:02.631252",
+      "intent_category": "remove_counselor",
+      "intent_description": "Removing counselor assignment",
+      "intent_confidence": 0.9,
+      "contexts": {
+        "application": "pythonw.exe",
+        "page": "Bot Interface",
+        "state": "viewing",
+        "task": "IPS Removal"
+      },
+      "source_session": "session_20251107_104633"
+    },
+    {
+      "step_number": 24,
+      "action_id": "mouse_2025-11-07T10:56:03.586996",
+      "intent_category": "automation_control",
+      "intent_description": "Controlling automation scripts",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "pythonw.exe",
+        "page": "Bot Interface",
+        "state": "interacting",
+        "task": "IPS Removal"
+      },
+      "source_session": "session_20251107_104633"
+    },
+    {
+      "step_number": 25,
+      "action_id": "screen_2025-11-07T10:56:03.655060",
+      "intent_category": "remove_counselor",
+      "intent_description": "Removing counselor assignment",
+      "intent_confidence": 0.9,
+      "contexts": {
+        "application": "pythonw.exe",
+        "page": "Bot Interface",
+        "state": "viewing",
+        "task": "IPS Removal"
+      },
+      "source_session": "session_20251107_104633"
+    },
+    {
+      "step_number": 26,
+      "action_id": "screen_2025-11-07T10:56:04.680222",
+      "intent_category": "remove_counselor",
+      "intent_description": "Removing counselor assignment",
+      "intent_confidence": 0.9,
+      "contexts": {
+        "application": "pythonw.exe",
+        "page": "Bot Interface",
+        "state": "viewing",
+        "task": "IPS Removal"
+      },
+      "source_session": "session_20251107_104633"
+    },
+    {
+      "step_number": 27,
+      "action_id": "screen_2025-11-07T10:56:05.654818",
+      "intent_category": "remove_counselor",
+      "intent_description": "Removing counselor assignment",
+      "intent_confidence": 0.9,
+      "contexts": {
+        "application": "pythonw.exe",
+        "page": "Bot Interface",
+        "state": "viewing",
+        "task": "IPS Removal"
+      },
+      "source_session": "session_20251107_104633"
+    },
+    {
+      "step_number": 28,
+      "action_id": "mouse_2025-11-07T10:56:06.378188",
+      "intent_category": "automation_control",
+      "intent_description": "Controlling automation scripts",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "pythonw.exe",
+        "page": "Bot Interface",
+        "state": "interacting",
+        "task": "IPS Removal"
+      },
+      "source_session": "session_20251107_104633"
+    },
+    {
+      "step_number": 29,
+      "action_id": "screen_2025-11-07T10:56:06.738357",
+      "intent_category": "remove_counselor",
+      "intent_description": "Removing counselor assignment",
+      "intent_confidence": 0.9,
+      "contexts": {
+        "application": "pythonw.exe",
+        "page": "Bot Interface",
+        "state": "viewing",
+        "task": "IPS Removal"
+      },
+      "source_session": "session_20251107_104633"
+    },
+    {
+      "step_number": 30,
+      "action_id": "screen_2025-11-07T10:56:07.828467",
+      "intent_category": "remove_counselor",
+      "intent_description": "Removing counselor assignment",
+      "intent_confidence": 0.9,
+      "contexts": {
+        "application": "pythonw.exe",
+        "page": "Bot Interface",
+        "state": "viewing",
+        "task": "IPS Removal"
+      },
+      "source_session": "session_20251107_104633"
+    },
+    {
+      "step_number": 31,
+      "action_id": "screen_2025-11-07T10:56:08.954511",
+      "intent_category": "automation_control",
+      "intent_description": "Controlling automation scripts",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "pythonw.exe",
+        "page": "Bot Interface",
+        "state": "viewing",
+        "task": "Intake"
+      },
+      "source_session": "session_20251107_104633"
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+# Medisoft Billing Bot - Required Dependencies
+# Install with: pip install -r requirements.txt
+#
+# Note: If opencv-python fails to install, that's OK! The bot works without it.
+# The bot will use exact image matching instead of confidence-based matching.
+
+# Core dependencies (REQUIRED)
+pyautogui>=0.9.54
+pywinauto>=0.6.8
+Pillow>=9.0.0  # Required by pyautogui for image processing
+
+# Recommended dependencies (for full functionality)
+# If these fail to install, the bot will still work but with limited features:
+keyboard>=0.13.5  # Enables F8/F9 hotkeys for training
+
+# IMPORTANT: OpenCV enables reliable image recognition across different computers
+# Install with: pip install --only-binary :all: opencv-python
+opencv-python>=4.11.0  # REQUIRED for image recognition - enables confidence-based matching
+
+# PDF parsing for insurance company requests
+pdfplumber>=0.11.0  # REQUIRED for extracting client name and date range from insurance PDFs
+
+# OCR dependencies (for scanned PDFs)
+pdf2image>=1.17.0  # REQUIRED for converting PDF pages to images for OCR
+pytesseract>=0.3.13  # REQUIRED for OCR text extraction from scanned PDFs
+
+# Excel/CSV file reading (for processing insurance requests)
+pandas>=2.0.0  # REQUIRED for reading Excel and CSV files
+openpyxl>=3.1.0  # REQUIRED for reading .xlsx Excel files
+
+# Clipboard operations (for copying text from Medisoft)
+pyperclip>=1.8.2  # REQUIRED for clipboard operations
+
+# PDF creation and manipulation libraries (for Welcome Letter Bot and other PDF generation)
+PyPDF2>=3.0.0  # REQUIRED for PDF reading/manipulation (used by Welcome Letter Bot)
+reportlab>=4.0.0  # REQUIRED for PDF creation/generation (used by Welcome Letter Bot)
+fpdf2>=2.7.0  # Optional: Simple PDF creation library
+
+# Web automation (for Penelope Workflow Tool and Welcome Letter Bot)
+selenium>=4.0.0  # REQUIRED for web browser automation
+webdriver-manager>=4.0.0  # REQUIRED for automatic Chrome driver management
+
+# AI/ML dependencies (for AI Workflow Trainer)
+openai>=1.0.0  # REQUIRED for GPT API integration in AI Workflow Trainer
+cryptography>=41.0.0  # REQUIRED for secure API key encryption
+
+# NOTE: You also need to install TWO additional components separately:
+# 1. Poppler (for PDF to image conversion):
+#    Download from: https://github.com/oschwartz10612/poppler-windows/releases/
+#    Add to PATH after installation
+# 2. Tesseract OCR (for text recognition):
+#    Download from: https://github.com/tesseract-ocr/tesseract/wiki
+#    Add to PATH during/after installation
+# See OCR_SETUP.md for detailed instructions!
+# The main INSTALL_BOTS.bat will attempt to install these automatically.

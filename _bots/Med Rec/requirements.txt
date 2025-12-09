@@ -1,0 +1,34 @@
+# TherapyNotes Records Bot - Required Dependencies
+# Install with: pip install -r requirements.txt
+#
+# PDF parsing for insurance company requests
+pdfplumber>=0.11.0  # REQUIRED for extracting client name and date range from insurance PDFs
+
+# OCR dependencies (for scanned PDFs)
+pdf2image>=1.17.0  # REQUIRED for converting PDF pages to images for OCR
+pytesseract>=0.3.13  # REQUIRED for OCR text extraction from scanned PDFs
+Pillow>=9.0.0  # REQUIRED for image processing (used by pytesseract and pdf2image)
+
+# Excel/CSV file reading (for processing insurance requests)
+pandas>=2.0.0  # REQUIRED for reading Excel and CSV files
+openpyxl>=3.1.0  # REQUIRED for reading .xlsx Excel files
+
+# Web automation (for TherapyNotes)
+selenium>=4.0.0  # REQUIRED for web browser automation
+webdriver-manager>=4.0.0  # REQUIRED for automatic Chrome driver management
+
+# NOTE: You also need to install TWO additional components separately:
+# 1. Poppler (for PDF to image conversion):
+#    Download from: https://github.com/oschwartz10612/poppler-windows/releases/
+#    Extract and add the Library/bin folder to PATH, or set POPPLER_PATH environment variable
+# 2. Tesseract OCR (for text recognition):
+#    Download from: https://github.com/tesseract-ocr/tesseract/wiki
+#    Install and add to PATH, or set TESSERACT_PATH environment variable
+#    Or use: winget install -e --id UB-Mannheim.TesseractOCR
+#
+# The bot will auto-detect these tools if they are:
+# - In the PATH environment variable
+# - In a vendor/ folder next to the script
+# - In common installation locations (Program Files, etc.)
+# - Set via TESSERACT_PATH and POPPLER_PATH environment variables
+

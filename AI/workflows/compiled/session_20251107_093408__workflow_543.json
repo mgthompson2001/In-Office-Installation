@@ -1,0 +1,118 @@
+{
+  "workflow_key": "session_20251107_093408::workflow_543",
+  "session_id": "session_20251107_093408",
+  "workflow_id": "workflow_543",
+  "workflow_type": "data_entry",
+  "description": "Type: Key.ctrl_l → Type: \u0016 → ... and 2 more actions",
+  "goal": "Goal unclear",
+  "confidence": 0.7,
+  "timestamp": "2025-11-08T10:13:31.915172",
+  "summary": [
+    "Workflow captured from session session_20251107_093408 (data_entry).",
+    "Contains 7 recorded actions with goal: Goal unclear.",
+    "Top intents detected:",
+    "  • Upload (3 steps)",
+    "  • Unknown (3 steps)",
+    "  • Enter Data (1 steps)",
+    "Primary applications involved:",
+    "  • explorer.exe (7 steps)",
+    "Common screens/pages:",
+    "  • Past Logs (Already Extracted and Uploaded) - File Explorer (5 steps)",
+    "  • Cursor versions - File Explorer (2 steps)",
+    "Suggested interpretation:",
+    "  Mixed activity detected; review simulation output for step-by-step context."
+  ],
+  "steps": [
+    {
+      "step_number": 1,
+      "action_id": "screen_2025-11-07T09:37:22.185652",
+      "intent_category": "upload",
+      "intent_description": "User intends to upload",
+      "intent_confidence": 0.4,
+      "contexts": {
+        "application": "explorer.exe",
+        "page": "Past Logs (Already Extracted and Uploaded) - File Explorer",
+        "state": "viewing"
+      },
+      "source_session": "session_20251107_093408"
+    },
+    {
+      "step_number": 2,
+      "action_id": "keyboard_2025-11-07T09:37:22.942719",
+      "intent_category": "unknown",
+      "intent_description": "Intent unclear",
+      "intent_confidence": 0.0,
+      "contexts": {
+        "application": "explorer.exe",
+        "page": "Past Logs (Already Extracted and Uploaded) - File Explorer",
+        "state": "typing"
+      },
+      "source_session": "session_20251107_093408"
+    },
+    {
+      "step_number": 3,
+      "action_id": "screen_2025-11-07T09:37:23.180435",
+      "intent_category": "upload",
+      "intent_description": "User intends to upload",
+      "intent_confidence": 0.4,
+      "contexts": {
+        "application": "explorer.exe",
+        "page": "Past Logs (Already Extracted and Uploaded) - File Explorer",
+        "state": "viewing"
+      },
+      "source_session": "session_20251107_093408"
+    },
+    {
+      "step_number": 4,
+      "action_id": "keyboard_2025-11-07T09:37:23.239268",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "explorer.exe",
+        "page": "Past Logs (Already Extracted and Uploaded) - File Explorer",
+        "state": "typing"
+      },
+      "source_session": "session_20251107_093408"
+    },
+    {
+      "step_number": 5,
+      "action_id": "screen_2025-11-07T09:37:24.215793",
+      "intent_category": "upload",
+      "intent_description": "User intends to upload",
+      "intent_confidence": 0.4,
+      "contexts": {
+        "application": "explorer.exe",
+        "page": "Past Logs (Already Extracted and Uploaded) - File Explorer",
+        "state": "viewing"
+      },
+      "source_session": "session_20251107_093408"
+    },
+    {
+      "step_number": 6,
+      "action_id": "screen_2025-11-07T09:37:25.235226",
+      "intent_category": "unknown",
+      "intent_description": "Intent unclear",
+      "intent_confidence": 0.0,
+      "contexts": {
+        "application": "explorer.exe",
+        "page": "Cursor versions - File Explorer",
+        "state": "viewing"
+      },
+      "source_session": "session_20251107_093408"
+    },
+    {
+      "step_number": 7,
+      "action_id": "screen_2025-11-07T09:37:26.237445",
+      "intent_category": "unknown",
+      "intent_description": "Intent unclear",
+      "intent_confidence": 0.0,
+      "contexts": {
+        "application": "explorer.exe",
+        "page": "Cursor versions - File Explorer",
+        "state": "viewing"
+      },
+      "source_session": "session_20251107_093408"
+    }
+  ]
+}

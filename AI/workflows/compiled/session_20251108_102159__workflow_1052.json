@@ -1,0 +1,37 @@
+{
+  "workflow_key": "session_20251108_102159::workflow_1052",
+  "session_id": "session_20251108_102159",
+  "workflow_id": "workflow_1052",
+  "workflow_type": "interaction",
+  "description": "",
+  "goal": "Goal: create record",
+  "confidence": 0.7,
+  "timestamp": "2025-11-08T10:39:57.771828",
+  "summary": [
+    "Workflow captured from session session_20251108_102159 (interaction).",
+    "Contains 1 recorded actions with goal: Goal: create record.",
+    "Top intents detected:",
+    "  • Unknown (1 steps)",
+    "Primary applications involved:",
+    "  • ShellExperienceHost.exe (1 steps)",
+    "Common screens/pages:",
+    "  • New notification (1 steps)",
+    "Suggested interpretation:",
+    "  Mixed activity detected; review simulation output for step-by-step context."
+  ],
+  "steps": [
+    {
+      "step_number": 1,
+      "action_id": "screen_2025-11-08T10:27:59.349864",
+      "intent_category": "unknown",
+      "intent_description": "Intent unclear",
+      "intent_confidence": 0.0,
+      "contexts": {
+        "application": "ShellExperienceHost.exe",
+        "page": "New notification",
+        "state": "viewing"
+      },
+      "source_session": "session_20251108_102159"
+    }
+  ]
+}

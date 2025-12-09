@@ -1,0 +1,123 @@
+{
+  "workflow_key": "session_20251107_104633::workflow_1467",
+  "session_id": "session_20251107_104633",
+  "workflow_id": "workflow_1467",
+  "workflow_type": "interaction",
+  "description": "... and 2 more actions",
+  "goal": "Goal: therapy notes management",
+  "confidence": 0.7,
+  "timestamp": "2025-11-08T10:02:03.578587",
+  "summary": [
+    "Workflow captured from session session_20251107_104633 (interaction).",
+    "Contains 7 recorded actions with goal: Goal: therapy notes management.",
+    "Top intents detected:",
+    "  • Therapy Notes Navigation (5 steps)",
+    "  • Unknown (2 steps)",
+    "Primary applications involved:",
+    "  • Browser (7 steps)",
+    "Common screens/pages:",
+    "  • Log In | TherapyNotes® - Google Chrome (4 steps)",
+    "  • Untitled - Google Chrome (1 steps)",
+    "  • data:, - Google Chrome (1 steps)",
+    "Suggested interpretation:",
+    "  Mixed activity detected; review simulation output for step-by-step context."
+  ],
+  "steps": [
+    {
+      "step_number": 1,
+      "action_id": "screen_2025-11-07T10:56:31.903973",
+      "intent_category": "unknown",
+      "intent_description": "Intent unclear",
+      "intent_confidence": 0.0,
+      "contexts": {
+        "application": "Browser",
+        "page": "Untitled - Google Chrome",
+        "state": "viewing"
+      },
+      "source_session": "session_20251107_104633"
+    },
+    {
+      "step_number": 2,
+      "action_id": "screen_2025-11-07T10:56:32.944499",
+      "intent_category": "unknown",
+      "intent_description": "Intent unclear",
+      "intent_confidence": 0.0,
+      "contexts": {
+        "application": "Browser",
+        "page": "data:, - Google Chrome",
+        "state": "viewing"
+      },
+      "source_session": "session_20251107_104633"
+    },
+    {
+      "step_number": 3,
+      "action_id": "screen_2025-11-07T10:56:33.982889",
+      "intent_category": "therapy_notes_navigation",
+      "intent_description": "Navigating TherapyNotes",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "Browser",
+        "page": "TherapyNotes® - Google Chrome",
+        "state": "viewing",
+        "task": "Medical Records"
+      },
+      "source_session": "session_20251107_104633"
+    },
+    {
+      "step_number": 4,
+      "action_id": "screen_2025-11-07T10:56:35.044585",
+      "intent_category": "therapy_notes_navigation",
+      "intent_description": "Navigating TherapyNotes",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "Browser",
+        "page": "Log In | TherapyNotes® - Google Chrome",
+        "state": "viewing",
+        "task": "Medical Records"
+      },
+      "source_session": "session_20251107_104633"
+    },
+    {
+      "step_number": 5,
+      "action_id": "screen_2025-11-07T10:56:36.050313",
+      "intent_category": "therapy_notes_navigation",
+      "intent_description": "Navigating TherapyNotes",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "Browser",
+        "page": "Log In | TherapyNotes® - Google Chrome",
+        "state": "viewing",
+        "task": "Medical Records"
+      },
+      "source_session": "session_20251107_104633"
+    },
+    {
+      "step_number": 6,
+      "action_id": "screen_2025-11-07T10:56:37.175338",
+      "intent_category": "therapy_notes_navigation",
+      "intent_description": "Navigating TherapyNotes",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "Browser",
+        "page": "Log In | TherapyNotes® - Google Chrome",
+        "state": "viewing",
+        "task": "Medical Records"
+      },
+      "source_session": "session_20251107_104633"
+    },
+    {
+      "step_number": 7,
+      "action_id": "screen_2025-11-07T10:56:38.176626",
+      "intent_category": "therapy_notes_navigation",
+      "intent_description": "Navigating TherapyNotes",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "Browser",
+        "page": "Log In | TherapyNotes® - Google Chrome",
+        "state": "viewing",
+        "task": "Medical Records"
+      },
+      "source_session": "session_20251107_104633"
+    }
+  ]
+}

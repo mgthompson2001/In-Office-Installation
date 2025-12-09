@@ -1,0 +1,1649 @@
+{
+  "workflow_key": "session_20251106_152015::workflow_715",
+  "session_id": "session_20251106_152015",
+  "workflow_id": "workflow_715",
+  "workflow_type": "interaction",
+  "description": "Click/interact → Click/interact → Click/interact → Click/interact → Click/interact → ... and 120 more actions",
+  "goal": "Executing automation scripts",
+  "confidence": 0.7,
+  "timestamp": "2025-11-07T10:10:45.334121",
+  "summary": [
+    "Workflow captured from session session_20251106_152015 (interaction).",
+    "Contains 125 recorded actions with goal: Executing automation scripts.",
+    "Top intents detected:",
+    "  • Automation Control (125 steps)",
+    "Primary applications involved:",
+    "  • python.exe (125 steps)",
+    "Common screens/pages:",
+    "  • Full System Monitor - Personal Use (125 steps)",
+    "Suggested interpretation:",
+    "  This appears to be a session controlling automation tools (launching bots, monitoring)."
+  ],
+  "steps": [
+    {
+      "step_number": 1,
+      "action_id": "mouse_2025-11-06T15:20:54.487249",
+      "intent_category": "automation_control",
+      "intent_description": "Controlling automation scripts",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "python.exe",
+        "page": "Full System Monitor - Personal Use",
+        "state": "interacting"
+      },
+      "source_session": "session_20251106_152015"
+    },
+    {
+      "step_number": 2,
+      "action_id": "mouse_2025-11-06T15:20:54.502085",
+      "intent_category": "automation_control",
+      "intent_description": "Controlling automation scripts",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "python.exe",
+        "page": "Full System Monitor - Personal Use",
+        "state": "interacting"
+      },
+      "source_session": "session_20251106_152015"
+    },
+    {
+      "step_number": 3,
+      "action_id": "mouse_2025-11-06T15:20:54.525001",
+      "intent_category": "automation_control",
+      "intent_description": "Controlling automation scripts",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "python.exe",
+        "page": "Full System Monitor - Personal Use",
+        "state": "interacting"
+      },
+      "source_session": "session_20251106_152015"
+    },
+    {
+      "step_number": 4,
+      "action_id": "mouse_2025-11-06T15:20:54.551086",
+      "intent_category": "automation_control",
+      "intent_description": "Controlling automation scripts",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "python.exe",
+        "page": "Full System Monitor - Personal Use",
+        "state": "interacting"
+      },
+      "source_session": "session_20251106_152015"
+    },
+    {
+      "step_number": 5,
+      "action_id": "mouse_2025-11-06T15:20:54.576372",
+      "intent_category": "automation_control",
+      "intent_description": "Controlling automation scripts",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "python.exe",
+        "page": "Full System Monitor - Personal Use",
+        "state": "interacting"
+      },
+      "source_session": "session_20251106_152015"
+    },
+    {
+      "step_number": 6,
+      "action_id": "mouse_2025-11-06T15:20:54.609112",
+      "intent_category": "automation_control",
+      "intent_description": "Controlling automation scripts",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "python.exe",
+        "page": "Full System Monitor - Personal Use",
+        "state": "interacting"
+      },
+      "source_session": "session_20251106_152015"
+    },
+    {
+      "step_number": 7,
+      "action_id": "mouse_2025-11-06T15:20:54.652354",
+      "intent_category": "automation_control",
+      "intent_description": "Controlling automation scripts",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "python.exe",
+        "page": "Full System Monitor - Personal Use",
+        "state": "interacting"
+      },
+      "source_session": "session_20251106_152015"
+    },
+    {
+      "step_number": 8,
+      "action_id": "mouse_2025-11-06T15:20:54.727267",
+      "intent_category": "automation_control",
+      "intent_description": "Controlling automation scripts",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "python.exe",
+        "page": "Full System Monitor - Personal Use",
+        "state": "interacting"
+      },
+      "source_session": "session_20251106_152015"
+    },
+    {
+      "step_number": 9,
+      "action_id": "mouse_2025-11-06T15:20:54.760512",
+      "intent_category": "automation_control",
+      "intent_description": "Controlling automation scripts",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "python.exe",
+        "page": "Full System Monitor - Personal Use",
+        "state": "interacting"
+      },
+      "source_session": "session_20251106_152015"
+    },
+    {
+      "step_number": 10,
+      "action_id": "mouse_2025-11-06T15:20:54.806165",
+      "intent_category": "automation_control",
+      "intent_description": "Controlling automation scripts",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "python.exe",
+        "page": "Full System Monitor - Personal Use",
+        "state": "interacting"
+      },
+      "source_session": "session_20251106_152015"
+    },
+    {
+      "step_number": 11,
+      "action_id": "mouse_2025-11-06T15:20:54.868234",
+      "intent_category": "automation_control",
+      "intent_description": "Controlling automation scripts",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "python.exe",
+        "page": "Full System Monitor - Personal Use",
+        "state": "interacting"
+      },
+      "source_session": "session_20251106_152015"
+    },
+    {
+      "step_number": 12,
+      "action_id": "mouse_2025-11-06T15:20:54.933725",
+      "intent_category": "automation_control",
+      "intent_description": "Controlling automation scripts",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "python.exe",
+        "page": "Full System Monitor - Personal Use",
+        "state": "interacting"
+      },
+      "source_session": "session_20251106_152015"
+    },
+    {
+      "step_number": 13,
+      "action_id": "mouse_2025-11-06T15:20:54.994558",
+      "intent_category": "automation_control",
+      "intent_description": "Controlling automation scripts",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "python.exe",
+        "page": "Full System Monitor - Personal Use",
+        "state": "interacting"
+      },
+      "source_session": "session_20251106_152015"
+    },
+    {
+      "step_number": 14,
+      "action_id": "screen_2025-11-06T15:20:55.186444",
+      "intent_category": "automation_control",
+      "intent_description": "Controlling automation scripts",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "python.exe",
+        "page": "Full System Monitor - Personal Use",
+        "state": "viewing"
+      },
+      "source_session": "session_20251106_152015"
+    },
+    {
+      "step_number": 15,
+      "action_id": "mouse_2025-11-06T15:20:55.188337",
+      "intent_category": "automation_control",
+      "intent_description": "Controlling automation scripts",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "python.exe",
+        "page": "Full System Monitor - Personal Use",
+        "state": "interacting"
+      },
+      "source_session": "session_20251106_152015"
+    },
+    {
+      "step_number": 16,
+      "action_id": "mouse_2025-11-06T15:20:55.311172",
+      "intent_category": "automation_control",
+      "intent_description": "Controlling automation scripts",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "python.exe",
+        "page": "Full System Monitor - Personal Use",
+        "state": "interacting"
+      },
+      "source_session": "session_20251106_152015"
+    },
+    {
+      "step_number": 17,
+      "action_id": "mouse_2025-11-06T15:20:55.333750",
+      "intent_category": "automation_control",
+      "intent_description": "Controlling automation scripts",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "python.exe",
+        "page": "Full System Monitor - Personal Use",
+        "state": "interacting"
+      },
+      "source_session": "session_20251106_152015"
+    },
+    {
+      "step_number": 18,
+      "action_id": "mouse_2025-11-06T15:20:55.361219",
+      "intent_category": "automation_control",
+      "intent_description": "Controlling automation scripts",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "python.exe",
+        "page": "Full System Monitor - Personal Use",
+        "state": "interacting"
+      },
+      "source_session": "session_20251106_152015"
+    },
+    {
+      "step_number": 19,
+      "action_id": "mouse_2025-11-06T15:20:55.388920",
+      "intent_category": "automation_control",
+      "intent_description": "Controlling automation scripts",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "python.exe",
+        "page": "Full System Monitor - Personal Use",
+        "state": "interacting"
+      },
+      "source_session": "session_20251106_152015"
+    },
+    {
+      "step_number": 20,
+      "action_id": "mouse_2025-11-06T15:20:55.432565",
+      "intent_category": "automation_control",
+      "intent_description": "Controlling automation scripts",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "python.exe",
+        "page": "Full System Monitor - Personal Use",
+        "state": "interacting"
+      },
+      "source_session": "session_20251106_152015"
+    },
+    {
+      "step_number": 21,
+      "action_id": "mouse_2025-11-06T15:20:55.462442",
+      "intent_category": "automation_control",
+      "intent_description": "Controlling automation scripts",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "python.exe",
+        "page": "Full System Monitor - Personal Use",
+        "state": "interacting"
+      },
+      "source_session": "session_20251106_152015"
+    },
+    {
+      "step_number": 22,
+      "action_id": "mouse_2025-11-06T15:20:55.485581",
+      "intent_category": "automation_control",
+      "intent_description": "Controlling automation scripts",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "python.exe",
+        "page": "Full System Monitor - Personal Use",
+        "state": "interacting"
+      },
+      "source_session": "session_20251106_152015"
+    },
+    {
+      "step_number": 23,
+      "action_id": "mouse_2025-11-06T15:20:55.521959",
+      "intent_category": "automation_control",
+      "intent_description": "Controlling automation scripts",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "python.exe",
+        "page": "Full System Monitor - Personal Use",
+        "state": "interacting"
+      },
+      "source_session": "session_20251106_152015"
+    },
+    {
+      "step_number": 24,
+      "action_id": "mouse_2025-11-06T15:20:55.569593",
+      "intent_category": "automation_control",
+      "intent_description": "Controlling automation scripts",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "python.exe",
+        "page": "Full System Monitor - Personal Use",
+        "state": "interacting"
+      },
+      "source_session": "session_20251106_152015"
+    },
+    {
+      "step_number": 25,
+      "action_id": "mouse_2025-11-06T15:20:55.617329",
+      "intent_category": "automation_control",
+      "intent_description": "Controlling automation scripts",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "python.exe",
+        "page": "Full System Monitor - Personal Use",
+        "state": "interacting"
+      },
+      "source_session": "session_20251106_152015"
+    },
+    {
+      "step_number": 26,
+      "action_id": "mouse_2025-11-06T15:20:55.680024",
+      "intent_category": "automation_control",
+      "intent_description": "Controlling automation scripts",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "python.exe",
+        "page": "Full System Monitor - Personal Use",
+        "state": "interacting"
+      },
+      "source_session": "session_20251106_152015"
+    },
+    {
+      "step_number": 27,
+      "action_id": "mouse_2025-11-06T15:20:55.710667",
+      "intent_category": "automation_control",
+      "intent_description": "Controlling automation scripts",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "python.exe",
+        "page": "Full System Monitor - Personal Use",
+        "state": "interacting"
+      },
+      "source_session": "session_20251106_152015"
+    },
+    {
+      "step_number": 28,
+      "action_id": "mouse_2025-11-06T15:20:55.756999",
+      "intent_category": "automation_control",
+      "intent_description": "Controlling automation scripts",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "python.exe",
+        "page": "Full System Monitor - Personal Use",
+        "state": "interacting"
+      },
+      "source_session": "session_20251106_152015"
+    },
+    {
+      "step_number": 29,
+      "action_id": "mouse_2025-11-06T15:20:55.817376",
+      "intent_category": "automation_control",
+      "intent_description": "Controlling automation scripts",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "python.exe",
+        "page": "Full System Monitor - Personal Use",
+        "state": "interacting"
+      },
+      "source_session": "session_20251106_152015"
+    },
+    {
+      "step_number": 30,
+      "action_id": "mouse_2025-11-06T15:20:55.865658",
+      "intent_category": "automation_control",
+      "intent_description": "Controlling automation scripts",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "python.exe",
+        "page": "Full System Monitor - Personal Use",
+        "state": "interacting"
+      },
+      "source_session": "session_20251106_152015"
+    },
+    {
+      "step_number": 31,
+      "action_id": "mouse_2025-11-06T15:20:55.907481",
+      "intent_category": "automation_control",
+      "intent_description": "Controlling automation scripts",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "python.exe",
+        "page": "Full System Monitor - Personal Use",
+        "state": "interacting"
+      },
+      "source_session": "session_20251106_152015"
+    },
+    {
+      "step_number": 32,
+      "action_id": "mouse_2025-11-06T15:20:55.982834",
+      "intent_category": "automation_control",
+      "intent_description": "Controlling automation scripts",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "python.exe",
+        "page": "Full System Monitor - Personal Use",
+        "state": "interacting"
+      },
+      "source_session": "session_20251106_152015"
+    },
+    {
+      "step_number": 33,
+      "action_id": "mouse_2025-11-06T15:20:56.014960",
+      "intent_category": "automation_control",
+      "intent_description": "Controlling automation scripts",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "python.exe",
+        "page": "Full System Monitor - Personal Use",
+        "state": "interacting"
+      },
+      "source_session": "session_20251106_152015"
+    },
+    {
+      "step_number": 34,
+      "action_id": "mouse_2025-11-06T15:20:56.044007",
+      "intent_category": "automation_control",
+      "intent_description": "Controlling automation scripts",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "python.exe",
+        "page": "Full System Monitor - Personal Use",
+        "state": "interacting"
+      },
+      "source_session": "session_20251106_152015"
+    },
+    {
+      "step_number": 35,
+      "action_id": "mouse_2025-11-06T15:20:56.089993",
+      "intent_category": "automation_control",
+      "intent_description": "Controlling automation scripts",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "python.exe",
+        "page": "Full System Monitor - Personal Use",
+        "state": "interacting"
+      },
+      "source_session": "session_20251106_152015"
+    },
+    {
+      "step_number": 36,
+      "action_id": "mouse_2025-11-06T15:20:56.120510",
+      "intent_category": "automation_control",
+      "intent_description": "Controlling automation scripts",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "python.exe",
+        "page": "Full System Monitor - Personal Use",
+        "state": "interacting"
+      },
+      "source_session": "session_20251106_152015"
+    },
+    {
+      "step_number": 37,
+      "action_id": "mouse_2025-11-06T15:20:56.151206",
+      "intent_category": "automation_control",
+      "intent_description": "Controlling automation scripts",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "python.exe",
+        "page": "Full System Monitor - Personal Use",
+        "state": "interacting"
+      },
+      "source_session": "session_20251106_152015"
+    },
+    {
+      "step_number": 38,
+      "action_id": "mouse_2025-11-06T15:20:56.183703",
+      "intent_category": "automation_control",
+      "intent_description": "Controlling automation scripts",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "python.exe",
+        "page": "Full System Monitor - Personal Use",
+        "state": "interacting"
+      },
+      "source_session": "session_20251106_152015"
+    },
+    {
+      "step_number": 39,
+      "action_id": "screen_2025-11-06T15:20:56.207774",
+      "intent_category": "automation_control",
+      "intent_description": "Controlling automation scripts",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "python.exe",
+        "page": "Full System Monitor - Personal Use",
+        "state": "viewing"
+      },
+      "source_session": "session_20251106_152015"
+    },
+    {
+      "step_number": 40,
+      "action_id": "mouse_2025-11-06T15:20:56.232505",
+      "intent_category": "automation_control",
+      "intent_description": "Controlling automation scripts",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "python.exe",
+        "page": "Full System Monitor - Personal Use",
+        "state": "interacting"
+      },
+      "source_session": "session_20251106_152015"
+    },
+    {
+      "step_number": 41,
+      "action_id": "mouse_2025-11-06T15:20:56.286892",
+      "intent_category": "automation_control",
+      "intent_description": "Controlling automation scripts",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "python.exe",
+        "page": "Full System Monitor - Personal Use",
+        "state": "interacting"
+      },
+      "source_session": "session_20251106_152015"
+    },
+    {
+      "step_number": 42,
+      "action_id": "mouse_2025-11-06T15:20:56.314762",
+      "intent_category": "automation_control",
+      "intent_description": "Controlling automation scripts",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "python.exe",
+        "page": "Full System Monitor - Personal Use",
+        "state": "interacting"
+      },
+      "source_session": "session_20251106_152015"
+    },
+    {
+      "step_number": 43,
+      "action_id": "mouse_2025-11-06T15:20:56.344428",
+      "intent_category": "automation_control",
+      "intent_description": "Controlling automation scripts",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "python.exe",
+        "page": "Full System Monitor - Personal Use",
+        "state": "interacting"
+      },
+      "source_session": "session_20251106_152015"
+    },
+    {
+      "step_number": 44,
+      "action_id": "mouse_2025-11-06T15:20:56.373107",
+      "intent_category": "automation_control",
+      "intent_description": "Controlling automation scripts",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "python.exe",
+        "page": "Full System Monitor - Personal Use",
+        "state": "interacting"
+      },
+      "source_session": "session_20251106_152015"
+    },
+    {
+      "step_number": 45,
+      "action_id": "mouse_2025-11-06T15:20:56.401812",
+      "intent_category": "automation_control",
+      "intent_description": "Controlling automation scripts",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "python.exe",
+        "page": "Full System Monitor - Personal Use",
+        "state": "interacting"
+      },
+      "source_session": "session_20251106_152015"
+    },
+    {
+      "step_number": 46,
+      "action_id": "mouse_2025-11-06T15:20:56.447748",
+      "intent_category": "automation_control",
+      "intent_description": "Controlling automation scripts",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "python.exe",
+        "page": "Full System Monitor - Personal Use",
+        "state": "interacting"
+      },
+      "source_session": "session_20251106_152015"
+    },
+    {
+      "step_number": 47,
+      "action_id": "mouse_2025-11-06T15:20:56.491730",
+      "intent_category": "automation_control",
+      "intent_description": "Controlling automation scripts",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "python.exe",
+        "page": "Full System Monitor - Personal Use",
+        "state": "interacting"
+      },
+      "source_session": "session_20251106_152015"
+    },
+    {
+      "step_number": 48,
+      "action_id": "mouse_2025-11-06T15:20:56.537273",
+      "intent_category": "automation_control",
+      "intent_description": "Controlling automation scripts",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "python.exe",
+        "page": "Full System Monitor - Personal Use",
+        "state": "interacting"
+      },
+      "source_session": "session_20251106_152015"
+    },
+    {
+      "step_number": 49,
+      "action_id": "mouse_2025-11-06T15:20:56.564689",
+      "intent_category": "automation_control",
+      "intent_description": "Controlling automation scripts",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "python.exe",
+        "page": "Full System Monitor - Personal Use",
+        "state": "interacting"
+      },
+      "source_session": "session_20251106_152015"
+    },
+    {
+      "step_number": 50,
+      "action_id": "mouse_2025-11-06T15:20:56.606574",
+      "intent_category": "automation_control",
+      "intent_description": "Controlling automation scripts",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "python.exe",
+        "page": "Full System Monitor - Personal Use",
+        "state": "interacting"
+      },
+      "source_session": "session_20251106_152015"
+    },
+    {
+      "step_number": 51,
+      "action_id": "mouse_2025-11-06T15:20:56.633377",
+      "intent_category": "automation_control",
+      "intent_description": "Controlling automation scripts",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "python.exe",
+        "page": "Full System Monitor - Personal Use",
+        "state": "interacting"
+      },
+      "source_session": "session_20251106_152015"
+    },
+    {
+      "step_number": 52,
+      "action_id": "mouse_2025-11-06T15:20:56.678049",
+      "intent_category": "automation_control",
+      "intent_description": "Controlling automation scripts",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "python.exe",
+        "page": "Full System Monitor - Personal Use",
+        "state": "interacting"
+      },
+      "source_session": "session_20251106_152015"
+    },
+    {
+      "step_number": 53,
+      "action_id": "mouse_2025-11-06T15:20:56.709062",
+      "intent_category": "automation_control",
+      "intent_description": "Controlling automation scripts",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "python.exe",
+        "page": "Full System Monitor - Personal Use",
+        "state": "interacting"
+      },
+      "source_session": "session_20251106_152015"
+    },
+    {
+      "step_number": 54,
+      "action_id": "mouse_2025-11-06T15:20:56.752604",
+      "intent_category": "automation_control",
+      "intent_description": "Controlling automation scripts",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "python.exe",
+        "page": "Full System Monitor - Personal Use",
+        "state": "interacting"
+      },
+      "source_session": "session_20251106_152015"
+    },
+    {
+      "step_number": 55,
+      "action_id": "mouse_2025-11-06T15:20:56.781662",
+      "intent_category": "automation_control",
+      "intent_description": "Controlling automation scripts",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "python.exe",
+        "page": "Full System Monitor - Personal Use",
+        "state": "interacting"
+      },
+      "source_session": "session_20251106_152015"
+    },
+    {
+      "step_number": 56,
+      "action_id": "mouse_2025-11-06T15:20:56.809380",
+      "intent_category": "automation_control",
+      "intent_description": "Controlling automation scripts",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "python.exe",
+        "page": "Full System Monitor - Personal Use",
+        "state": "interacting"
+      },
+      "source_session": "session_20251106_152015"
+    },
+    {
+      "step_number": 57,
+      "action_id": "mouse_2025-11-06T15:20:56.838046",
+      "intent_category": "automation_control",
+      "intent_description": "Controlling automation scripts",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "python.exe",
+        "page": "Full System Monitor - Personal Use",
+        "state": "interacting"
+      },
+      "source_session": "session_20251106_152015"
+    },
+    {
+      "step_number": 58,
+      "action_id": "mouse_2025-11-06T15:20:56.868598",
+      "intent_category": "automation_control",
+      "intent_description": "Controlling automation scripts",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "python.exe",
+        "page": "Full System Monitor - Personal Use",
+        "state": "interacting"
+      },
+      "source_session": "session_20251106_152015"
+    },
+    {
+      "step_number": 59,
+      "action_id": "mouse_2025-11-06T15:20:56.931147",
+      "intent_category": "automation_control",
+      "intent_description": "Controlling automation scripts",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "python.exe",
+        "page": "Full System Monitor - Personal Use",
+        "state": "interacting"
+      },
+      "source_session": "session_20251106_152015"
+    },
+    {
+      "step_number": 60,
+      "action_id": "mouse_2025-11-06T15:20:56.962050",
+      "intent_category": "automation_control",
+      "intent_description": "Controlling automation scripts",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "python.exe",
+        "page": "Full System Monitor - Personal Use",
+        "state": "interacting"
+      },
+      "source_session": "session_20251106_152015"
+    },
+    {
+      "step_number": 61,
+      "action_id": "mouse_2025-11-06T15:20:57.005735",
+      "intent_category": "automation_control",
+      "intent_description": "Controlling automation scripts",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "python.exe",
+        "page": "Full System Monitor - Personal Use",
+        "state": "interacting"
+      },
+      "source_session": "session_20251106_152015"
+    },
+    {
+      "step_number": 62,
+      "action_id": "mouse_2025-11-06T15:20:57.038682",
+      "intent_category": "automation_control",
+      "intent_description": "Controlling automation scripts",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "python.exe",
+        "page": "Full System Monitor - Personal Use",
+        "state": "interacting"
+      },
+      "source_session": "session_20251106_152015"
+    },
+    {
+      "step_number": 63,
+      "action_id": "mouse_2025-11-06T15:20:57.101088",
+      "intent_category": "automation_control",
+      "intent_description": "Controlling automation scripts",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "python.exe",
+        "page": "Full System Monitor - Personal Use",
+        "state": "interacting"
+      },
+      "source_session": "session_20251106_152015"
+    },
+    {
+      "step_number": 64,
+      "action_id": "mouse_2025-11-06T15:20:57.129201",
+      "intent_category": "automation_control",
+      "intent_description": "Controlling automation scripts",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "python.exe",
+        "page": "Full System Monitor - Personal Use",
+        "state": "interacting"
+      },
+      "source_session": "session_20251106_152015"
+    },
+    {
+      "step_number": 65,
+      "action_id": "screen_2025-11-06T15:20:57.239288",
+      "intent_category": "automation_control",
+      "intent_description": "Controlling automation scripts",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "python.exe",
+        "page": "Full System Monitor - Personal Use",
+        "state": "viewing"
+      },
+      "source_session": "session_20251106_152015"
+    },
+    {
+      "step_number": 66,
+      "action_id": "mouse_2025-11-06T15:20:57.519987",
+      "intent_category": "automation_control",
+      "intent_description": "Controlling automation scripts",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "python.exe",
+        "page": "Full System Monitor - Personal Use",
+        "state": "interacting"
+      },
+      "source_session": "session_20251106_152015"
+    },
+    {
+      "step_number": 67,
+      "action_id": "mouse_2025-11-06T15:20:57.556423",
+      "intent_category": "automation_control",
+      "intent_description": "Controlling automation scripts",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "python.exe",
+        "page": "Full System Monitor - Personal Use",
+        "state": "interacting"
+      },
+      "source_session": "session_20251106_152015"
+    },
+    {
+      "step_number": 68,
+      "action_id": "mouse_2025-11-06T15:20:57.591196",
+      "intent_category": "automation_control",
+      "intent_description": "Controlling automation scripts",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "python.exe",
+        "page": "Full System Monitor - Personal Use",
+        "state": "interacting"
+      },
+      "source_session": "session_20251106_152015"
+    },
+    {
+      "step_number": 69,
+      "action_id": "mouse_2025-11-06T15:20:57.631514",
+      "intent_category": "automation_control",
+      "intent_description": "Controlling automation scripts",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "python.exe",
+        "page": "Full System Monitor - Personal Use",
+        "state": "interacting"
+      },
+      "source_session": "session_20251106_152015"
+    },
+    {
+      "step_number": 70,
+      "action_id": "mouse_2025-11-06T15:20:57.659329",
+      "intent_category": "automation_control",
+      "intent_description": "Controlling automation scripts",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "python.exe",
+        "page": "Full System Monitor - Personal Use",
+        "state": "interacting"
+      },
+      "source_session": "session_20251106_152015"
+    },
+    {
+      "step_number": 71,
+      "action_id": "mouse_2025-11-06T15:20:57.690977",
+      "intent_category": "automation_control",
+      "intent_description": "Controlling automation scripts",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "python.exe",
+        "page": "Full System Monitor - Personal Use",
+        "state": "interacting"
+      },
+      "source_session": "session_20251106_152015"
+    },
+    {
+      "step_number": 72,
+      "action_id": "mouse_2025-11-06T15:20:57.767106",
+      "intent_category": "automation_control",
+      "intent_description": "Controlling automation scripts",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "python.exe",
+        "page": "Full System Monitor - Personal Use",
+        "state": "interacting"
+      },
+      "source_session": "session_20251106_152015"
+    },
+    {
+      "step_number": 73,
+      "action_id": "mouse_2025-11-06T15:20:57.794042",
+      "intent_category": "automation_control",
+      "intent_description": "Controlling automation scripts",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "python.exe",
+        "page": "Full System Monitor - Personal Use",
+        "state": "interacting"
+      },
+      "source_session": "session_20251106_152015"
+    },
+    {
+      "step_number": 74,
+      "action_id": "mouse_2025-11-06T15:20:57.827338",
+      "intent_category": "automation_control",
+      "intent_description": "Controlling automation scripts",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "python.exe",
+        "page": "Full System Monitor - Personal Use",
+        "state": "interacting"
+      },
+      "source_session": "session_20251106_152015"
+    },
+    {
+      "step_number": 75,
+      "action_id": "mouse_2025-11-06T15:20:57.853554",
+      "intent_category": "automation_control",
+      "intent_description": "Controlling automation scripts",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "python.exe",
+        "page": "Full System Monitor - Personal Use",
+        "state": "interacting"
+      },
+      "source_session": "session_20251106_152015"
+    },
+    {
+      "step_number": 76,
+      "action_id": "mouse_2025-11-06T15:20:57.895102",
+      "intent_category": "automation_control",
+      "intent_description": "Controlling automation scripts",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "python.exe",
+        "page": "Full System Monitor - Personal Use",
+        "state": "interacting"
+      },
+      "source_session": "session_20251106_152015"
+    },
+    {
+      "step_number": 77,
+      "action_id": "mouse_2025-11-06T15:20:57.915113",
+      "intent_category": "automation_control",
+      "intent_description": "Controlling automation scripts",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "python.exe",
+        "page": "Full System Monitor - Personal Use",
+        "state": "interacting"
+      },
+      "source_session": "session_20251106_152015"
+    },
+    {
+      "step_number": 78,
+      "action_id": "mouse_2025-11-06T15:20:57.949571",
+      "intent_category": "automation_control",
+      "intent_description": "Controlling automation scripts",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "python.exe",
+        "page": "Full System Monitor - Personal Use",
+        "state": "interacting"
+      },
+      "source_session": "session_20251106_152015"
+    },
+    {
+      "step_number": 79,
+      "action_id": "mouse_2025-11-06T15:20:57.982077",
+      "intent_category": "automation_control",
+      "intent_description": "Controlling automation scripts",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "python.exe",
+        "page": "Full System Monitor - Personal Use",
+        "state": "interacting"
+      },
+      "source_session": "session_20251106_152015"
+    },
+    {
+      "step_number": 80,
+      "action_id": "mouse_2025-11-06T15:20:58.015883",
+      "intent_category": "automation_control",
+      "intent_description": "Controlling automation scripts",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "python.exe",
+        "page": "Full System Monitor - Personal Use",
+        "state": "interacting"
+      },
+      "source_session": "session_20251106_152015"
+    },
+    {
+      "step_number": 81,
+      "action_id": "mouse_2025-11-06T15:20:58.049476",
+      "intent_category": "automation_control",
+      "intent_description": "Controlling automation scripts",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "python.exe",
+        "page": "Full System Monitor - Personal Use",
+        "state": "interacting"
+      },
+      "source_session": "session_20251106_152015"
+    },
+    {
+      "step_number": 82,
+      "action_id": "mouse_2025-11-06T15:20:58.081698",
+      "intent_category": "automation_control",
+      "intent_description": "Controlling automation scripts",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "python.exe",
+        "page": "Full System Monitor - Personal Use",
+        "state": "interacting"
+      },
+      "source_session": "session_20251106_152015"
+    },
+    {
+      "step_number": 83,
+      "action_id": "mouse_2025-11-06T15:20:58.115795",
+      "intent_category": "automation_control",
+      "intent_description": "Controlling automation scripts",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "python.exe",
+        "page": "Full System Monitor - Personal Use",
+        "state": "interacting"
+      },
+      "source_session": "session_20251106_152015"
+    },
+    {
+      "step_number": 84,
+      "action_id": "mouse_2025-11-06T15:20:58.151923",
+      "intent_category": "automation_control",
+      "intent_description": "Controlling automation scripts",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "python.exe",
+        "page": "Full System Monitor - Personal Use",
+        "state": "interacting"
+      },
+      "source_session": "session_20251106_152015"
+    },
+    {
+      "step_number": 85,
+      "action_id": "mouse_2025-11-06T15:20:58.200656",
+      "intent_category": "automation_control",
+      "intent_description": "Controlling automation scripts",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "python.exe",
+        "page": "Full System Monitor - Personal Use",
+        "state": "interacting"
+      },
+      "source_session": "session_20251106_152015"
+    },
+    {
+      "step_number": 86,
+      "action_id": "mouse_2025-11-06T15:20:58.230563",
+      "intent_category": "automation_control",
+      "intent_description": "Controlling automation scripts",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "python.exe",
+        "page": "Full System Monitor - Personal Use",
+        "state": "interacting"
+      },
+      "source_session": "session_20251106_152015"
+    },
+    {
+      "step_number": 87,
+      "action_id": "screen_2025-11-06T15:20:58.278178",
+      "intent_category": "automation_control",
+      "intent_description": "Controlling automation scripts",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "python.exe",
+        "page": "Full System Monitor - Personal Use",
+        "state": "viewing"
+      },
+      "source_session": "session_20251106_152015"
+    },
+    {
+      "step_number": 88,
+      "action_id": "mouse_2025-11-06T15:20:58.296875",
+      "intent_category": "automation_control",
+      "intent_description": "Controlling automation scripts",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "python.exe",
+        "page": "Full System Monitor - Personal Use",
+        "state": "interacting"
+      },
+      "source_session": "session_20251106_152015"
+    },
+    {
+      "step_number": 89,
+      "action_id": "mouse_2025-11-06T15:20:58.367145",
+      "intent_category": "automation_control",
+      "intent_description": "Controlling automation scripts",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "python.exe",
+        "page": "Full System Monitor - Personal Use",
+        "state": "interacting"
+      },
+      "source_session": "session_20251106_152015"
+    },
+    {
+      "step_number": 90,
+      "action_id": "mouse_2025-11-06T15:20:58.400409",
+      "intent_category": "automation_control",
+      "intent_description": "Controlling automation scripts",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "python.exe",
+        "page": "Full System Monitor - Personal Use",
+        "state": "interacting"
+      },
+      "source_session": "session_20251106_152015"
+    },
+    {
+      "step_number": 91,
+      "action_id": "mouse_2025-11-06T15:20:58.431001",
+      "intent_category": "automation_control",
+      "intent_description": "Controlling automation scripts",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "python.exe",
+        "page": "Full System Monitor - Personal Use",
+        "state": "interacting"
+      },
+      "source_session": "session_20251106_152015"
+    },
+    {
+      "step_number": 92,
+      "action_id": "mouse_2025-11-06T15:20:58.490851",
+      "intent_category": "automation_control",
+      "intent_description": "Controlling automation scripts",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "python.exe",
+        "page": "Full System Monitor - Personal Use",
+        "state": "interacting"
+      },
+      "source_session": "session_20251106_152015"
+    },
+    {
+      "step_number": 93,
+      "action_id": "mouse_2025-11-06T15:20:58.552004",
+      "intent_category": "automation_control",
+      "intent_description": "Controlling automation scripts",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "python.exe",
+        "page": "Full System Monitor - Personal Use",
+        "state": "interacting"
+      },
+      "source_session": "session_20251106_152015"
+    },
+    {
+      "step_number": 94,
+      "action_id": "mouse_2025-11-06T15:20:58.580502",
+      "intent_category": "automation_control",
+      "intent_description": "Controlling automation scripts",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "python.exe",
+        "page": "Full System Monitor - Personal Use",
+        "state": "interacting"
+      },
+      "source_session": "session_20251106_152015"
+    },
+    {
+      "step_number": 95,
+      "action_id": "mouse_2025-11-06T15:20:58.607245",
+      "intent_category": "automation_control",
+      "intent_description": "Controlling automation scripts",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "python.exe",
+        "page": "Full System Monitor - Personal Use",
+        "state": "interacting"
+      },
+      "source_session": "session_20251106_152015"
+    },
+    {
+      "step_number": 96,
+      "action_id": "mouse_2025-11-06T15:20:58.651743",
+      "intent_category": "automation_control",
+      "intent_description": "Controlling automation scripts",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "python.exe",
+        "page": "Full System Monitor - Personal Use",
+        "state": "interacting"
+      },
+      "source_session": "session_20251106_152015"
+    },
+    {
+      "step_number": 97,
+      "action_id": "mouse_2025-11-06T15:20:58.697161",
+      "intent_category": "automation_control",
+      "intent_description": "Controlling automation scripts",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "python.exe",
+        "page": "Full System Monitor - Personal Use",
+        "state": "interacting"
+      },
+      "source_session": "session_20251106_152015"
+    },
+    {
+      "step_number": 98,
+      "action_id": "mouse_2025-11-06T15:20:58.741861",
+      "intent_category": "automation_control",
+      "intent_description": "Controlling automation scripts",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "python.exe",
+        "page": "Full System Monitor - Personal Use",
+        "state": "interacting"
+      },
+      "source_session": "session_20251106_152015"
+    },
+    {
+      "step_number": 99,
+      "action_id": "mouse_2025-11-06T15:20:58.927096",
+      "intent_category": "automation_control",
+      "intent_description": "Controlling automation scripts",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "python.exe",
+        "page": "Full System Monitor - Personal Use",
+        "state": "interacting"
+      },
+      "source_session": "session_20251106_152015"
+    },
+    {
+      "step_number": 100,
+      "action_id": "mouse_2025-11-06T15:20:58.944943",
+      "intent_category": "automation_control",
+      "intent_description": "Controlling automation scripts",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "python.exe",
+        "page": "Full System Monitor - Personal Use",
+        "state": "interacting"
+      },
+      "source_session": "session_20251106_152015"
+    },
+    {
+      "step_number": 101,
+      "action_id": "mouse_2025-11-06T15:20:58.988826",
+      "intent_category": "automation_control",
+      "intent_description": "Controlling automation scripts",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "python.exe",
+        "page": "Full System Monitor - Personal Use",
+        "state": "interacting"
+      },
+      "source_session": "session_20251106_152015"
+    },
+    {
+      "step_number": 102,
+      "action_id": "mouse_2025-11-06T15:20:59.033630",
+      "intent_category": "automation_control",
+      "intent_description": "Controlling automation scripts",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "python.exe",
+        "page": "Full System Monitor - Personal Use",
+        "state": "interacting"
+      },
+      "source_session": "session_20251106_152015"
+    },
+    {
+      "step_number": 103,
+      "action_id": "mouse_2025-11-06T15:20:59.062262",
+      "intent_category": "automation_control",
+      "intent_description": "Controlling automation scripts",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "python.exe",
+        "page": "Full System Monitor - Personal Use",
+        "state": "interacting"
+      },
+      "source_session": "session_20251106_152015"
+    },
+    {
+      "step_number": 104,
+      "action_id": "mouse_2025-11-06T15:20:59.111081",
+      "intent_category": "automation_control",
+      "intent_description": "Controlling automation scripts",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "python.exe",
+        "page": "Full System Monitor - Personal Use",
+        "state": "interacting"
+      },
+      "source_session": "session_20251106_152015"
+    },
+    {
+      "step_number": 105,
+      "action_id": "mouse_2025-11-06T15:20:59.138741",
+      "intent_category": "automation_control",
+      "intent_description": "Controlling automation scripts",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "python.exe",
+        "page": "Full System Monitor - Personal Use",
+        "state": "interacting"
+      },
+      "source_session": "session_20251106_152015"
+    },
+    {
+      "step_number": 106,
+      "action_id": "mouse_2025-11-06T15:20:59.163152",
+      "intent_category": "automation_control",
+      "intent_description": "Controlling automation scripts",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "python.exe",
+        "page": "Full System Monitor - Personal Use",
+        "state": "interacting"
+      },
+      "source_session": "session_20251106_152015"
+    },
+    {
+      "step_number": 107,
+      "action_id": "mouse_2025-11-06T15:20:59.200054",
+      "intent_category": "automation_control",
+      "intent_description": "Controlling automation scripts",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "python.exe",
+        "page": "Full System Monitor - Personal Use",
+        "state": "interacting"
+      },
+      "source_session": "session_20251106_152015"
+    },
+    {
+      "step_number": 108,
+      "action_id": "mouse_2025-11-06T15:20:59.227616",
+      "intent_category": "automation_control",
+      "intent_description": "Controlling automation scripts",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "python.exe",
+        "page": "Full System Monitor - Personal Use",
+        "state": "interacting"
+      },
+      "source_session": "session_20251106_152015"
+    },
+    {
+      "step_number": 109,
+      "action_id": "mouse_2025-11-06T15:20:59.269466",
+      "intent_category": "automation_control",
+      "intent_description": "Controlling automation scripts",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "python.exe",
+        "page": "Full System Monitor - Personal Use",
+        "state": "interacting"
+      },
+      "source_session": "session_20251106_152015"
+    },
+    {
+      "step_number": 110,
+      "action_id": "screen_2025-11-06T15:20:59.325335",
+      "intent_category": "automation_control",
+      "intent_description": "Controlling automation scripts",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "python.exe",
+        "page": "Full System Monitor - Personal Use",
+        "state": "viewing"
+      },
+      "source_session": "session_20251106_152015"
+    },
+    {
+      "step_number": 111,
+      "action_id": "mouse_2025-11-06T15:20:59.347977",
+      "intent_category": "automation_control",
+      "intent_description": "Controlling automation scripts",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "python.exe",
+        "page": "Full System Monitor - Personal Use",
+        "state": "interacting"
+      },
+      "source_session": "session_20251106_152015"
+    },
+    {
+      "step_number": 112,
+      "action_id": "mouse_2025-11-06T15:20:59.459638",
+      "intent_category": "automation_control",
+      "intent_description": "Controlling automation scripts",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "python.exe",
+        "page": "Full System Monitor - Personal Use",
+        "state": "interacting"
+      },
+      "source_session": "session_20251106_152015"
+    },
+    {
+      "step_number": 113,
+      "action_id": "mouse_2025-11-06T15:20:59.504072",
+      "intent_category": "automation_control",
+      "intent_description": "Controlling automation scripts",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "python.exe",
+        "page": "Full System Monitor - Personal Use",
+        "state": "interacting"
+      },
+      "source_session": "session_20251106_152015"
+    },
+    {
+      "step_number": 114,
+      "action_id": "mouse_2025-11-06T15:20:59.548556",
+      "intent_category": "automation_control",
+      "intent_description": "Controlling automation scripts",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "python.exe",
+        "page": "Full System Monitor - Personal Use",
+        "state": "interacting"
+      },
+      "source_session": "session_20251106_152015"
+    },
+    {
+      "step_number": 115,
+      "action_id": "mouse_2025-11-06T15:20:59.595017",
+      "intent_category": "automation_control",
+      "intent_description": "Controlling automation scripts",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "python.exe",
+        "page": "Full System Monitor - Personal Use",
+        "state": "interacting"
+      },
+      "source_session": "session_20251106_152015"
+    },
+    {
+      "step_number": 116,
+      "action_id": "mouse_2025-11-06T15:20:59.635157",
+      "intent_category": "automation_control",
+      "intent_description": "Controlling automation scripts",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "python.exe",
+        "page": "Full System Monitor - Personal Use",
+        "state": "interacting"
+      },
+      "source_session": "session_20251106_152015"
+    },
+    {
+      "step_number": 117,
+      "action_id": "mouse_2025-11-06T15:20:59.671295",
+      "intent_category": "automation_control",
+      "intent_description": "Controlling automation scripts",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "python.exe",
+        "page": "Full System Monitor - Personal Use",
+        "state": "interacting"
+      },
+      "source_session": "session_20251106_152015"
+    },
+    {
+      "step_number": 118,
+      "action_id": "mouse_2025-11-06T15:20:59.725432",
+      "intent_category": "automation_control",
+      "intent_description": "Controlling automation scripts",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "python.exe",
+        "page": "Full System Monitor - Personal Use",
+        "state": "interacting"
+      },
+      "source_session": "session_20251106_152015"
+    },
+    {
+      "step_number": 119,
+      "action_id": "mouse_2025-11-06T15:20:59.785554",
+      "intent_category": "automation_control",
+      "intent_description": "Controlling automation scripts",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "python.exe",
+        "page": "Full System Monitor - Personal Use",
+        "state": "interacting"
+      },
+      "source_session": "session_20251106_152015"
+    },
+    {
+      "step_number": 120,
+      "action_id": "mouse_2025-11-06T15:20:59.844547",
+      "intent_category": "automation_control",
+      "intent_description": "Controlling automation scripts",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "python.exe",
+        "page": "Full System Monitor - Personal Use",
+        "state": "interacting"
+      },
+      "source_session": "session_20251106_152015"
+    },
+    {
+      "step_number": 121,
+      "action_id": "mouse_2025-11-06T15:20:59.889157",
+      "intent_category": "automation_control",
+      "intent_description": "Controlling automation scripts",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "python.exe",
+        "page": "Full System Monitor - Personal Use",
+        "state": "interacting"
+      },
+      "source_session": "session_20251106_152015"
+    },
+    {
+      "step_number": 122,
+      "action_id": "mouse_2025-11-06T15:20:59.934416",
+      "intent_category": "automation_control",
+      "intent_description": "Controlling automation scripts",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "python.exe",
+        "page": "Full System Monitor - Personal Use",
+        "state": "interacting"
+      },
+      "source_session": "session_20251106_152015"
+    },
+    {
+      "step_number": 123,
+      "action_id": "mouse_2025-11-06T15:20:59.978564",
+      "intent_category": "automation_control",
+      "intent_description": "Controlling automation scripts",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "python.exe",
+        "page": "Full System Monitor - Personal Use",
+        "state": "interacting"
+      },
+      "source_session": "session_20251106_152015"
+    },
+    {
+      "step_number": 124,
+      "action_id": "mouse_2025-11-06T15:21:00.135263",
+      "intent_category": "automation_control",
+      "intent_description": "Controlling automation scripts",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "python.exe",
+        "page": "Full System Monitor - Personal Use",
+        "state": "interacting"
+      },
+      "source_session": "session_20251106_152015"
+    },
+    {
+      "step_number": 125,
+      "action_id": "mouse_2025-11-06T15:21:00.231179",
+      "intent_category": "automation_control",
+      "intent_description": "Controlling automation scripts",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "python.exe",
+        "page": "Full System Monitor - Personal Use",
+        "state": "interacting"
+      },
+      "source_session": "session_20251106_152015"
+    }
+  ]
+}

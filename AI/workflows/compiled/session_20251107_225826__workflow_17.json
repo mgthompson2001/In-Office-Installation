@@ -1,0 +1,70 @@
+{
+  "workflow_key": "session_20251107_225826::workflow_17",
+  "session_id": "session_20251107_225826",
+  "workflow_id": "workflow_17",
+  "workflow_type": "interaction",
+  "description": "Click/interact → Click/interact",
+  "goal": "Goal unclear",
+  "confidence": 0.7,
+  "timestamp": "2025-11-08T10:01:57.117541",
+  "summary": [
+    "Workflow captured from session session_20251107_225826 (interaction).",
+    "Contains 4 recorded actions with goal: Goal unclear.",
+    "Top intents detected:",
+    "  • Unknown (4 steps)",
+    "Primary applications involved:",
+    "  • explorer.exe (4 steps)",
+    "Suggested interpretation:",
+    "  Mixed activity detected; review simulation output for step-by-step context."
+  ],
+  "steps": [
+    {
+      "step_number": 1,
+      "action_id": "screen_2025-11-07T22:58:32.857324",
+      "intent_category": "unknown",
+      "intent_description": "Intent unclear",
+      "intent_confidence": 0.0,
+      "contexts": {
+        "application": "explorer.exe",
+        "state": "viewing"
+      },
+      "source_session": "session_20251107_225826"
+    },
+    {
+      "step_number": 2,
+      "action_id": "screen_2025-11-07T22:58:33.915816",
+      "intent_category": "unknown",
+      "intent_description": "Intent unclear",
+      "intent_confidence": 0.0,
+      "contexts": {
+        "application": "explorer.exe",
+        "state": "viewing"
+      },
+      "source_session": "session_20251107_225826"
+    },
+    {
+      "step_number": 3,
+      "action_id": "mouse_2025-11-07T22:58:34.534633",
+      "intent_category": "unknown",
+      "intent_description": "Intent unclear",
+      "intent_confidence": 0.0,
+      "contexts": {
+        "application": "explorer.exe",
+        "state": "interacting"
+      },
+      "source_session": "session_20251107_225826"
+    },
+    {
+      "step_number": 4,
+      "action_id": "mouse_2025-11-07T22:58:34.534916",
+      "intent_category": "unknown",
+      "intent_description": "Intent unclear",
+      "intent_confidence": 0.0,
+      "contexts": {
+        "application": "explorer.exe",
+        "state": "interacting"
+      },
+      "source_session": "session_20251107_225826"
+    }
+  ]
+}

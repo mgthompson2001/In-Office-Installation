@@ -1,0 +1,108 @@
+{
+  "workflow_key": "session_20251107_225826::workflow_243",
+  "session_id": "session_20251107_225826",
+  "workflow_id": "workflow_243",
+  "workflow_type": "interaction",
+  "description": "Click/interact → Click/interact → Click/interact → ... and 1 more actions",
+  "goal": "Executing automation scripts",
+  "confidence": 0.7,
+  "timestamp": "2025-11-08T10:01:57.118269",
+  "summary": [
+    "Workflow captured from session session_20251107_225826 (interaction).",
+    "Contains 6 recorded actions with goal: Executing automation scripts.",
+    "Top intents detected:",
+    "  • Automation Control (6 steps)",
+    "Primary applications involved:",
+    "  • pythonw.exe (6 steps)",
+    "Common screens/pages:",
+    "  • Bot Interface (6 steps)",
+    "Suggested interpretation:",
+    "  This appears to be a session controlling automation tools (launching bots, monitoring)."
+  ],
+  "steps": [
+    {
+      "step_number": 1,
+      "action_id": "screen_2025-11-07T23:00:12.350487",
+      "intent_category": "automation_control",
+      "intent_description": "Controlling automation scripts",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "pythonw.exe",
+        "page": "Bot Interface",
+        "state": "viewing",
+        "task": "Intake"
+      },
+      "source_session": "session_20251107_225826"
+    },
+    {
+      "step_number": 2,
+      "action_id": "mouse_2025-11-07T23:00:12.479272",
+      "intent_category": "automation_control",
+      "intent_description": "Controlling automation scripts",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "pythonw.exe",
+        "page": "Bot Interface",
+        "state": "interacting",
+        "task": "Intake"
+      },
+      "source_session": "session_20251107_225826"
+    },
+    {
+      "step_number": 3,
+      "action_id": "mouse_2025-11-07T23:00:12.480147",
+      "intent_category": "automation_control",
+      "intent_description": "Controlling automation scripts",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "pythonw.exe",
+        "page": "Bot Interface",
+        "state": "interacting",
+        "task": "Intake"
+      },
+      "source_session": "session_20251107_225826"
+    },
+    {
+      "step_number": 4,
+      "action_id": "screen_2025-11-07T23:00:13.443792",
+      "intent_category": "automation_control",
+      "intent_description": "Controlling automation scripts",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "pythonw.exe",
+        "page": "Bot Interface",
+        "state": "viewing",
+        "task": "Intake"
+      },
+      "source_session": "session_20251107_225826"
+    },
+    {
+      "step_number": 5,
+      "action_id": "mouse_2025-11-07T23:00:13.654806",
+      "intent_category": "automation_control",
+      "intent_description": "Controlling automation scripts",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "pythonw.exe",
+        "page": "Bot Interface",
+        "state": "interacting",
+        "task": "Intake"
+      },
+      "source_session": "session_20251107_225826"
+    },
+    {
+      "step_number": 6,
+      "action_id": "mouse_2025-11-07T23:00:13.655177",
+      "intent_category": "automation_control",
+      "intent_description": "Controlling automation scripts",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "pythonw.exe",
+        "page": "Bot Interface",
+        "state": "interacting",
+        "task": "Intake"
+      },
+      "source_session": "session_20251107_225826"
+    }
+  ]
+}

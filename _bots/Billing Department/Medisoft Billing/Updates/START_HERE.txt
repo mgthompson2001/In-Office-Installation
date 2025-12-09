@@ -1,0 +1,67 @@
+================================================================================
+                    UPDATE SYSTEM - START HERE
+================================================================================
+
+YOU ARE HERE: You have an update system that lets you push updates to all
+employees automatically without touching their computers!
+
+================================================================================
+                          FIRST TIME SETUP
+================================================================================
+
+1. Double-click: SETUP.bat
+   (This sets up version tracking - only do this once)
+
+2. That's it! You're ready to push updates.
+
+================================================================================
+                    HOW TO PUSH UPDATES (EVERY TIME)
+================================================================================
+
+When you make changes to your bots and want everyone to get them:
+
+1. Make your changes to bot files (edit code, fix bugs, etc.)
+
+2. Double-click: PUSH_UPDATE.bat
+   - It will ask for version number (like 1.0.1)
+   - It will ask what you changed (like "Fixed login bug")
+   - It does everything else automatically!
+
+3. Done! Employees will see updates when they start their bots.
+
+================================================================================
+                          HOW IT WORKS
+================================================================================
+
+YOUR COMPUTER:
+- You edit bots in: In-Office Installation folder
+- You run PUSH_UPDATE.bat
+- Files go to: G:\Company\Software\Updates
+
+EMPLOYEES' COMPUTERS:
+- Bots are installed locally on their computers
+- When they start a bot, it checks G:\Company\Software\Updates
+- If update found → Popup asks "Update now?"
+- If they click "Yes" → Bot updates itself automatically
+- Their data (passwords, settings) stays safe
+
+================================================================================
+                          FILES IN THIS FOLDER
+================================================================================
+
+SETUP.bat              - Run this ONCE to set everything up
+PUSH_UPDATE.bat        - Run this EVERY TIME you want to push updates
+HOW_TO_USE.md          - Detailed instructions (if you need them)
+config.json            - Configuration (already set up, don't touch)
+
+================================================================================
+                          THAT'S IT!
+================================================================================
+
+You don't need to know anything else. Just:
+- Run SETUP.bat once
+- Use PUSH_UPDATE.bat whenever you want to update everyone
+
+Questions? Check HOW_TO_USE.md for more details.
+
+================================================================================

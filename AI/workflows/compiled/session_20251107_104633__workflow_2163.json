@@ -1,0 +1,469 @@
+{
+  "workflow_key": "session_20251107_104633::workflow_2163",
+  "session_id": "session_20251107_104633",
+  "workflow_id": "workflow_2163",
+  "workflow_type": "data_entry",
+  "description": "Type: w → Type: h → ... and 29 more actions",
+  "goal": "Goal unclear",
+  "confidence": 0.7,
+  "timestamp": "2025-11-08T10:02:03.579192",
+  "summary": [
+    "Workflow captured from session session_20251107_104633 (data_entry).",
+    "Contains 34 recorded actions with goal: Goal unclear.",
+    "Top intents detected:",
+    "  • Unknown (12 steps)",
+    "  • Enter Data (12 steps)",
+    "  • Search (10 steps)",
+    "Primary applications involved:",
+    "  • Browser (34 steps)",
+    "Common screens/pages:",
+    "  • Search Page (33 steps)",
+    "  • CCMD Minutes Doc - Google Docs - Google Chrome (1 steps)",
+    "Suggested interpretation:",
+    "  Mixed activity detected; review simulation output for step-by-step context."
+  ],
+  "steps": [
+    {
+      "step_number": 1,
+      "action_id": "screen_2025-11-07T11:01:06.475387",
+      "intent_category": "unknown",
+      "intent_description": "Intent unclear",
+      "intent_confidence": 0.0,
+      "contexts": {
+        "application": "Browser",
+        "page": "CCMD Minutes Doc - Google Docs - Google Chrome",
+        "state": "viewing"
+      },
+      "source_session": "session_20251107_104633"
+    },
+    {
+      "step_number": 2,
+      "action_id": "screen_2025-11-07T11:01:07.572906",
+      "intent_category": "search",
+      "intent_description": "User intends to search",
+      "intent_confidence": 0.4,
+      "contexts": {
+        "application": "Browser",
+        "page": "Search Page",
+        "state": "viewing"
+      },
+      "source_session": "session_20251107_104633"
+    },
+    {
+      "step_number": 3,
+      "action_id": "screen_2025-11-07T11:01:08.559248",
+      "intent_category": "search",
+      "intent_description": "User intends to search",
+      "intent_confidence": 0.4,
+      "contexts": {
+        "application": "Browser",
+        "page": "Search Page",
+        "state": "viewing"
+      },
+      "source_session": "session_20251107_104633"
+    },
+    {
+      "step_number": 4,
+      "action_id": "keyboard_2025-11-07T11:01:08.904536",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "Browser",
+        "page": "Search Page",
+        "state": "typing"
+      },
+      "source_session": "session_20251107_104633"
+    },
+    {
+      "step_number": 5,
+      "action_id": "keyboard_2025-11-07T11:01:09.015685",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "Browser",
+        "page": "Search Page",
+        "state": "typing"
+      },
+      "source_session": "session_20251107_104633"
+    },
+    {
+      "step_number": 6,
+      "action_id": "keyboard_2025-11-07T11:01:09.128552",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "Browser",
+        "page": "Search Page",
+        "state": "typing"
+      },
+      "source_session": "session_20251107_104633"
+    },
+    {
+      "step_number": 7,
+      "action_id": "keyboard_2025-11-07T11:01:09.223535",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "Browser",
+        "page": "Search Page",
+        "state": "typing"
+      },
+      "source_session": "session_20251107_104633"
+    },
+    {
+      "step_number": 8,
+      "action_id": "keyboard_2025-11-07T11:01:09.423374",
+      "intent_category": "unknown",
+      "intent_description": "Intent unclear",
+      "intent_confidence": 0.0,
+      "contexts": {
+        "application": "Browser",
+        "page": "Search Page",
+        "state": "typing"
+      },
+      "source_session": "session_20251107_104633"
+    },
+    {
+      "step_number": 9,
+      "action_id": "screen_2025-11-07T11:01:09.629915",
+      "intent_category": "search",
+      "intent_description": "User intends to search",
+      "intent_confidence": 0.4,
+      "contexts": {
+        "application": "Browser",
+        "page": "Search Page",
+        "state": "viewing"
+      },
+      "source_session": "session_20251107_104633"
+    },
+    {
+      "step_number": 10,
+      "action_id": "keyboard_2025-11-07T11:01:09.635620",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "Browser",
+        "page": "Search Page",
+        "state": "typing"
+      },
+      "source_session": "session_20251107_104633"
+    },
+    {
+      "step_number": 11,
+      "action_id": "keyboard_2025-11-07T11:01:09.711508",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "Browser",
+        "page": "Search Page",
+        "state": "typing"
+      },
+      "source_session": "session_20251107_104633"
+    },
+    {
+      "step_number": 12,
+      "action_id": "keyboard_2025-11-07T11:01:09.839086",
+      "intent_category": "unknown",
+      "intent_description": "Intent unclear",
+      "intent_confidence": 0.0,
+      "contexts": {
+        "application": "Browser",
+        "page": "Search Page",
+        "state": "typing"
+      },
+      "source_session": "session_20251107_104633"
+    },
+    {
+      "step_number": 13,
+      "action_id": "keyboard_2025-11-07T11:01:10.031882",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "Browser",
+        "page": "Search Page",
+        "state": "typing"
+      },
+      "source_session": "session_20251107_104633"
+    },
+    {
+      "step_number": 14,
+      "action_id": "keyboard_2025-11-07T11:01:10.239664",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "Browser",
+        "page": "Search Page",
+        "state": "typing"
+      },
+      "source_session": "session_20251107_104633"
+    },
+    {
+      "step_number": 15,
+      "action_id": "keyboard_2025-11-07T11:01:10.392620",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "Browser",
+        "page": "Search Page",
+        "state": "typing"
+      },
+      "source_session": "session_20251107_104633"
+    },
+    {
+      "step_number": 16,
+      "action_id": "keyboard_2025-11-07T11:01:10.568478",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "Browser",
+        "page": "Search Page",
+        "state": "typing"
+      },
+      "source_session": "session_20251107_104633"
+    },
+    {
+      "step_number": 17,
+      "action_id": "screen_2025-11-07T11:01:10.700951",
+      "intent_category": "search",
+      "intent_description": "User intends to search",
+      "intent_confidence": 0.4,
+      "contexts": {
+        "application": "Browser",
+        "page": "Search Page",
+        "state": "viewing"
+      },
+      "source_session": "session_20251107_104633"
+    },
+    {
+      "step_number": 18,
+      "action_id": "keyboard_2025-11-07T11:01:10.703790",
+      "intent_category": "unknown",
+      "intent_description": "Intent unclear",
+      "intent_confidence": 0.0,
+      "contexts": {
+        "application": "Browser",
+        "page": "Search Page",
+        "state": "typing"
+      },
+      "source_session": "session_20251107_104633"
+    },
+    {
+      "step_number": 19,
+      "action_id": "keyboard_2025-11-07T11:01:11.032376",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "Browser",
+        "page": "Search Page",
+        "state": "typing"
+      },
+      "source_session": "session_20251107_104633"
+    },
+    {
+      "step_number": 20,
+      "action_id": "keyboard_2025-11-07T11:01:11.248591",
+      "intent_category": "enter_data",
+      "intent_description": "Entering data",
+      "intent_confidence": 0.75,
+      "contexts": {
+        "application": "Browser",
+        "page": "Search Page",
+        "state": "typing"
+      },
+      "source_session": "session_20251107_104633"
+    },
+    {
+      "step_number": 21,
+      "action_id": "keyboard_2025-11-07T11:01:11.488882",
+      "intent_category": "unknown",
+      "intent_description": "Intent unclear",
+      "intent_confidence": 0.0,
+      "contexts": {
+        "application": "Browser",
+        "page": "Search Page",
+        "state": "typing"
+      },
+      "source_session": "session_20251107_104633"
+    },
+    {
+      "step_number": 22,
+      "action_id": "screen_2025-11-07T11:01:11.783377",
+      "intent_category": "search",
+      "intent_description": "User intends to search",
+      "intent_confidence": 0.4,
+      "contexts": {
+        "application": "Browser",
+        "page": "Search Page",
+        "state": "viewing"
+      },
+      "source_session": "session_20251107_104633"
+    },
+    {
+      "step_number": 23,
+      "action_id": "screen_2025-11-07T11:01:12.859792",
+      "intent_category": "search",
+      "intent_description": "User intends to search",
+      "intent_confidence": 0.4,
+      "contexts": {
+        "application": "Browser",
+        "page": "Search Page",
+        "state": "viewing"
+      },
+      "source_session": "session_20251107_104633"
+    },
+    {
+      "step_number": 24,
+      "action_id": "screen_2025-11-07T11:01:13.941782",
+      "intent_category": "search",
+      "intent_description": "User intends to search",
+      "intent_confidence": 0.4,
+      "contexts": {
+        "application": "Browser",
+        "page": "Search Page",
+        "state": "viewing"
+      },
+      "source_session": "session_20251107_104633"
+    },
+    {
+      "step_number": 25,
+      "action_id": "keyboard_2025-11-07T11:01:14.999073",
+      "intent_category": "unknown",
+      "intent_description": "Intent unclear",
+      "intent_confidence": 0.0,
+      "contexts": {
+        "application": "Browser",
+        "page": "Search Page",
+        "state": "typing"
+      },
+      "source_session": "session_20251107_104633"
+    },
+    {
+      "step_number": 26,
+      "action_id": "screen_2025-11-07T11:01:15.053354",
+      "intent_category": "search",
+      "intent_description": "User intends to search",
+      "intent_confidence": 0.4,
+      "contexts": {
+        "application": "Browser",
+        "page": "Search Page",
+        "state": "viewing"
+      },
+      "source_session": "session_20251107_104633"
+    },
+    {
+      "step_number": 27,
+      "action_id": "keyboard_2025-11-07T11:01:15.151768",
+      "intent_category": "unknown",
+      "intent_description": "Intent unclear",
+      "intent_confidence": 0.0,
+      "contexts": {
+        "application": "Browser",
+        "page": "Search Page",
+        "state": "typing"
+      },
+      "source_session": "session_20251107_104633"
+    },
+    {
+      "step_number": 28,
+      "action_id": "keyboard_2025-11-07T11:01:15.311526",
+      "intent_category": "unknown",
+      "intent_description": "Intent unclear",
+      "intent_confidence": 0.0,
+      "contexts": {
+        "application": "Browser",
+        "page": "Search Page",
+        "state": "typing"
+      },
+      "source_session": "session_20251107_104633"
+    },
+    {
+      "step_number": 29,
+      "action_id": "keyboard_2025-11-07T11:01:15.471815",
+      "intent_category": "unknown",
+      "intent_description": "Intent unclear",
+      "intent_confidence": 0.0,
+      "contexts": {
+        "application": "Browser",
+        "page": "Search Page",
+        "state": "typing"
+      },
+      "source_session": "session_20251107_104633"
+    },
+    {
+      "step_number": 30,
+      "action_id": "keyboard_2025-11-07T11:01:15.655994",
+      "intent_category": "unknown",
+      "intent_description": "Intent unclear",
+      "intent_confidence": 0.0,
+      "contexts": {
+        "application": "Browser",
+        "page": "Search Page",
+        "state": "typing"
+      },
+      "source_session": "session_20251107_104633"
+    },
+    {
+      "step_number": 31,
+      "action_id": "keyboard_2025-11-07T11:01:15.983657",
+      "intent_category": "unknown",
+      "intent_description": "Intent unclear",
+      "intent_confidence": 0.0,
+      "contexts": {
+        "application": "Browser",
+        "page": "Search Page",
+        "state": "typing"
+      },
+      "source_session": "session_20251107_104633"
+    },
+    {
+      "step_number": 32,
+      "action_id": "screen_2025-11-07T11:01:16.097686",
+      "intent_category": "search",
+      "intent_description": "User intends to search",
+      "intent_confidence": 0.4,
+      "contexts": {
+        "application": "Browser",
+        "page": "Search Page",
+        "state": "viewing"
+      },
+      "source_session": "session_20251107_104633"
+    },
+    {
+      "step_number": 33,
+      "action_id": "keyboard_2025-11-07T11:01:16.311820",
+      "intent_category": "unknown",
+      "intent_description": "Intent unclear",
+      "intent_confidence": 0.0,
+      "contexts": {
+        "application": "Browser",
+        "page": "Search Page",
+        "state": "typing"
+      },
+      "source_session": "session_20251107_104633"
+    },
+    {
+      "step_number": 34,
+      "action_id": "screen_2025-11-07T11:01:17.175667",
+      "intent_category": "search",
+      "intent_description": "User intends to search",
+      "intent_confidence": 0.4,
+      "contexts": {
+        "application": "Browser",
+        "page": "Search Page",
+        "state": "viewing"
+      },
+      "source_session": "session_20251107_104633"
+    }
+  ]
+}

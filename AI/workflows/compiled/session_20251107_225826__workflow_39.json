@@ -1,0 +1,193 @@
+{
+  "workflow_key": "session_20251107_225826::workflow_39",
+  "session_id": "session_20251107_225826",
+  "workflow_id": "workflow_39",
+  "workflow_type": "interaction",
+  "description": "Click/interact → Click/interact → Click/interact → Click/interact → ... and 8 more actions",
+  "goal": "Executing automation scripts",
+  "confidence": 0.7,
+  "timestamp": "2025-11-08T10:01:57.117745",
+  "summary": [
+    "Workflow captured from session session_20251107_225826 (interaction).",
+    "Contains 13 recorded actions with goal: Executing automation scripts.",
+    "Top intents detected:",
+    "  • Automation Control (13 steps)",
+    "Primary applications involved:",
+    "  • WindowsTerminal.exe (13 steps)",
+    "Common screens/pages:",
+    "  • C:\\Windows\\system32\\cmd.exe (13 steps)",
+    "Suggested interpretation:",
+    "  This appears to be a session controlling automation tools (launching bots, monitoring)."
+  ],
+  "steps": [
+    {
+      "step_number": 1,
+      "action_id": "screen_2025-11-07T22:58:46.716585",
+      "intent_category": "automation_control",
+      "intent_description": "Controlling automation scripts",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "WindowsTerminal.exe",
+        "page": "C:\\Windows\\system32\\cmd.exe",
+        "state": "viewing"
+      },
+      "source_session": "session_20251107_225826"
+    },
+    {
+      "step_number": 2,
+      "action_id": "mouse_2025-11-07T22:58:47.443003",
+      "intent_category": "automation_control",
+      "intent_description": "Controlling automation scripts",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "WindowsTerminal.exe",
+        "page": "C:\\Windows\\system32\\cmd.exe",
+        "state": "interacting"
+      },
+      "source_session": "session_20251107_225826"
+    },
+    {
+      "step_number": 3,
+      "action_id": "mouse_2025-11-07T22:58:47.443438",
+      "intent_category": "automation_control",
+      "intent_description": "Controlling automation scripts",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "WindowsTerminal.exe",
+        "page": "C:\\Windows\\system32\\cmd.exe",
+        "state": "interacting"
+      },
+      "source_session": "session_20251107_225826"
+    },
+    {
+      "step_number": 4,
+      "action_id": "mouse_2025-11-07T22:58:47.526911",
+      "intent_category": "automation_control",
+      "intent_description": "Controlling automation scripts",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "WindowsTerminal.exe",
+        "page": "C:\\Windows\\system32\\cmd.exe",
+        "state": "interacting"
+      },
+      "source_session": "session_20251107_225826"
+    },
+    {
+      "step_number": 5,
+      "action_id": "mouse_2025-11-07T22:58:47.590748",
+      "intent_category": "automation_control",
+      "intent_description": "Controlling automation scripts",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "WindowsTerminal.exe",
+        "page": "C:\\Windows\\system32\\cmd.exe",
+        "state": "interacting"
+      },
+      "source_session": "session_20251107_225826"
+    },
+    {
+      "step_number": 6,
+      "action_id": "mouse_2025-11-07T22:58:47.662804",
+      "intent_category": "automation_control",
+      "intent_description": "Controlling automation scripts",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "WindowsTerminal.exe",
+        "page": "C:\\Windows\\system32\\cmd.exe",
+        "state": "interacting"
+      },
+      "source_session": "session_20251107_225826"
+    },
+    {
+      "step_number": 7,
+      "action_id": "screen_2025-11-07T22:58:48.653857",
+      "intent_category": "automation_control",
+      "intent_description": "Controlling automation scripts",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "WindowsTerminal.exe",
+        "page": "C:\\Windows\\system32\\cmd.exe",
+        "state": "viewing"
+      },
+      "source_session": "session_20251107_225826"
+    },
+    {
+      "step_number": 8,
+      "action_id": "screen_2025-11-07T22:58:48.799695",
+      "intent_category": "automation_control",
+      "intent_description": "Controlling automation scripts",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "WindowsTerminal.exe",
+        "page": "C:\\Windows\\system32\\cmd.exe",
+        "state": "viewing"
+      },
+      "source_session": "session_20251107_225826"
+    },
+    {
+      "step_number": 9,
+      "action_id": "screen_2025-11-07T22:58:49.860614",
+      "intent_category": "automation_control",
+      "intent_description": "Controlling automation scripts",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "WindowsTerminal.exe",
+        "page": "C:\\Windows\\system32\\cmd.exe",
+        "state": "viewing"
+      },
+      "source_session": "session_20251107_225826"
+    },
+    {
+      "step_number": 10,
+      "action_id": "screen_2025-11-07T22:58:50.926560",
+      "intent_category": "automation_control",
+      "intent_description": "Controlling automation scripts",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "WindowsTerminal.exe",
+        "page": "C:\\Windows\\system32\\cmd.exe",
+        "state": "viewing"
+      },
+      "source_session": "session_20251107_225826"
+    },
+    {
+      "step_number": 11,
+      "action_id": "screen_2025-11-07T22:58:51.995091",
+      "intent_category": "automation_control",
+      "intent_description": "Controlling automation scripts",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "WindowsTerminal.exe",
+        "page": "C:\\Windows\\system32\\cmd.exe",
+        "state": "viewing"
+      },
+      "source_session": "session_20251107_225826"
+    },
+    {
+      "step_number": 12,
+      "action_id": "mouse_2025-11-07T22:58:52.070628",
+      "intent_category": "automation_control",
+      "intent_description": "Controlling automation scripts",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "WindowsTerminal.exe",
+        "page": "C:\\Windows\\system32\\cmd.exe",
+        "state": "interacting"
+      },
+      "source_session": "session_20251107_225826"
+    },
+    {
+      "step_number": 13,
+      "action_id": "mouse_2025-11-07T22:58:52.070945",
+      "intent_category": "automation_control",
+      "intent_description": "Controlling automation scripts",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "WindowsTerminal.exe",
+        "page": "C:\\Windows\\system32\\cmd.exe",
+        "state": "interacting"
+      },
+      "source_session": "session_20251107_225826"
+    }
+  ]
+}

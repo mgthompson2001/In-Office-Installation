@@ -1,0 +1,37 @@
+{
+  "workflow_key": "session_20251107_104633::workflow_1371",
+  "session_id": "session_20251107_104633",
+  "workflow_id": "workflow_1371",
+  "workflow_type": "interaction",
+  "description": "",
+  "goal": "Goal unclear",
+  "confidence": 0.7,
+  "timestamp": "2025-11-08T10:02:03.578444",
+  "summary": [
+    "Workflow captured from session session_20251107_104633 (interaction).",
+    "Contains 1 recorded actions with goal: Goal unclear.",
+    "Top intents detected:",
+    "  • Delete (1 steps)",
+    "Primary applications involved:",
+    "  • Excel (1 steps)",
+    "Common screens/pages:",
+    "  • remove_counselor_data_20251107_095450 - Excel (1 steps)",
+    "Suggested interpretation:",
+    "  Mixed activity detected; review simulation output for step-by-step context."
+  ],
+  "steps": [
+    {
+      "step_number": 1,
+      "action_id": "screen_2025-11-07T10:54:55.916703",
+      "intent_category": "delete",
+      "intent_description": "User intends to delete",
+      "intent_confidence": 0.4,
+      "contexts": {
+        "application": "Excel",
+        "page": "remove_counselor_data_20251107_095450 - Excel",
+        "state": "viewing"
+      },
+      "source_session": "session_20251107_104633"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "penelope": {
+    "Michael T": {
+      "username": "MThompson",
+      "password": "!IntegritySWS1!"
+    }
+  },
+  "therapy_notes": {
+    "Michael T": {
+      "username": "mthompson",
+      "password": "Integrity2025@",
+      "url": "https://www.therapynotes.com/app/login/IntegritySWS/"
+    },
+    "Automation Bot": {
+      "username": "AutomationB",
+      "password": "Integrity2025@",
+      "url": "https://www.therapynotes.com/app/login/IntegritySWS/"
+    }
+  },
+  "ips": {
+    "Michael T": {
+      "username": "mthompson",
+      "password": "Integrity2025@",
+      "url": "https://www.therapynotes.com/app/login/IntegrityIPS/?r=%2fapp%2fpatients%2f"
+    },
+    "Automation Bot": {
+      "username": "AutomationB",
+      "password": "Integrity2025@",
+      "url": "https://www.therapynotes.com/app/login/IntegrityIPS/?r=%2fapp%2fpatients%2f"
+    }
+  }
+}

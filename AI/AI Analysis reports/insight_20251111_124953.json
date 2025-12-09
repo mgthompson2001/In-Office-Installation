@@ -1,0 +1,74 @@
+{
+  "generated_at": "2025-11-11T12:49:53.572740",
+  "model": "gpt-5-mini",
+  "summary": "# Overview\nThe healthcare automation platform has been operational for a short time, focusing on data collection and initial learning phases. While data collection metrics indicate a reasonable volume of user interactions, the learning progress remains stagnant, with no new patterns or workflows identified.\n\n# Key Metrics\n- **Data Collection**: 7397 keyboard inputs, 1839 mouse interactions, and 455 applications used over 3 days.\n- **Learning Progress**: 0 patterns extracted, 0 workflows identified, and 0 sequences learned; total patterns remain at 96.\n- **Training Performance**: Consistent training accuracy at 83.58%, precision at 81.58%, and recall at 82.58% across multiple runs.\n\n# Risks\n- **Stagnation in Learning**: Lack of new patterns and workflows could hinder the platform's ability to adapt and improve.\n- **Data Overload**: High volume of collected data without effective learning may lead to inefficiencies and resource strain.\n- **User Engagement**: Limited insights from user interactions may affect stakeholder confidence and future investment.\n\n# Recommendations\n- **Enhance Learning Algorithms**: Invest in refining the learning algorithms to facilitate the extraction of actionable patterns and workflows.\n- **Conduct User Feedback Sessions**: Engage with users to identify pain points and areas for improvement in the platform's functionality.\n- **Monitor Data Quality**: Implement checks to ensure the quality of collected data, focusing on relevance and usability for training purposes.",
+  "metrics": {
+    "collected": {
+      "total_screens": 14628,
+      "total_keyboard": 7397,
+      "total_mouse": 1839,
+      "total_apps": 455,
+      "total_files": 1070548,
+      "total_data_points": 1094867,
+      "sessions_count": 13,
+      "data_size_mb": 7566.73,
+      "collection_rate_per_hour": 19445.765696164857,
+      "time_span_days": 3
+    },
+    "learning": {
+      "patterns_extracted": 0,
+      "workflows_identified": 0,
+      "sequences_learned": 0,
+      "models_trained": 0,
+      "training_data_points": true,
+      "last_analysis": null,
+      "last_training": "2025-11-11T12:49:10.003940",
+      "learning_progress": 0.0,
+      "pattern_count": 96,
+      "last_pattern_seen": "2025-11-08T10:24:27.545202",
+      "training_accuracy": 0.8358,
+      "training_precision": 0.8158,
+      "training_recall": 0.8258
+    },
+    "patterns": {
+      "total_patterns": 96,
+      "last_seen": "2025-11-08T10:24:27.545202",
+      "total_sessions": 96
+    },
+    "training_runs": [
+      {
+        "started_at": "2025-11-11T12:49:05.982182",
+        "completed_at": "2025-11-11T12:49:10.003940",
+        "duration_seconds": 4.021724,
+        "patterns_processed": 521,
+        "new_patterns": 0,
+        "accuracy": 0.8358,
+        "precision": 0.8158,
+        "recall": 0.8258,
+        "notes": "Ran AIActivityAnalyzer and LocalAITrainer for incremental update"
+      },
+      {
+        "started_at": "2025-11-08T23:55:21.685290",
+        "completed_at": "2025-11-08T23:55:25.702834",
+        "duration_seconds": 4.01752,
+        "patterns_processed": 521,
+        "new_patterns": 0,
+        "accuracy": 0.8358,
+        "precision": 0.8158,
+        "recall": 0.8258,
+        "notes": "Ran AIActivityAnalyzer and LocalAITrainer for incremental update"
+      },
+      {
+        "started_at": "2025-11-08T22:14:41.374573",
+        "completed_at": "2025-11-08T22:14:45.389597",
+        "duration_seconds": 4.01498,
+        "patterns_processed": 521,
+        "new_patterns": 0,
+        "accuracy": 0.8358,
+        "precision": 0.8158,
+        "recall": 0.8258,
+        "notes": "Ran AIActivityAnalyzer and LocalAITrainer for incremental update"
+      }
+    ]
+  }
+}

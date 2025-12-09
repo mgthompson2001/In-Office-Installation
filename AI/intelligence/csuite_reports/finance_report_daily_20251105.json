@@ -1,0 +1,11 @@
+{
+  "report_name": "Daily Finance Report",
+  "report_type": "finance",
+  "data_period": "daily",
+  "metrics": {},
+  "insights": [
+    "\u26a0\ufe0f Low success rate may indicate need for optimization"
+  ],
+  "generated_at": "2025-11-05T13:06:56.453057",
+  "report_data": "{\"total_executions\": 0, \"success_rate\": 0, \"average_execution_time\": 0, \"bots_used\": 0}"
+}

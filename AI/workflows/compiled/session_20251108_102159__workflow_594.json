@@ -1,0 +1,428 @@
+{
+  "workflow_key": "session_20251108_102159::workflow_594",
+  "session_id": "session_20251108_102159",
+  "workflow_id": "workflow_594",
+  "workflow_type": "interaction",
+  "description": "... and 26 more actions",
+  "goal": "Goal: automation control",
+  "confidence": 0.7,
+  "timestamp": "2025-11-08T10:39:57.757134",
+  "summary": [
+    "Workflow captured from session session_20251108_102159 (interaction).",
+    "Contains 31 recorded actions with goal: Goal: automation control.",
+    "Top intents detected:",
+    "  • Unknown (31 steps)",
+    "Primary applications involved:",
+    "  • explorer.exe (31 steps)",
+    "Common screens/pages:",
+    "  • monitoring - File Explorer (16 steps)",
+    "  • AI - File Explorer (13 steps)",
+    "  • scripts - File Explorer (1 steps)",
+    "Suggested interpretation:",
+    "  Mixed activity detected; review simulation output for step-by-step context."
+  ],
+  "steps": [
+    {
+      "step_number": 1,
+      "action_id": "screen_2025-11-08T10:25:33.046854",
+      "intent_category": "unknown",
+      "intent_description": "Intent unclear",
+      "intent_confidence": 0.0,
+      "contexts": {
+        "application": "explorer.exe",
+        "state": "viewing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 2,
+      "action_id": "screen_2025-11-08T10:25:34.143450",
+      "intent_category": "unknown",
+      "intent_description": "Intent unclear",
+      "intent_confidence": 0.0,
+      "contexts": {
+        "application": "explorer.exe",
+        "page": "AI - File Explorer",
+        "state": "viewing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 3,
+      "action_id": "screen_2025-11-08T10:25:35.110210",
+      "intent_category": "unknown",
+      "intent_description": "Intent unclear",
+      "intent_confidence": 0.0,
+      "contexts": {
+        "application": "explorer.exe",
+        "page": "AI - File Explorer",
+        "state": "viewing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 4,
+      "action_id": "screen_2025-11-08T10:25:36.132276",
+      "intent_category": "unknown",
+      "intent_description": "Intent unclear",
+      "intent_confidence": 0.0,
+      "contexts": {
+        "application": "explorer.exe",
+        "page": "AI - File Explorer",
+        "state": "viewing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 5,
+      "action_id": "screen_2025-11-08T10:25:37.180393",
+      "intent_category": "unknown",
+      "intent_description": "Intent unclear",
+      "intent_confidence": 0.0,
+      "contexts": {
+        "application": "explorer.exe",
+        "page": "AI - File Explorer",
+        "state": "viewing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 6,
+      "action_id": "screen_2025-11-08T10:25:38.166053",
+      "intent_category": "unknown",
+      "intent_description": "Intent unclear",
+      "intent_confidence": 0.0,
+      "contexts": {
+        "application": "explorer.exe",
+        "page": "AI - File Explorer",
+        "state": "viewing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 7,
+      "action_id": "screen_2025-11-08T10:25:39.203528",
+      "intent_category": "unknown",
+      "intent_description": "Intent unclear",
+      "intent_confidence": 0.0,
+      "contexts": {
+        "application": "explorer.exe",
+        "page": "AI - File Explorer",
+        "state": "viewing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 8,
+      "action_id": "screen_2025-11-08T10:25:40.297345",
+      "intent_category": "unknown",
+      "intent_description": "Intent unclear",
+      "intent_confidence": 0.0,
+      "contexts": {
+        "application": "explorer.exe",
+        "page": "AI - File Explorer",
+        "state": "viewing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 9,
+      "action_id": "screen_2025-11-08T10:25:41.460067",
+      "intent_category": "unknown",
+      "intent_description": "Intent unclear",
+      "intent_confidence": 0.0,
+      "contexts": {
+        "application": "explorer.exe",
+        "page": "AI - File Explorer",
+        "state": "viewing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 10,
+      "action_id": "screen_2025-11-08T10:25:42.495306",
+      "intent_category": "unknown",
+      "intent_description": "Intent unclear",
+      "intent_confidence": 0.0,
+      "contexts": {
+        "application": "explorer.exe",
+        "page": "AI - File Explorer",
+        "state": "viewing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 11,
+      "action_id": "screen_2025-11-08T10:25:43.512502",
+      "intent_category": "unknown",
+      "intent_description": "Intent unclear",
+      "intent_confidence": 0.0,
+      "contexts": {
+        "application": "explorer.exe",
+        "page": "AI - File Explorer",
+        "state": "viewing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 12,
+      "action_id": "screen_2025-11-08T10:25:44.531742",
+      "intent_category": "unknown",
+      "intent_description": "Intent unclear",
+      "intent_confidence": 0.0,
+      "contexts": {
+        "application": "explorer.exe",
+        "page": "AI - File Explorer",
+        "state": "viewing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 13,
+      "action_id": "screen_2025-11-08T10:25:45.548860",
+      "intent_category": "unknown",
+      "intent_description": "Intent unclear",
+      "intent_confidence": 0.0,
+      "contexts": {
+        "application": "explorer.exe",
+        "page": "scripts - File Explorer",
+        "state": "viewing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 14,
+      "action_id": "screen_2025-11-08T10:25:46.640849",
+      "intent_category": "unknown",
+      "intent_description": "Intent unclear",
+      "intent_confidence": 0.0,
+      "contexts": {
+        "application": "explorer.exe",
+        "page": "AI - File Explorer",
+        "state": "viewing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 15,
+      "action_id": "screen_2025-11-08T10:25:47.679024",
+      "intent_category": "unknown",
+      "intent_description": "Intent unclear",
+      "intent_confidence": 0.0,
+      "contexts": {
+        "application": "explorer.exe",
+        "page": "AI - File Explorer",
+        "state": "viewing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 16,
+      "action_id": "screen_2025-11-08T10:25:48.748449",
+      "intent_category": "unknown",
+      "intent_description": "Intent unclear",
+      "intent_confidence": 0.0,
+      "contexts": {
+        "application": "explorer.exe",
+        "page": "monitoring - File Explorer",
+        "state": "viewing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 17,
+      "action_id": "screen_2025-11-08T10:25:49.750441",
+      "intent_category": "unknown",
+      "intent_description": "Intent unclear",
+      "intent_confidence": 0.0,
+      "contexts": {
+        "application": "explorer.exe",
+        "page": "monitoring - File Explorer",
+        "state": "viewing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 18,
+      "action_id": "screen_2025-11-08T10:25:50.804523",
+      "intent_category": "unknown",
+      "intent_description": "Intent unclear",
+      "intent_confidence": 0.0,
+      "contexts": {
+        "application": "explorer.exe",
+        "page": "monitoring - File Explorer",
+        "state": "viewing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 19,
+      "action_id": "screen_2025-11-08T10:25:51.962806",
+      "intent_category": "unknown",
+      "intent_description": "Intent unclear",
+      "intent_confidence": 0.0,
+      "contexts": {
+        "application": "explorer.exe",
+        "page": "monitoring - File Explorer",
+        "state": "viewing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 20,
+      "action_id": "screen_2025-11-08T10:25:53.024108",
+      "intent_category": "unknown",
+      "intent_description": "Intent unclear",
+      "intent_confidence": 0.0,
+      "contexts": {
+        "application": "explorer.exe",
+        "page": "monitoring - File Explorer",
+        "state": "viewing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 21,
+      "action_id": "screen_2025-11-08T10:25:54.026164",
+      "intent_category": "unknown",
+      "intent_description": "Intent unclear",
+      "intent_confidence": 0.0,
+      "contexts": {
+        "application": "explorer.exe",
+        "page": "monitoring - File Explorer",
+        "state": "viewing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 22,
+      "action_id": "screen_2025-11-08T10:25:55.040251",
+      "intent_category": "unknown",
+      "intent_description": "Intent unclear",
+      "intent_confidence": 0.0,
+      "contexts": {
+        "application": "explorer.exe",
+        "page": "monitoring - File Explorer",
+        "state": "viewing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 23,
+      "action_id": "screen_2025-11-08T10:25:56.043086",
+      "intent_category": "unknown",
+      "intent_description": "Intent unclear",
+      "intent_confidence": 0.0,
+      "contexts": {
+        "application": "explorer.exe",
+        "page": "monitoring - File Explorer",
+        "state": "viewing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 24,
+      "action_id": "screen_2025-11-08T10:25:57.114699",
+      "intent_category": "unknown",
+      "intent_description": "Intent unclear",
+      "intent_confidence": 0.0,
+      "contexts": {
+        "application": "explorer.exe",
+        "page": "monitoring - File Explorer",
+        "state": "viewing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 25,
+      "action_id": "screen_2025-11-08T10:25:58.206502",
+      "intent_category": "unknown",
+      "intent_description": "Intent unclear",
+      "intent_confidence": 0.0,
+      "contexts": {
+        "application": "explorer.exe",
+        "page": "monitoring - File Explorer",
+        "state": "viewing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 26,
+      "action_id": "screen_2025-11-08T10:25:59.319744",
+      "intent_category": "unknown",
+      "intent_description": "Intent unclear",
+      "intent_confidence": 0.0,
+      "contexts": {
+        "application": "explorer.exe",
+        "page": "monitoring - File Explorer",
+        "state": "viewing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 27,
+      "action_id": "screen_2025-11-08T10:26:00.356206",
+      "intent_category": "unknown",
+      "intent_description": "Intent unclear",
+      "intent_confidence": 0.0,
+      "contexts": {
+        "application": "explorer.exe",
+        "page": "monitoring - File Explorer",
+        "state": "viewing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 28,
+      "action_id": "screen_2025-11-08T10:26:01.389120",
+      "intent_category": "unknown",
+      "intent_description": "Intent unclear",
+      "intent_confidence": 0.0,
+      "contexts": {
+        "application": "explorer.exe",
+        "page": "monitoring - File Explorer",
+        "state": "viewing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 29,
+      "action_id": "screen_2025-11-08T10:26:02.450406",
+      "intent_category": "unknown",
+      "intent_description": "Intent unclear",
+      "intent_confidence": 0.0,
+      "contexts": {
+        "application": "explorer.exe",
+        "page": "monitoring - File Explorer",
+        "state": "viewing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 30,
+      "action_id": "screen_2025-11-08T10:26:03.493064",
+      "intent_category": "unknown",
+      "intent_description": "Intent unclear",
+      "intent_confidence": 0.0,
+      "contexts": {
+        "application": "explorer.exe",
+        "page": "monitoring - File Explorer",
+        "state": "viewing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 31,
+      "action_id": "screen_2025-11-08T10:26:04.525625",
+      "intent_category": "unknown",
+      "intent_description": "Intent unclear",
+      "intent_confidence": 0.0,
+      "contexts": {
+        "application": "explorer.exe",
+        "page": "monitoring - File Explorer",
+        "state": "viewing"
+      },
+      "source_session": "session_20251108_102159"
+    }
+  ]
+}

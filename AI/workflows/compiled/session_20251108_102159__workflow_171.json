@@ -1,0 +1,36 @@
+{
+  "workflow_key": "session_20251108_102159::workflow_171",
+  "session_id": "session_20251108_102159",
+  "workflow_id": "workflow_171",
+  "workflow_type": "interaction",
+  "description": "",
+  "goal": "Completing web form workflow",
+  "confidence": 0.7,
+  "timestamp": "2025-11-08T10:39:57.748491",
+  "summary": [
+    "Workflow captured from session session_20251108_102159 (interaction).",
+    "Contains 1 recorded actions with goal: Completing web form workflow.",
+    "Top intents detected:",
+    "  • Enter Data (1 steps)",
+    "Primary applications involved:",
+    "  • https://integrityseniorservices.athena-us.com/acm_loginControl (1 steps)",
+    "Common screens/pages:",
+    "  • Login Page (1 steps)",
+    "Suggested interpretation:",
+    "  Mixed activity detected; review simulation output for step-by-step context."
+  ],
+  "steps": [
+    {
+      "step_number": 1,
+      "action_id": "browser_form_2025-11-08T10:23:02.206224",
+      "intent_category": "enter_data",
+      "intent_description": "Updating form field",
+      "intent_confidence": 0.85,
+      "contexts": {
+        "application": "https://integrityseniorservices.athena-us.com/acm_loginControl",
+        "page": "Login Page"
+      },
+      "source_session": "session_20251108_102159"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "date": "2025-11-05",
+  "finance_report": {
+    "report_name": "Daily Finance Report",
+    "report_type": "finance",
+    "data_period": "daily",
+    "metrics": {},
+    "insights": [
+      "\u26a0\ufe0f Low success rate may indicate need for optimization"
+    ],
+    "generated_at": "2025-11-05T13:06:56.453057",
+    "report_data": "{\"total_executions\": 0, \"success_rate\": 0, \"average_execution_time\": 0, \"bots_used\": 0}"
+  },
+  "analytics": {
+    "analysis_type": "data_patterns",
+    "data_source": "collected_data",
+    "insights": [],
+    "metrics": {
+      "total_patterns": 0,
+      "unique_patterns": 0,
+      "frequency_distribution": {},
+      "confidence_distribution": {}
+    },
+    "generated_at": "2025-11-05T13:06:56.549673"
+  },
+  "employee_performance": {
+    "period_days": 7,
+    "employee_metrics": {},
+    "performance_scores": {},
+    "generated_at": "2025-11-05T13:06:56.620035"
+  },
+  "generated_at": "2025-11-05T13:06:56.620049"
+}

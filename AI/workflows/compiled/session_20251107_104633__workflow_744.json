@@ -1,0 +1,52 @@
+{
+  "workflow_key": "session_20251107_104633::workflow_744",
+  "session_id": "session_20251107_104633",
+  "workflow_id": "workflow_744",
+  "workflow_type": "interaction",
+  "description": "",
+  "goal": "Completing billing workflow",
+  "confidence": 0.7,
+  "timestamp": "2025-11-08T10:02:03.577999",
+  "summary": [
+    "Workflow captured from session session_20251107_104633 (interaction).",
+    "Contains 2 recorded actions with goal: Completing billing workflow.",
+    "Top intents detected:",
+    "  • Process Billing (2 steps)",
+    "Primary applications involved:",
+    "  • Cursor.exe (2 steps)",
+    "Common screens/pages:",
+    "  • Untitled-1 - Medisoft Billing - Cursor (2 steps)",
+    "Suggested interpretation:",
+    "  Mixed activity detected; review simulation output for step-by-step context."
+  ],
+  "steps": [
+    {
+      "step_number": 1,
+      "action_id": "screen_2025-11-07T10:50:24.105898",
+      "intent_category": "process_billing",
+      "intent_description": "Processing billing tasks",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Untitled-1 - Medisoft Billing - Cursor",
+        "state": "viewing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251107_104633"
+    },
+    {
+      "step_number": 2,
+      "action_id": "screen_2025-11-07T10:50:25.145728",
+      "intent_category": "process_billing",
+      "intent_description": "Processing billing tasks",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "Cursor.exe",
+        "page": "Untitled-1 - Medisoft Billing - Cursor",
+        "state": "viewing",
+        "task": "Billing"
+      },
+      "source_session": "session_20251107_104633"
+    }
+  ]
+}

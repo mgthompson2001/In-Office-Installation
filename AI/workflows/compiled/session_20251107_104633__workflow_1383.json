@@ -1,0 +1,154 @@
+{
+  "workflow_key": "session_20251107_104633::workflow_1383",
+  "session_id": "session_20251107_104633",
+  "workflow_id": "workflow_1383",
+  "workflow_type": "interaction",
+  "description": "... and 5 more actions",
+  "goal": "Goal unclear",
+  "confidence": 0.7,
+  "timestamp": "2025-11-08T10:02:03.578471",
+  "summary": [
+    "Workflow captured from session session_20251107_104633 (interaction).",
+    "Contains 10 recorded actions with goal: Goal unclear.",
+    "Top intents detected:",
+    "  • Delete (10 steps)",
+    "Primary applications involved:",
+    "  • Excel (10 steps)",
+    "Common screens/pages:",
+    "  • remove_counselor_data_20251107_095450 - Excel (10 steps)",
+    "Suggested interpretation:",
+    "  Mixed activity detected; review simulation output for step-by-step context."
+  ],
+  "steps": [
+    {
+      "step_number": 1,
+      "action_id": "screen_2025-11-07T10:55:07.689550",
+      "intent_category": "delete",
+      "intent_description": "User intends to delete",
+      "intent_confidence": 0.4,
+      "contexts": {
+        "application": "Excel",
+        "page": "remove_counselor_data_20251107_095450 - Excel",
+        "state": "viewing"
+      },
+      "source_session": "session_20251107_104633"
+    },
+    {
+      "step_number": 2,
+      "action_id": "screen_2025-11-07T10:55:08.544404",
+      "intent_category": "delete",
+      "intent_description": "User intends to delete",
+      "intent_confidence": 0.4,
+      "contexts": {
+        "application": "Excel",
+        "page": "remove_counselor_data_20251107_095450 - Excel",
+        "state": "viewing"
+      },
+      "source_session": "session_20251107_104633"
+    },
+    {
+      "step_number": 3,
+      "action_id": "screen_2025-11-07T10:55:09.622029",
+      "intent_category": "delete",
+      "intent_description": "User intends to delete",
+      "intent_confidence": 0.4,
+      "contexts": {
+        "application": "Excel",
+        "page": "remove_counselor_data_20251107_095450 - Excel",
+        "state": "viewing"
+      },
+      "source_session": "session_20251107_104633"
+    },
+    {
+      "step_number": 4,
+      "action_id": "screen_2025-11-07T10:55:10.659056",
+      "intent_category": "delete",
+      "intent_description": "User intends to delete",
+      "intent_confidence": 0.4,
+      "contexts": {
+        "application": "Excel",
+        "page": "remove_counselor_data_20251107_095450 - Excel",
+        "state": "viewing"
+      },
+      "source_session": "session_20251107_104633"
+    },
+    {
+      "step_number": 5,
+      "action_id": "screen_2025-11-07T10:55:11.690735",
+      "intent_category": "delete",
+      "intent_description": "User intends to delete",
+      "intent_confidence": 0.4,
+      "contexts": {
+        "application": "Excel",
+        "page": "remove_counselor_data_20251107_095450 - Excel",
+        "state": "viewing"
+      },
+      "source_session": "session_20251107_104633"
+    },
+    {
+      "step_number": 6,
+      "action_id": "screen_2025-11-07T10:55:12.752552",
+      "intent_category": "delete",
+      "intent_description": "User intends to delete",
+      "intent_confidence": 0.4,
+      "contexts": {
+        "application": "Excel",
+        "page": "remove_counselor_data_20251107_095450 - Excel",
+        "state": "viewing"
+      },
+      "source_session": "session_20251107_104633"
+    },
+    {
+      "step_number": 7,
+      "action_id": "screen_2025-11-07T10:55:13.805880",
+      "intent_category": "delete",
+      "intent_description": "User intends to delete",
+      "intent_confidence": 0.4,
+      "contexts": {
+        "application": "Excel",
+        "page": "remove_counselor_data_20251107_095450 - Excel",
+        "state": "viewing"
+      },
+      "source_session": "session_20251107_104633"
+    },
+    {
+      "step_number": 8,
+      "action_id": "screen_2025-11-07T10:55:14.830620",
+      "intent_category": "delete",
+      "intent_description": "User intends to delete",
+      "intent_confidence": 0.4,
+      "contexts": {
+        "application": "Excel",
+        "page": "remove_counselor_data_20251107_095450 - Excel",
+        "state": "viewing"
+      },
+      "source_session": "session_20251107_104633"
+    },
+    {
+      "step_number": 9,
+      "action_id": "screen_2025-11-07T10:55:15.883430",
+      "intent_category": "delete",
+      "intent_description": "User intends to delete",
+      "intent_confidence": 0.4,
+      "contexts": {
+        "application": "Excel",
+        "page": "remove_counselor_data_20251107_095450 - Excel",
+        "state": "viewing"
+      },
+      "source_session": "session_20251107_104633"
+    },
+    {
+      "step_number": 10,
+      "action_id": "screen_2025-11-07T10:55:16.924927",
+      "intent_category": "delete",
+      "intent_description": "User intends to delete",
+      "intent_confidence": 0.4,
+      "contexts": {
+        "application": "Excel",
+        "page": "remove_counselor_data_20251107_095450 - Excel",
+        "state": "viewing"
+      },
+      "source_session": "session_20251107_104633"
+    }
+  ]
+}

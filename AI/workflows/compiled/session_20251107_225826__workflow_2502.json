@@ -1,0 +1,52 @@
+{
+  "workflow_key": "session_20251107_225826::workflow_2502",
+  "session_id": "session_20251107_225826",
+  "workflow_id": "workflow_2502",
+  "workflow_type": "interaction",
+  "description": "",
+  "goal": "Goal: therapy notes management",
+  "confidence": 0.7,
+  "timestamp": "2025-11-08T10:13:20.453604",
+  "summary": [
+    "Workflow captured from session session_20251107_225826 (interaction).",
+    "Contains 2 recorded actions with goal: Goal: therapy notes management.",
+    "Top intents detected:",
+    "  • Therapy Notes Navigation (2 steps)",
+    "Primary applications involved:",
+    "  • Browser (2 steps)",
+    "Common screens/pages:",
+    "  • Results Page (2 steps)",
+    "Suggested interpretation:",
+    "  Mixed activity detected; review simulation output for step-by-step context."
+  ],
+  "steps": [
+    {
+      "step_number": 1,
+      "action_id": "screen_2025-11-07T23:24:40.036664",
+      "intent_category": "therapy_notes_navigation",
+      "intent_description": "Navigating TherapyNotes",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "Browser",
+        "page": "Results Page",
+        "state": "viewing",
+        "task": "Medical Records"
+      },
+      "source_session": "session_20251107_225826"
+    },
+    {
+      "step_number": 2,
+      "action_id": "screen_2025-11-07T23:24:41.102172",
+      "intent_category": "therapy_notes_navigation",
+      "intent_description": "Navigating TherapyNotes",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "Browser",
+        "page": "Results Page",
+        "state": "viewing",
+        "task": "Medical Records"
+      },
+      "source_session": "session_20251107_225826"
+    }
+  ]
+}

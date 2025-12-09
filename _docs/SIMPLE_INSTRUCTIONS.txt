@@ -1,0 +1,95 @@
+CCMD Bot Master - Simple Installation Instructions
+==================================================
+
+FOR IT ADMINISTRATORS:
+======================
+
+1. Copy this entire "In-Office Installation" folder to each user's computer
+2. Put it on their Desktop or in Documents folder
+3. Tell users to double-click "install.bat" to install everything
+4. That's it! The installer does everything automatically.
+
+FOR END USERS:
+==============
+
+1. Double-click "install.bat" in this folder
+2. Wait for installation to complete (takes 2-5 minutes)
+3. Look for "CCMD Bot Launcher" on your desktop (red pillar "I" icon)
+4. Double-click it to start using the bots
+5. Select a bot from the list and click "Launch Selected"
+6. No password required for normal usage!
+7. Your computer is automatically registered for updates!
+
+WHAT YOU NEED:
+==============
+
+- Python 3.8+ installed (from python.org)
+- Google Chrome browser installed
+- Internet connection
+- Login credentials for Penelope and TherapyNotes
+
+WHAT THE INSTALLER DOES:
+========================
+
+- Installs all required Python packages
+- Creates desktop shortcut for easy access
+- Tests everything to make sure it works
+- Shows you exactly what's happening
+
+TROUBLESHOOTING:
+================
+
+If installation fails:
+- Make sure Python is installed from python.org
+- Make sure Chrome browser is installed
+- Try running Command Prompt as Administrator
+- Contact IT support with the error message
+
+If bots don't work:
+- Check that you have the correct login credentials
+- Make sure internet connection is working
+- Try with a small test file first
+
+QUICK TEST:
+===========
+
+After installation:
+1. Double-click "CCMD Bot Launcher" on desktop (red pillar "I" icon)
+2. Enter password: Integritycode1!
+3. Select "Intake & Referral Department"
+4. Click "Launch Selected"
+5. If the department launcher opens, you're good to go!
+
+AVAILABLE BOTS:
+===============
+
+Main Launcher:
+- Medical Records Bot
+- Consent Form Bot
+- Welcome Letter Bot
+- Intake & Referral Department
+
+Intake & Referral Department:
+- Remove Counselor Bot
+- Unified Launcher (runs multiple bots together)
+- Referral Form/Upload Bot
+- Counselor Assignment Bot
+
+SECURITY FEATURES:
+==================
+
+- Password protection: Integritycode1!
+- Session timeout: 30 minutes of inactivity
+- Code encryption: Bot files are protected from unauthorized access
+- Max attempts: 3 failed password attempts will lock access
+
+NEED HELP?
+==========
+
+- Check the README.md file for more details
+- Contact your IT department
+- Make sure all files are in the correct folder structure
+- If locked out, restart the application
+
+That's it! The installation is designed to be as simple as possible.
+Just double-click install.bat and follow the instructions.

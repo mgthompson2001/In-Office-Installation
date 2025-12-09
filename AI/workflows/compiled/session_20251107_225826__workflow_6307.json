@@ -1,0 +1,50 @@
+{
+  "workflow_key": "session_20251107_225826::workflow_6307",
+  "session_id": "session_20251107_225826",
+  "workflow_id": "workflow_6307",
+  "workflow_type": "data_entry",
+  "description": "Type: Key.space",
+  "goal": "Goal unclear",
+  "confidence": 0.7,
+  "timestamp": "2025-11-08T10:01:57.123182",
+  "summary": [
+    "Workflow captured from session session_20251107_225826 (data_entry).",
+    "Contains 2 recorded actions with goal: Goal unclear.",
+    "Top intents detected:",
+    "  • Unknown (2 steps)",
+    "Primary applications involved:",
+    "  • LockApp.exe (2 steps)",
+    "Common screens/pages:",
+    "  • Windows Default Lock Screen (2 steps)",
+    "Suggested interpretation:",
+    "  Mixed activity detected; review simulation output for step-by-step context."
+  ],
+  "steps": [
+    {
+      "step_number": 1,
+      "action_id": "keyboard_2025-11-08T00:42:20.304134",
+      "intent_category": "unknown",
+      "intent_description": "Intent unclear",
+      "intent_confidence": 0.0,
+      "contexts": {
+        "application": "LockApp.exe",
+        "page": "Windows Default Lock Screen",
+        "state": "typing"
+      },
+      "source_session": "session_20251107_225826"
+    },
+    {
+      "step_number": 2,
+      "action_id": "screen_2025-11-08T00:42:20.387640",
+      "intent_category": "unknown",
+      "intent_description": "Intent unclear",
+      "intent_confidence": 0.0,
+      "contexts": {
+        "application": "LockApp.exe",
+        "page": "Windows Default Lock Screen",
+        "state": "viewing"
+      },
+      "source_session": "session_20251107_225826"
+    }
+  ]
+}

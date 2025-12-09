@@ -1,0 +1,38 @@
+{
+  "workflow_key": "session_20251107_225826::workflow_11",
+  "session_id": "session_20251107_225826",
+  "workflow_id": "workflow_11",
+  "workflow_type": "interaction",
+  "description": "Click/interact",
+  "goal": "Completing billing workflow",
+  "confidence": 0.7,
+  "timestamp": "2025-11-08T10:01:57.117471",
+  "summary": [
+    "Workflow captured from session session_20251107_225826 (interaction).",
+    "Contains 1 recorded actions with goal: Completing billing workflow.",
+    "Top intents detected:",
+    "  • Process Billing (1 steps)",
+    "Primary applications involved:",
+    "  • Browser (1 steps)",
+    "Common screens/pages:",
+    "  • Billing overview - OpenAI API - Google Chrome (1 steps)",
+    "Suggested interpretation:",
+    "  Mixed activity detected; review simulation output for step-by-step context."
+  ],
+  "steps": [
+    {
+      "step_number": 1,
+      "action_id": "mouse_2025-11-07T22:58:30.114825",
+      "intent_category": "process_billing",
+      "intent_description": "Processing billing tasks",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "Browser",
+        "page": "Billing overview - OpenAI API - Google Chrome",
+        "state": "interacting",
+        "task": "Billing"
+      },
+      "source_session": "session_20251107_225826"
+    }
+  ]
+}

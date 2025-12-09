@@ -1,0 +1,26 @@
+# Missed Appointments Tracker Bot - Required Dependencies (MODERNIZED)
+# Install with: pip install -r requirements.txt
+# Then run: playwright install chromium
+
+# Core dependencies (REQUIRED)
+pandas>=2.0.0  # For Excel I/O (keeping for compatibility)
+openpyxl>=3.1.0  # For Excel file reading/writing
+
+# Modern data processing (10-100x faster than pandas for large datasets)
+polars>=0.19.0  # Modern, fast data processing
+
+# Modern web automation (3-5x faster than Selenium, auto-waits!)
+playwright>=1.40.0  # Modern web automation - MUCH faster than Selenium
+
+# Modern logging (one-line setup, auto-rotation)
+loguru>=0.7.2  # Much easier than standard logging
+
+# Modern data validation (optional but recommended)
+pydantic>=2.5.0  # Automatic data validation and type safety
+
+# Image processing (for email logo conversion)
+Pillow>=10.0.0  # For converting WebP to PNG for email compatibility
+
+# Note: OAuth2 email sending uses SMTP with XOAUTH2 (no additional libraries needed beyond standard library)
+# The requests library is not required for OAuth2 email sending, but may be useful for token refresh
+

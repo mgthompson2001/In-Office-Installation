@@ -1,0 +1,40 @@
+{
+  "generated_at": "2025-11-08T21:08:43.887642",
+  "model": "gpt-5-mini",
+  "summary": "### Overview\nThe healthcare automation platform has collected substantial interaction data over the past two days, but it has not yet made progress in learning or model training. The system has gathered a variety of input metrics, but the learning phase remains stagnant, with no patterns extracted or workflows identified.\n\n### Key Metrics\n- **Total Inputs**: 6,126 keyboard inputs and 1,661 mouse interactions across 414 applications.\n- **Data Collection**: 7,326 MB of data collected over 10 sessions.\n- **Learning Progress**: 0% progress with no patterns extracted or models trained.\n- **Patterns**: 96 total patterns identified, but none have been utilized for learning or training.\n\n### Risks\n- **Stagnation in Learning**: The lack of progress in learning and model training poses a risk of underutilizing the collected data, potentially leading to missed opportunities for automation improvements.\n- **Data Overload**: Accumulating large amounts of data without actionable insights could overwhelm system resources and hinder performance.\n\n### Recommendations\n- **Initiate Training Protocols**: Begin training models using the collected data points to extract actionable patterns and workflows.\n- **Set Learning Milestones**: Establish clear milestones for learning progress to track improvements and ensure timely adjustments to the training process.\n- **Monitor System Performance**: Regularly assess system performance to ensure that data collection does not negatively impact operational efficiency.",
+  "metrics": {
+    "collected": {
+      "total_screens": 14196,
+      "total_keyboard": 6126,
+      "total_mouse": 1661,
+      "total_apps": 414,
+      "total_files": 1044591,
+      "total_data_points": 1066988,
+      "sessions_count": 10,
+      "data_size_mb": 7326.03,
+      "collection_rate_per_hour": 24827.16414902475,
+      "time_span_days": 2
+    },
+    "learning": {
+      "patterns_extracted": 0,
+      "workflows_identified": 0,
+      "sequences_learned": 0,
+      "models_trained": 0,
+      "training_data_points": true,
+      "last_analysis": null,
+      "last_training": null,
+      "learning_progress": 0.0,
+      "pattern_count": 96,
+      "last_pattern_seen": "2025-11-08T10:24:27.545202",
+      "training_accuracy": null,
+      "training_precision": null,
+      "training_recall": null
+    },
+    "patterns": {
+      "total_patterns": 96,
+      "last_seen": "2025-11-08T10:24:27.545202",
+      "total_sessions": 96
+    },
+    "training_runs": []
+  }
+}

@@ -1,0 +1,116 @@
+{
+  "workflow_key": "session_20251108_102159::workflow_30",
+  "session_id": "session_20251108_102159",
+  "workflow_id": "workflow_30",
+  "workflow_type": "interaction",
+  "description": "Click/interact → Click/interact → Click/interact → ... and 2 more actions",
+  "goal": "Goal unclear",
+  "confidence": 0.7,
+  "timestamp": "2025-11-08T10:39:57.739271",
+  "summary": [
+    "Workflow captured from session session_20251108_102159 (interaction).",
+    "Contains 7 recorded actions with goal: Goal unclear.",
+    "Top intents detected:",
+    "  • Unknown (7 steps)",
+    "Primary applications involved:",
+    "  • explorer.exe (7 steps)",
+    "Common screens/pages:",
+    "  • Program Manager (6 steps)",
+    "  • AI - File Explorer (1 steps)",
+    "Suggested interpretation:",
+    "  Mixed activity detected; review simulation output for step-by-step context."
+  ],
+  "steps": [
+    {
+      "step_number": 1,
+      "action_id": "mouse_2025-11-08T10:22:11.942959",
+      "intent_category": "unknown",
+      "intent_description": "Intent unclear",
+      "intent_confidence": 0.0,
+      "contexts": {
+        "application": "explorer.exe",
+        "page": "Program Manager",
+        "state": "interacting"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 2,
+      "action_id": "mouse_2025-11-08T10:22:12.055039",
+      "intent_category": "unknown",
+      "intent_description": "Intent unclear",
+      "intent_confidence": 0.0,
+      "contexts": {
+        "application": "explorer.exe",
+        "page": "Program Manager",
+        "state": "interacting"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 3,
+      "action_id": "screen_2025-11-08T10:22:12.302606",
+      "intent_category": "unknown",
+      "intent_description": "Intent unclear",
+      "intent_confidence": 0.0,
+      "contexts": {
+        "application": "explorer.exe",
+        "page": "Program Manager",
+        "state": "viewing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 4,
+      "action_id": "screen_2025-11-08T10:22:13.381563",
+      "intent_category": "unknown",
+      "intent_description": "Intent unclear",
+      "intent_confidence": 0.0,
+      "contexts": {
+        "application": "explorer.exe",
+        "page": "Program Manager",
+        "state": "viewing"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 5,
+      "action_id": "mouse_2025-11-08T10:22:13.502913",
+      "intent_category": "unknown",
+      "intent_description": "Intent unclear",
+      "intent_confidence": 0.0,
+      "contexts": {
+        "application": "explorer.exe",
+        "page": "Program Manager",
+        "state": "interacting"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 6,
+      "action_id": "mouse_2025-11-08T10:22:13.503405",
+      "intent_category": "unknown",
+      "intent_description": "Intent unclear",
+      "intent_confidence": 0.0,
+      "contexts": {
+        "application": "explorer.exe",
+        "page": "Program Manager",
+        "state": "interacting"
+      },
+      "source_session": "session_20251108_102159"
+    },
+    {
+      "step_number": 7,
+      "action_id": "mouse_2025-11-08T10:22:13.583795",
+      "intent_category": "unknown",
+      "intent_description": "Intent unclear",
+      "intent_confidence": 0.0,
+      "contexts": {
+        "application": "explorer.exe",
+        "page": "AI - File Explorer",
+        "state": "interacting"
+      },
+      "source_session": "session_20251108_102159"
+    }
+  ]
+}

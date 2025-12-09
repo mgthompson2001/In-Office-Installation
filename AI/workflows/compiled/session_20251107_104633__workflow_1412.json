@@ -1,0 +1,38 @@
+{
+  "workflow_key": "session_20251107_104633::workflow_1412",
+  "session_id": "session_20251107_104633",
+  "workflow_id": "workflow_1412",
+  "workflow_type": "interaction",
+  "description": "",
+  "goal": "Removing counselor assignments",
+  "confidence": 0.7,
+  "timestamp": "2025-11-08T10:02:03.578500",
+  "summary": [
+    "Workflow captured from session session_20251107_104633 (interaction).",
+    "Contains 1 recorded actions with goal: Removing counselor assignments.",
+    "Top intents detected:",
+    "  • Remove Counselor (1 steps)",
+    "Primary applications involved:",
+    "  • pythonw.exe (1 steps)",
+    "Common screens/pages:",
+    "  • Bot Interface (1 steps)",
+    "Suggested interpretation:",
+    "  This captures a TherapyNotes counselor removal workflow."
+  ],
+  "steps": [
+    {
+      "step_number": 1,
+      "action_id": "screen_2025-11-07T10:55:36.777572",
+      "intent_category": "remove_counselor",
+      "intent_description": "Removing counselor assignment",
+      "intent_confidence": 0.9,
+      "contexts": {
+        "application": "pythonw.exe",
+        "page": "Bot Interface",
+        "state": "viewing",
+        "task": "IPS Removal"
+      },
+      "source_session": "session_20251107_104633"
+    }
+  ]
+}

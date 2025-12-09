@@ -1,0 +1,63 @@
+{
+  "workflow_key": "session_20251107_093408::workflow_3687",
+  "session_id": "session_20251107_093408",
+  "workflow_id": "workflow_3687",
+  "workflow_type": "interaction",
+  "description": "",
+  "goal": "Goal unclear",
+  "confidence": 0.7,
+  "timestamp": "2025-11-08T10:13:32.008557",
+  "summary": [
+    "Workflow captured from session session_20251107_093408 (interaction).",
+    "Contains 3 recorded actions with goal: Goal unclear.",
+    "Top intents detected:",
+    "  • Search (3 steps)",
+    "Primary applications involved:",
+    "  • SearchHost.exe (3 steps)",
+    "Common screens/pages:",
+    "  • Search Page (3 steps)",
+    "Suggested interpretation:",
+    "  Mixed activity detected; review simulation output for step-by-step context."
+  ],
+  "steps": [
+    {
+      "step_number": 1,
+      "action_id": "screen_2025-11-07T10:17:43.844196",
+      "intent_category": "search",
+      "intent_description": "User intends to search",
+      "intent_confidence": 0.4,
+      "contexts": {
+        "application": "SearchHost.exe",
+        "page": "Search Page",
+        "state": "viewing"
+      },
+      "source_session": "session_20251107_093408"
+    },
+    {
+      "step_number": 2,
+      "action_id": "screen_2025-11-07T10:17:44.882991",
+      "intent_category": "search",
+      "intent_description": "User intends to search",
+      "intent_confidence": 0.4,
+      "contexts": {
+        "application": "SearchHost.exe",
+        "page": "Search Page",
+        "state": "viewing"
+      },
+      "source_session": "session_20251107_093408"
+    },
+    {
+      "step_number": 3,
+      "action_id": "screen_2025-11-07T10:17:45.856055",
+      "intent_category": "search",
+      "intent_description": "User intends to search",
+      "intent_confidence": 0.4,
+      "contexts": {
+        "application": "SearchHost.exe",
+        "page": "Search Page",
+        "state": "viewing"
+      },
+      "source_session": "session_20251107_093408"
+    }
+  ]
+}

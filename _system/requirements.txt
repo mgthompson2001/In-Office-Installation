@@ -1,0 +1,76 @@
+# CCMD Bot Master - Python Dependencies
+# Install with: pip install -r requirements.txt
+# Updated: 10/28/2025 - Complete dependency list for all bots
+
+# Core web automation
+selenium>=4.15.0  # Legacy - kept for backward compatibility
+webdriver-manager>=4.0.0  # Legacy - kept for backward compatibility
+
+# Modern web automation (3-5x faster than Selenium, auto-waits!)
+playwright>=1.40.0  # Modern web automation - MUCH faster and more reliable
+
+# Data processing
+pandas>=2.0.0  # Excel I/O and legacy data processing
+openpyxl>=3.1.0  # Excel file reading/writing
+xlrd>=2.0.1
+
+# Modern data processing (10-100x faster than pandas for large datasets)
+polars>=0.19.0  # Modern, fast data processing - use for large datasets
+
+# HTTP requests
+requests>=2.31.0
+
+# Clipboard operations
+pyperclip>=1.8.2
+
+# Image processing for custom icons
+Pillow>=10.0.0
+
+# Windows COM for desktop shortcuts
+pywin32>=306; sys_platform == 'win32'
+
+# Additional dependencies for bots
+lxml>=4.9.0
+beautifulsoup4>=4.11.0
+
+# GUI framework (usually included with Python)
+# tkinter - built into Python standard library
+
+# PDF manipulation and creation
+pdfrw>=0.4
+reportlab>=4.0.0
+PyPDF2>=3.0.0  # PDF reading/manipulation (used by Welcome Letter Bot)
+fpdf2>=2.7.0  # Simple PDF creation library
+pdfplumber>=0.11.0  # PDF parsing/reading (used by Medisoft Billing Bot)
+pdf2image>=1.17.0  # PDF to image conversion for OCR
+pytesseract>=0.3.13  # OCR text extraction from scanned PDFs
+
+# Desktop automation for desktop software bots
+pyautogui>=0.9.54
+pywinauto>=0.6.8
+
+# Date and time utilities
+python-dateutil>=2.8.2
+
+# Additional utilities
+pathlib2>=2.3.7; python_version < "3.4"
+
+# Logging and error handling
+colorama>=0.4.6
+
+# Modern logging (one-line setup, auto-rotation, better formatting)
+loguru>=0.7.2  # Much easier than standard logging - automatic log rotation
+
+# File handling
+Send2Trash>=1.8.2
+
+# Config parsing
+configparser>=6.0.0
+
+# Modern data validation (automatic type validation, better error messages)
+pydantic>=2.5.0  # Automatic data validation and type safety
+
+# Optional: AI Task Assistant dependencies (for natural language task routing)
+# These are optional - the system works without them using fuzzy matching
+anthropic>=0.18.0  # Claude/Anthropic API support
+openai>=1.0.0      # OpenAI/GPT API support

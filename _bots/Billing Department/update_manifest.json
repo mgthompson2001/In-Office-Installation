@@ -1,0 +1,736 @@
+{
+  "created": "2025-11-26T13:55:13.819074",
+  "files": [
+    {
+      "path": "billing_department_launcher.bat",
+      "size": 599,
+      "modified": "2025-10-28T17:07:02.138283"
+    },
+    {
+      "path": "billing_department_launcher.py",
+      "size": 9566,
+      "modified": "2025-11-19T15:42:43.590029"
+    },
+    {
+      "path": "check_cleanup_status.py",
+      "size": 3974,
+      "modified": "2025-11-14T15:11:32.655062"
+    },
+    {
+      "path": "data_cleanup.py",
+      "size": 12480,
+      "modified": "2025-11-14T14:41:25.440500"
+    },
+    {
+      "path": "init_passive_cleanup.py",
+      "size": 1973,
+      "modified": "2025-11-14T14:41:25.440500"
+    },
+    {
+      "path": "PASSIVE_CLEANUP_INTEGRATION.md",
+      "size": 4515,
+      "modified": "2025-11-14T14:41:25.452606"
+    },
+    {
+      "path": "Billing Department/check_cleanup_status.py",
+      "size": 3926,
+      "modified": "2025-11-14T15:11:32.653060"
+    },
+    {
+      "path": "Billing Department/status_report.py",
+      "size": 4598,
+      "modified": "2025-11-17T16:38:57.320076"
+    },
+    {
+      "path": "Medicare Modifier Comparison Bot/install.bat",
+      "size": 159,
+      "modified": "2025-11-19T09:49:32"
+    },
+    {
+      "path": "Medicare Modifier Comparison Bot/medicare_modifier_comparison_bot.bat",
+      "size": 79,
+      "modified": "2025-11-19T09:49:32"
+    },
+    {
+      "path": "Medicare Modifier Comparison Bot/medicare_modifier_comparison_bot.py",
+      "size": 160571,
+      "modified": "2025-11-20T23:17:27.088356"
+    },
+    {
+      "path": "Medicare Modifier Comparison Bot/README.md",
+      "size": 2124,
+      "modified": "2025-11-19T09:49:32"
+    },
+    {
+      "path": "Medicare Modifier Comparison Bot/requirements.txt",
+      "size": 54,
+      "modified": "2025-11-19T11:40:06"
+    },
+    {
+      "path": "Medicare Refiling Bot/FIELD_MAPPING_GUIDE.md",
+      "size": 3468,
+      "modified": "2025-11-13T11:49:04.652785"
+    },
+    {
+      "path": "Medicare Refiling Bot/medicare_refiling_bot.log.1",
+      "size": 5242852,
+      "modified": "2025-11-18T11:18:53.339284"
+    },
+    {
+      "path": "Medicare Refiling Bot/medicare_refiling_bot.log.2",
+      "size": 5241830,
+      "modified": "2025-11-18T11:10:48.012191"
+    },
+    {
+      "path": "Medicare Refiling Bot/medicare_refiling_bot.log.3",
+      "size": 5242677,
+      "modified": "2025-11-18T11:02:50.794571"
+    },
+    {
+      "path": "Medicare Refiling Bot/medicare_refiling_bot.log.4",
+      "size": 5242724,
+      "modified": "2025-11-18T10:55:39.680424"
+    },
+    {
+      "path": "Medicare Refiling Bot/medicare_refiling_bot.log.5",
+      "size": 5242277,
+      "modified": "2025-11-18T10:47:44.189319"
+    },
+    {
+      "path": "Medicare Refiling Bot/medicare_refiling_bot.py",
+      "size": 414552,
+      "modified": "2025-11-21T13:45:17.249717"
+    },
+    {
+      "path": "Medicare Refiling Bot/VISUAL_MAPPER_GUIDE.md",
+      "size": 5931,
+      "modified": "2025-11-13T12:08:43.835756"
+    },
+    {
+      "path": "Medisoft Billing/account_ledger.png",
+      "size": 2522,
+      "modified": "2025-10-29T11:34:08.038828"
+    },
+    {
+      "path": "Medisoft Billing/check_pdf_fields.py",
+      "size": 3563,
+      "modified": "2025-11-13T11:30:47.601519"
+    },
+    {
+      "path": "Medisoft Billing/custom.png",
+      "size": 1863,
+      "modified": "2025-10-30T16:36:22.081597"
+    },
+    {
+      "path": "Medisoft Billing/date_created_checkbox.png",
+      "size": 2241,
+      "modified": "2025-10-29T16:09:24.665368"
+    },
+    {
+      "path": "Medisoft Billing/EXAMPLE_INTEGRATION_medisoft_bot.py",
+      "size": 8042,
+      "modified": "2025-11-26T13:27:08.992410"
+    },
+    {
+      "path": "Medisoft Billing/find_tesseract_poppler.py",
+      "size": 4740,
+      "modified": "2025-10-29T14:15:33.983476"
+    },
+    {
+      "path": "Medisoft Billing/HEALTHCARE_FINANCIAL_KPIs.md",
+      "size": 13351,
+      "modified": "2025-11-22T16:50:44.016910"
+    },
+    {
+      "path": "Medisoft Billing/install.bat",
+      "size": 7114,
+      "modified": "2025-11-20T12:22:59.986460"
+    },
+    {
+      "path": "Medisoft Billing/INSTALLATION_GUIDE.md",
+      "size": 4242,
+      "modified": "2025-10-29T10:55:57.393885"
+    },
+    {
+      "path": "Medisoft Billing/INSTALL_BOTS.bat",
+      "size": 13466,
+      "modified": "2025-11-26T09:53:37.606595"
+    },
+    {
+      "path": "Medisoft Billing/launch_medisoft_reports.png",
+      "size": 6905,
+      "modified": "2025-10-30T16:45:14.901960"
+    },
+    {
+      "path": "Medisoft Billing/medisoft_billing_bot.bat",
+      "size": 1586,
+      "modified": "2025-11-20T12:22:59.986460"
+    },
+    {
+      "path": "Medisoft Billing/medisoft_billing_bot.py",
+      "size": 267038,
+      "modified": "2025-11-19T11:18:18.916693"
+    },
+    {
+      "path": "Medisoft Billing/OCR_SETUP.md",
+      "size": 3472,
+      "modified": "2025-10-29T12:45:23.578364"
+    },
+    {
+      "path": "Medisoft Billing/ok_button_search_window.png",
+      "size": 2379,
+      "modified": "2025-10-29T15:13:14.922763"
+    },
+    {
+      "path": "Medisoft Billing/patient_account_ledger.png",
+      "size": 2345,
+      "modified": "2025-10-30T16:36:34.895188"
+    },
+    {
+      "path": "Medisoft Billing/patient_ledger.png",
+      "size": 2625,
+      "modified": "2025-10-29T11:38:51.523556"
+    },
+    {
+      "path": "Medisoft Billing/POWER_BI_QUICK_START.md",
+      "size": 6682,
+      "modified": "2025-11-22T16:55:18.847358"
+    },
+    {
+      "path": "Medisoft Billing/POWER_BI_SETUP_GUIDE.md",
+      "size": 37634,
+      "modified": "2025-11-22T16:55:18.847358"
+    },
+    {
+      "path": "Medisoft Billing/QUICK_START_UPDATES.md",
+      "size": 4821,
+      "modified": "2025-11-26T13:27:08.992410"
+    },
+    {
+      "path": "Medisoft Billing/README.md",
+      "size": 4693,
+      "modified": "2025-10-29T10:55:57.394957"
+    },
+    {
+      "path": "Medisoft Billing/release_update.py",
+      "size": 7106,
+      "modified": "2025-11-26T13:27:08.992410"
+    },
+    {
+      "path": "Medisoft Billing/repeat_loop_open_patient_account_ledgerv1.png",
+      "size": 2476,
+      "modified": "2025-10-30T13:02:36.037284"
+    },
+    {
+      "path": "Medisoft Billing/requirements.txt",
+      "size": 2494,
+      "modified": "2025-11-18T12:05:22.756575"
+    },
+    {
+      "path": "Medisoft Billing/search_add_button.png",
+      "size": 2119,
+      "modified": "2025-10-29T15:12:21.101700"
+    },
+    {
+      "path": "Medisoft Billing/search_chart_dots.png",
+      "size": 1377,
+      "modified": "2025-10-29T15:09:03.238020"
+    },
+    {
+      "path": "Medisoft Billing/search_date_created_check.png",
+      "size": 2178,
+      "modified": "2025-10-29T15:11:06.175951"
+    },
+    {
+      "path": "Medisoft Billing/search_date_from_end.png",
+      "size": 1736,
+      "modified": "2025-10-29T15:10:16.751972"
+    },
+    {
+      "path": "Medisoft Billing/search_date_from_start.png",
+      "size": 2144,
+      "modified": "2025-10-29T15:09:52.933584"
+    },
+    {
+      "path": "Medisoft Billing/search_popup_ok_button.png",
+      "size": 1451,
+      "modified": "2025-10-29T15:51:02.290942"
+    },
+    {
+      "path": "Medisoft Billing/search_procedure_code.png",
+      "size": 1469,
+      "modified": "2025-10-29T15:11:40.620237"
+    },
+    {
+      "path": "Medisoft Billing/setup_update_system.py",
+      "size": 6213,
+      "modified": "2025-11-26T13:27:08.992410"
+    },
+    {
+      "path": "Medisoft Billing/THERAPY_NOTES_PENELOPE_INTEGRATION.md",
+      "size": 14039,
+      "modified": "2025-11-22T16:55:18.847358"
+    },
+    {
+      "path": "Medisoft Billing/UPDATE_MANAGEMENT_SOLUTIONS.md",
+      "size": 10285,
+      "modified": "2025-11-26T13:27:08.992410"
+    },
+    {
+      "path": "Medisoft Billing/update_manager.py",
+      "size": 17568,
+      "modified": "2025-11-26T13:33:42.844230"
+    },
+    {
+      "path": "Medisoft Billing/UPDATE_SYSTEM_SETUP_GUIDE.md",
+      "size": 11937,
+      "modified": "2025-11-26T13:27:08.992410"
+    },
+    {
+      "path": "Medisoft Billing/UPDATE_SYSTEM_SUMMARY.md",
+      "size": 5029,
+      "modified": "2025-11-26T13:27:08.992410"
+    },
+    {
+      "path": "Medisoft Penelope Data Synthesizer/analyze_pdf_structure.py",
+      "size": 5863,
+      "modified": "2025-11-18T14:19:22"
+    },
+    {
+      "path": "Medisoft Penelope Data Synthesizer/check_columns.py",
+      "size": 1480,
+      "modified": "2025-11-18T14:40:14"
+    },
+    {
+      "path": "Medisoft Penelope Data Synthesizer/check_duplicates.py",
+      "size": 3613,
+      "modified": "2025-11-18T14:33:44"
+    },
+    {
+      "path": "Medisoft Penelope Data Synthesizer/check_output.py",
+      "size": 3516,
+      "modified": "2025-11-18T14:31:52"
+    },
+    {
+      "path": "Medisoft Penelope Data Synthesizer/check_pdf_rows.py",
+      "size": 977,
+      "modified": "2025-11-18T14:09:22"
+    },
+    {
+      "path": "Medisoft Penelope Data Synthesizer/check_procedure_codes.py",
+      "size": 8235,
+      "modified": "2025-11-18T14:56:22"
+    },
+    {
+      "path": "Medisoft Penelope Data Synthesizer/check_procedure_deep.py",
+      "size": 7648,
+      "modified": "2025-11-18T14:56:22"
+    },
+    {
+      "path": "Medisoft Penelope Data Synthesizer/deep_check_pdf.py",
+      "size": 7227,
+      "modified": "2025-11-18T14:31:52"
+    },
+    {
+      "path": "Medisoft Penelope Data Synthesizer/inspect_pdf.py",
+      "size": 2111,
+      "modified": "2025-11-18T14:03:56"
+    },
+    {
+      "path": "Medisoft Penelope Data Synthesizer/install.bat",
+      "size": 5069,
+      "modified": "2025-11-18T13:36:34"
+    },
+    {
+      "path": "Medisoft Penelope Data Synthesizer/medisoft_penelope_data_synthesizer.bat",
+      "size": 1385,
+      "modified": "2025-11-18T13:28:00"
+    },
+    {
+      "path": "Medisoft Penelope Data Synthesizer/medisoft_penelope_data_synthesizer.py",
+      "size": 76622,
+      "modified": "2025-11-18T15:15:48"
+    },
+    {
+      "path": "Medisoft Penelope Data Synthesizer/README.md",
+      "size": 2452,
+      "modified": "2025-11-18T13:28:00"
+    },
+    {
+      "path": "Medisoft Penelope Data Synthesizer/requirements.txt",
+      "size": 778,
+      "modified": "2025-11-18T13:36:34"
+    },
+    {
+      "path": "TN Refiling Bot/README.md",
+      "size": 4645,
+      "modified": "2025-10-31T09:36:44.047887"
+    },
+    {
+      "path": "TN Refiling Bot/requirements.txt",
+      "size": 2078,
+      "modified": "2025-10-31T09:48:42.897866"
+    },
+    {
+      "path": "TN Refiling Bot/test_consuelo_pdf.bat",
+      "size": 559,
+      "modified": "2025-11-07T13:51:23.904030"
+    },
+    {
+      "path": "TN Refiling Bot/test_consuelo_pdf.py",
+      "size": 6217,
+      "modified": "2025-10-31T10:46:49.113744"
+    },
+    {
+      "path": "TN Refiling Bot/test_final_payer_extraction.bat",
+      "size": 599,
+      "modified": "2025-11-07T13:51:23.925033"
+    },
+    {
+      "path": "TN Refiling Bot/test_final_payer_extraction.py",
+      "size": 15710,
+      "modified": "2025-10-31T10:44:25.560678"
+    },
+    {
+      "path": "TN Refiling Bot/test_payer_claim_extraction.bat",
+      "size": 599,
+      "modified": "2025-11-07T13:51:23.945477"
+    },
+    {
+      "path": "TN Refiling Bot/test_payer_claim_extraction.py",
+      "size": 11811,
+      "modified": "2025-10-31T10:36:41.087424"
+    },
+    {
+      "path": "TN Refiling Bot/test_payer_claim_extraction_v2.bat",
+      "size": 611,
+      "modified": "2025-11-07T13:51:23.969366"
+    },
+    {
+      "path": "TN Refiling Bot/test_payer_claim_extraction_v2.py",
+      "size": 11555,
+      "modified": "2025-10-31T10:37:53.341010"
+    },
+    {
+      "path": "TN Refiling Bot/test_payer_claim_extraction_v3.bat",
+      "size": 611,
+      "modified": "2025-11-07T13:51:23.994372"
+    },
+    {
+      "path": "TN Refiling Bot/test_payer_claim_extraction_v3.py",
+      "size": 11209,
+      "modified": "2025-10-31T10:38:48.106534"
+    },
+    {
+      "path": "TN Refiling Bot/test_payer_extraction_verification.bat",
+      "size": 627,
+      "modified": "2025-11-07T13:51:24.035367"
+    },
+    {
+      "path": "TN Refiling Bot/test_payer_extraction_verification.py",
+      "size": 3230,
+      "modified": "2025-10-31T10:48:44.408427"
+    },
+    {
+      "path": "TN Refiling Bot/tn_refiling_bot.bat",
+      "size": 551,
+      "modified": "2025-11-07T13:51:24.056568"
+    },
+    {
+      "path": "TN Refiling Bot/tn_refiling_bot.py",
+      "size": 630744,
+      "modified": "2025-11-12T12:41:40.888329"
+    },
+    {
+      "path": "Medisoft Billing/Installer/check_network.bat",
+      "size": 796,
+      "modified": "2025-11-20T13:23:03.508224"
+    },
+    {
+      "path": "Medisoft Billing/Installer/check_python_version.py",
+      "size": 732,
+      "modified": "2025-11-20T13:09:28.298123"
+    },
+    {
+      "path": "Medisoft Billing/Installer/configure_paths.py",
+      "size": 2991,
+      "modified": "2025-11-20T12:22:59.985457"
+    },
+    {
+      "path": "Medisoft Billing/Installer/create_desktop_shortcut.vbs",
+      "size": 2653,
+      "modified": "2025-11-20T12:22:59.985457"
+    },
+    {
+      "path": "Medisoft Billing/Installer/FIX_NUMPY_ERROR.bat",
+      "size": 1877,
+      "modified": "2025-11-20T13:06:48.858158"
+    },
+    {
+      "path": "Medisoft Billing/Installer/Install.bots",
+      "size": 20412,
+      "modified": "2025-11-20T13:59:52.615196"
+    },
+    {
+      "path": "Medisoft Billing/Installer/INSTALLER_ROBUSTNESS.md",
+      "size": 7513,
+      "modified": "2025-11-20T13:23:03.508224"
+    },
+    {
+      "path": "Medisoft Billing/Installer/INSTALLER_SUMMARY.md",
+      "size": 6959,
+      "modified": "2025-11-20T12:22:59.986460"
+    },
+    {
+      "path": "Medisoft Billing/Installer/install_ocr_dependencies.ps1",
+      "size": 24737,
+      "modified": "2025-11-26T09:49:58.678737"
+    },
+    {
+      "path": "Medisoft Billing/Installer/install_python.ps1",
+      "size": 8970,
+      "modified": "2025-11-20T13:23:03.508224"
+    },
+    {
+      "path": "Medisoft Billing/Installer/INTEGRATION_NOTES.md",
+      "size": 5080,
+      "modified": "2025-11-20T12:22:59.985457"
+    },
+    {
+      "path": "Medisoft Billing/Installer/migrate_saved_data.py",
+      "size": 4522,
+      "modified": "2025-11-20T12:22:59.985457"
+    },
+    {
+      "path": "Medisoft Billing/Installer/PYTHON_INSTALLATION_FIX.md",
+      "size": 4820,
+      "modified": "2025-11-20T13:09:28.298123"
+    },
+    {
+      "path": "Medisoft Billing/Installer/QUICK_START.md",
+      "size": 1612,
+      "modified": "2025-11-20T12:22:59.986460"
+    },
+    {
+      "path": "Medisoft Billing/Installer/README.md",
+      "size": 7476,
+      "modified": "2025-11-20T12:22:59.986460"
+    },
+    {
+      "path": "Medisoft Billing/Installer/setup_icon.py",
+      "size": 4527,
+      "modified": "2025-11-20T12:22:59.985457"
+    },
+    {
+      "path": "Medisoft Billing/Installer/TESTING_CHECKLIST.md",
+      "size": 5511,
+      "modified": "2025-11-20T13:17:41.291744"
+    },
+    {
+      "path": "Medisoft Billing/Installer/test_installer.bat",
+      "size": 4207,
+      "modified": "2025-11-20T13:17:41.291744"
+    },
+    {
+      "path": "Medisoft Billing/Installer/TROUBLESHOOTING.md",
+      "size": 5886,
+      "modified": "2025-11-20T13:06:48.858158"
+    },
+    {
+      "path": "Medisoft Billing/Missed Appointments Tracker Bot/install.bat",
+      "size": 1003,
+      "modified": "2025-11-19T15:37:30"
+    },
+    {
+      "path": "Medisoft Billing/Missed Appointments Tracker Bot/integrity_logo.png",
+      "size": 24953,
+      "modified": "2025-11-24T11:38:03.949622"
+    },
+    {
+      "path": "Medisoft Billing/Missed Appointments Tracker Bot/LOGIC_ANALYSIS.md",
+      "size": 5366,
+      "modified": "2025-11-19T16:59:51.275916"
+    },
+    {
+      "path": "Medisoft Billing/Missed Appointments Tracker Bot/missed_appointments_tracker_bot.bat",
+      "size": 1350,
+      "modified": "2025-11-19T15:37:30"
+    },
+    {
+      "path": "Medisoft Billing/Missed Appointments Tracker Bot/missed_appointments_tracker_bot.py",
+      "size": 357015,
+      "modified": "2025-11-26T13:10:41.263006"
+    },
+    {
+      "path": "Medisoft Billing/Missed Appointments Tracker Bot/MODERNIZATION_SUMMARY.md",
+      "size": 4810,
+      "modified": "2025-11-19T15:52:10"
+    },
+    {
+      "path": "Medisoft Billing/Missed Appointments Tracker Bot/NAVIGATION_IMPLEMENTATION.md",
+      "size": 3704,
+      "modified": "2025-11-19T17:17:38.701818"
+    },
+    {
+      "path": "Medisoft Billing/Missed Appointments Tracker Bot/README.md",
+      "size": 4000,
+      "modified": "2025-11-19T15:36:52"
+    },
+    {
+      "path": "Medisoft Billing/Missed Appointments Tracker Bot/requirements.txt",
+      "size": 1129,
+      "modified": "2025-11-25T12:55:29.223764"
+    },
+    {
+      "path": "Medisoft Billing/Missed Appointments Tracker Bot/test_bot.py",
+      "size": 0,
+      "modified": "2025-11-20T09:42:36.018754"
+    },
+    {
+      "path": "Medisoft Billing/Missed Appointments Tracker Bot/test_excel_matching.py",
+      "size": 9271,
+      "modified": "2025-11-20T13:26:32.381294"
+    },
+    {
+      "path": "Medisoft Billing/quarantine/comprehensive_fix.py",
+      "size": 957,
+      "modified": "2025-10-29T12:39:40.276907"
+    },
+    {
+      "path": "Medisoft Billing/quarantine/fix_all_indent.py",
+      "size": 944,
+      "modified": "2025-10-29T12:39:20.420121"
+    },
+    {
+      "path": "Medisoft Billing/quarantine/fix_final_indent.py",
+      "size": 700,
+      "modified": "2025-10-29T12:38:19.914090"
+    },
+    {
+      "path": "Medisoft Billing/quarantine/fix_indent.py",
+      "size": 467,
+      "modified": "2025-10-29T12:36:13.391823"
+    },
+    {
+      "path": "Medisoft Billing/quarantine/fix_indent2.py",
+      "size": 847,
+      "modified": "2025-10-29T12:37:47.476034"
+    },
+    {
+      "path": "Medisoft Billing/Real Estate Financial Tracker/install.bat",
+      "size": 1248,
+      "modified": "2025-11-26T09:27:59.062321"
+    },
+    {
+      "path": "Medisoft Billing/Real Estate Financial Tracker/QUICK_START.md",
+      "size": 3892,
+      "modified": "2025-11-26T09:27:59.384029"
+    },
+    {
+      "path": "Medisoft Billing/Real Estate Financial Tracker/README.md",
+      "size": 9728,
+      "modified": "2025-11-26T09:27:59.337655"
+    },
+    {
+      "path": "Medisoft Billing/Real Estate Financial Tracker/real_estate_financial_bot.bat",
+      "size": 355,
+      "modified": "2025-11-26T09:27:59.292320"
+    },
+    {
+      "path": "Medisoft Billing/Real Estate Financial Tracker/real_estate_financial_bot.py",
+      "size": 41550,
+      "modified": "2025-11-26T09:27:57.409084"
+    },
+    {
+      "path": "Medisoft Billing/Real Estate Financial Tracker/requirements.txt",
+      "size": 679,
+      "modified": "2025-11-26T09:27:58.573646"
+    },
+    {
+      "path": "Medisoft Billing/setup/install_ocr.ps1",
+      "size": 9538,
+      "modified": "2025-11-13T16:59:11.769726"
+    },
+    {
+      "path": "Medisoft Billing/setup/README_SETUP.txt",
+      "size": 1481,
+      "modified": "2025-10-29T14:40:08.424327"
+    },
+    {
+      "path": "Medisoft Billing/Updates/discover_all_bots.py",
+      "size": 3731,
+      "modified": "2025-11-26T13:51:36.038349"
+    },
+    {
+      "path": "Medisoft Billing/Updates/get_gdrive_helper.py",
+      "size": 2368,
+      "modified": "2025-11-26T13:34:06.484174"
+    },
+    {
+      "path": "Medisoft Billing/Updates/HOW_TO_USE.md",
+      "size": 3794,
+      "modified": "2025-11-26T13:47:20.150554"
+    },
+    {
+      "path": "Medisoft Billing/Updates/PUSH_UPDATE.bat",
+      "size": 1176,
+      "modified": "2025-11-26T13:47:20.150554"
+    },
+    {
+      "path": "Medisoft Billing/Updates/QUICK_START.md",
+      "size": 3533,
+      "modified": "2025-11-26T13:36:24.515001"
+    },
+    {
+      "path": "Medisoft Billing/Updates/README.md",
+      "size": 967,
+      "modified": "2025-11-26T13:34:58.951736"
+    },
+    {
+      "path": "Medisoft Billing/Updates/README_FINAL.md",
+      "size": 3156,
+      "modified": "2025-11-26T13:36:24.515001"
+    },
+    {
+      "path": "Medisoft Billing/Updates/release_update.py",
+      "size": 4177,
+      "modified": "2025-11-26T13:41:04.477552"
+    },
+    {
+      "path": "Medisoft Billing/Updates/SETUP.bat",
+      "size": 686,
+      "modified": "2025-11-26T13:47:20.150554"
+    },
+    {
+      "path": "Medisoft Billing/Updates/setup_all_bots.py",
+      "size": 3295,
+      "modified": "2025-11-26T13:41:04.477552"
+    },
+    {
+      "path": "Medisoft Billing/Updates/SIMPLE_INSTRUCTIONS.md",
+      "size": 1586,
+      "modified": "2025-11-26T13:36:24.515001"
+    },
+    {
+      "path": "Medisoft Billing/Updates/START_HERE.txt",
+      "size": 2896,
+      "modified": "2025-11-26T13:47:20.150554"
+    },
+    {
+      "path": "Medisoft Billing/Updates/sync_to_gdrive.py",
+      "size": 7422,
+      "modified": "2025-11-26T13:36:24.515001"
+    },
+    {
+      "path": "Medicare Refiling Bot/Medicare July Modifier Audit Output Excel/#1/Refile med july (Paused Mid-Run---continue tomorrow).xlsx",
+      "size": 39417,
+      "modified": "2025-11-18T11:28:56.193127"
+    },
+    {
+      "path": "Medicare Refiling Bot/Medicare July Modifier Audit Output Excel/#2/July Medicare, second half.xlsx",
+      "size": 21782,
+      "modified": "2025-11-18T11:19:00.124348"
+    }
+  ],
+  "total_files": 146
+}

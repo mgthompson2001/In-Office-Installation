@@ -1,0 +1,90 @@
+{
+  "workflow_key": "session_20251107_093408::workflow_3052",
+  "session_id": "session_20251107_093408",
+  "workflow_id": "workflow_3052",
+  "workflow_type": "interaction",
+  "description": "Click/interact",
+  "goal": "Goal unclear",
+  "confidence": 0.7,
+  "timestamp": "2025-11-08T10:13:31.989471",
+  "summary": [
+    "Workflow captured from session session_20251107_093408 (interaction).",
+    "Contains 5 recorded actions with goal: Goal unclear.",
+    "Top intents detected:",
+    "  • Navigate (4 steps)",
+    "  • Unknown (1 steps)",
+    "Primary applications involved:",
+    "  • StartMenuExperienceHost.exe (5 steps)",
+    "Common screens/pages:",
+    "  • Start (5 steps)",
+    "Suggested interpretation:",
+    "  Mixed activity detected; review simulation output for step-by-step context."
+  ],
+  "steps": [
+    {
+      "step_number": 1,
+      "action_id": "screen_2025-11-07T10:10:17.465225",
+      "intent_category": "navigate",
+      "intent_description": "User intends to navigate",
+      "intent_confidence": 0.4,
+      "contexts": {
+        "application": "StartMenuExperienceHost.exe",
+        "page": "Start",
+        "state": "viewing"
+      },
+      "source_session": "session_20251107_093408"
+    },
+    {
+      "step_number": 2,
+      "action_id": "screen_2025-11-07T10:10:18.455486",
+      "intent_category": "navigate",
+      "intent_description": "User intends to navigate",
+      "intent_confidence": 0.4,
+      "contexts": {
+        "application": "StartMenuExperienceHost.exe",
+        "page": "Start",
+        "state": "viewing"
+      },
+      "source_session": "session_20251107_093408"
+    },
+    {
+      "step_number": 3,
+      "action_id": "screen_2025-11-07T10:10:19.556725",
+      "intent_category": "navigate",
+      "intent_description": "User intends to navigate",
+      "intent_confidence": 0.4,
+      "contexts": {
+        "application": "StartMenuExperienceHost.exe",
+        "page": "Start",
+        "state": "viewing"
+      },
+      "source_session": "session_20251107_093408"
+    },
+    {
+      "step_number": 4,
+      "action_id": "screen_2025-11-07T10:10:20.643731",
+      "intent_category": "navigate",
+      "intent_description": "User intends to navigate",
+      "intent_confidence": 0.4,
+      "contexts": {
+        "application": "StartMenuExperienceHost.exe",
+        "page": "Start",
+        "state": "viewing"
+      },
+      "source_session": "session_20251107_093408"
+    },
+    {
+      "step_number": 5,
+      "action_id": "mouse_2025-11-07T10:10:21.677603",
+      "intent_category": "unknown",
+      "intent_description": "Intent unclear",
+      "intent_confidence": 0.0,
+      "contexts": {
+        "application": "StartMenuExperienceHost.exe",
+        "page": "Start",
+        "state": "interacting"
+      },
+      "source_session": "session_20251107_093408"
+    }
+  ]
+}

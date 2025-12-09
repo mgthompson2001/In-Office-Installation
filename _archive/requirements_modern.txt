@@ -1,0 +1,133 @@
+# Modern Technology Stack - Recommended Additions
+# Install with: pip install -r requirements_modern.txt
+# 
+# NOTE: This supplements your existing requirements.txt
+# Keep your existing requirements.txt and add these for new/modernized bots
+
+# ============================================
+# PRIORITY 1: High Impact, Easy Adoption
+# ============================================
+
+# Modern Web Automation (3-5x faster than Selenium)
+playwright>=1.40.0
+
+# Modern Logging (one-line setup, auto-rotation)
+loguru>=0.7.2
+
+# Modern Configuration & Data Validation
+pydantic>=2.5.0
+python-dotenv>=1.0.0
+
+# Modern HTTP Client (async support, HTTP/2)
+httpx>=0.25.0
+
+# Modern PDF Processing
+pypdf>=3.17.0  # Maintained fork of PyPDF2
+pdfium-py>=0.20.0  # Advanced PDF features
+
+# Modern Data Processing (10-100x faster than pandas for large data)
+polars>=0.19.0  # Keep pandas, add polars for speed
+
+# Modern Database ORM
+sqlalchemy>=2.0.0
+alembic>=1.13.0  # Database migrations
+
+# Modern GUI (for dashboards and data entry)
+streamlit>=1.29.0  # Web-based UIs
+gradio>=4.7.0  # Alternative to Streamlit
+
+# ============================================
+# PRIORITY 2: Performance & Reliability
+# ============================================
+
+# Modern Task Queue (for background processing)
+celery>=5.3.0
+redis>=5.0.0  # Required by Celery
+
+# Modern Caching
+redis>=5.0.0  # Also for caching
+
+# Modern Async File Operations
+aiofiles>=23.2.0
+
+# ============================================
+# PRIORITY 3: Development Tools
+# ============================================
+
+# Type Checking
+mypy>=1.7.0
+types-requests>=2.31.0  # Type stubs for requests
+types-python-dateutil>=2.8.19
+
+# Modern Testing
+pytest>=7.4.0
+pytest-cov>=4.1.0  # Coverage reports
+pytest-asyncio>=0.21.0  # Async test support
+
+# Modern Dependency Management (alternative to pip)
+# poetry>=1.7.0  # Uncomment if using Poetry
+# uv>=0.1.0  # Uncomment if using uv (very fast pip alternative)
+
+# Code Quality
+black>=23.11.0  # Code formatter
+ruff>=0.1.6  # Fast linter (alternative to flake8)
+isort>=5.12.0  # Import sorter
+
+# ============================================
+# PRIORITY 4: Security & Monitoring
+# ============================================
+
+# Modern Security
+cryptography>=41.0.0  # Encryption
+keyring>=24.3.0  # Secure credential storage
+
+# Error Tracking & Monitoring
+sentry-sdk>=1.38.0  # Automatic error tracking
+
+# ============================================
+# PRIORITY 5: API Development (if needed)
+# ============================================
+
+# Modern API Framework
+fastapi>=0.104.0
+uvicorn[standard]>=0.24.0  # ASGI server for FastAPI
+pydantic-settings>=2.1.0  # Settings management for FastAPI
+
+# ============================================
+# PRIORITY 6: Advanced Data Processing
+# ============================================
+
+# For very large datasets (larger than memory)
+dask>=2023.12.0
+dask[dataframe]>=2023.12.0
+
+# ============================================
+# Healthcare-Specific (Optional)
+# ============================================
+
+# FHIR Support (if integrating with FHIR-compliant systems)
+# fhir.resources>=7.0.0
+
+# HL7 Support (if working with HL7 messages)
+# hl7>=0.4.7
+
+# ============================================
+# Notes
+# ============================================
+#
+# After installing playwright, run:
+#   playwright install chromium
+#
+# After installing redis, you may need to install Redis server:
+#   Windows: Download from https://redis.io/download
+#   Or use Docker: docker run -d -p 6379:6379 redis
+#
+# For Celery, you'll need a message broker (Redis or RabbitMQ)
+# Redis is recommended as it's simpler to set up
+#
+# Streamlit apps run with:
+#   streamlit run your_app.py
+#
+# FastAPI apps run with:
+#   uvicorn main:app --reload
+

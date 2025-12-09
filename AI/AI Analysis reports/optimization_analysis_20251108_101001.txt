@@ -1,0 +1,38 @@
+AI OPTIMIZATION ANALYSIS REPORT
+================================================================================
+Generated: 2025-11-08T10:10:01.858366
+
+BOT USAGE PATTERNS
+--------------------------------------------------------------------------------
+Most frequently used bots:
+  • Intake & Referral Department: 15 runs
+  • Welcome Letter Bot: 10 runs
+  • Penelope Workflow Tool: 5 runs
+  • Billing Department: 4 runs
+  • Consent Form Bot: 4 runs
+  • Medical Records Bot: 2 runs
+
+Success rates:
+  • Billing Department: 100.00%
+  • Penelope Workflow Tool: 100.00%
+  • Welcome Letter Bot: 100.00%
+  • Intake & Referral Department: 100.00%
+  • Consent Form Bot: 100.00%
+  • Medical Records Bot: 100.00%
+
+PERFORMANCE ISSUES
+--------------------------------------------------------------------------------
+  • None detected
+
+OPTIMIZATION OPPORTUNITIES
+--------------------------------------------------------------------------------
+  • No additional opportunities detected
+
+RECOMMENDATIONS GENERATED
+--------------------------------------------------------------------------------
+1. Enhance Intake & Referral Department Functionality
+   Type: feature | Confidence: 0.90
+   Expected Benefit: Improve user experience for most common workflow
+   Proposed Change: Add advanced features or optimizations to most-used bot
+
+This report is automatically generated and stored for audit/review.

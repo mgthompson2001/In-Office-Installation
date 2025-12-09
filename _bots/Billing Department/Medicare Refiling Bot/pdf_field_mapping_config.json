@@ -1,0 +1,8 @@
+{
+  "NY": {
+    "type": "static",
+    "value": "checked",
+    "enabled": false,
+    "field_type": "checkbox"
+  }
+}

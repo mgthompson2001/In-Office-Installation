@@ -1,0 +1,38 @@
+╔═══════════════════════════════════════════════════════════════╗
+║           CCMD Bot Software - Employee Quick Start           ║
+╔═══════════════════════════════════════════════════════════════╗
+
+🚀 TO USE THE SOFTWARE:
+
+   1. Look for the "I" icon on your desktop
+   2. Double-click it to launch the bot software
+   3. Select which bot you want to run
+   4. Follow the on-screen instructions
+
+📧 TO INSTALL UPDATES:
+
+   When you receive an update email:
+   
+   1. Download the .py file from the email
+   2. Double-click the downloaded file
+   3. Click "OK" when prompted
+   4. Click "Yes" to confirm
+   5. Wait for "Installation Complete!"
+   6. Click "Done"
+   
+   That's it! Your software is now updated.
+
+⚠️ DO NOT:
+
+   ✗ Delete files from this folder
+   ✗ Edit any .py files
+   ✗ Move files around
+   
+   Everything is organized and working perfectly!
+
+❓ NEED HELP?
+
+   Contact your IT administrator
+
+╚═══════════════════════════════════════════════════════════════╝
+

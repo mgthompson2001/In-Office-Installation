@@ -1,0 +1,63 @@
+{
+  "workflow_key": "session_20251107_104633::workflow_1446",
+  "session_id": "session_20251107_104633",
+  "workflow_id": "workflow_1446",
+  "workflow_type": "interaction",
+  "description": "",
+  "goal": "Goal unclear",
+  "confidence": 0.7,
+  "timestamp": "2025-11-08T10:02:03.578564",
+  "summary": [
+    "Workflow captured from session session_20251107_104633 (interaction).",
+    "Contains 3 recorded actions with goal: Goal unclear.",
+    "Top intents detected:",
+    "  • Unknown (3 steps)",
+    "Primary applications involved:",
+    "  • explorer.exe (3 steps)",
+    "Common screens/pages:",
+    "  • Desktop - File Explorer (3 steps)",
+    "Suggested interpretation:",
+    "  Mixed activity detected; review simulation output for step-by-step context."
+  ],
+  "steps": [
+    {
+      "step_number": 1,
+      "action_id": "screen_2025-11-07T10:56:10.015251",
+      "intent_category": "unknown",
+      "intent_description": "Intent unclear",
+      "intent_confidence": 0.0,
+      "contexts": {
+        "application": "explorer.exe",
+        "page": "Desktop - File Explorer",
+        "state": "viewing"
+      },
+      "source_session": "session_20251107_104633"
+    },
+    {
+      "step_number": 2,
+      "action_id": "screen_2025-11-07T10:56:11.003987",
+      "intent_category": "unknown",
+      "intent_description": "Intent unclear",
+      "intent_confidence": 0.0,
+      "contexts": {
+        "application": "explorer.exe",
+        "page": "Desktop - File Explorer",
+        "state": "viewing"
+      },
+      "source_session": "session_20251107_104633"
+    },
+    {
+      "step_number": 3,
+      "action_id": "screen_2025-11-07T10:56:12.073416",
+      "intent_category": "unknown",
+      "intent_description": "Intent unclear",
+      "intent_confidence": 0.0,
+      "contexts": {
+        "application": "explorer.exe",
+        "page": "Desktop - File Explorer",
+        "state": "viewing"
+      },
+      "source_session": "session_20251107_104633"
+    }
+  ]
+}

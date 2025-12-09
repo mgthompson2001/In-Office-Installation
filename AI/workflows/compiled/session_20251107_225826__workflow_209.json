@@ -1,0 +1,502 @@
+{
+  "workflow_key": "session_20251107_225826::workflow_209",
+  "session_id": "session_20251107_225826",
+  "workflow_id": "workflow_209",
+  "workflow_type": "interaction",
+  "description": "Click/interact → Click/interact → ... and 29 more actions",
+  "goal": "Goal: therapy notes management",
+  "confidence": 0.7,
+  "timestamp": "2025-11-08T10:01:57.118137",
+  "summary": [
+    "Workflow captured from session session_20251107_225826 (interaction).",
+    "Contains 34 recorded actions with goal: Goal: therapy notes management.",
+    "Top intents detected:",
+    "  • Therapy Notes Navigation (33 steps)",
+    "  • Unknown (1 steps)",
+    "Primary applications involved:",
+    "  • Browser (34 steps)",
+    "Common screens/pages:",
+    "  • Patient Page (13 steps)",
+    "  • Log In | TherapyNotes® - Google Chrome (9 steps)",
+    "  • Results Page (7 steps)",
+    "Suggested interpretation:",
+    "  Mixed activity detected; review simulation output for step-by-step context."
+  ],
+  "steps": [
+    {
+      "step_number": 1,
+      "action_id": "screen_2025-11-07T22:59:51.901304",
+      "intent_category": "therapy_notes_navigation",
+      "intent_description": "Navigating TherapyNotes",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "Browser",
+        "page": "TherapyNotes® - Google Chrome",
+        "state": "viewing",
+        "task": "Medical Records"
+      },
+      "source_session": "session_20251107_225826"
+    },
+    {
+      "step_number": 2,
+      "action_id": "screen_2025-11-07T22:59:52.988482",
+      "intent_category": "therapy_notes_navigation",
+      "intent_description": "Navigating TherapyNotes",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "Browser",
+        "page": "TherapyNotes® - Google Chrome",
+        "state": "viewing",
+        "task": "Medical Records"
+      },
+      "source_session": "session_20251107_225826"
+    },
+    {
+      "step_number": 3,
+      "action_id": "screen_2025-11-07T22:59:54.073615",
+      "intent_category": "therapy_notes_navigation",
+      "intent_description": "Navigating TherapyNotes",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "Browser",
+        "page": "Log In | TherapyNotes® - Google Chrome",
+        "state": "viewing",
+        "task": "Medical Records"
+      },
+      "source_session": "session_20251107_225826"
+    },
+    {
+      "step_number": 4,
+      "action_id": "mouse_2025-11-07T22:59:55.062842",
+      "intent_category": "therapy_notes_navigation",
+      "intent_description": "Navigating TherapyNotes",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "Browser",
+        "page": "Log In | TherapyNotes® - Google Chrome",
+        "state": "interacting",
+        "task": "Medical Records"
+      },
+      "source_session": "session_20251107_225826"
+    },
+    {
+      "step_number": 5,
+      "action_id": "mouse_2025-11-07T22:59:55.063312",
+      "intent_category": "therapy_notes_navigation",
+      "intent_description": "Navigating TherapyNotes",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "Browser",
+        "page": "Log In | TherapyNotes® - Google Chrome",
+        "state": "interacting",
+        "task": "Medical Records"
+      },
+      "source_session": "session_20251107_225826"
+    },
+    {
+      "step_number": 6,
+      "action_id": "screen_2025-11-07T22:59:55.158730",
+      "intent_category": "therapy_notes_navigation",
+      "intent_description": "Navigating TherapyNotes",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "Browser",
+        "page": "Log In | TherapyNotes® - Google Chrome",
+        "state": "viewing",
+        "task": "Medical Records"
+      },
+      "source_session": "session_20251107_225826"
+    },
+    {
+      "step_number": 7,
+      "action_id": "mouse_2025-11-07T22:59:55.246934",
+      "intent_category": "therapy_notes_navigation",
+      "intent_description": "Navigating TherapyNotes",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "Browser",
+        "page": "Log In | TherapyNotes® - Google Chrome",
+        "state": "interacting",
+        "task": "Medical Records"
+      },
+      "source_session": "session_20251107_225826"
+    },
+    {
+      "step_number": 8,
+      "action_id": "screen_2025-11-07T22:59:56.237534",
+      "intent_category": "therapy_notes_navigation",
+      "intent_description": "Navigating TherapyNotes",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "Browser",
+        "page": "Log In | TherapyNotes® - Google Chrome",
+        "state": "viewing",
+        "task": "Medical Records"
+      },
+      "source_session": "session_20251107_225826"
+    },
+    {
+      "step_number": 9,
+      "action_id": "screen_2025-11-07T22:59:57.297442",
+      "intent_category": "therapy_notes_navigation",
+      "intent_description": "Navigating TherapyNotes",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "Browser",
+        "page": "Log In | TherapyNotes® - Google Chrome",
+        "state": "viewing",
+        "task": "Medical Records"
+      },
+      "source_session": "session_20251107_225826"
+    },
+    {
+      "step_number": 10,
+      "action_id": "screen_2025-11-07T22:59:58.360660",
+      "intent_category": "therapy_notes_navigation",
+      "intent_description": "Navigating TherapyNotes",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "Browser",
+        "page": "Log In | TherapyNotes® - Google Chrome",
+        "state": "viewing",
+        "task": "Medical Records"
+      },
+      "source_session": "session_20251107_225826"
+    },
+    {
+      "step_number": 11,
+      "action_id": "screen_2025-11-07T22:59:59.431622",
+      "intent_category": "therapy_notes_navigation",
+      "intent_description": "Navigating TherapyNotes",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "Browser",
+        "page": "Log In | TherapyNotes® - Google Chrome",
+        "state": "viewing",
+        "task": "Medical Records"
+      },
+      "source_session": "session_20251107_225826"
+    },
+    {
+      "step_number": 12,
+      "action_id": "screen_2025-11-07T23:00:00.501874",
+      "intent_category": "therapy_notes_navigation",
+      "intent_description": "Navigating TherapyNotes",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "Browser",
+        "page": "Welcome to TherapyNotes Michael Thompson | TherapyNotes - Google Chrome",
+        "state": "viewing",
+        "task": "Medical Records"
+      },
+      "source_session": "session_20251107_225826"
+    },
+    {
+      "step_number": 13,
+      "action_id": "screen_2025-11-07T23:00:01.563073",
+      "intent_category": "therapy_notes_navigation",
+      "intent_description": "Navigating TherapyNotes",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "Browser",
+        "page": "Welcome to TherapyNotes Michael Thompson | TherapyNotes - Google Chrome",
+        "state": "viewing",
+        "task": "Medical Records"
+      },
+      "source_session": "session_20251107_225826"
+    },
+    {
+      "step_number": 14,
+      "action_id": "screen_2025-11-07T23:00:02.637344",
+      "intent_category": "therapy_notes_navigation",
+      "intent_description": "Navigating TherapyNotes",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "Browser",
+        "page": "Results Page",
+        "state": "viewing",
+        "task": "Medical Records"
+      },
+      "source_session": "session_20251107_225826"
+    },
+    {
+      "step_number": 15,
+      "action_id": "screen_2025-11-07T23:00:03.710758",
+      "intent_category": "therapy_notes_navigation",
+      "intent_description": "Navigating TherapyNotes",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "Browser",
+        "page": "Results Page",
+        "state": "viewing",
+        "task": "Medical Records"
+      },
+      "source_session": "session_20251107_225826"
+    },
+    {
+      "step_number": 16,
+      "action_id": "screen_2025-11-07T23:00:04.782768",
+      "intent_category": "therapy_notes_navigation",
+      "intent_description": "Navigating TherapyNotes",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "Browser",
+        "page": "Results Page",
+        "state": "viewing",
+        "task": "Medical Records"
+      },
+      "source_session": "session_20251107_225826"
+    },
+    {
+      "step_number": 17,
+      "action_id": "screen_2025-11-07T23:00:05.852618",
+      "intent_category": "therapy_notes_navigation",
+      "intent_description": "Navigating TherapyNotes",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "Browser",
+        "page": "Results Page",
+        "state": "viewing",
+        "task": "Medical Records"
+      },
+      "source_session": "session_20251107_225826"
+    },
+    {
+      "step_number": 18,
+      "action_id": "mouse_2025-11-07T23:00:06.014848",
+      "intent_category": "therapy_notes_navigation",
+      "intent_description": "Navigating TherapyNotes",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "Browser",
+        "page": "Results Page",
+        "state": "interacting",
+        "task": "Medical Records"
+      },
+      "source_session": "session_20251107_225826"
+    },
+    {
+      "step_number": 19,
+      "action_id": "mouse_2025-11-07T23:00:06.015369",
+      "intent_category": "therapy_notes_navigation",
+      "intent_description": "Navigating TherapyNotes",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "Browser",
+        "page": "Results Page",
+        "state": "interacting",
+        "task": "Medical Records"
+      },
+      "source_session": "session_20251107_225826"
+    },
+    {
+      "step_number": 20,
+      "action_id": "mouse_2025-11-07T23:00:06.086799",
+      "intent_category": "unknown",
+      "intent_description": "Intent unclear",
+      "intent_confidence": 0.0,
+      "contexts": {
+        "application": "Browser",
+        "page": "Save password?",
+        "state": "interacting"
+      },
+      "source_session": "session_20251107_225826"
+    },
+    {
+      "step_number": 21,
+      "action_id": "screen_2025-11-07T23:00:06.927138",
+      "intent_category": "therapy_notes_navigation",
+      "intent_description": "Navigating TherapyNotes",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "Browser",
+        "page": "Results Page",
+        "state": "viewing",
+        "task": "Medical Records"
+      },
+      "source_session": "session_20251107_225826"
+    },
+    {
+      "step_number": 22,
+      "action_id": "mouse_2025-11-07T23:00:07.890985",
+      "intent_category": "therapy_notes_navigation",
+      "intent_description": "Navigating TherapyNotes",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "Browser",
+        "page": "Patient Page",
+        "state": "interacting",
+        "task": "Medical Records"
+      },
+      "source_session": "session_20251107_225826"
+    },
+    {
+      "step_number": 23,
+      "action_id": "mouse_2025-11-07T23:00:07.891705",
+      "intent_category": "therapy_notes_navigation",
+      "intent_description": "Navigating TherapyNotes",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "Browser",
+        "page": "Patient Page",
+        "state": "interacting",
+        "task": "Medical Records"
+      },
+      "source_session": "session_20251107_225826"
+    },
+    {
+      "step_number": 24,
+      "action_id": "screen_2025-11-07T23:00:08.025776",
+      "intent_category": "therapy_notes_navigation",
+      "intent_description": "Navigating TherapyNotes",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "Browser",
+        "page": "Patient Page",
+        "state": "viewing",
+        "task": "Medical Records"
+      },
+      "source_session": "session_20251107_225826"
+    },
+    {
+      "step_number": 25,
+      "action_id": "mouse_2025-11-07T23:00:08.935562",
+      "intent_category": "therapy_notes_navigation",
+      "intent_description": "Navigating TherapyNotes",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "Browser",
+        "page": "Patient Page",
+        "state": "interacting",
+        "task": "Medical Records"
+      },
+      "source_session": "session_20251107_225826"
+    },
+    {
+      "step_number": 26,
+      "action_id": "mouse_2025-11-07T23:00:08.936091",
+      "intent_category": "therapy_notes_navigation",
+      "intent_description": "Navigating TherapyNotes",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "Browser",
+        "page": "Patient Page",
+        "state": "interacting",
+        "task": "Medical Records"
+      },
+      "source_session": "session_20251107_225826"
+    },
+    {
+      "step_number": 27,
+      "action_id": "mouse_2025-11-07T23:00:08.967537",
+      "intent_category": "therapy_notes_navigation",
+      "intent_description": "Navigating TherapyNotes",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "Browser",
+        "page": "Patient Page",
+        "state": "interacting",
+        "task": "Medical Records"
+      },
+      "source_session": "session_20251107_225826"
+    },
+    {
+      "step_number": 28,
+      "action_id": "screen_2025-11-07T23:00:09.112699",
+      "intent_category": "therapy_notes_navigation",
+      "intent_description": "Navigating TherapyNotes",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "Browser",
+        "page": "Patient Page",
+        "state": "viewing",
+        "task": "Medical Records"
+      },
+      "source_session": "session_20251107_225826"
+    },
+    {
+      "step_number": 29,
+      "action_id": "screen_2025-11-07T23:00:10.184032",
+      "intent_category": "therapy_notes_navigation",
+      "intent_description": "Navigating TherapyNotes",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "Browser",
+        "page": "Patient Page",
+        "state": "viewing",
+        "task": "Medical Records"
+      },
+      "source_session": "session_20251107_225826"
+    },
+    {
+      "step_number": 30,
+      "action_id": "mouse_2025-11-07T23:00:10.262609",
+      "intent_category": "therapy_notes_navigation",
+      "intent_description": "Navigating TherapyNotes",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "Browser",
+        "page": "Patient Page",
+        "state": "interacting",
+        "task": "Medical Records"
+      },
+      "source_session": "session_20251107_225826"
+    },
+    {
+      "step_number": 31,
+      "action_id": "mouse_2025-11-07T23:00:10.263030",
+      "intent_category": "therapy_notes_navigation",
+      "intent_description": "Navigating TherapyNotes",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "Browser",
+        "page": "Patient Page",
+        "state": "interacting",
+        "task": "Medical Records"
+      },
+      "source_session": "session_20251107_225826"
+    },
+    {
+      "step_number": 32,
+      "action_id": "screen_2025-11-07T23:00:11.261430",
+      "intent_category": "therapy_notes_navigation",
+      "intent_description": "Navigating TherapyNotes",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "Browser",
+        "page": "Patient Page",
+        "state": "viewing",
+        "task": "Medical Records"
+      },
+      "source_session": "session_20251107_225826"
+    },
+    {
+      "step_number": 33,
+      "action_id": "mouse_2025-11-07T23:00:11.446692",
+      "intent_category": "therapy_notes_navigation",
+      "intent_description": "Navigating TherapyNotes",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "Browser",
+        "page": "Patient Page",
+        "state": "interacting",
+        "task": "Medical Records"
+      },
+      "source_session": "session_20251107_225826"
+    },
+    {
+      "step_number": 34,
+      "action_id": "mouse_2025-11-07T23:00:11.446962",
+      "intent_category": "therapy_notes_navigation",
+      "intent_description": "Navigating TherapyNotes",
+      "intent_confidence": 0.8,
+      "contexts": {
+        "application": "Browser",
+        "page": "Patient Page",
+        "state": "interacting",
+        "task": "Medical Records"
+      },
+      "source_session": "session_20251107_225826"
+    }
+  ]
+}

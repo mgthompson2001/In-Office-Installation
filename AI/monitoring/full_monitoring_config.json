@@ -1,0 +1,15 @@
+﻿{
+  "record_screen": true,
+  "record_keyboard": true,
+  "record_mouse": true,
+  "record_apps": true,
+  "record_files": false,
+  "screen_fps": 0.2,
+  "screen_quality": 0.6,
+  "mouse_move_throttle": 0.3,
+  "storage_queue_limit": 500,
+  "retain_raw_frames": false,
+  "retention_days": 3,
+  "max_database_gb": 1.5,
+  "export_event_limit": 2000
+}
